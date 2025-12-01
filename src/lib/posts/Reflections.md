@@ -1,6 +1,6 @@
 ---
 title: "Reflections"
-thumbnail: "/images/IMG-20251012-WA0004.jpg"
+thumbnail: "/images/IMG-20251201-WA0002.jpg"
 description: "A complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless."
 category: 'personal'
 published: true
@@ -8,9 +8,8 @@ published: true
 <script>
     
 </script> 
-    
-**Old picture when I used to drive 260 km between Austin San Antonio 3 times a week, I did this for years.**
-![Old picture when I used to drive 260 km between Austin San Antonio 3 times a week, I did this for years.](/images/IMG-20251012-WA0004.jpg) 
+
+![Old man me](/images/IMG-20251201-WA0002.jpg) 
 
 Like many, I remember school through a veil of years of indifference to childhood memories that grownups, at a certain point, must admit to, and I do unhesitatingly, but mine are a complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless to recount. I confess, as useless as perhaps the utility for, or the importance of, the places and characters and several linked trivia that I sometimes wake up to, wade, and wallow in, now that I am fifty.
 
