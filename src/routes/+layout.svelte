@@ -3,43 +3,69 @@
     import { injectAnalytics } from '@vercel/analytics/sveltekit';
     import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
     import { dev } from '$app/environment';
-    
-    // --- NEW IMPORTS FOR ANALYTICS ---
     import { afterNavigate } from '$app/navigation';
-    import { page } from '$app/state'; // Using Svelte 5 state!
+    import { page } from '$app/stores';
+
+    // Components
+    import Header from '$lib/components/layout/Header.svelte';
+    import Footer from '$lib/components/layout/Footer.svelte';
+    import Aside from '$lib/components/layout/Aside.svelte';
+    import SEO from '$lib/components/seo/SEO.svelte';
 
     let { children } = $props();
 
-    // Vercel Tools
-    injectAnalytics({ mode: dev ? 'development' : 'production' });
-    injectSpeedInsights();
+    // State for mobile menu
+    let isMenuOpen = $state(false);
+    function toggleMenu() { isMenuOpen = !isMenuOpen; }
 
-    // --- CUSTOM ANALYTICS LOGIC ---
-    // This runs after every navigation completes
+    // Close menu on navigation
     afterNavigate(() => {
-        // Don't log during development to keep DB clean
-        if (dev) return;
-
-        const payload = {
-            path: page.url.pathname, // Use .pathname, not .href to strip query params if desired
-            referrer: document.referrer,
-            screenWidth: window.innerWidth,
-            screenHeight: window.innerHeight,
-        };
-
-        // sendBeacon is better for analytics (doesn't block page unload)
-        const blob = new Blob([JSON.stringify(payload)], { type: 'application/json' });
-        const sent = navigator.sendBeacon('/api/log-visit', blob);
-
-        // Fallback to standard fetch if sendBeacon fails
-        if (!sent) {
-            fetch('/api/log-visit', {
-                method: 'POST',
-                body: JSON.stringify(payload),
-                headers: { 'Content-Type': 'application/json' }
-            });
+        isMenuOpen = false;
+        // Analytics Beacon
+        if (!dev) {
+            const payload = {
+                path: $page.url.pathname,
+                referrer: document.referrer,
+                screenWidth: window.innerWidth,
+                screenHeight: window.innerHeight,
+            };
+            const blob = new Blob([JSON.stringify(payload)], { type: 'application/json' });
+            if (!navigator.sendBeacon('/api/log-visit', blob)) {
+                fetch('/api/log-visit', { method: 'POST', body: blob });
+            }
         }
     });
+
+    injectAnalytics({ mode: dev ? 'development' : 'production' });
+    injectSpeedInsights();
 </script>
 
-{@render children()}
+<SEO 
+    title="Suvro Ghosh Blog" 
+    description="Engineering, Philosophy, and Code." 
+/>
+
+<div class="main-layout flex h-screen bg-neutral-200 dark:bg-neutral-900 text-neutral-800 dark:text-neutral-300 font-sans overflow-hidden">
+    
+    <div class="sidebar-container hidden lg:block w-72 border-r border-neutral-300 dark:border-neutral-700">
+        <Aside />
+    </div>
+
+    {#if isMenuOpen}
+        <div class="fixed inset-0 z-40 bg-black/50 lg:hidden" onclick={toggleMenu} role="presentation"></div>
+        <div class="fixed inset-y-0 left-0 z-50 w-64 bg-neutral-100 dark:bg-neutral-900 shadow-xl transform transition-transform duration-300 lg:hidden">
+            <Aside />
+        </div>
+    {/if}
+
+    <div class="main-content flex-1 flex flex-col min-w-0">
+        <Header {isMenuOpen} {toggleMenu} />
+        
+        <main class="scrollable-main flex-1 overflow-y-auto scroll-smooth">
+            <div class="container max-w-4xl mx-auto px-4 py-8 lg:py-12">
+                {@render children()}
+            </div>
+            <Footer />
+        </main>
+    </div>
+</div>
