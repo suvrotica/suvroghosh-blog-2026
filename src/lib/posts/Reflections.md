@@ -6,7 +6,7 @@ category: 'personal'
 published: true
 ---
 <script>
-    import Ytp from '$lib/components/blog/YouTubePlayer.svelte';
+    
 </script> 
     
 **Old picture when I used to drive 260 km between Austin San Antonio 3 times a week, I did this for years.**
