@@ -1,6 +1,6 @@
 ---
 title: "Reflections"
-thumbnail: "/images/IMG-20251202-WA0008.jpg"
+thumbnail: "/images/IMG-20251202-WA0009.jpg"
 description: "A complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless."
 category: 'personal'
 published: true
@@ -9,7 +9,7 @@ published: true
     
 </script> 
 
-![Old man me](/images/IMG-20251202-WA0008.jpg) 
+![calcutta](/images/IMG-20251202-WA0009.jpg) 
 
 
 Like many, I remember school through a veil of years of indifference to childhood memories that grownups, at a certain point, must admit to, and I do unhesitatingly, but mine are a complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless to recount. I confess, as useless as perhaps the utility for, or the importance of, the places and characters and several linked trivia that I sometimes wake up to, wade, and wallow in, now that I am fifty.
