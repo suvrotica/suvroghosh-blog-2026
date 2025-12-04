@@ -49,6 +49,7 @@ I have no way of going back and sifting through that particular memory’s soake
 There was one more occasion when it could have ended well, except it didn’t—that a City of Joy rarely has its College Street English bookstores’ makeshift shanty loos equipped to flush fresh fetid feces—aggravating a nervous and nerve-racked boy without a way to clean his gentle bottom. When I reported this inadequacy of the establishment to the ungrateful shop clerk, he demanded I lug a heavy, leaky balti, descriptive of poverty, half across the street in my English medium school dress, so I fled as fast as my unwashed bottom would allow. I went as part of a group of kids who, although were all my age (Section B), did not seem to have the same digestive or excretory system that, from time to time, in my case, asserted that matter came in three states, and all the states were in fact coming out of some portion of my rear, all the time! So that’s what sort of started me—startled with the disequilibrium with looks, size, shape, velocity, and power in the gossipy, everyday, ordinary of this, what I eventually understood to be an extraordinary world, and this inconvenient discovery has stuck as I found out I am, in man’s limited prowess over the middling distances, an extremely Lilliputian man in every way, shape, and form, and to this day—especially as a redundant and reduced Bengali, that is where I am. 
 
 # Too Holy
+
 It’s neither an avowal of guilt nor of defeat—there are no adversaries to speak of except an individual’s own inhibition in most circumstances. But I like to recognize the dismal parts for what they are, not for what I wish them to be—and therefore, in introspections, I’ve found the weaknesses in me are my strength, because that’s what’s authentic. People in the world—tragically, in the holy land I dwell especially here, in Calcutta, infested with Hare Krishna, *who-you-are* is either political or holy skullduggery or in-your-face third-world cosmopolitan reality. 
 <Pi
     src="IMG-20251203-WA0003.jpg" 
@@ -73,10 +74,12 @@ I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is
 I wouldn’t call it either curiosity or pursuit of excellence, as at that age I had no clear scientific intimation of, say, which side was in and which was out, except that there was a pattern of in and out and accompanying smell—good and bad—and specific rooms in which these activities were encouraged. This is how, as a child, I slowly started to grasp reality, and occasionally, by being obtrusive and arrogantly inquisitive through chains of whys which adults find irksome, I tried to dredge the benthic dregs lying neglected. They therefore avoided me and my inconvenient questions at all costs. I was given the terrace and a room in the attic. This garret is where I spent most of my time. It wasn’t impossible to notice, even with a meristematic brain system, that cognitive ability of the deficient and dud subtypes were everywhere at play and I was expected to rote learn this systemic and constitutional anemic insufficiency to please the prevailing dogmatic adult supervisory overlords.
 
 # Student 
+
 Given how elementary the level of education in the Indian system is, in spite of the incredible amount of marketing disinformation willingly spread to glorify some form of Indian supremacy in the West—this is comical, if not farcical, in its irony, given that the English medium system I was enslaved in, or any denomination of modern education in India, is a British colonial legacy of efforts to squeeze local and cheaper clerks instead of the more expensive and often temporary ones of forcing Europeans in a hostile tropical climate. Even the British system came from a German system of indentured training programs.
 
 
 # Bias 
+
 Conversely, this doesn’t imply the Occident is superior in any subject—it’s not, either. *Homo sapiens* is an ape which looks slightly different superficially and is found with various doses of self-esteem issues and delusions over various regions, and as you can expect, every region hypes its own abilities without any evidence. Historically, we sit on a biased landscape of exploitation and racism which has created generations of impoverished citizenry, which contrast when juxtaposed with those descended from the affluent and ruling generations. This asymmetrical skew will now get even more topsy-turvy, even tipsy, given synthetic intelligence will get added to the more affluent and already educated enough to reap its advantages first.
 
 
@@ -110,6 +113,7 @@ The prevalence of mythology—emphasized and encouraged bias, or the absence of 
 />
 
 # Rebirth
+
 The thing about childhood is, in modern parlance, a song playlist impressed upon you that you are suddenly very fond of, or certain parts of which, based on what we can think at the time, grow seeds of nuanced distance or distaste. It’s only later, layer upon impressed layer again, year by year, that we gradually graduate into the terribly opinionated personality that we are. I admit not everyone is inflexible burnt toast—I wasn’t—but a few bitter experiences straightened me out. It was, in fact, in trying to get real close to reality as an entrepreneur that this rind-hardening was effected. I guess the quality of wood and shellac needed was already there; just some vigorous rubbing-in was all it took to give me that anti-reflective patina of shine-reflecting hard coating that is me. Can I go back from this hardened reticence to the loquacious milquetoast I once was? It would take legal anti-psychotics with Ambien and Dopamine agonists, illegal psychedelics, total amnesia, or a different rebirth—or all three, really.
 
 
@@ -117,6 +121,7 @@ But in the end, what I’m trying to say in a long, winding way is that I did a 
 
 
 # Bipolar Writing 
+
 Sometimes, in my depression, I'm so hopeless and unsure of the future I delete everything I've written, so most of what you read here are only those that have survived a genocide.
 
 It's important to remember, though, that the intensity and ferocity of emotions on display are of the moments in a bipolar mood, and it's not correct to infer from it a sticky trait or indelible personality which is fixed. I am, like every human being, a liquid that occupies its vessel, overflows it, sulks in it, flows out through its cracks, or in a boiling determination explodes the containing walls.
@@ -132,11 +137,13 @@ And I have to add to the list of why I write to the reasons George Orwell (Eric 
     caption="The characters I draw are the distortions"
 />
 
-# Weird and Left 
+# Left 
+
 The characters I draw are the distortions that I have picked up from the odd characters in children’s books by my favorite Bengali (বাংলা) fiction writer Shirshendu Mukhopadhyay (শীর্ষেন্দু মুখোপাধ্যায়), that can be found in what he calls the Odbhuture (অদ্ভুতুড়ে) series. And marinated in left-leaning humor. Just for clarification, I know a lot of people are confused by this left-right business; it has the same origin as an omelette, that is, it's French. It’s literally about where people were sitting in a room, historically back in 1789, as I gather, during the French Revolution. The new French National Assembly had to decide boring-but-important things like what to do with the king, the church, land, taxes, mobs with pikes, etc. In that chamber, deputies started sorting themselves by attitude to the old order. On the right of the presiding officer were those who supported the king, aristocracy, church privileges, and insisted on a more hierarchical “don’t break everything” approach. Those who wanted big changes – weaken or abolish the monarchy, more equality, more democracy – sat on the left. This is my calling, “let's kick this can of worms with my left boot and see if something interesting happens.”  
 <Pi
     src="IMG-20251129-WA0001(1).jpg" 
     layout="iR"
     caption="let's kick this can of worms with my left boot and see if something interesting happens"
 />
+
 The humor that I imbibed while I was in the US was humor from George Carlin and gleaned from the reality-endearing misanthropic art of Robert Crumb and other underground comic movements, so I have a proclivity to sketch the privates on these Odbhuture characters or other *Homo sapiens* as representing its culture-deeds immersed in the weird superconfident but usually and always wrong fiction—for males this is just sketching a sphere with hairs and for the better half a hairy triangle with a line intersection at one corner—really hirsutism in geometry, but makes people mad, because they don't want to be seen without underwear, unless it's erotica. People want to be infinitely entertained. They don’t want to go back to school or be informed about how you were molested—well, maybe only if you’re an attractive woman who can describe your bodily massacre in a way that gives the reader’s animal region the requisite blood flow. So I know an old man's blog posts are never going to be read, but I write them, I want to write them, and I sketch, and I try to remember who I am because I’m still alive, and this writing and sketching is the only vent I have left. Most people who have always resorted to taking shortcuts that require the least effort, and they being the majority, will judge anyone prolific as LLM automation—which, in a way, is what I want: staying obscure and uninfiltrated by chaotic and short-lived, distractive attention from people who least represent my type, my thoughts, or my life. But putting your thoughts on paper, the courage necessary—not just the artifice to carve words in woods—takes a whole lifetime and courage, especially the introspective honesty very few people have remaining in them. When everything is pastiche and LLM automation I want to share my personal unfiltered and raw thoughts, at least when I'm dead the exhaust of the effort would help feed a generation of creative *bipolar bots*, I see the pathology of our feeble species as important as what we label as normalcy. 
