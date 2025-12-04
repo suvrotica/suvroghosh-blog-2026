@@ -72,7 +72,7 @@ I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is
 />
 I wouldn’t call it either curiosity or pursuit of excellence, as at that age I had no clear scientific intimation of, say, which side was in and which was out, except that there was a pattern of in and out and accompanying smell—good and bad—and specific rooms in which these activities were encouraged. This is how, as a child, I slowly started to grasp reality, and occasionally, by being obtrusive and arrogantly inquisitive through chains of whys which adults find irksome, I tried to dredge the benthic dregs lying neglected. They therefore avoided me and my inconvenient questions at all costs. I was given the terrace and a room in the attic. This garret is where I spent most of my time. It wasn’t impossible to notice, even with a meristematic brain system, that cognitive ability of the deficient and dud subtypes were everywhere at play and I was expected to rote learn this systemic and constitutional anemic insufficiency to please the prevailing dogmatic adult supervisory overlords.
 
-
+# Student 
 Given how elementary the level of education in the Indian system is, in spite of the incredible amount of marketing disinformation willingly spread to glorify some form of Indian supremacy in the West—this is comical, if not farcical, in its irony, given that the English medium system I was enslaved in, or any denomination of modern education in India, is a British colonial legacy of efforts to squeeze local and cheaper clerks instead of the more expensive and often temporary ones of forcing Europeans in a hostile tropical climate. Even the British system came from a German system of indentured training programs.
 
 
