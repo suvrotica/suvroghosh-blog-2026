@@ -76,7 +76,7 @@ I wouldn’t call it either curiosity or pursuit of excellence, as at that age I
 Given how elementary the level of education in the Indian system is, in spite of the incredible amount of marketing disinformation willingly spread to glorify some form of Indian supremacy in the West—this is comical, if not farcical, in its irony, given that the English medium system I was enslaved in, or any denomination of modern education in India, is a British colonial legacy of efforts to squeeze local and cheaper clerks instead of the more expensive and often temporary ones of forcing Europeans in a hostile tropical climate. Even the British system came from a German system of indentured training programs.
 
 
-
+# Bias 
 Conversely, this doesn’t imply the Occident is superior in any subject—it’s not, either. *Homo sapiens* is an ape which looks slightly different superficially and is found with various doses of self-esteem issues and delusions over various regions, and as you can expect, every region hypes its own abilities without any evidence. Historically, we sit on a biased landscape of exploitation and racism which has created generations of impoverished citizenry, which contrast when juxtaposed with those descended from the affluent and ruling generations. This asymmetrical skew will now get even more topsy-turvy, even tipsy, given synthetic intelligence will get added to the more affluent and already educated enough to reap its advantages first.
 
 
@@ -108,13 +108,15 @@ The prevalence of mythology—emphasized and encouraged bias, or the absence of 
     src="IMG-20251202-WA0005.jpg" 
     caption="but inside it's a snare, a pit full of vacuous but venomous vipers"
 />
+
+# Rebirth
 The thing about childhood is, in modern parlance, a song playlist impressed upon you that you are suddenly very fond of, or certain parts of which, based on what we can think at the time, grow seeds of nuanced distance or distaste. It’s only later, layer upon impressed layer again, year by year, that we gradually graduate into the terribly opinionated personality that we are. I admit not everyone is inflexible burnt toast—I wasn’t—but a few bitter experiences straightened me out. It was, in fact, in trying to get real close to reality as an entrepreneur that this rind-hardening was effected. I guess the quality of wood and shellac needed was already there; just some vigorous rubbing-in was all it took to give me that anti-reflective patina of shine-reflecting hard coating that is me. Can I go back from this hardened reticence to the loquacious milquetoast I once was? It would take legal anti-psychotics with Ambien and Dopamine agonists, illegal psychedelics, total amnesia, or a different rebirth—or all three, really.
 
 
 But in the end, what I’m trying to say in a long, winding way is that I did a lot of reading—and still read, to my mother’s chagrin—that no, none of the readings I did do me any good as far as carrying out the original intention—I haven’t accumulated any wealth or curvaceous mate, just books. But I still say it's incredibly important to read books. The control I have when I read is that I can go over a sentence, stop completely in my tracks, and clarify the point in question before moving on. It can be both the complexity of the word, thought, or idea, or sometimes, as it is in my case, the felicity and diction of the writer—the chance to spacetime travel to that word, thought, or idea and relive or reimagine that moment, or sometimes, as in the case of mathematical or scientific nonfiction, dumb it down to the everyday ordinary around me, carefully selecting the metaphors that are the best fit but can help me think differently to remove the obfuscation in the passage and really "get it." In today's India meritocracy is like a hoax you force on the blind and disabled elderly in a care home who can’t ask for a refund. But I still read, and this blog is where I share it. And not just books that I read—I travel, and work on interesting ideas or at least think about them, and want to share my personal life and work experiences and knowledge. And if my exposure can help someone like me back when I was little—a boy or girl growing up without a compass in Calcutta or elsewhere—I’d feel I did something right, for a change. 
 
 
-
+# Bipolar Writing 
 Sometimes, in my depression, I'm so hopeless and unsure of the future I delete everything I've written, so most of what you read here are only those that have survived a genocide.
 
 It's important to remember, though, that the intensity and ferocity of emotions on display are of the moments in a bipolar mood, and it's not correct to infer from it a sticky trait or indelible personality which is fixed. I am, like every human being, a liquid that occupies its vessel, overflows it, sulks in it, flows out through its cracks, or in a boiling determination explodes the containing walls.
@@ -130,6 +132,7 @@ And I have to add to the list of why I write to the reasons George Orwell (Eric 
     caption="The characters I draw are the distortions"
 />
 
+# Weird and Left 
 The characters I draw are the distortions that I have picked up from the odd characters in children’s books by my favorite Bengali (বাংলা) fiction writer Shirshendu Mukhopadhyay (শীর্ষেন্দু মুখোপাধ্যায়), that can be found in what he calls the Odbhuture (অদ্ভুতুড়ে) series. And marinated in left-leaning humor. Just for clarification, I know a lot of people are confused by this left-right business; it has the same origin as an omelette, that is, it's French. It’s literally about where people were sitting in a room, historically back in 1789, as I gather, during the French Revolution. The new French National Assembly had to decide boring-but-important things like what to do with the king, the church, land, taxes, mobs with pikes, etc. In that chamber, deputies started sorting themselves by attitude to the old order. On the right of the presiding officer were those who supported the king, aristocracy, church privileges, and insisted on a more hierarchical “don’t break everything” approach. Those who wanted big changes – weaken or abolish the monarchy, more equality, more democracy – sat on the left. This is my calling, “let's kick this can of worms with my left boot and see if something interesting happens.”  
 <Pi
     src="IMG-20251129-WA0001(1).jpg" 
