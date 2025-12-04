@@ -1,34 +1,85 @@
-@import 'tailwindcss';
-@plugin '@tailwindcss/forms';
-@plugin '@tailwindcss/typography';
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
 
+/* Tailwind 4 Theme Configuration */
 @theme {
-    --color-gold: #D4AF47;
-    --font-sans: "Source Sans Pro", ui-sans-serif, system-ui, sans-serif;
-    --font-serif: "Merriweather", ui-serif, serif;
-    --font-mono: "Fira Code", monospace;
+  --font-sans: "Source Sans Pro", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Merriweather", ui-serif, Georgia, serif;
+  --font-mono: "Fira Code", ui-monospace, monospace;
 }
 
+/* Global Styles */
 body {
-    @apply bg-neutral-200 dark:bg-neutral-900 transition-colors duration-300;
-    --color-gold: #D4AF47;
+  @apply bg-neutral-200 dark:bg-neutral-900 text-neutral-800 dark:text-neutral-300;
+  @apply transition-colors duration-300;
+  @apply overflow-x-hidden;
 }
 
 /* Typography Overrides */
 h1, h2, h3, h4, h5, h6, blockquote {
-    @apply prose prose-neutral my-4 leading-none tracking-tight text-neutral-800 subpixel-antialiased dark:text-neutral-300;
+  @apply my-4 leading-tight tracking-tight subpixel-antialiased md:tracking-wide font-bold text-neutral-900 dark:text-neutral-100;
 }
-h1 { @apply text-5xl md:text-6xl font-bold; }
-h2 { @apply text-4xl md:text-5xl font-bold; }
-h3 { @apply text-3xl md:text-4xl font-semibold; }
-p { @apply text-justify text-base leading-relaxed text-neutral-800 subpixel-antialiased dark:text-neutral-300; }
-a:hover { color: var(--color-gold); }
+
+h1 { @apply text-5xl md:text-6xl; }
+h2 { @apply text-4xl md:text-5xl; }
+h3 { @apply text-3xl md:text-4xl; }
+h4 { @apply text-2xl md:text-3xl; }
+h5 { @apply text-xl md:text-2xl; }
+h6 { @apply text-lg md:text-xl; }
+
+p {
+  @apply text-justify text-base leading-relaxed mb-4 text-neutral-800 dark:text-neutral-300;
+}
+
+/* Links: Neutral Hover */
+a {
+  @apply text-neutral-900 dark:text-neutral-100 transition-colors duration-200 underline decoration-neutral-400/50;
+  &:hover {
+    @apply text-neutral-600 dark:text-neutral-400 decoration-neutral-500;
+  }
+}
+
+/* Remove underline from headers */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  @apply text-inherit no-underline;
+}
 
 /* Layout Utilities */
 .main-layout { @apply flex h-screen; }
 .main-content { @apply flex-1 flex flex-col overflow-hidden; }
 .scrollable-main { @apply flex-1 overflow-y-auto; }
-.container { @apply mx-auto px-4 sm:px-6 lg:px-8; }
+.container { @apply mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl; }
 
-/* FIX APPLIED BELOW: changed flex-shrink-0 to shrink-0 */
-.sidebar-container { @apply overflow-y-auto h-screen w-64 shrink-0 bg-neutral-100 dark:bg-neutral-900 border-r border-neutral-300 dark:border-neutral-700 hidden lg:block; }
+/* Sidebar */
+.sidebar-container { 
+  @apply overflow-y-auto h-screen w-64 shrink-0 bg-neutral-100 dark:bg-neutral-900 border-r border-neutral-300 dark:border-neutral-700 hidden lg:block; 
+}
+.sidebar-link { 
+  @apply block rounded-md p-2 text-neutral-700 dark:text-neutral-300 hover:bg-neutral-300 dark:hover:bg-neutral-800 transition-colors text-sm;
+}
+.sidebar-link-active { 
+  @apply bg-neutral-300 dark:bg-neutral-700 font-bold text-neutral-900 dark:text-neutral-100; 
+}
+
+/* UI Components */
+.card {
+  @apply bg-neutral-100 dark:bg-neutral-800/50 border border-neutral-300 dark:border-neutral-700 rounded-lg p-6 shadow-md transition-shadow hover:shadow-lg;
+}
+.btn-primary {
+    @apply rounded-lg bg-neutral-800 dark:bg-neutral-700 px-4 py-2 text-sm font-medium text-white hover:bg-neutral-700 dark:hover:bg-neutral-600 transition-colors cursor-pointer;
+}
+
+/* Visualization Containers */
+.interactive-component-wrapper { 
+  @apply my-6 p-6 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-800/50;
+}
+
+/* D3 Axis */
+.d3-axis .domain { @apply stroke-neutral-500 dark:stroke-neutral-400; }
+.d3-axis .tick line { @apply stroke-neutral-400 dark:stroke-neutral-500; }
+.d3-axis .tick text { @apply fill-neutral-600 dark:fill-neutral-300 text-xs; }
+
+/* Post Image Layouts */
+.post-image.inline-left { @apply float-left mr-6 mb-4 max-w-[50%] clear-left; }
+.post-image.inline-right { @apply float-right ml-6 mb-4 max-w-[50%] clear-right; }
