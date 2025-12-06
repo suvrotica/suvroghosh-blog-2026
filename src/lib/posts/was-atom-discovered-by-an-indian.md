@@ -10,13 +10,17 @@ published: true
 
 Somewhere between the loudspeaker bhajans, the WhatsApp forwards announcing that India invented Wi-Fi in the Mahabharata, and the commerce of selling “quantum healing” bracelets at South City Mall, there’s a skinny, half-forgotten man sitting cross-legged in the dust, quietly eating atoms.
 
-His name is Kaṇāda. Literally “atom-eater”. I am not making that up; kana is “particle, grain” and ad is “to eat”.
+His name is Kaṇāda. Literally “atom-eater”. I am not making that up; *kana* is “particle, grain” and *ad* is “to eat”.
 
-If Democritus is the bearded Greek uncle giggling that everything is little hard bits bouncing in the void, Kaṇāda is the underfed Bengali cousin who shows up late to the family function, says, “Yes, yes, atoms of course, but let’s also do a full ontology while we’re at it,” and then proceeds to classify the entire universe like an obsessive clerk with a cosmic spreadsheet.
+Actually, he has no neat Aadhaar-card style “full name.” In the philosophical texts, he appears variously as **Kaśyapa** or **Ulūka** or **Kaṇabhuk**—all affectionate variations on “one who eats little particles.” If you absolutely must have a full name for a plaque, **Kaṇāda Kaśyapa** is the historically grounded choice, not whatever “Shri Acharya Doctor” title WhatsApp University has bestowed upon him this week.
+
+As for where he came from, later traditions try to claim he was born at Prabhas Kṣetra near Dvārakā, making him a retrospective Gujarati. But the early texts are silent on geography. Calling him “a Gujarati” is like calling Democritus “a proud Schengen citizen.” It’s retrofitting modern political boundaries onto a ghost. Academically, he is simply an ancient Indian sage; exact birthplace: unknown.
 
 The dates, fittingly, are blurry. Modern scholarship hedges and shrugs: somewhere between the 6th and the 2nd century BCE, based on the internal evidence of the Vaiśeṣika Sūtra and the fact that he is arguing with Sāṅkhya and Mīmāṃsā, but doesn’t seem to know Buddhism is a thing yet.
 
 So imagine roughly Buddha-time India: kingdoms, varnashrama nonsense, sacrificial fires, and in some corner a man who wants to know what a pot is made of and refuses to take “five elements” as a satisfying answer.
+
+If Democritus is the bearded Greek uncle giggling that everything is little hard bits bouncing in the void, Kaṇāda is the Indian sage who shows up late to the family function, says, “Yes, yes, atoms of course, but let’s also do a full ontology while we’re at it,” and then proceeds to classify the entire universe like an obsessive clerk with a cosmic spreadsheet.
 
 ## The man who subdivided your lota
 
