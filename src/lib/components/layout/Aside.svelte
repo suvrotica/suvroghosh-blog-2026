@@ -1,17 +1,21 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-    
-    $: categories = $page.data.categories || [];
+	$: categories = $page.data.categories || [];
     $: currentPath = $page.url.pathname;
 </script>
 
 <aside class="h-full p-4 overflow-y-auto">
 	<nav class="space-y-8">
-        <div class="sidebar-group">
+        <div class="sidebar-group space-y-2">
 			<a href="/blog" 
-               class="sidebar-topic block mb-2 text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
                class:text-gold={currentPath === '/blog'}>
 				All Posts
+			</a>
+			<a href="/gallery" 
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class:text-gold={currentPath === '/gallery'}>
+				Gallery
 			</a>
 		</div>
 

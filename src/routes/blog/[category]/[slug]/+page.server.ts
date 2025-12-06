@@ -1,3 +1,4 @@
+// File: src/routes/blog/[category]/[slug]/+page.server.ts
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
@@ -8,9 +9,9 @@ type PostMetadata = {
 	thumbnail?: string;
 	published?: boolean;
 	keywords?: string[];
+	color?: string;
 	[key: string]: unknown;
 };
-
 type Heading = { level: number; id: string; text: string };
 
 function slugify(text: string): string {
@@ -26,17 +27,23 @@ function slugify(text: string): string {
 
 export const load: PageServerLoad = async ({ params, url }) => {
 	try {
-		// 1. Construct the path to the markdown file
-		const postPath = `/src/lib/posts/${params.slug}.md`;
-		
-		// 2. Import metadata using Vite's glob import
+        const { slug, category } = params;
+        
+        // 1. Import all posts via Glob (Metadata only)
 		const postModules = import.meta.glob('/src/lib/posts/*.md', { import: 'metadata' });
-		const metadataLoader = postModules[postPath];
+        
+        // 2. Find the file that matches the slug (Case insensitive lookup for robustness)
+        // This fixes Vercel issues where file might be 'Reflections.md' but URL is 'reflections'
+        const matchingPath = Object.keys(postModules).find((path) => {
+            const fileName = path.split('/').pop()?.replace('.md', '').toLowerCase();
+            return fileName === slug.toLowerCase();
+        });
 
-		if (!metadataLoader) {
-			error(404, { message: `Could not find metadata for post: ${params.slug}` });
+		if (!matchingPath) {
+			error(404, { message: `Could not find post: ${slug}` });
 		}
 
+		const metadataLoader = postModules[matchingPath];
 		const post = (await metadataLoader()) as PostMetadata;
 
 		// 3. Check if published
@@ -44,15 +51,16 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			error(404, { message: 'This post is not available' });
 		}
 
-		// 4. Get raw content for reading time & headings (Table of Contents)
+		// 4. Get raw content for reading time & headings
+        // Note: We use the *same* matching path found above
 		const postsRaw = import.meta.glob('/src/lib/posts/*.md', {
 			query: '?raw',
 			import: 'default'
 		});
-		const rawContentLoader = postsRaw[postPath];
+		const rawContentLoader = postsRaw[matchingPath];
 		const rawContent = (await rawContentLoader()) as string;
 
-		// 5. Extract Headings (H2, H3) for the "On This Page" sidebar
+		// 5. Extract Headings
 		const headings: Heading[] = [];
 		const headingRegex = /^(##|###)\s+(.*)/gm;
 		let match;
@@ -62,7 +70,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		}
 
 		// 6. Construct SEO Data
-		const canonicalUrl = `${url.origin}/blog/${params.category}/${params.slug}`;
+		const canonicalUrl = `${url.origin}/blog/${category}/${slug}`;
 		const seo = {
 			title: `${post.title} | SuvroGhosh.Blog`,
 			description: post.description,
@@ -74,7 +82,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			keywords: post.keywords
 		};
 
-		// 7. Construct Schema.org Data (JSON-LD)
+		// 7. Schema.org Data
 		const datePublished = post.date ? new Date(post.date).toISOString() : new Date().toISOString();
 		const schema = {
 			'@context': 'https://schema.org',
@@ -93,7 +101,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 				name: 'SuvroGhosh.Blog',
 				logo: {
 					'@type': 'ImageObject',
-					url: `${url.origin}/favicon.png`
+					url: `${url.origin}/favicon.svg` // Updated extension
 				}
 			},
 			description: post.description,
@@ -103,18 +111,18 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			}
 		};
 
-		// 8. Return everything to the page
 		return {
 			metadata: post,
 			headings,
 			seo,
-			schema
+			schema,
+            // Pass the resolved path to +page.ts so it loads the correct component
+            resolvedPath: matchingPath 
 		};
 
 	} catch (e: any) {
 		console.error(e);
-		// If we explicitly threw a 404, rethrow it. Otherwise generic 500.
 		if (e?.status === 404) throw e;
-		error(404, { message: `Could not find post: ${params.slug}` });
+		error(500, { message: 'Internal Server Error' });
 	}
 };

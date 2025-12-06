@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { fade } from 'svelte/transition';
-
+	
 	let { images = [] }: { images: string[] } = $props();
 
 	function getName(path: string) {
@@ -30,12 +30,12 @@
 					<div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
 				</div>
 
-				<div class="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0">
+				<div class="absolute bottom-0 left-0 right-0 p-3 bg-linear-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0">
 					<p class="text-white text-xs font-bold truncate">
 						{getName(src)}
 					</p>
-					<p class="text-[var(--color-gold)] text-[10px] uppercase tracking-wider font-bold mt-0.5">
-						View Fullsize ↗
+					<p class="text-(--color-gold) text-[10px] uppercase tracking-wider font-bold mt-0.5">
+						Click to Open Fullsize ↗
 					</p>
 				</div>
 			</a>

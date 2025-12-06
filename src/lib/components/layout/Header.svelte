@@ -1,6 +1,6 @@
 <script lang="ts">
 	let { isMenuOpen, toggleMenu } = $props<{ 
-        isMenuOpen: boolean; 
+        isMenuOpen: boolean;
         toggleMenu: () => void 
     }>();
 </script>
@@ -15,11 +15,13 @@
 			<a href="/blog" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
 				Blog
 			</a>
-			
+			<a href="/gallery" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
+				Gallery
+			</a>
 		</div>
 
 		<button
-			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800"
+			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800 cursor-pointer"
 			onclick={toggleMenu}
 			aria-label="Toggle menu"
 		>

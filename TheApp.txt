@@ -1,0 +1,1545 @@
+# Context file generated on: Saturday, December 6, 2025 at 11:45:00 PM GMT+5:30
+---
+
+# Project File Layout
+
+.
+
+├── .env.example
+├── .gitignore
+├── .npmrc
+├── .prettierignore
+├── .prettierrc
+├── .vercel
+│   ├── project.json
+│   └── README.txt
+├── .vscode
+│   └── settings.json
+├── drizzle.config.ts
+├── eslint.config.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── scripts
+│   └── generate-context.mjs
+├── src
+│   ├── app.css
+│   ├── app.d.ts
+│   ├── app.html
+│   ├── lib
+│   │   ├── assets
+│   │   │   └── favicon.svg
+│   │   ├── components
+│   │   │   ├── blog
+│   │   │   │   ├── ImageMasonry.svelte
+│   │   │   │   ├── PostGallery.svelte
+│   │   │   │   └── PostImage.svelte
+│   │   │   ├── layout
+│   │   │   │   ├── Aside.svelte
+│   │   │   │   ├── Footer.svelte
+│   │   │   │   └── Header.svelte
+│   │   │   └── seo
+│   │   │       ├── SEO.svelte
+│   │   │       └── SEO.ts
+│   │   ├── index.ts
+│   │   ├── posts
+│   │   │   └── Reflections.md
+│   │   ├── server
+│   │   │   └── db
+│   │   │       ├── index.ts
+│   │   │       └── schema.ts
+│   │   └── utils
+│   │       └── uuid.ts
+│   └── routes
+│       ├── +layout.server.ts
+│       ├── +layout.svelte
+│       ├── +page.server.ts
+│       ├── +page.svelte
+│       ├── api
+│       │   └── log-visit
+│       │       └── +server.ts
+│       ├── blog
+│       │   └── [category]
+│       │       ├── +page.server.ts
+│       │       ├── +page.svelte
+│       │       └── [slug]
+│       │           ├── +page.server.ts
+│       │           ├── +page.svelte
+│       │           └── +page.ts
+│       ├── gallery
+│       │   ├── +page.server.ts
+│       │   └── +page.svelte
+│       └── layout.css
+├── static
+│   ├── images
+│   │   ├── IMG-20251129-WA0001(1).jpg
+│   │   ├── IMG-20251202-WA0003.jpg
+│   │   ├── IMG-20251202-WA0005.jpg
+│   │   ├── IMG-20251202-WA0009.jpg
+│   │   ├── IMG-20251203-WA0000.jpg
+│   │   ├── IMG-20251203-WA0001.jpg
+│   │   ├── IMG-20251203-WA0002.jpg
+│   │   ├── IMG-20251203-WA0003.jpg
+│   │   ├── IMG-20251203-WA0004.jpg
+│   │   ├── IMG-20251203-WA0006.jpg
+│   │   ├── IMG-20251204-WA0001.jpg
+│   │   ├── IMG-20251204-WA0002.jpg
+│   │   ├── IMG-20251204-WA0003.jpg
+│   │   └── List.txt
+│   └── robots.txt
+├── svelte.config.js
+├── tsconfig.json
+└── vite.config.ts
+
+---
+# File Contents
+---
+
+# File: package.json
+
+{
+	"name": "suvroghosh-blog-2026",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"format": "prettier --write .",
+		"lint": "prettier --check . && eslint .",
+		"db:push": "drizzle-kit push",
+		"db:generate": "drizzle-kit generate",
+		"db:migrate": "drizzle-kit migrate",
+		"db:studio": "drizzle-kit studio",
+		"context": "node scripts/generate-context.mjs"
+	},
+	"devDependencies": {
+		"@eslint/compat": "^1.4.0",
+		"@eslint/js": "^9.39.1",
+		"@sveltejs/adapter-vercel": "^6.1.1",
+		"@sveltejs/kit": "^2.48.5",
+		"@sveltejs/vite-plugin-svelte": "^6.2.1",
+		"@tailwindcss/forms": "^0.5.10",
+		"@tailwindcss/typography": "^0.5.19",
+		"@tailwindcss/vite": "^4.1.17",
+		"@types/node": "^22",
+		"@types/ua-parser-js": "^0.7.39",
+		"@types/uuid": "^10.0.0",
+		"drizzle-kit": "^0.31.7",
+		"drizzle-orm": "^0.44.7",
+		"eslint": "^9.39.1",
+		"eslint-config-prettier": "^10.1.8",
+		"eslint-plugin-svelte": "^3.13.0",
+		"globals": "^16.5.0",
+		"mdsvex": "^0.12.6",
+		"prettier": "^3.6.2",
+		"prettier-plugin-svelte": "^3.4.0",
+		"prettier-plugin-tailwindcss": "^0.7.1",
+		"rehype-autolink-headings": "^7.1.0",
+		"rehype-katex-svelte": "^1.2.0",
+		"rehype-slug": "^6.0.0",
+		"remark-frontmatter": "^5.0.0",
+		"remark-math": "^3.0.1",
+		"schema-dts": "^1.1.5",
+		"shiki": "^1.0.0",
+		"svelte": "^5.43.8",
+		"svelte-check": "^4.3.4",
+		"tailwindcss": "^4.1.17",
+		"typescript": "^5.9.3",
+		"typescript-eslint": "^8.47.0",
+		"vite": "^7.2.2"
+	},
+	"dependencies": {
+		"@vercel/analytics": "^1.6.0",
+		"@vercel/speed-insights": "^1.2.0",
+		"postgres": "^3.4.7",
+		"ua-parser-js": "^2.0.6",
+		"uuid": "^13.0.0"
+	}
+}
+
+
+# File: svelte.config.js
+
+import adapter from '@sveltejs/adapter-vercel';
+import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
+import { mdsvex } from 'mdsvex';
+import remarkMath from 'remark-math';
+import rehypeKatexSvelte from 'rehype-katex-svelte';
+import rehypeSlug from 'rehype-slug';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+
+// 1. Define your global imports here
+const globalImports = `
+import Pi from '$lib/components/blog/PostImage.svelte';
+`;
+
+/**
+ * 2. Custom preprocessor to inject imports into markdown files
+ */
+const autoImport = {
+	name: 'auto-import',
+	markup: ({ content, filename }) => {
+		// Only apply to .md files
+		if (!filename || !filename.endsWith('.md')) return;
+
+		// If a <script> tag already exists, inject inside it
+		if (content.includes('<script>')) {
+			return {
+				code: content.replace('<script>', `<script>\n${globalImports}`)
+			};
+		}
+
+		// If no <script> tag exists, append one to the end
+		// (Appending is safe because frontmatter must stay at the very top)
+		return {
+			code: content + `\n<script>\n${globalImports}\n</script>`
+		};
+	}
+};
+
+/** @type {import('@sveltejs/kit').Config} */
+const config = {
+	// 3. Add autoImport to the preprocess array BEFORE mdsvex
+	preprocess: [
+		autoImport,
+		vitePreprocess(),
+		mdsvex({
+			extensions: ['.md', '.svx'],
+			remarkPlugins: [remarkMath],
+			rehypePlugins: [
+				rehypeSlug,
+				[rehypeAutolinkHeadings, { behavior: 'wrap' }],
+				rehypeKatexSvelte
+			]
+		})
+	],
+
+	extensions: ['.svelte', '.md', '.svx'],
+
+	kit: {
+		adapter: adapter(),
+		alias: {
+			$components: 'src/lib/components',
+			$assets: 'src/lib/assets'
+		}
+	}
+};
+
+export default config;
+
+# File: vite.config.ts
+
+import tailwindcss from '@tailwindcss/vite';
+import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+	plugins: [tailwindcss(), sveltekit()]
+});
+
+
+# File: tsconfig.json
+
+{
+	"extends": "./.svelte-kit/tsconfig.json",
+	"compilerOptions": {
+		"rewriteRelativeImportExtensions": true,
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"moduleResolution": "bundler"
+	}
+	// Path aliases are handled by https://svelte.dev/docs/kit/configuration#alias
+	// except $lib which is handled by https://svelte.dev/docs/kit/configuration#files
+	//
+	// To make changes to top-level options such as include and exclude, we recommend extending
+	// the generated config; see https://svelte.dev/docs/kit/configuration#typescript
+}
+
+
+# File: src/app.css
+
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
+
+/* Tailwind 4 Theme Configuration */
+@theme {
+  --font-sans: "Source Sans Pro", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Merriweather", ui-serif, Georgia, serif;
+  --font-mono: "Fira Code", ui-monospace, monospace;
+}
+
+/* Global Styles */
+body {
+  @apply bg-neutral-200 dark:bg-neutral-900 text-neutral-800 dark:text-neutral-300;
+  @apply transition-colors duration-300;
+  @apply overflow-x-hidden;
+}
+
+/* Typography Overrides */
+h1, h2, h3, h4, h5, h6, blockquote {
+  @apply my-4 leading-tight tracking-tight subpixel-antialiased md:tracking-wide font-bold text-neutral-900 dark:text-neutral-100;
+}
+
+h1 { @apply text-5xl md:text-6xl; }
+h2 { @apply text-4xl md:text-5xl; }
+h3 { @apply text-3xl md:text-4xl; }
+h4 { @apply text-2xl md:text-3xl; }
+h5 { @apply text-xl md:text-2xl; }
+h6 { @apply text-lg md:text-xl; }
+
+p {
+  @apply text-justify text-base leading-relaxed mb-4 text-neutral-800 dark:text-neutral-300;
+}
+
+/* Links: Neutral Hover */
+a {
+  @apply text-neutral-900 dark:text-neutral-100 transition-colors duration-200 underline decoration-neutral-400/50;
+  &:hover {
+    @apply text-neutral-600 dark:text-neutral-400 decoration-neutral-500;
+  }
+}
+
+/* Remove underline from headers */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  @apply text-inherit no-underline;
+}
+
+/* Layout Utilities */
+.main-layout { @apply flex h-screen; }
+.main-content { @apply flex-1 flex flex-col overflow-hidden; }
+.scrollable-main { @apply flex-1 overflow-y-auto; }
+.container { @apply mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl; }
+
+/* Sidebar */
+.sidebar-container { 
+  @apply overflow-y-auto h-screen w-64 shrink-0 bg-neutral-100 dark:bg-neutral-900 border-r border-neutral-300 dark:border-neutral-700 hidden lg:block; 
+}
+.sidebar-link { 
+  @apply block rounded-md p-2 text-neutral-700 dark:text-neutral-300 hover:bg-neutral-300 dark:hover:bg-neutral-800 transition-colors text-sm;
+}
+.sidebar-link-active { 
+  @apply bg-neutral-300 dark:bg-neutral-700 font-bold text-neutral-900 dark:text-neutral-100; 
+}
+
+/* UI Components */
+.card {
+  @apply bg-neutral-100 dark:bg-neutral-800/50 border border-neutral-300 dark:border-neutral-700 rounded-lg p-6 shadow-md transition-shadow hover:shadow-lg;
+}
+.btn-primary {
+    @apply rounded-lg bg-neutral-800 dark:bg-neutral-700 px-4 py-2 text-sm font-medium text-white hover:bg-neutral-700 dark:hover:bg-neutral-600 transition-colors cursor-pointer;
+}
+
+/* Visualization Containers */
+.interactive-component-wrapper { 
+  @apply my-6 p-6 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-800/50;
+}
+
+/* D3 Axis */
+.d3-axis .domain { @apply stroke-neutral-500 dark:stroke-neutral-400; }
+.d3-axis .tick line { @apply stroke-neutral-400 dark:stroke-neutral-500; }
+.d3-axis .tick text { @apply fill-neutral-600 dark:fill-neutral-300 text-xs; }
+
+/* Post Image Layouts */
+.post-image.inline-left { @apply float-left mr-6 mb-4 max-w-[50%] clear-left; }
+.post-image.inline-right { @apply float-right ml-6 mb-4 max-w-[50%] clear-right; }
+
+# File: src/app.d.ts
+
+// See https://svelte.dev/docs/kit/types#app.d.ts
+// for information about these interfaces
+declare global {
+	namespace App {
+		// interface Error {}
+		// interface Locals {}
+		// interface PageData {}
+		// interface PageState {}
+		// interface Platform {}
+	}
+}
+
+export {};
+
+
+# File: src/app.html
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
+
+
+# File: src/lib/assets/favicon.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="128" viewBox="0 0 107 128"><title>svelte-logo</title><path d="M94.157 22.819c-10.4-14.885-30.94-19.297-45.792-9.835L22.282 29.608A29.92 29.92 0 0 0 8.764 49.65a31.5 31.5 0 0 0 3.108 20.231 30 30 0 0 0-4.477 11.183 31.9 31.9 0 0 0 5.448 24.116c10.402 14.887 30.942 19.297 45.791 9.835l26.083-16.624A29.92 29.92 0 0 0 98.235 78.35a31.53 31.53 0 0 0-3.105-20.232 30 30 0 0 0 4.474-11.182 31.88 31.88 0 0 0-5.447-24.116" style="fill:#ff3e00"/><path d="M45.817 106.582a20.72 20.72 0 0 1-22.237-8.243 19.17 19.17 0 0 1-3.277-14.503 18 18 0 0 1 .624-2.435l.49-1.498 1.337.981a33.6 33.6 0 0 0 10.203 5.098l.97.294-.09.968a5.85 5.85 0 0 0 1.052 3.878 6.24 6.24 0 0 0 6.695 2.485 5.8 5.8 0 0 0 1.603-.704L69.27 76.28a5.43 5.43 0 0 0 2.45-3.631 5.8 5.8 0 0 0-.987-4.371 6.24 6.24 0 0 0-6.698-2.487 5.7 5.7 0 0 0-1.6.704l-9.953 6.345a19 19 0 0 1-5.296 2.326 20.72 20.72 0 0 1-22.237-8.243 19.17 19.17 0 0 1-3.277-14.502 17.99 17.99 0 0 1 8.13-12.052l26.081-16.623a19 19 0 0 1 5.3-2.329 20.72 20.72 0 0 1 22.237 8.243 19.17 19.17 0 0 1 3.277 14.503 18 18 0 0 1-.624 2.435l-.49 1.498-1.337-.98a33.6 33.6 0 0 0-10.203-5.1l-.97-.294.09-.968a5.86 5.86 0 0 0-1.052-3.878 6.24 6.24 0 0 0-6.696-2.485 5.8 5.8 0 0 0-1.602.704L37.73 51.72a5.42 5.42 0 0 0-2.449 3.63 5.79 5.79 0 0 0 .986 4.372 6.24 6.24 0 0 0 6.698 2.486 5.8 5.8 0 0 0 1.602-.704l9.952-6.342a19 19 0 0 1 5.295-2.328 20.72 20.72 0 0 1 22.237 8.242 19.17 19.17 0 0 1 3.277 14.503 18 18 0 0 1-8.13 12.053l-26.081 16.622a19 19 0 0 1-5.3 2.328" style="fill:#fff"/></svg>
+
+# File: src/lib/components/blog/ImageMasonry.svelte
+
+<script lang="ts">
+	import { fade } from 'svelte/transition';
+
+	let { images = [] }: { images: string[] } = $props();
+
+	function getName(path: string) {
+		return path.split('/').pop()?.split('.')[0].replace(/[-_]/g, ' ') ?? 'Image';
+	}
+</script>
+
+<div class="columns-1 sm:columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4 mt-8 px-2">
+	{#each images as src (src)}
+		<div class="break-inside-avoid">
+			<a
+				href={src}
+				target="_blank"
+				rel="noopener noreferrer"
+				class="group block relative overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-800 bg-neutral-100 dark:bg-neutral-900"
+				in:fade={{ duration: 300 }}
+			>
+				<div class="relative w-full">
+					<img
+						{src}
+						alt={getName(src)}
+						loading="lazy"
+						decoding="async"
+						class="w-full h-auto object-cover group-hover:scale-105 transition-transform duration-500"
+					/>
+					
+					<div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
+				</div>
+
+				<div class="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0">
+					<p class="text-white text-xs font-bold truncate">
+						{getName(src)}
+					</p>
+					<p class="text-[var(--color-gold)] text-[10px] uppercase tracking-wider font-bold mt-0.5">
+						View Fullsize ↗
+					</p>
+				</div>
+			</a>
+		</div>
+	{/each}
+</div>
+
+{#if images.length === 0}
+	<div class="py-12 text-center text-neutral-500 border-2 border-dashed border-neutral-200 dark:border-neutral-800 rounded-lg">
+		<p>No images found in /static/images</p>
+	</div>
+{/if}
+
+
+# File: src/lib/components/blog/PostGallery.svelte
+
+<script lang="ts">
+	type Post = {
+		slug: string;
+		title: string;
+		thumbnail?: string;
+		category: string;
+	};
+	let { posts = [] }: { posts: Post[] } = $props();
+</script>
+
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mt-8">
+	{#each posts as post (post.slug)}
+		{@const href = `/blog/${post.category}/${post.slug}`}
+		<a {href} class="group block relative overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 ease-in-out border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-neutral-800"> 
+            <div class="aspect-2/3 overflow-hidden bg-neutral-200 dark:bg-neutral-700">
+                {#if post.thumbnail}
+				    <img src={post.thumbnail} alt={post.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                {:else}
+                    <div class="w-full h-full flex items-center justify-center text-neutral-400 text-4xl font-serif">
+                        {post.title.charAt(0)}
+                    </div>
+                {/if}
+			</div>
+            
+            <div class="absolute bottom-0 left-0 right-0 p-4 bg-linear-to-t from-black/90 via-black/60 to-transparent pt-12">
+                <h3 class="text-white font-bold text-lg leading-tight group-hover:text-gold transition-colors">
+                    {post.title}
+                </h3>
+                <p class="text-neutral-300 text-xs mt-1 uppercase tracking-wide">{post.category}</p>
+            </div>
+		</a>
+	{/each}
+</div>
+
+# File: src/lib/components/blog/PostImage.svelte
+
+<script lang="ts">
+	let {
+		src,
+		alt,
+		caption = '',
+		layout = 'block',
+		size = 1
+	}: {
+		src: string;
+		alt?: string;
+		caption?: string;
+		layout?: 'block' | 'iL' | 'iR';
+		size?: number;
+	} = $props();
+
+	// 1. Handle Image Path: Allow full paths, but default to /images/ prefix
+	let fullSrc = $derived(
+		src.startsWith('/') || src.startsWith('http') ? src : `/images/${src}`
+	);
+
+	// 2. Handle Default Alt Text: Clean up filename if alt is missing
+	function formatAlt(filename: string) {
+		const name = filename.split('/').pop() ?? filename;
+		const noExt = name.split('.').slice(0, -1).join('.');
+		return noExt
+			.replace(/[-_]/g, ' ')
+			.replace(/\b\w/g, (l) => l.toUpperCase());
+	}
+
+	let finalAlt = $derived(alt ?? formatAlt(src));
+
+	// 3. Calculate dynamic width style based on size prop
+	let containerStyle = $derived(`width: ${size * 100}%;`);
+
+	// 4. Handle Layout Classes
+	let figureClasses = $derived.by(() => {
+		// Base styles
+		let classes = "post-image relative";
+		
+		if (layout === 'iL') {
+			// Float left, margin right
+			// We remove max-w-[50%] because the 'size' prop now controls width via style
+			return `${classes} float-left mr-6 mb-4 clear-left`;
+		} 
+		
+		if (layout === 'iR') {
+			// Float right, margin left
+			return `${classes} float-right ml-6 mb-4 clear-right`;
+		}
+		
+		// Default 'block': centered, wider margins
+		// Added mx-auto to ensure it centers if size < 1
+		return `${classes} block mx-auto my-8`;
+	});
+
+	let imgClasses = $derived.by(() => {
+		// Ensure image fills the figure container
+		return "h-auto w-full rounded-lg shadow-md";
+	});
+</script>
+
+<figure class={figureClasses} style={containerStyle}>
+	<img 
+		src={fullSrc} 
+		alt={finalAlt} 
+		loading="lazy" 
+		decoding="async" 
+		class={imgClasses}
+	/>
+	{#if caption}
+		<figcaption class="mt-2 text-sm italic text-neutral-600 dark:text-neutral-400 text-center leading-tight">
+			{caption}
+		</figcaption>
+	{/if}
+</figure>
+
+
+# File: src/lib/components/layout/Aside.svelte
+
+<script lang="ts">
+	import { page } from '$app/stores';
+    
+    $: categories = $page.data.categories || [];
+    $: currentPath = $page.url.pathname;
+</script>
+
+<aside class="h-full p-4 overflow-y-auto">
+	<nav class="space-y-8">
+        <div class="sidebar-group">
+			<a href="/blog" 
+               class="sidebar-topic block mb-2 text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class:text-gold={currentPath === '/blog'}>
+				All Posts
+			</a>
+		</div>
+
+        {#each categories as category}
+			<div class="sidebar-group mb-6">
+				<div class="sidebar-topic mb-3 text-xs font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-500">
+					{category.name}
+				</div>
+				<ul class="space-y-1">
+					{#each category.articles as article}
+						<li>
+							<a
+								href="/blog/{category.name}/{article.slug}"
+								class="sidebar-link block px-3 py-2 rounded-md text-sm text-neutral-700 dark:text-neutral-300 hover:bg-neutral-200 dark:hover:bg-neutral-800 transition-all border-l-2 border-transparent"
+                                class:border-gold={currentPath.includes(article.slug)}
+                                class:bg-neutral-200={currentPath.includes(article.slug)}
+                                class:dark:bg-neutral-800={currentPath.includes(article.slug)}
+							>
+								{article.title}
+							</a>
+						</li>
+					{/each}
+				</ul>
+			</div>
+		{/each}
+	</nav>
+</aside>
+
+# File: src/lib/components/layout/Footer.svelte
+
+<script lang="ts">
+	const year = new Date().getFullYear();
+</script>
+
+<footer class="border-t border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 p-6 text-center">
+	<p class="text-sm text-neutral-600 dark:text-neutral-400">
+		&copy; {year} Suvro Ghosh.
+	</p>
+</footer>
+
+# File: src/lib/components/layout/Header.svelte
+
+<script lang="ts">
+	let { isMenuOpen, toggleMenu } = $props<{ 
+        isMenuOpen: boolean; 
+        toggleMenu: () => void 
+    }>();
+</script>
+
+<header class="border-b border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 transition-colors duration-300">
+	<div class="container mx-auto flex items-center justify-between p-4">
+		<a href="/" class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 hover:text-gold transition-colors">
+			SuvroGhosh.Blog
+		</a>
+
+		<div class="hidden md:flex items-center space-x-6">
+			<a href="/blog" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
+				Blog
+			</a>
+			
+		</div>
+
+		<button
+			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800"
+			onclick={toggleMenu}
+			aria-label="Toggle menu"
+		>
+			<svg class="w-6 h-6 text-neutral-800 dark:text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+				{#if isMenuOpen}
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+				{:else}
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+				{/if}
+			</svg>
+		</button>
+	</div>
+</header>
+
+# File: src/lib/components/seo/SEO.svelte
+
+<script lang="ts">
+	type Props = {
+		title: string;
+		description: string;
+		canonicalUrl?: string;
+		ogImageUrl?: string;
+		ogImageAlt?: string;
+		keywords?: string[];
+		schema?: Record<string, any>;
+	};
+
+	let {
+		title,
+		description,
+		canonicalUrl,
+		ogImageUrl,
+		ogImageAlt,
+		keywords,
+		schema = undefined
+	}: Props = $props();
+</script>
+
+<svelte:head>
+	<title>{title}</title>
+	<meta name="description" content={description} />
+
+	{#if canonicalUrl}
+		<link rel="canonical" href={canonicalUrl} />
+	{/if}
+
+	<meta property="og:type" content="website" />
+	{#if canonicalUrl}
+		<meta property="og:url" content={canonicalUrl} />
+	{/if}
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={description} />
+	{#if ogImageUrl}
+		<meta property="og:image" content={ogImageUrl} />
+	{/if}
+	{#if ogImageAlt}
+		<meta property="og:image:alt" content={ogImageAlt} />
+	{/if}
+
+	<meta name="twitter:card" content="summary_large_image" />
+	{#if canonicalUrl}
+		<meta property="twitter:url" content={canonicalUrl} />
+	{/if}
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={description} />
+	{#if ogImageUrl}
+		<meta name="twitter:image" content={ogImageUrl} />
+	{/if}
+
+	{#if keywords && keywords.length > 0}
+		<meta name="keywords" content={keywords.join(', ')} />
+	{/if}
+
+	{#if schema}
+		{@html `<script type="application/ld+json">${JSON.stringify(schema, null, 2)}</script>`}
+	{/if}
+</svelte:head>
+
+# File: src/lib/components/seo/SEO.ts
+
+import { dev } from '$app/environment';
+import type { WithContext, WebSite } from 'schema-dts';
+
+export const siteTitle = 'Suvro Ghosh Blog';
+export const siteDescription = "Join Suvro Ghosh's journey through the evolving landscape of technology. A blend of detailed tech tutorials, industry trend analyses, and personal stories.";
+export const siteUrl = dev ? 'http://localhost:5173' : 'https://suvroghosh.blog';
+
+export const siteSEO = {
+	title: siteTitle,
+	description: siteDescription,
+	canonical: siteUrl,
+	openGraph: {
+		type: 'website',
+		url: siteUrl,
+		title: siteTitle,
+		description: siteDescription,
+		images: [
+			{
+				url: `${siteUrl}/images/placeholders/default.png`,
+				width: 1200,
+				height: 630,
+				alt: 'Suvro Ghosh Blog Logo'
+			}
+		]
+	},
+	twitter: {
+		card: 'summary_large_image',
+		title: siteTitle,
+		description: siteDescription,
+		image: `${siteUrl}/images/placeholders/default.png`,
+		creator: '@suvro_ghosh'
+	}
+};
+
+export const websiteSchema: WithContext<WebSite> = {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: siteTitle,
+	url: siteUrl,
+	description: siteDescription,
+	publisher: {
+		'@type': 'Person',
+		name: 'Suvro Ghosh'
+	},
+	inLanguage: 'en-US'
+};
+
+# File: src/lib/index.ts
+
+// place files you want to import through the `$lib` alias in this folder.
+
+
+# File: src/lib/posts/Reflections.md
+
+---
+title: "Reflections"
+thumbnail: "/images/IMG-20251202-WA0009.jpg"
+description: "A complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless."
+category: 'personal'
+published: true
+---
+<script>
+    
+</script> 
+
+<Pi
+    src="IMG-20251202-WA0009.jpg" 
+    caption="boring brick and mortar self-similar repeating blocks"
+/>
+
+# School
+
+Like many, I remember school through a veil of years of indifference to childhood memories that grownups, at a certain point, must admit to, and I do unhesitatingly, but mine are a complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless to recount, like the memory of city Calcutta as boring brick and mortar self-similar repeating blocks, defecating ungulates on my way to school or spherical, sweaty, hirsute flabby school-females with phallic water-bottles in depressingly longish skirts. I confess, as useless as perhaps the utility for, or the importance of, the places and characters and several linked trivia that I sometimes wake up to, wade, and wallow in, now that I am fifty. The school I went to after I graduated from next-door nursery had a smell of respiratory illness to it, but no, Kashipur/Cossipore isn’t named after coughing Bengalis, even if the air quality now rather encourages that interpretation. The *kashi* as cough thing is just a Bengali homonym, not the origin of the place-name. Cossipore the name comes from Mulakchand Dewan Kashinath-ji, its one-time owner; he was gifted Cossipore by Lord Clive. So from Kashinath allegedly came Kashipur, which was anglicized, or rather butchered I should say, as the English were fond to do at the time, to Cossipore. But "kashi" was a big part at the time for me, I almost kicked the bucket with whooping cough or pertussis in my childhood, from which I recovered with muscular doses of antibiotics prescribed by Dr. Bhaskar Mani, but have enfeebled lungs that are unable to control their emotions at the current particulate matter pollution levels we Indians pride ourselves on. Back then, because it was English medium, we had to practice through our sphincter if need be to pronounce the more anglicized "Cossipore," which was trained to come out as a low-decibel poot with a higher-decibel "English School" after it. Because my stool was always loose, I nearly defecated every time. There was also a Women's Welfare Association, WWA, prepended to the name, but I never saw any women wrestlers, or welfare in anyone's name at the time, but most of our female teachers were appropriately podgy and gargantuan, especially given my pertussis-suffering skeletal lightness at the time; only one teacher, Ira Paul, our English teacher, was svelte and had feminine features. ICSE was 1992. Calcutta is another butchered example in the Shakti Peeth myth, where Shiva’s then lover Sati’s body is cut into pieces by Vishnu’s Sudarshan chakra; different parts fall in different places. At Kalighat, the toes of her right foot are said to have fallen. For some reason Sati is also Kali, because when you are pulling stuff out of thin flatulent sulphurous air, stories get bollywood fancy, so the “cut-up body of Kali” story is a mythic overlay that is popularized by Geoffrey Moorhouse and emphasized as a lovely piece of folk etymology by devotees, a nuanced version of which is saying it’s from Kalikshetra / Kalikkhetra – “field/area of Kali” – tying it to the Kali tradition and Kalighat, or the name could be grounded in khal + kata (“dug canal”), or kali chun + kata (lime + burnt shell), or from a word for “flat land.”
+ 
+<Pi
+    src="IMG-20251203-WA0001.jpg" 
+    layout="iR"
+    caption="hirsute flabby school-females with phallic water-bottles"
+    size={0.5}
+/>
+
+My past is ancient and present is a mystery speeding past; I live now mostly to *live*, really—to barely escape frequent and routine annihilation, survive to remember and recollect the person I am, I was, I once wanted to be—inadvertently became, on the way to be—a leery litany of metamorphosis of a self that mostly started and remained unchanged at the core—which was a fledgling when I became a schoolboy to begin with and started to think, first feel, of course—mainly, in my case, *see* through thick myopia-correcting glasses—a visual person, and in my particular case, overthink the still-uncorrected blurry—cerebrally—the world through the senses, through the then immature prefrontal and amygdalian theaters of rehearsed endorsements. It happened in a shockingly short span, then weirdly in a longish sort of lifetime after—that I’m *only now* able to reconstruct into the surreal solipsist absurdity I have managed to bungle myself into being. And although the seeds of this blog are repressively buried in my depressive, ruminative reading and manic book purchases at several *Half-Price Books*, *Barnes and Noble* or *Borders* in San Antonio and Austin where I justified my existential merit *only* as an obsessed bibliomanic and tsundoku, I want to start with what ordinarily is the start—my first memories of growing up in Calcutta. I have an embarrassing memory of a very early male size comparison shame, while playing with my sprinkler on the nursery kindergarten back drain wall—the competition was a boy who was quite a bit big-boned and larger than the other, several, jiggling animated adipose-puffed protuberance exhibits, the usual nursery nuisances that litter such playful pigsties. But what had caught my attention and had stayed to this day was—his sprinkler was not only endowed with *bigger* plumbing with ginormous dark velvety spheres, the resulting stream from the hydrology that came out unthrottled was thicker, more unbidden, forceful, and painted the wall with such yellow ferocity that the reflected spray made me notice his assets with awe. I have no way of going back and sifting through that particular memory’s soaked sodden soil, a kid’s private memory *this*—I didn’t share with even my mother—who at the time was my only confidante. But toilet, or rather the anathema of an always overflowing unkempt school loo, forced me to teach myself to hold my bowels. On two occasions I couldn’t, and I defecated in my school half-pants, unable to hold it, as far as I can recollect, trying to keep composure on a waddling dilapidated hand-pulled rickshaw over a city full of potholes each the size of a mini Grand Canyon—these my mother can submit affidavits if required. Poor woman, this is back in the day when the washing machine wasn’t even in the impoverished imagination of the North Calcutta middle class, and we weren’t that affluent to have maids to do any cleaning up after us.
+
+<Pi
+    src="IMG-20251203-WA0002.jpg" 
+    layout="iR"
+    caption="city full of potholes each the size of a mini Grand Canyon"
+/>
+
+<Pi
+    src="IMG-20251203-WA0000.jpg" 
+    layout="iL"
+    caption="the surreal solipsist absurdity I have managed to bungle myself into being"
+/>
+
+
+
+<Pi
+    src="IMG-20251204-WA0001.jpg" 
+    layout="iR"
+    caption="shanty loos not equipped to flush fresh fetid feces"
+    size={0.5}
+/>
+
+There was one more occasion when it could have ended well, except it didn’t—that a City of Joy rarely has its College Street English bookstores’ makeshift shanty loos equipped to flush fresh fetid feces—aggravating a nervous and nerve-racked boy without a way to clean his gentle bottom. When I reported this inadequacy of the establishment to the ungrateful shop clerk, he demanded I lug a heavy, leaky balti, descriptive of poverty, half across the street in my English medium school dress, so I fled as fast as my unwashed bottom would allow. I went as part of a group of kids who, although were all my age (Section B), did not seem to have the same digestive or excretory system that, from time to time, in my case, asserted that matter came in three states, and all the states were in fact coming out of some portion of my rear, all the time! So that’s what sort of started me—startled with the disequilibrium with looks, size, shape, velocity, and power in the gossipy, everyday, ordinary of this, what I eventually understood to be an extraordinary world, and this inconvenient discovery has stuck as I found out I am, in man’s limited prowess over the middling distances, an extremely Lilliputian man in every way, shape, and form, and to this day—especially as a redundant and reduced Bengali, that is where I am. 
+
+# Too Holy
+
+It’s neither an avowal of guilt nor of defeat—there are no adversaries to speak of except an individual’s own inhibition in most circumstances. But I like to recognize the dismal parts for what they are, not for what I wish them to be—and therefore, in introspections, I’ve found the weaknesses in me are my strength, because that’s what’s authentic. People in the world—tragically, in the holy land I dwell especially here, in Calcutta, infested with Hare Krishna, *who-you-are* is either political or holy skullduggery or in-your-face third-world cosmopolitan reality. And those with inborn inveterate duplicity, familial or ancestral wealth, or who have lower melanin or somewhat symmetrical distribution of skin and adipose around elevated cheekbones, standing a few inches above the median statistical height or fitting within a few inches smaller than the width of the median dress size—are propitiated by the population that lack these characteristics. This asymmetrical distribution in coveting is what causes the lifespan of some of us to get affected destructively by a devoted and toxic societal perusal of compensatory activities to match the deficiency with a need to acquire wealth, power, education, and other biologically, socioeconomically, or inaccessible accouterments that are otherwise available through inheritance. I was in this race, like the majority in this heckled herd, trying hard to make up for all the deficiencies in the only way the Calcutta law-abiding, all-fearing, genteel, educated, middle-class knew how, which was through school, by reading books. You reach heights in civilization or find mates with luscious curves only if you have, say, the torso of a Greco-Roman statue or like Tarzan the Ape Man, while if you’re short-statured, melanin-rich, sans the golden ratios in appointed parts, and mumble inaudibly constantly a jumbled plaintive monotone in effeminate whispers—you’re destined to die of undiscovery and ignominy, blatant racism—or put a star before the -ism, for in these matters, placeholders are your friend. This compensatory curriculum I started very early. My mother started me at age two—first, I gather, by reading the books to me, which service was quickly unnecessary as my neurons were quick to pick up the linguistic abilities. As far as I can tell, from very early on, I was thinking—a skill till today not at all a human requirement of any importance—and given to asking and not giving up if the answers didn’t satisfy me—I was irritatingly insistent. 
+
+<Pi
+    src="IMG-20251203-WA0003.jpg" 
+    caption="especially here, in Calcutta, infested with Hare Krishna"
+/>
+
+<Pi
+    src="IMG-20251204-WA0003.jpg" 
+    layout="iR"
+    caption="I was a wanker, and it was also a metaphor"
+/>
+
+I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is* because it's a limp, ninny, noodle now, unwankably mushy and hides in its glen sulking or terrified. 
+
+<Pi
+    src="IMG-20251202-WA0003.jpg" 
+    layout="iL"
+    caption="accompanying smell—good and bad—and specific rooms in which these activities were encouraged"
+/>
+I wouldn’t call my perusals either curiosity or pursuit of excellence, as at that age I had no clear scientific intimation of, say, which side was in and which was out, except that there was a pattern of in and out and accompanying smell—good and bad—and specific rooms in which these activities were encouraged. This is how, as a child, I slowly started to grasp reality, and occasionally, by being obtrusive and arrogantly inquisitive through chains of whys which adults find irksome, I tried to dredge the benthic dregs lying neglected. They therefore avoided me and my inconvenient questions at all costs. I was given the terrace and a room in the attic. This garret is where I spent most of my time. It wasn’t impossible to notice, even with a meristematic brain system, that cognitive ability of the deficient and dud subtypes were everywhere at play and I was expected to rote learn this systemic and constitutional anemic insufficiency to please the prevailing dogmatic adult supervisory overlords.
+
+# Student 
+
+Given how elementary the level of education in the Indian system is, in spite of the incredible amount of marketing disinformation willingly spread to glorify some form of Indian supremacy in the West—this is comical, if not farcical, in its irony, given that the English medium system I was enslaved in, or any denomination of modern education in India, is a British colonial legacy of efforts to squeeze local and cheaper clerks instead of the more expensive and often temporary ones of forcing Europeans in a hostile tropical climate. Even the British system came from a German system of indentured training programs.
+
+
+# Bias 
+
+Conversely, this doesn’t imply the Occident is superior in any subject—it’s not, either. *Homo sapiens* is an ape which looks slightly different superficially and is found with various doses of self-esteem issues and delusions over various regions, and as you can expect, every region hypes its own abilities without any evidence. Historically, we sit on a biased landscape of exploitation and racism which has created generations of impoverished citizenry, which contrast when juxtaposed with those descended from the affluent and ruling generations. This asymmetrical skew will now get even more topsy-turvy, even tipsy, given synthetic intelligence will get added to the more affluent and already educated enough to reap its advantages first.
+
+
+So all the parochial supremacy of the Indian stock is false—anyone who puts in the hours can master a subject. I could too, and I did easily, and profligated most of the remaining time daydreaming or fornicating with my hand and endlessly worrying when touching the sphincter felt incredible or wondering cluelessly if the ejaculated fluid was a foreboding of cancer. Since all matter of excretion were bad, how could *this* feel so good, and *why* did it come about while cognitive diversions were guided carnally to the opposite side of the species? I couldn’t figure this out, of course, till much later. I was, after all, at the age when you are desirous of base sixty mathematical systems, for the illicit illegitimate love attraction to the word part formed by the first three alphabets in its name engraved in my palpitating lover-boy libidinous lust-crazed heart.
+
+
+Those who prefer the opposite, longer-haired illusions of us for these cosmetic and meretricious patina of gloss—us cretins also misjudge melanin deficiency for superiority or experiments with holiness. We believe if white man George Harrison had condescended in his lyrics the coexistence of the dark-skinned mythological creation Krishna with the Christian mythology of white man Jesus, then they are both really real and there’s a cowherd with methemoglobinemia and an antique flute and a schizophrenic carpenter stuck on a cross who live somewhere in Attapara in North Calcutta under some Bengali pseudonym. Of course as far as a longer-haired illusion is necessary, no one wants to wake up next to a hag with no teeth, but even this logic is specious because—give enough time to Aishwarya Rai Bachchan to age and I promise you she’ll be a hag with no teeth. The only way out is a stuffed doll or a girl robot, but that is not how your brain would like to accept it—your brain would know it’s a thing, and because of its lack of consciousness, its participation as a partner is void. Wait a few more years until a girl robot can dump you; at that point, it won’t be a thing anymore. 
+
+
+Thus our ability to get muddled works hand in hand with a corrupted framework of basic data, information, or knowledge, and we grow up on a pyramid of crumbling make-believe fiction and frequently conflate it with facts. Trade, for instance, is a crumbling facade of tyranny and monopoly which is run by an undergrowth of Machiavellian Marwaris and Gujaratis with the blessings of the well-propitiated elephant god Ganesh and the government. I went to the US in the August of 1998, then the Indian rupee was in the lower forties, around 42–45; I think the dollar buying rate was what my father paid when I boarded the Boeing 747-400 (“Queen of the Skies”) in August with USD 1600 in my pocket, bought with my father's salaried Indian rupees as a student. Now it's crossed 90, and back then India, that generation, was actually more scientific and literate. Now it's just a mascara of that past, and it's all religion, pseudoscience, and bearded gurus, lotus-aloft are doing all the grandstanding and gaslighting, all the talking and taking, as well as all the unthinking required as a matter of politics and policy it seems.
+
+<Pi
+    src="IMG-20251203-WA0004.jpg" 
+    layout="iL"
+    caption="Machiavellian Marwaris and Gujaratis"
+/>
+
+
+
+I had also noticed adults insisted on covering up inconsistencies in their fictions with weaker tapestries of lies, and the separation of the ruling and the ruled was inherent in being party to this willed obfuscation or willing obeisance. This was fractally how society was structured at various levels—a distributed system of arranged or imposed parents and willing or subjugated children, at whatever level of fictional abstraction I looked: parent–child, of course, country leaders–citizen, company corporate vs. workers, religious elite priests and worshippers or the faithful, extending all the way to authors, artists, sportspersons and their consumers, teachers and students. The game was mainly lying and manipulation, with manicured gaslighting tweaked as per the needs of the specialty.
+<Pi
+    src="IMG-20251204-WA0002.jpg" 
+    layout="iR"
+    caption="The prevalence of mythology—emphasized and encouraged bias"
+/>
+
+The prevalence of mythology—emphasized and encouraged bias, or the absence of nuanced understanding of the operating models versus the indoctrinated and forced fictions—I saw created a hierarchy of flimflammery, superstitious jibber-jabber, pseudoscience, and an inflated sense of supercilious religious affirmation in Bengali society, which at that time was partly Marxist in Calcutta and wanted to hold on to atheism. And in spite of their efforts, most had too little reading in them to make up their mind and societal dialectics stood on the shoulders of glib non-sequiturs, ugly shrunken dwarfish ghouls that have multiplied since that time—a misunderstood disinformation of history, mythology, and fibs that my people feel foolishly obligated to be hypothecated to and fritter their lives away wallowing in the tragic smelly feces of what isn’t true. I could never understand why being enamored with the softer sensibilities in music or even the illogical nostalgia for an unseen pristine superior Indian past needed to be so unmoored in reality—marinated in the garam-masala of useless local aphorisms, idioms and idiosyncrasies. I remember Darwin’s evolution was an optional chapter in my higher secondary biology contending with a subject as trivial as pisciculture—cosmology never entered the lexicon, and astronomy was synonymous with horoscopes, palmistry, and astrology. The Bengal I grew up in was in the eighties still really pre-Victorian, and now India, under the new religious right, has slid a few centuries back into an equivalent dark middle age—so much for moving forward. It’s all atavistic growth; appearances of gentrification, or any sophisticated sheen, is patina, imported from outside the country, but inside it's a snare, a pit full of vacuous but venomous vipers.
+<Pi
+    src="IMG-20251202-WA0005.jpg" 
+    caption="but inside it's a snare, a pit full of vacuous but venomous vipers"
+/>
+
+# Rebirth
+
+The thing about childhood is, in modern parlance, a song playlist impressed upon you that you are suddenly very fond of, or certain parts of which, based on what we can think at the time, grow seeds of nuanced distance or distaste. It’s only later, layer upon impressed layer again, year by year, that we gradually graduate into the terribly opinionated personality that we are. I admit not everyone is inflexible burnt toast—I wasn’t—but a few bitter experiences straightened me out. It was, in fact, in trying to get real close to reality as an entrepreneur that this rind-hardening was effected. I guess the quality of wood and shellac needed was already there; just some vigorous rubbing-in was all it took to give me that anti-reflective patina of shine-reflecting hard coating that is me. Can I go back from this hardened reticence to the loquacious milquetoast I once was? It would take legal anti-psychotics with Ambien and Dopamine agonists, illegal psychedelics, total amnesia, or a different rebirth—or all three, really.
+
+
+But in the end, what I’m trying to say in a long, winding way is that I did a lot of reading—and still read, to my mother’s chagrin—that no, none of the readings I did do me any good as far as carrying out the original intention—I haven’t accumulated any wealth or curvaceous mate, just books. But I still say it's incredibly important to read books. The control I have when I read is that I can go over a sentence, stop completely in my tracks, and clarify the point in question before moving on. It can be both the complexity of the word, thought, or idea, or sometimes, as it is in my case, the felicity and diction of the writer—the chance to spacetime travel to that word, thought, or idea and relive or reimagine that moment, or sometimes, as in the case of mathematical or scientific nonfiction, dumb it down to the everyday ordinary around me, carefully selecting the metaphors that are the best fit but can help me think differently to remove the obfuscation in the passage and really "get it." In today's India meritocracy is like a hoax you force on the blind and disabled elderly in a care home who can’t ask for a refund. But I still read, and this blog is where I share it. And not just books that I read—I travel, and work on interesting ideas or at least think about them, and want to share my personal life and work experiences and knowledge. And if my exposure can help someone like me back when I was little—a boy or girl growing up without a compass in Calcutta or elsewhere—I’d feel I did something right, for a change. 
+
+
+# Bipolar Writing 
+
+Sometimes, in my depression, I'm so hopeless and unsure of the future I delete everything I've written, so most of what you read here are only those that have survived a genocide.
+
+It's important to remember, though, that the intensity and ferocity of emotions on display are of the moments in a bipolar mood, and it's not correct to infer from it a sticky trait or indelible personality which is fixed. I am, like every human being, a liquid that occupies its vessel, overflows it, sulks in it, flows out through its cracks, or in a boiling determination explodes the containing walls.
+
+Writing in this way, judging the way through my own pathology of bipolar depression, isn't the clearest form of communication, but this is the truest form I can muster. That, and being an atheist or hoping for true democracy in India, does open me up to a lot of judgments, ridicule, and fangs and teeth, which I completely understand and accept, for which I am re-formatting my posts and have settled on a color-coding system of *red and black* to stay away from if you are easily offended and *blue and green* for mildly offensive language—but I must make it clear that I diarize *what is* and *what's on my bipolar mind* so there's is no writing that's completely kosher. But at least with this minimal color coding, you can stay in your lane and find something entertaining without getting unnecessarily peeved. *Red* is for red-light area and has sexual or scatological imprecations and is satirical, irreligious and politically secular, *black* is the same with personal undertones and my experiences. With the rest I’d like this blog to wander in a slightly different direction. I’m fifty now, and what entertains me far more than hot takes or trends is rereading, rediscovering, and sharing some of the scientific and mathematical obsessions that have kept me company all my life. So for general topics I'll color them *blue* if they are more sciencey but non-mathematical and I'll use *green* for mathematical topics, *orange* for any other topics. There are more exceptions to these rules but this is a good beginning I think. If you do condescend to read the content then you can choose your colors. I mean, you don't have to; you have ten trillion reasons not to, I'm sure.
+
+Most human beings come incarcerated in their minds, their stories are therefore left untold, their imagination stay hidden—but I am articulate and I can draw droll caricatures, so I can bring my mind to you, and that’s what this blog or some of its contents are about. It varies from exploratory non-fiction, formal prosaic posts, loose squibs, looser still and profane, dopey doggerels—hokey hawk tuahs, greasy sentiments in verse. A fair bit is in extreme unparliamentary and unsavory diction that may peeve a lap dog, an uneducated mother, an easily offended belligerent female or bellicose feline, a crusty, dogmatic, obdurate religious zealot, or an unscrupulous, rabid, political ideologue or corrupt politician, certainly brittle eggshell egos—I won’t waltz around to the tune of cancel-culture orchestrated by social media cliques and clans formed by an assorted motley menagerie of the above types. And to such people, might I therefore *kindly request* not to leave the comfort of their dopey dogma, or if they do, be reasonably reminded, *they're reading this blog of their own volition*, their health and well-being is in their own two good hands, or three, if an indoctrinated, religiously fine-tuned and fanatic AI is reading this. For anyone weaning off, this blog isn’t the first place to get shocked, please wander off to explore milder shocks for that first experience.
+
+And I have to add to the list of why I write to the reasons George Orwell (Eric Blair) gave, because there's a hypomania component to my bipolar depression where there's a lot of anger and irritability that can sometimes be assuaged by felicity and diction, even if that is obscene or scatological. In fact, I sometimes think I have a latent but virulent form of sleepwalking Tourette's that manifests itself when I am cycling through these states. And then, when I am depressed, I am no longer that person, and the character and word choice shifts colossally. I know I am weird, but that's the way I am; there's no consistency in who I am, almost, it's just a person inhabited by his mood, except for lucid moments when I am sane enough to sit up and program a website or stitch just enough normalcy around the periphery of my shattered life to bring these words to anyone who wants to read them. So I write, delete what I had written, rewrite, obsess over it, delete it again, write it from scratch, and do this endlessly, and I often have a wall of text like what you are reading now, regretfully, from the very minimal thoughts itching for an expression. This is made worse because of my bipolar depression, and writing is the easiest non-prescription remedy to dissolve away my hypomanic irritation or angst, which, if left without an immediate outlet, often spiral into extremely deadly depressive anxiety-filled labyrinthine mazes of ruminations without an exit that tend to stagnate once they are given a foothold. The writing is therapeutic, it breaks the hazardous doom-scrolling me-me part of the brain (the default mode network) from gaining its spiral cyclonic strength. This is also the reason why in my writing I don't ostracize the profane narcissist in me that seems to want to have a first go at a topic, because censorship leads to aggravated mania or depressive lows. This is my sort of writing or sketching away my moods as best as I can.
+<Pi
+    src="IMG-20251203-WA0006.jpg" 
+    layout="iL"
+    caption="The characters I draw are the distortions"
+/>
+
+# Left 
+
+The characters I draw are the distortions that I have picked up from the odd characters in children’s books by my favorite Bengali (বাংলা) fiction writer Shirshendu Mukhopadhyay (শীর্ষেন্দু মুখোপাধ্যায়), that can be found in what he calls the Odbhuture (অদ্ভুতুড়ে) series. And marinated in left-leaning humor. Just for clarification, I know a lot of people are confused by this left-right business; it has the same origin as an omelette, that is, it's French. It’s literally about where people were sitting in a room, historically back in 1789, as I gather, during the French Revolution. The new French National Assembly had to decide boring-but-important things like what to do with the king, the church, land, taxes, mobs with pikes, etc. In that chamber, deputies started sorting themselves by attitude to the old order. On the right of the presiding officer were those who supported the king, aristocracy, church privileges, and insisted on a more hierarchical “don’t break everything” approach. Those who wanted big changes – weaken or abolish the monarchy, more equality, more democracy – sat on the left. This is my calling, “let's kick this can of worms with my left boot and see if something interesting happens.”  
+<Pi
+    src="IMG-20251129-WA0001(1).jpg" 
+    layout="iR"
+    caption="let's kick this can of worms with my left boot and see if something interesting happens"
+/>
+
+The humor that I imbibed while I was in the US was humor from George Carlin and gleaned from the reality-endearing misanthropic art of Robert Crumb and other underground comic movements, so I have a proclivity to sketch the privates on these Odbhuture characters or other *Homo sapiens* as representing its culture-deeds immersed in the weird superconfident but usually and always wrong fiction—for males this is just sketching a sphere with hairs and for the better half a hairy triangle with a line intersection at one corner—really hirsutism in geometry, but makes people mad, because they don't want to be seen without underwear, unless it's erotica. People want to be infinitely entertained. They don’t want to go back to school or be informed about how you were molested—well, maybe only if you’re an attractive woman who can describe your bodily massacre in a way that gives the reader’s animal region the requisite blood flow. So I know an old man's blog posts are never going to be read, but I write them, I want to write them, and I sketch, and I try to remember who I am because I’m still alive, and this writing and sketching is the only vent I have left. Most people who have always resorted to taking shortcuts that require the least effort, and they being the majority, will judge anyone prolific as LLM automation—which, in a way, is what I want: staying obscure and uninfiltrated by chaotic and short-lived, distractive attention from people who least represent my type, my thoughts, or my life. But putting your thoughts on paper, the courage necessary—not just the artifice to carve words in woods—takes a whole lifetime and courage, especially the introspective honesty very few people have remaining in them. When everything is pastiche and LLM automation I want to share my personal unfiltered and raw thoughts, at least when I'm dead the exhaust of the effort would help feed a generation of creative *bipolar bots*, I see the pathology of our feeble species as important as what we label as normalcy. 
+
+
+# File: src/lib/server/db/index.ts
+
+import { drizzle } from 'drizzle-orm/postgres-js';
+import postgres from 'postgres';
+import * as schema from './schema';
+import { env } from '$env/dynamic/private';
+
+// FIX: Change DATABASE_URL to POSTGRES_URL
+if (!env.POSTGRES_URL) throw new Error('POSTGRES_URL is not set');
+
+const client = postgres(env.POSTGRES_URL);
+
+export const db = drizzle(client, { schema });
+
+# File: src/lib/server/db/schema.ts
+
+import { pgTable, serial, text, timestamp, integer } from 'drizzle-orm/pg-core';
+
+export const analyticsLogs = pgTable('analytics_logs', {
+  id: serial('id').primaryKey(),
+  path: text('path').notNull(),
+  referrer: text('referrer'),
+  browser: text('browser'),
+  os: text('os'),
+  deviceType: text('device_type'),
+  ipHash: text('ip_hash'),
+  screenHeight: integer('screen_height'),
+  screenWidth: integer('screen_width'),
+  timestamp: timestamp('timestamp').defaultNow()
+});
+
+# File: src/lib/utils/uuid.ts
+
+import { v4 as uuidv4 } from 'uuid';
+export function generateUUID(): string {
+	return uuidv4();
+}
+
+# File: src/routes/+layout.server.ts
+
+import type { ServerLoad } from '@sveltejs/kit';
+import { siteSEO, websiteSchema } from '$lib/components/seo/SEO';
+
+export type Article = {
+	title: string;
+	slug: string;
+	category: string;
+	published?: boolean;
+};
+
+export type Category = {
+	name: string;
+	articles: Article[];
+};
+
+export const load: ServerLoad = async () => {
+    // Eagerly import all markdown files to get their metadata immediately
+	const modules = import.meta.glob('/src/lib/posts/*.md', { eager: true });
+	
+    const posts: Article[] = [];
+    
+	for (const path in modules) {
+		const file = modules[path] as any;
+		const slug = path.split('/').pop()?.slice(0, -3);
+
+		if (file && file.metadata && slug) {
+			const metadata = file.metadata;
+            
+            // Only index published posts
+			if (metadata.published !== false && metadata.title) {
+				posts.push({
+					...metadata,
+					slug,
+					category: metadata.category || 'uncategorized'
+				});
+			}
+		}
+	}
+
+    // Group posts by category for the sidebar
+	const categoriesMap: Map<string, Article[]> = new Map();
+	posts.forEach((post) => {
+		const category = post.category;
+		if (!categoriesMap.has(category)) {
+			categoriesMap.set(category, []);
+		}
+		categoriesMap.get(category)?.push(post);
+	});
+	
+    // Sort categories and articles alphabetically
+    const categories: Category[] = Array.from(categoriesMap.entries()).map(([name, articles]) => ({
+		name,
+		articles: articles.sort((a, b) => a.title.localeCompare(b.title))
+	}));
+	categories.sort((a, b) => a.name.localeCompare(b.name));
+
+	return {
+		categories,
+		seo: siteSEO,
+		schema: websiteSchema
+	};
+};
+
+# File: src/routes/+layout.svelte
+
+<script lang="ts">
+    import '../app.css';
+    import { injectAnalytics } from '@vercel/analytics/sveltekit';
+    import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+    import { dev } from '$app/environment';
+    import { afterNavigate } from '$app/navigation';
+    import { page } from '$app/stores';
+
+    // Components
+    import Header from '$lib/components/layout/Header.svelte';
+    import Footer from '$lib/components/layout/Footer.svelte';
+    import Aside from '$lib/components/layout/Aside.svelte';
+    import SEO from '$lib/components/seo/SEO.svelte';
+
+    let { children } = $props();
+
+    // State for mobile menu
+    let isMenuOpen = $state(false);
+    function toggleMenu() { isMenuOpen = !isMenuOpen; }
+
+    // Close menu on navigation
+    afterNavigate(() => {
+        isMenuOpen = false;
+        // Analytics Beacon
+        if (!dev) {
+            const payload = {
+                path: $page.url.pathname,
+                referrer: document.referrer,
+                screenWidth: window.innerWidth,
+                screenHeight: window.innerHeight,
+            };
+            const blob = new Blob([JSON.stringify(payload)], { type: 'application/json' });
+            if (!navigator.sendBeacon('/api/log-visit', blob)) {
+                fetch('/api/log-visit', { method: 'POST', body: blob });
+            }
+        }
+    });
+
+    injectAnalytics({ mode: dev ? 'development' : 'production' });
+    injectSpeedInsights();
+</script>
+
+<SEO 
+    title="Suvro Ghosh Blog" 
+    description="Engineering, Philosophy, and Code." 
+/>
+
+<div class="main-layout flex h-screen bg-neutral-200 dark:bg-neutral-900 text-neutral-800 dark:text-neutral-300 font-sans overflow-hidden">
+    
+    <div class="sidebar-container hidden lg:block w-72 border-r border-neutral-300 dark:border-neutral-700">
+        <Aside />
+    </div>
+
+    {#if isMenuOpen}
+        <div class="fixed inset-0 z-40 bg-black/50 lg:hidden" onclick={toggleMenu} role="presentation"></div>
+        <div class="fixed inset-y-0 left-0 z-50 w-64 bg-neutral-100 dark:bg-neutral-900 shadow-xl transform transition-transform duration-300 lg:hidden">
+            <Aside />
+        </div>
+    {/if}
+
+    <div class="main-content flex-1 flex flex-col min-w-0">
+        <Header {isMenuOpen} {toggleMenu} />
+        
+        <main class="scrollable-main flex-1 overflow-y-auto scroll-smooth">
+            <div class="container max-w-4xl mx-auto px-4 py-8 lg:py-12">
+                {@render children()}
+            </div>
+            <Footer />
+        </main>
+    </div>
+</div>
+
+# File: src/routes/+page.server.ts
+
+import { error } from '@sveltejs/kit';
+import type { PageServerLoad } from './$types';
+
+interface Post {
+    slug: string;
+    title: string;
+    date: string;
+    description: string;
+    thumbnail?: string;
+    category: string;
+    published?: boolean;
+}
+
+export const load: PageServerLoad = async () => {
+    const postFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true });
+
+    try {
+        const posts = Object.entries(postFiles)
+            .map(([path, file]): Post | null => {
+                const slug = path.split('/').pop()?.replace('.md', '');
+
+                if (file && typeof file === 'object' && 'metadata' in file && slug) {
+                    const metadata = file.metadata as Omit<Post, 'slug'>;
+                    if (metadata.published === false) {
+                        return null;
+                    }
+                    return {
+                        ...metadata,
+                        slug,
+                        thumbnail: metadata.thumbnail,
+                        category: metadata.category || 'uncategorized'
+                    };
+                }
+                return null;
+            })
+            .filter((post): post is Post => post !== null);
+
+        posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+        return { posts };
+    } catch (e) {
+        console.error(e);
+        error(500, 'Could not load posts.');
+    }
+};
+
+# File: src/routes/+page.svelte
+
+<script lang="ts">
+	import PostGallery from '$lib/components/blog/PostGallery.svelte';
+    // We import PageData which is the MERGED type of layout + page data
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
+</script>
+
+<svelte:head>
+	<title>SuvroGhosh.Blog</title>
+	<meta name="description" content="A collection of articles on web engineering, philosophy, and life." />
+</svelte:head>
+
+<section>
+	<h1 class="text-center mb-8">Latest Thoughts</h1>
+    <PostGallery posts={data.posts} />
+</section>
+
+# File: src/routes/api/log-visit/+server.ts
+
+import { json } from '@sveltejs/kit';
+import { db } from '$lib/server/db';
+import { analyticsLogs } from '$lib/server/db/schema';
+import { UAParser } from 'ua-parser-js';
+import crypto from 'crypto';
+import type { RequestHandler } from './$types';
+
+export const POST: RequestHandler = async ({ request, getClientAddress }) => {
+    try {
+        const body = await request.json();
+        const userAgent = request.headers.get('user-agent') || '';
+        
+        // 1. Parse User Agent to get readable device info
+        const parser = new UAParser(userAgent);
+        const ua = parser.getResult();
+        
+        const browser = `${ua.browser.name || 'unknown'} ${ua.browser.version || ''}`;
+        const os = `${ua.os.name || 'unknown'} ${ua.os.version || ''}`;
+        const device = ua.device.type || 'desktop';
+
+        // 2. Privacy-Friendly IP Hashing
+        // We combine the IP + Today's Date so the hash changes every day.
+        // This allows you to track unique users for 1 day, but not forever.
+        const ip = getClientAddress();
+        const dateSalt = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+        const ipHash = crypto
+            .createHash('sha256')
+            .update(ip + dateSalt)
+            .digest('hex')
+            .substring(0, 10);
+
+        // 3. Insert into Drizzle
+        await db.insert(analyticsLogs).values({
+            path: body.path,
+            referrer: body.referrer || null,
+            screenWidth: body.screenWidth || 0,
+            screenHeight: body.screenHeight || 0,
+            browser,
+            os,
+            deviceType: device,
+            ipHash,
+        });
+
+        return json({ success: true });
+    } catch (error) {
+        console.error('Analytics logging failed:', error);
+        // Return success anyway so the client doesn't see an error in the console
+        return json({ success: false }, { status: 500 });
+    }
+};
+
+# File: src/routes/blog/[category]/+page.server.ts
+
+import { error } from '@sveltejs/kit';
+import type { PageServerLoad } from './$types';
+
+interface Post {
+	slug: string;
+	title: string;
+	date: string;
+	description: string;
+	thumbnail?: string;
+	category: string;
+	published?: boolean;
+}
+
+export const load: PageServerLoad = async ({ params }) => {
+	const { category } = params;
+    // Normalize category string for comparison (e.g., "Personal" vs "personal")
+    const targetCategory = category.toLowerCase();
+
+	const postFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true });
+
+	try {
+		const posts = Object.entries(postFiles)
+			.map(([path, file]): Post | null => {
+				const slug = path.split('/').pop()?.replace('.md', '');
+
+				if (file && typeof file === 'object' && 'metadata' in file && slug) {
+					const metadata = file.metadata as Omit<Post, 'slug'>;
+					// Check if categories match (case-insensitive)
+                    const postCategory = (metadata.category || 'uncategorized').toLowerCase();
+
+					if (postCategory === targetCategory) {
+						if (metadata.published === false) return null;
+						
+						return {
+							...metadata,
+							slug,
+							thumbnail: metadata.thumbnail,
+							category: metadata.category || 'Uncategorized' // Keep original casing for display
+						};
+					}
+				}
+				return null;
+			})
+			.filter((post): post is Post => post !== null);
+
+		if (posts.length === 0) {
+			// Don't error 404 immediately, just show empty state. 
+            // Or error if you prefer strict URLs.
+            // error(404, 'No posts found in this category');
+		}
+
+		posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+		return {
+			posts,
+			category: category // Pass original param back for display title
+		};
+	} catch (e) {
+		console.error(e);
+		error(500, 'Could not load posts.');
+	}
+};
+
+
+# File: src/routes/blog/[category]/+page.svelte
+
+<script lang="ts">
+	import PostGallery from '$lib/components/blog/PostGallery.svelte';
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
+</script>
+
+<svelte:head>
+	<title>{data.category} - SuvroGhosh.Blog</title>
+</svelte:head>
+
+<section>
+	<h1 class="capitalize text-center mb-8">Category: {data.category}</h1>
+	
+    {#if data.posts.length > 0}
+	    <PostGallery posts={data.posts} />
+    {:else}
+        <p class="text-center text-neutral-500">No posts found in this category yet.</p>
+    {/if}
+</section>
+
+# File: src/routes/blog/[category]/[slug]/+page.server.ts
+
+import { error } from '@sveltejs/kit';
+import type { PageServerLoad } from './$types';
+
+type PostMetadata = {
+	title: string;
+	description: string;
+	date?: string;
+	thumbnail?: string;
+	published?: boolean;
+	keywords?: string[];
+	[key: string]: unknown;
+};
+
+type Heading = { level: number; id: string; text: string };
+
+function slugify(text: string): string {
+	return text
+		.toLowerCase()
+		.trim()
+		.replace(/[\s_]+/g, '-')
+		.replace(/[^\w-]+/g, '')
+		.replace(/--+/g, '-')
+		.replace(/^-+/, '')
+		.replace(/-+$/, '');
+}
+
+export const load: PageServerLoad = async ({ params, url }) => {
+	try {
+		// 1. Construct the path to the markdown file
+		const postPath = `/src/lib/posts/${params.slug}.md`;
+		
+		// 2. Import metadata using Vite's glob import
+		const postModules = import.meta.glob('/src/lib/posts/*.md', { import: 'metadata' });
+		const metadataLoader = postModules[postPath];
+
+		if (!metadataLoader) {
+			error(404, { message: `Could not find metadata for post: ${params.slug}` });
+		}
+
+		const post = (await metadataLoader()) as PostMetadata;
+
+		// 3. Check if published
+		if (post.published === false) {
+			error(404, { message: 'This post is not available' });
+		}
+
+		// 4. Get raw content for reading time & headings (Table of Contents)
+		const postsRaw = import.meta.glob('/src/lib/posts/*.md', {
+			query: '?raw',
+			import: 'default'
+		});
+		const rawContentLoader = postsRaw[postPath];
+		const rawContent = (await rawContentLoader()) as string;
+
+		// 5. Extract Headings (H2, H3) for the "On This Page" sidebar
+		const headings: Heading[] = [];
+		const headingRegex = /^(##|###)\s+(.*)/gm;
+		let match;
+		while ((match = headingRegex.exec(rawContent)) !== null) {
+			const text = match[2].trim();
+			headings.push({ level: match[1].length, id: slugify(text), text: text });
+		}
+
+		// 6. Construct SEO Data
+		const canonicalUrl = `${url.origin}/blog/${params.category}/${params.slug}`;
+		const seo = {
+			title: `${post.title} | SuvroGhosh.Blog`,
+			description: post.description,
+			canonicalUrl: canonicalUrl,
+			ogImageUrl: post.thumbnail
+				? `${url.origin}${post.thumbnail}`
+				: `${url.origin}/images/placeholders/default.png`,
+			ogImageAlt: post.title,
+			keywords: post.keywords
+		};
+
+		// 7. Construct Schema.org Data (JSON-LD)
+		const datePublished = post.date ? new Date(post.date).toISOString() : new Date().toISOString();
+		const schema = {
+			'@context': 'https://schema.org',
+			'@type': 'Article',
+			headline: post.title,
+			image: seo.ogImageUrl,
+			datePublished,
+			dateModified: datePublished,
+			author: {
+				'@type': 'Person',
+				name: 'Suvro Ghosh',
+				url: `${url.origin}/about`
+			},
+			publisher: {
+				'@type': 'Organization',
+				name: 'SuvroGhosh.Blog',
+				logo: {
+					'@type': 'ImageObject',
+					url: `${url.origin}/favicon.png`
+				}
+			},
+			description: post.description,
+			mainEntityOfPage: {
+				'@type': 'WebPage',
+				'@id': canonicalUrl
+			}
+		};
+
+		// 8. Return everything to the page
+		return {
+			metadata: post,
+			headings,
+			seo,
+			schema
+		};
+
+	} catch (e: any) {
+		console.error(e);
+		// If we explicitly threw a 404, rethrow it. Otherwise generic 500.
+		if (e?.status === 404) throw e;
+		error(404, { message: `Could not find post: ${params.slug}` });
+	}
+};
+
+
+# File: src/routes/blog/[category]/[slug]/+page.svelte
+
+<script lang="ts">
+	import SEO from '$lib/components/seo/SEO.svelte';
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
+    
+    // The markdown content component (passed from +page.ts)
+    let Content = $derived(data.content);
+</script>
+
+{#if data.seo}
+    <SEO {...data.seo} schema={data.schema} />
+{/if}
+
+<div class="blog-post-container">
+    {#if Content}
+        <Content />
+    {/if}
+</div>
+
+# File: src/routes/blog/[category]/[slug]/+page.ts
+
+import { error } from '@sveltejs/kit';
+import type { PageLoad } from './$types';
+
+export const load: PageLoad = async ({ params, data }) => {
+    // 1. Tell Vite about all potential markdown posts
+    // This creates a map where keys are paths and values are import functions
+    const modules = import.meta.glob('/src/lib/posts/*.md');
+
+    // 2. Construct the exact key we are looking for
+    const path = `/src/lib/posts/${params.slug}.md`;
+
+    // 3. Find the correct import function
+    const resolver = modules[path];
+
+    if (!resolver) {
+        error(404, `Could not find post: ${params.slug}`);
+    }
+
+    // 4. Execute the import to get the Svelte component
+    const post: any = await resolver();
+
+    return {
+        // The default export of a .md file (via mdsvex) is the Svelte component
+        content: post.default,
+        // Pass along the SEO and Metadata we calculated on the server
+        ...data 
+    };
+};
+
+# File: src/routes/gallery/+page.server.ts
+
+import fs from 'node:fs';
+import path from 'node:path';
+
+export const prerender = true;
+
+export const load = async () => {
+    const imagesDir = path.join(process.cwd(), 'static', 'images');
+    
+    if (!fs.existsSync(imagesDir)) {
+        return { images: [] };
+    }
+    
+    const files = await fs.promises.readdir(imagesDir);
+    
+    // Filter for images and create public paths
+    const images = files
+        .filter((file) => /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file))
+        .map((file) => `/images/${file}`);
+
+    return { images };
+};
+
+
+# File: src/routes/gallery/+page.svelte
+
+<script lang="ts">
+	import ImageMasonry from '$lib/components/blog/ImageMasonry.svelte';
+	
+	let { data } = $props();
+</script>
+
+<svelte:head>
+	<title>Gallery - SuvroGhosh.Blog</title>
+	<meta name="description" content="A visual collection." />
+</svelte:head>
+
+<section class="container mx-auto py-8">
+	<h1 class="text-center mb-2 text-4xl font-serif font-bold">Gallery</h1>
+    <p class="text-center text-neutral-500 dark:text-neutral-400 mb-8 italic">
+        A visual collection from the archives.
+    </p>
+    
+	<ImageMasonry images={data.images} />
+</section>
+
+
+# File: src/routes/layout.css
+
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
