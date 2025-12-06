@@ -1,6 +1,6 @@
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
-
+export const prerender = true;
 type PostMetadata = {
 	title: string;
 	description: string;
