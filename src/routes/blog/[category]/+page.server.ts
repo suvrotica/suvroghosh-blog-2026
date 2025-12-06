@@ -1,6 +1,8 @@
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
+export const prerender = true;
+
 interface Post {
 	slug: string;
 	title: string;
