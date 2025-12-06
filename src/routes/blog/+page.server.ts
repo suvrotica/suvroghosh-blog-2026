@@ -1,7 +1,6 @@
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
-// CRITICAL FIX: This allows the crawler to find this page when building /gallery
 export const prerender = true;
 
 interface Post {
