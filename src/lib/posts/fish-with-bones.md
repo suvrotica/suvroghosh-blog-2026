@@ -74,6 +74,11 @@ In America, where I spent some years between 1998 and 2014, I watched this bonel
 
 Back home, India was not far behind. We imported not just technology and fast food, but also the same algorithmic extraction of attention, the same weaponization of grievance, the same hunger for stories that flatter and absolve. Now we, too, are surrounded by boneless narratives about ourselves, some ancient, some new, many mutually contradictory, all demanding unwavering faith. To doubt them is to be labelled anti-national, anti-cultural, anti-whatever-the-current-keyword-is. In that climate, a person like me – sceptical, atheist, left-leaning, emotionally unstable – learns very quickly that it is safer to retreat to his room and negotiate with fish rather than with flags.
 
+<Pi
+    src="IMG-20251208-WA0001.jpg" 
+    caption="mermaid with bones"
+/>
+
 # Biology of Avoidance
 
 Psychology textbooks will tell you about conditioning, about learned avoidance, about how even a lab rat, after a few electric shocks, will choose to cower in the corner rather than explore. Human brains are fancier, more verbose, but not fundamentally different. I am essentially a talking rat who remembers too many shocks.
