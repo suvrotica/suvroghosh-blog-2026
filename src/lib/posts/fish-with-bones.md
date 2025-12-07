@@ -1,6 +1,6 @@
 ---
 title: "Fish Bones"
-thumbnail: "/images/IMG-20251202-WA0009.jpg"
+thumbnail: "/images/IMG-20251207-WA0036.jpg"
 description: "A fish-bone avoiding bengali ninny nincompoop no-one"
 category: 'personal'
 published: true
