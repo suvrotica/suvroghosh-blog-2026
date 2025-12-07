@@ -1,11 +1,16 @@
 ---
 title: "Fish Bones"
-thumbnail: "/images/IMG-20251207-WA0036.jpg"
+thumbnail: "/images/IMG-20251207-WA0036.jpg" 
 description: "A fish-bone avoiding bengali ninny nincompoop no-one"
 category: 'personal'
 published: true
 color: "black" 
 ---
+
+<Pi
+    src="IMG-20251207-WA0036.jpg" 
+    caption="fish with bones"
+/>
 
 There is a particular kind of silence that falls over a Bengali dining table when the fish arrives, the way a courtroom quiets when the judge enters, or a railway platform pauses just before the train finally pulls in; even the ceiling fan seems to develop a conscience and stop rattling for a second, as if it too respects the ritual of *maachh* and *bhaat*.
 
