@@ -136,7 +136,7 @@ And I have to add to the list of why I write to the reasons George Orwell (Eric 
 <Pi
     src="IMG-20251203-WA0006.jpg" 
     layout="iL"
-    caption="The characters I draw are the distortions"
+    caption="the profane narcissist in me"
 />
 
 # Left 
