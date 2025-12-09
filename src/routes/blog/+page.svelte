@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>All Posts - SuvroGhosh.Blog</title>
+    <title>All Posts - SuvroGhosh.In</title>
     <meta name="description" content="Browse all engineering and personal writings." />
 </svelte:head>
 

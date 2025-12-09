@@ -7,8 +7,8 @@
 
 <header class="border-b border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 transition-colors duration-300">
 	<div class="container mx-auto flex items-center justify-between p-4">
-		<a href="/" class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 hover:text-gold transition-colors">
-			SuvroGhosh.Blog
+        <a href="/" class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 hover:text-gold transition-colors">
+			SuvroGhosh.In
 		</a>
 
 		<div class="hidden md:flex items-center space-x-6">

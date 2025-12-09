@@ -1,4 +1,4 @@
-# Context file generated on: Saturday, December 6, 2025 at 11:45:00 PM GMT+5:30
+# Context file generated on: Tuesday, December 9, 2025 at 7:49:26 AM GMT+5:30
 ---
 
 # Project File Layout
@@ -43,7 +43,11 @@
 │   │   │       └── SEO.ts
 │   │   ├── index.ts
 │   │   ├── posts
-│   │   │   └── Reflections.md
+│   │   │   ├── fish-with-bones.md
+│   │   │   ├── hemlock.md
+│   │   │   ├── reflections.md
+│   │   │   ├── substances-simples.md
+│   │   │   └── was-atom-discovered-by-an-indian.md
 │   │   ├── server
 │   │   │   └── db
 │   │   │       ├── index.ts
@@ -59,6 +63,8 @@
 │       │   └── log-visit
 │       │       └── +server.ts
 │       ├── blog
+│       │   ├── +page.server.ts
+│       │   ├── +page.svelte
 │       │   └── [category]
 │       │       ├── +page.server.ts
 │       │       ├── +page.svelte
@@ -72,7 +78,14 @@
 │       └── layout.css
 ├── static
 │   ├── images
+│   │   ├── IMG-20251106-WA0003(2).jpg
+│   │   ├── IMG-20251109-WA0003(1).jpg
+│   │   ├── IMG-20251109-WA0006(1).jpg
+│   │   ├── IMG-20251126-WA0005.jpg
+│   │   ├── IMG-20251127-WA0001.jpg
+│   │   ├── IMG-20251129-WA0000.jpg
 │   │   ├── IMG-20251129-WA0001(1).jpg
+│   │   ├── IMG-20251129-WA0003.jpg
 │   │   ├── IMG-20251202-WA0003.jpg
 │   │   ├── IMG-20251202-WA0005.jpg
 │   │   ├── IMG-20251202-WA0009.jpg
@@ -85,9 +98,49 @@
 │   │   ├── IMG-20251204-WA0001.jpg
 │   │   ├── IMG-20251204-WA0002.jpg
 │   │   ├── IMG-20251204-WA0003.jpg
-│   │   └── List.txt
+│   │   ├── IMG-20251207-WA0000.jpg
+│   │   ├── IMG-20251207-WA0001.jpg
+│   │   ├── IMG-20251207-WA0002.jpg
+│   │   ├── IMG-20251207-WA0003.jpg
+│   │   ├── IMG-20251207-WA0004.jpg
+│   │   ├── IMG-20251207-WA0005.jpg
+│   │   ├── IMG-20251207-WA0006.jpg
+│   │   ├── IMG-20251207-WA0007.jpg
+│   │   ├── IMG-20251207-WA0008.jpg
+│   │   ├── IMG-20251207-WA0009.jpg
+│   │   ├── IMG-20251207-WA0010.jpg
+│   │   ├── IMG-20251207-WA0011.jpg
+│   │   ├── IMG-20251207-WA0012.jpg
+│   │   ├── IMG-20251207-WA0013.jpg
+│   │   ├── IMG-20251207-WA0014.jpg
+│   │   ├── IMG-20251207-WA0015.jpg
+│   │   ├── IMG-20251207-WA0016.jpg
+│   │   ├── IMG-20251207-WA0017.jpg
+│   │   ├── IMG-20251207-WA0018.jpg
+│   │   ├── IMG-20251207-WA0019.jpg
+│   │   ├── IMG-20251207-WA0020.jpg
+│   │   ├── IMG-20251207-WA0021.jpg
+│   │   ├── IMG-20251207-WA0022.jpg
+│   │   ├── IMG-20251207-WA0023.jpg
+│   │   ├── IMG-20251207-WA0024.jpg
+│   │   ├── IMG-20251207-WA0025.jpg
+│   │   ├── IMG-20251207-WA0026.jpg
+│   │   ├── IMG-20251207-WA0027.jpg
+│   │   ├── IMG-20251207-WA0028.jpg
+│   │   ├── IMG-20251207-WA0029.jpg
+│   │   ├── IMG-20251207-WA0030.jpg
+│   │   ├── IMG-20251207-WA0031.jpg
+│   │   ├── IMG-20251207-WA0032.jpg
+│   │   ├── IMG-20251207-WA0033.jpg
+│   │   ├── IMG-20251207-WA0034.jpg
+│   │   ├── IMG-20251207-WA0036.jpg
+│   │   ├── IMG-20251208-WA0001.jpg
+│   │   ├── IMG-20251208-WA0002.jpg
+│   │   ├── IMG-20251208-WA0003.jpg
+│   │   └── IMG-20251208-WA0005.jpg
 │   └── robots.txt
 ├── svelte.config.js
+├── TheApp.txt
 ├── tsconfig.json
 └── vite.config.ts
 
@@ -379,6 +432,7 @@ export {};
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" href="https://fav.farm/💩" />
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
@@ -395,7 +449,7 @@ export {};
 
 <script lang="ts">
 	import { fade } from 'svelte/transition';
-
+	
 	let { images = [] }: { images: string[] } = $props();
 
 	function getName(path: string) {
@@ -425,12 +479,12 @@ export {};
 					<div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300"></div>
 				</div>
 
-				<div class="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0">
+				<div class="absolute bottom-0 left-0 right-0 p-3 bg-linear-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0">
 					<p class="text-white text-xs font-bold truncate">
 						{getName(src)}
 					</p>
-					<p class="text-[var(--color-gold)] text-[10px] uppercase tracking-wider font-bold mt-0.5">
-						View Fullsize ↗
+					<p class="text-(--color-gold) text-[10px] uppercase tracking-wider font-bold mt-0.5">
+						Click to Open Fullsize ↗
 					</p>
 				</div>
 			</a>
@@ -443,7 +497,6 @@ export {};
 		<p>No images found in /static/images</p>
 	</div>
 {/if}
-
 
 # File: src/lib/components/blog/PostGallery.svelte
 
@@ -564,18 +617,22 @@ export {};
 
 <script lang="ts">
 	import { page } from '$app/stores';
-    
-    $: categories = $page.data.categories || [];
+	$: categories = $page.data.categories || [];
     $: currentPath = $page.url.pathname;
 </script>
 
 <aside class="h-full p-4 overflow-y-auto">
 	<nav class="space-y-8">
-        <div class="sidebar-group">
+        <div class="sidebar-group space-y-2">
 			<a href="/blog" 
-               class="sidebar-topic block mb-2 text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
                class:text-gold={currentPath === '/blog'}>
 				All Posts
+			</a>
+			<a href="/gallery" 
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class:text-gold={currentPath === '/gallery'}>
+				Gallery
 			</a>
 		</div>
 
@@ -620,7 +677,7 @@ export {};
 
 <script lang="ts">
 	let { isMenuOpen, toggleMenu } = $props<{ 
-        isMenuOpen: boolean; 
+        isMenuOpen: boolean;
         toggleMenu: () => void 
     }>();
 </script>
@@ -635,11 +692,13 @@ export {};
 			<a href="/blog" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
 				Blog
 			</a>
-			
+			<a href="/gallery" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
+				Gallery
+			</a>
 		</div>
 
 		<button
-			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800"
+			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800 cursor-pointer"
 			onclick={toggleMenu}
 			aria-label="Toggle menu"
 		>
@@ -772,7 +831,229 @@ export const websiteSchema: WithContext<WebSite> = {
 // place files you want to import through the `$lib` alias in this folder.
 
 
-# File: src/lib/posts/Reflections.md
+# File: src/lib/posts/fish-with-bones.md
+
+---
+title: "Fish Bones"
+thumbnail: "/images/IMG-20251207-WA0036.jpg" 
+description: "A fish-bone avoiding bengali ninny nincompoop no-one"
+category: 'personal'
+published: true
+color: "black" 
+---
+
+<Pi
+    src="IMG-20251207-WA0036.jpg" 
+    caption="fish with bones"
+/>
+
+There is a particular kind of silence that falls over a Bengali dining table when the fish arrives, the way a courtroom quiets when the judge enters, or a railway platform pauses just before the train finally pulls in; even the ceiling fan seems to develop a conscience and stop rattling for a second, as if it too respects the ritual of *maachh* and *bhaat*.
+
+On my childhood table the fish would appear in a metal bowl, steaming, aromatic, and sinister, like a friendly-looking visiting relative who you know is going to ask about your exam marks. The adults would lean in, eyes trained in the ancient art of deboning, their fingers moving with the unhurried efficiency of veteran surgeons; my role, as a scrawny, easily-traumatized boy, was to sit very still and attempt not to die.
+
+Because somewhere between the third mouthful and the inevitable second helping, there would come *that* moment: a sliver of bone, translucent and treacherous, sliding past the tongue’s radar and lodging itself halfway down the throat. The next few seconds were always the same – the sudden panic, the coughing fit, the watery eyes, the thumping on the back by a relative who believed the human respiratory system could be repaired by percussion, and the chorus of reassurances: “Ektu bhaat kheye nao, chole jabe” – which is Bengali for, “Swallow some rice and we’ll see.”
+
+You survive, of course. Children are resilient and apparently designed to be proof-of-concept prototypes for bad domestic hazard management. But something in the brain takes notes; some little cluster of neurons, doing their tedious Bayesian updates in the background, quietly raises the estimated probability that “fish with many bones” equals “imminent tracheal apocalypse,” and from then on, *that’s that*.
+
+Fast forward some decades and I am a fifty-ish, chronically underachieving, over-educated Bengali who likes fish in principle, in theory, in cultural alignment, but prefers in practice only those varieties that present a minimal chance of turning my dinner into an impromptu Heimlich tutorial. Give me the fillets, the neat steaks, the boring, low-risk species, the piscine equivalent of those soft-spoken people who will never ask you what your salary is or make you join a WhatsApp group.
+
+The rest – the legendary, bony, spine-with-flesh-attached types – I approach the way a traumatised soldier regards fireworks.
+
+Of course, this is not really about fish.
+
+# Bones as Policy
+
+There is a smug sentence you hear growing up in Bengal: *“Maachh-bhaat-e Bangali”* – the idea that a Bengali is essentially constructed from fish and rice, like some aquatic version of *Homo sapiens* uniquely optimized for monsoon, mildew, and moralizing. As with most identity slogans, it is charming and mildly fascistic at once: a mix of nutritional fact, cultural habit, and the usual pressure to conform. Love fish, they say. Love fish *this* way, in this configuration, with these bones and these rituals and this frightening aunt who polices whether you’re eating the head respectfully.
+
+When I say I like fish but prefer the ones with fewer bones, I can almost hear an invisible jury of ancestors tutting. To dislike bones is, in some circles, to confess a lack of character, the same way not liking football makes you suspect in other cultures. There is a puritanism to it: if you don’t endure the bones, do you really deserve the taste?
+
+You can see the same philosophy in Indian education. If you don’t swallow the entire bony structure of the syllabus – the pointless derivations, the badly explained theorems, the moral science lectures stuck between physics chapters like fish bones in curry – you are somehow less worthy of the degree. The idea that learning could be deboned, filleted, made more digestible without losing nutrition is treated as decadent, Western, suspiciously student-friendly.
+
+The British, of course, had a different fish in mind when they designed the whole apparatus. They wanted clerks – reliable, repetitive, grammatically house-trained – who could copy numbers and letters from one ledger to another without too many original thoughts getting stuck in the system. A clean boneless workforce, pre-processed and easy to swallow for the imperial digestive tract. The fact that we still swear by this system long after the original eater left the table is one of those postcolonial jokes that stops being funny once you realise your own life is the punchline.
+
+# Once Pricked, Avoid Shrubbery
+
+My relationship with bones – fish or otherwise – follows a very simple algorithm: one memorable injury, then a lifetime of exaggerated caution. I get pricked once and my brain, like a badly tuned alarm system, decides that *all shrubs are now suspect*.
+
+I choked on fish as a child, so now I audit fish like a nervous tax inspector. I had one particularly humiliating romantic disaster in my twenties, so I now approach adult relationships like they are unexploded landmines from a war I didn’t even fight in. A minor driving mishap, and I become a pedestrian philosopher for years, walking the city like a disgruntled Socrates who failed his driving test.
+
+From a clinical perspective, this is just trauma plus an overactive risk-averse temperament. From the inside, it feels like my amygdala has unionised and is now over-performing its job, filing objections against everything with enthusiasm. The bipolar brain adds its own special effects to this; in a hypomanic phase I will briefly forget all the bones, all the near-chokes, all the disasters and rush headlong into some new project – a big idea, an impossible website, a grand life reboot – and then, as the mood slides back into the gently suffocating porridge of depression, the memory of every previous bone returns, each one annotated in HD.
+
+The fish bone in the throat is an almost perfect metaphor for how I internalise discomfort: something tiny, objectively manageable, becomes lodged crosswise in perception. The rest of the world is shouting, “Just swallow some rice, it’ll go away,” while my entire sensorium is screaming, “The oesophagus is cancelled, we are going to die.”
+
+So, over the years, I have reorganised my life in favour of soft food.
+
+Not literally – I still eat crunchy things, my jaw hasn’t retired – but emotionally, socially, professionally. I prefer routine to novelty, solitude to social adventure, books to networking events, the safe glow of a laptop to any scenario involving name tags, handshakes, or open-ended questions like “So what do you do?” I have built, around my fragile, over-indexed fear circuitry, a shanty of habits, a small predictable shelter in the boondocks of North Calcutta, where the biggest daily risk is that the neighbour’s child will start practising Bollywood dance routines at full volume during my afternoon existential crisis.
+
+# The Hermit in the City of Ruins
+
+“Boondocks” is a charitable way of describing where I live; it suggests a rustic charm, some greenery, maybe a goat. In reality it is more like a museum of urban neglect, a neighbourhood composed of half-finished ambitions, peeling walls, and a rotating cast of stray dogs who consider the entire lane their latrine and meeting hall.
+
+I live in a modest flat whose chief architectural feature is that the walls don’t meet at quite the angles Euclid would have preferred. The ceiling fan makes a noise like a small helicopter fighting obesity. The view from the window is a tangle of cables, a patch of obstinate sky, and rooftops that look permanently surprised – water tanks, broken chairs, that one unfurling blue tarpaulin that has survived more monsoons than some local politicians.
+
+Calcutta is famously always in ruins – not in the romantic, “faded grandeur” way tourism brochures try to sell, but in the more practical sense that something is always being built and never finished, repaired and never quite fixed, painted and immediately stained again by the traffic and the air. It is a city that seems to live in a permanent state of hangover from a colonial party it didn’t consent to host, mixed with a drunk, late-stage-capitalist carnival of consumption it cannot actually afford.
+
+In this setting, my hermitage is not particularly dramatic. I’m not in a cave; I’m in a room with questionable plumbing and adequate Wi-Fi. But I have withdrawn in other ways: I rarely attend weddings (too many people asking “When are you…?” – fill in the blank with any life milestone I have failed to achieve), I avoid religious gatherings (my allergy to grandstanding and mythology is severe enough that it should be listed formally somewhere), and I treat phone calls like incoming asteroids.
+
+I am, as I often joke, content with the contents of my own emissions – the smell of my own room, my own thoughts, my own digestive symphonies. This is not exactly aspirational, but it is honest. The world outside has too many bones; inside, at least I know where most of them are buried.
+
+# Boneless Religions, Bony Truths
+
+Fish bones make good philosophy props. If you look at how societies feed their citizens narratives, you notice a pattern: the real world is bony, full of sharp facts, contradictions, uncomfortable trade-offs. The myths, on the other hand – the national myths, religious myths, civilizational bragging – are tender fillets served in thick gravy.
+
+The stories we are asked to swallow about our glorious pasts, our spiritual superiority, our economic destiny, are often boneless to the point of being gelatinous. No hard questions, no structural analysis, just soft phrases repeated until they feel like facts. “Ancient wisdom,” “world guru,” “greatest democracy,” “family values,” “Make X great again” – it is all mashed into a paste that slides down the throat without obstruction, and if some inconvenient bone of reality – poverty, inequality, bigotry, corruption – gets stuck, the preferred response is not to remove the bone but to shout at the person choking.
+
+In this sense, my fish-bone paranoia is oddly principled. I don’t trust boneless narratives; I assume the bones have been removed for a reason. I would rather see the skeleton, even if it scares me, than swallow a story that has been mechanically separated from its own structure. Fish, unlike ideologies, don’t lie about where their bones are; you can see the ribs, trace the spine. Human institutions are less considerate.
+
+In America, where I spent some years between 1998 and 2014, I watched this boneless narrative industry blossom into something truly industrial. The country I first encountered was already full of contradictions – malls and homelessness, NASA and creationism – but there was still a sense that facts had some residual prestige. Over time, and especially under the orange-tinted carnival that followed, truth itself was filleted, repackaged, and sold as partisan fish fingers. Whole cable channels existed to ensure that no bone of reality disturbed the swallowing of daily outrage.
+
+Back home, India was not far behind. We imported not just technology and fast food, but also the same algorithmic extraction of attention, the same weaponization of grievance, the same hunger for stories that flatter and absolve. Now we, too, are surrounded by boneless narratives about ourselves, some ancient, some new, many mutually contradictory, all demanding unwavering faith. To doubt them is to be labelled anti-national, anti-cultural, anti-whatever-the-current-keyword-is. In that climate, a person like me – sceptical, atheist, left-leaning, emotionally unstable – learns very quickly that it is safer to retreat to his room and negotiate with fish rather than with flags.
+
+<Pi
+    src="IMG-20251208-WA0001.jpg" 
+    caption="mermaid with bones"
+/>
+
+# Biology of Avoidance
+
+Psychology textbooks will tell you about conditioning, about learned avoidance, about how even a lab rat, after a few electric shocks, will choose to cower in the corner rather than explore. Human brains are fancier, more verbose, but not fundamentally different. I am essentially a talking rat who remembers too many shocks.
+
+The first bone in the throat is a data point. The second one becomes a pattern. By the fifth, your nervous system has developed a policy: *If X, then panic*. In bipolar depression, the weighting of negative data is even more aggressive; every small failure is upgraded to an indictment of the entire self. “You cannot handle fish with bones” morphs seamlessly into “you cannot handle life,” which your overeducated prefrontal cortex immediately rewrites into something more eloquent and equally unhelpful, like “you are temperamentally unsuited to existence.”
+
+So I construct a life of minimal X.
+
+Minimal travel – complicated, expensive, full of risks, airports, strangers, lost luggage, and conversations with taxi drivers who ask “Business or pleasure?” as if there were any third category where I might fit.
+
+Minimal romance – delightful, intoxicating, potentially catastrophic, full of bones disguised as dimples, and I have already proven remarkably unskilled at the deboning process.
+
+Minimal ambition – everyone these days wants to be a founder, an influencer, an “AI entrepreneur”; I am content being a footnote, an ancestor of the machines, the human training data that never cashed out. Ambition, too, has bones: competition, humiliation, compromise, the need to talk to investors pretending to understand your idea while plotting your replacement.
+
+My avoidance is not noble. It is not wise resignation. It is simply the equilibrium point of a nervous system that got pricked and decided shrubs were overrated. But unlike many people who lip-sync hustle culture while secretly exhausted, I at least admit out loud that what I really want, most days, is a cup of tea, a functioning fan, a decent book, and a plate of boneless fish that cannot surprise me.
+
+# Overeducated, Underseasoned
+
+There is a special category of failure that comes from being overeducated and under-pragmatic. I have accumulated degrees, skills, and information the way some people collect stamps or scented candles – as if knowing more would automatically translate into living better. It does not. It simply gives you more vocabulary to describe your stagnation.
+
+I know, for example, the approximate structure of a neuron, the fuzzy outlines of Bayesian inference, the etymology of “hermit” from Greek *erēmitēs*, meaning “of the desert.” I understand, at least in outline, how capitalism creates both smartphones and slums, how colonialism baked inferiority and aspiration into our middle-class DNA, how social media algorithms amplify the worst of our impulses. None of this knowledge has stopped me from becoming a reclusive middle-aged man in a noisy lane, occasionally arguing with a lizard on the wall about who pays rent.
+
+The fish on my plate is sometimes the most concrete decision I make in a week. Bony or boneless? Risk or safety? Nostalgia or practicality? Do I honour my identity as a Bengali by wrestling with an *ilish* full of treacherous architecture, or do I quietly choose the bland, well-behaved fillet imported from some overfished river god-knows-where?
+
+Most days, I choose the safer option. Some days, usually when the hypomanic current is whispering, “life is short, cholesterol is a social construct,” I will order the dangerous one. The first bite is glorious – the taste, the memory of childhood, the illusion of being part of a larger story – but by the third bone my throat has staged a coup, and I am back to square one, negotiating with my internal alarm system like a hostage-taker who forgot his demands.
+
+# Smallness as Strategy
+
+It is fashionable now to talk about “living your best life,” a phrase that makes me want to lie down on the floor and evolve into a different species. My life is not “best” by any widely advertised metric – not financially, not professionally, not romantically, not geographically. It is best only in the very narrow sense that it is currently the only one I have managed not to abandon.
+
+I live small, because big life requires big bones, and my throat is thin.
+
+Some people climb mountains; I clean my desk. Some start companies; I figure out a slightly better way to arrange the books I own and will probably never fully read. Some travel the world; I make a cup of tea and stare at the patch of sky framed by cables, watching the clouds drift like absent-minded whales.
+
+There is, buried in this smallness, an element of quiet rebellion. The world, especially the version of it wired into smartphones, demands constant expansion – more content, more followers, more hustle, more output, more visibility. To withdraw, to choose privacy, to be content with one’s own digestive byproducts and second-hand books, is not just cowardice; it is also, in a minor, ridiculous way, a refusal. I am not providing my life as entertainment content. I am not giving the algorithm my bones.
+
+Of course, this is the heroic interpretation. The less flattering one is that I am just scared, lazy, and melancholic, and I prefer to spin that as “minimalist philosophy” instead of “unresolved therapy homework.” Both can be true. In my more lucid, depressive phases, I can hold this duality without flinching: I am both victim and accomplice, both products of history and manufacturer of excuses.
+
+# Ending, Or Something Like It
+
+There is a single fish bone on the edge of my plate as I type this in my head – not literally, the laptop would protest – but imaginatively, there it sits, small, glistening, curved, a tiny sculpture of all the times I have let discomfort dictate architecture.
+
+I could throw it away, let the maid sweep it into the city’s digestive system, where it will join plastic wrappers, pan stains, and the general evidence of our civilisation’s inability to tidy up after itself. Or I could keep it, in some little box, as a relic, a reminder of all the spines I have avoided – career, love, risk, confrontation – in the name of not wanting to choke again.
+
+I will do neither. I will do what I usually do: push the plate away, pour myself another cup of tea, open a book I have already read twice, and tilt my chair towards the reluctant breeze from the window. Outside, somewhere in the lane, a hawker will shout about fresh fish, promising taste and tradition and today’s price.
+
+Inside, I will sit with my boneless lunch and my bony thoughts, in a city half-collapsed and half-refusing-to-die, and try not to swallow anything I’m not prepared to live with for years.
+
+
+
+# File: src/lib/posts/hemlock.md
+
+---
+title: "Hemlock"
+thumbnail: "/images/IMG-20251129-WA0000.jpg" 
+description: "A democracy of hemlock"
+category: 'personal'
+published: true
+color: "black" 
+---
+
+<Pi
+    src="IMG-20251129-WA0000.jpg" 
+    caption="A democracy of hemlock"
+/>
+
+There is a particular kind of Calcutta evening when the air itself feels like a conspiracy. The ceiling fan above my bed is chopping it into hot, lazy slices, the television in the next room is having a coronary about “democracy in danger,” and somewhere in the lane outside, a scooter horn is being leaned on by someone who clearly believes sound pressure alone can reorganize traffic patterns and maybe the constitution while it’s at it. It smells faintly of frying fish, sweat, cheap incense, and the exhaust of a nation trying very hard not to think too much.
+
+On the screen, some anchor with hair like a plastic helmet is screaming about “the great rightward sweep of the nation,” about how this is either the golden age of Bharat or the end of the republic, depending on who has paid for the studio lights that month. The current incumbents are being described as if they were either Vishnu’s twelfth avatar or a gang of cartoon supervillains. I am lying on my bed in North Calcutta in my half-torn ganji, glancing between the TV and the damp patch on the wall that has grown, hydra-like, over the years, and thinking: this is all very theatrical for a game that is rigged by design.
+
+Democracy, for all the pomp of its Greek roots—*dēmos* (people) and *kratos* (power), cue solemn music and marble columns—has always been a kind of elaborate outsourcing arrangement. You take your messy, private fears and hopes, compress them into one vote (usually bought cheaply with a sack of rice, a bottle, or a dose of religious adrenaline), and hand it to a stranger whose only proven skill is winning a popularity contest under conditions of maximum confusion. It is the political equivalent of handing your house keys and ATM PIN to the cleverest pickpocket on the street because he seems to understand wallets so well.
+
+We pretend it’s noble. We print it on school posters. We recite it on Republic Day. But if you read the fine print—and I have, because I am that tedious kind of fellow who actually reads constitutions and then footnotes the margins in my head—it says something much less inspiring: you, the citizen, will periodically choose which group of cunning primates gets the legal right to manipulate your reality for the next five years.
+
+Of course, right now in India, the cunning primates in question are very right-leaning, extremely efficient at propaganda, and led by two men whose names I don’t even need to type because they’ve already rented so much space in everyone’s amygdala. As a marketing project, it’s phenomenal: a mixture of religion, aspirational capitalism, historical cosplay, and pure fear, expertly marinated and served 24/7 on every screen that will hold still. A kind of spiritual fast food, engineered to bypass the cortex and go straight for the limbic system.
+
+It is tempting, especially if one is mildly left-leaning, bookish, and permanently broke in North Calcutta, to imagine that *this* is the problem—that if only another party were in charge, the republic would suddenly blossom into a Scandinavian fever dream: trains on time, schools functional, policemen who don’t moonlight as extortionists, that sort of quaint thing. A simple chair swap: remove these gentlemen, install those gentlemen, viola, as we Bengalis like to mispronounce the violin.
+
+Except, of course, that’s a comfortable delusion. Like believing that if you pluck one rotten potato out of a sack that smells like something died in it, the rest will spontaneously transform into golden Yukon perfection. The stench is systemic. It’s us.
+
+When I say “us,” I don’t mean it in the abstract, “Our glorious civilization” way that WhatsApp University uses. I mean the very specific ecosystem of lies, cowardices, resentments, and petty corruptions we marinate in day after day. The way we treat the help, the way we cheat on taxes, the way we laugh along at bigoted jokes because arguing is tiring. The way we forward “proud Indian” nonsense at 6:30 a.m. about some mythical ancient Vedic plastic surgeon while bribing a traffic cop at 7:15 a.m. because we couldn’t be bothered to wear a helmet. The way we talk about “corrupt leaders” while quietly sliding envelopes across desks anytime we need the smallest thing done.
+
+Democracy doesn’t summon angels to govern us. It summons a sampling of who we are, filtered through the harsh sieve of who can lie most convincingly on a stage. If we are envious, easily manipulated, religiously touchy, scientifically illiterate, and permanently on the hunt for someone else to blame, we will not elect philosopher-kings. We will elect the best-performing mirror.
+
+I include myself in this unflattering reflection, by the way. I am not writing this from some moral Himalaya, wrapped in virtue and drinking glacier water. I am sprawled on a cheap bed, living off my parents’ leftovers and the bitterness of my own ill-timed conscience, having spent the better part of two decades being too proud, too fragile, and too mentally unhinged to play the game properly. I have lied, I have been petty, I have thrown my share of tantrums and cowardly silences. If there is a sack of rotten potatoes, my tuber is in there, quietly fermenting.
+
+So when some earnest soul tries to convince me, *Dada, just remove this party, put that one, India will be great again,* I feel a kind of hysterical laughter bubbling up in my chest. We speak as if this is a software bug that can be fixed with a patch update: Modi-Shah out, Generic Saviour in, reboot, install democracy v2.0. Meanwhile, the hardware—the brains, habits, and moral reflexes of 1.4 billion Homo sapiens—remains what it was: tribal, anxious, fond of comforting myths, allergic to introspection, addicted to hierarchy, and permanently offended by the smell of other people’s food.
+
+We complain ceaselessly about “corruption in politics” as if corruption were some alien fungus that crept in through the AC duct, not the natural extension of how we live. Look at any random day in Kolkata: the auto driver rigging the route, the contractor stealing material from a building site, the doctor prescribing unnecessary tests, the tuition teacher promising guaranteed marks if you pay for “special notes,” the parent proudly pushing the child to skip a line because “we know the officer.” Every one of these tiny cheats is a rehearsal for the larger carnival. You stand in a queue of everyday corruption, and then act surprised that the man at the front of the line becomes a kleptocrat.
+
+Democracy didn’t break us. We hauled our brokenness into the polling booth and left it there like an offering.
+
+When I first left India in 1998, with a single suitcase, a bottle of cheap perfume, and a head full of foolish ideas, the rupee was weaker but the illusion was stronger. There was still this lingering belief, especially among my type—middle-class, English-medium, educated under fluorescent tubes—that India was in some kind of chrysalis phase. *Yes, it’s a mess now, but we are educated, we are modern, we watched Carl Sagan on Doordarshan,* and so, given time and GDP growth, we would naturally become a sort of brown Germany with better vegetarian options.
+
+America, back then, was a place I associated with mildly boring competence: Clinton-era technocratic scandals, Microsoft, dial-up internet, the smug safety of a system that, for all its racism and imperialism, ran on roads that didn’t randomly vanish into craters after the first rain. The Americans I met were sometimes absurd, often parochial, occasionally deeply kind; but the country as a whole did not appear to be on the verge of being taken over by a reality TV demagogue with a spray-tanned ego and a fanbase that treats conspiracy theories as spiritual exercises.
+
+Fast forward, and now both projects—the Indian and the American—have been stress-tested by the algorithmic age, and both have responded with their particular brands of psychosis. The US gifted itself Trump and a cohort of people who think a public health crisis is an infringement on their sacred right to inhale the exhalations of strangers; India gifted itself a daily parade of majoritarian chest-thumping and historical revisionism, while also pretending that WhatsApp forwards are peer-reviewed research.
+
+Athenian democracy, if the poor dead Greeks were watching, would probably be weeping into its hemlock.
+
+I can already hear the objection: “But at least in America, the institutions fought back. Courts, media, checks and balances.” True—to a point. But even there, you got a pretty good show of how thin the ice is once enough people decide they prefer comforting lies to complicated truths. Democracy is not a preventive vaccine against stupidity; at best, it’s a fragile breathing apparatus that works only if the environment remains breathable. Once the air is full of manufactured rage and half-digested garbage information, the machine starts pumping toxins instead of oxygen.
+
+Here in India, the air is particularly thick. Not just with PM2.5 and sulphur dioxide, though those are doing a brisk business; but with the dense smog of unexamined myths. Our political theatre thrives on them. We have mythologies about our glorious past, mythologies about our unique spirituality, mythologies about our scientific supremacies, mythologies about how the foreigners ruined our paradise, mythologies about how the next strongman will restore it. And perhaps the most dangerous mythology of all: that we, the people, are basically noble, and it is only the politicians who are evil.
+
+It’s such a comforting fairy tale. *We are good; they are bad. Replace them, and we will shine.* One has to admire the ego. It’s like blaming only the tip of an iceberg for sinking the ship while refusing to admit that the submerged 90 percent—our prejudices, our casteism, our casual cruelty to anyone lower in the food chain—is the real mass.
+
+I see it in the smallest encounters. The bhodrolok uncle at the para tea stall who rants against “corrupt netas” with flecks of biscuit on his lips, and then boasts about getting his son into an engineering college by “using influence.” The aunty who cries about women’s safety and then spies gleefully on the maid’s movements to see if she’s “stealing.” The same middle-class people who ostentatiously send money for flood relief while throwing domestic workers out of the building for using the main lift. And of course, the legion of NRIs—my old peers—who forward videos about “Indian values” from the safety of Californian suburbs they have no intention of ever leaving.
+
+Which brings me to the other part of this unpleasant monologue: the seduction of “returning.” The fantasy of ghar-wapsi, not in the religious sense (the gods and I have long parted ways), but the narrative of the prodigal Indian techie who makes money abroad and then comes back to “give back,” to “build the nation,” to “use my skills where they are needed.” The video montages almost write themselves: violin music, aerial drone shots over fields, the hero stepping out of the airport in sunglasses, slow-motion hugs with parents, cut to a montage of him arguing with corrupt officials but ultimately triumphing.
+
+Reality is less cinematic. If you are rich enough to return with capital, you do not become the hero of the village. You become the plump pigeon in a city of starving cats. Every contractor, broker, distant cousin, and friendly official will smell your lack of local cunning and your naive desire to “just do things properly” like sharks scenting blood in the water. You will be invited to a buffet of opportunities, almost all of which are carefully designed to separate you from your savings. You will discover, the hard way, the exact tensile strength of trust here: it stretches far enough to loop around your neck.
+
+No one will say, “Welcome back, builder of the new India.” They will say, with their eyes, “Welcome, portable wallet on two legs; please place your gluteus maximus on this comfortable seat while we locate an appropriate knife for your back.” And when the knife arrives, it will not be a cinematic stabbing—no dramatic betrayal in a rainstorm. It will be hundreds of tiny incisions over years: the slightly inflated bill, the mysteriously missing documents, the land deal that never closes, the business partner who “unfortunately had to keep some money aside for the officials.” You’ll wake up one morning and realize you have been fiscally exsanguinated with surgical precision.
+
+This is not because Indians are uniquely evil. Humans everywhere are opportunistic; you do not need to lecture me about Wall Street or Russian oligarchs or British colonial accountants. The difference is that in some places, systems exist that occasionally smack people on the wrist for this. Here, we mostly just admire it. We call it “chalaki,” “smartness,” “jugaad.” The person who gets away with the most is considered the genius. The idiot is the one who tries to follow rules. The moral vocabulary is inverted.
+
+So when people abroad ask me, sometimes in shy emails, “Should I come back? I feel guilty making money here while India struggles,” I feel like a terrible older cousin who has to say the uncool thing. If you have built a stable, reasonably dignified life in a functioning system—say, Canada, or Germany, or even some well-run corner of the US—then unless you have a masochistic streak and an iron-clad mental health support network, do not hurry to throw yourself back into the furnace in the name of patriotism. You owe this country your honesty, not your gullibility.
+
+This is not anti-Indian hatred. I am Indian down to my malfunctioning circulatory system and my fondness for over-salted jhal muri. I write this from the belly of the beast, in a room that overheats like an old CRT monitor, in a city that is my first and probably last mistake. I speak the language, I dream in it, I curse in it (internally; externally I now use politer anatomical Latin), and I have spent half a century watching my fellow citizens and myself bumble through our histories like drunk actors in a very long, very badly directed play.
+
+I know the tenderness here. The neighbour who sends over fish curry when my mother is unwell. The autorickshaw driver who refuses extra money because “you are like my younger brother.” The quiet acts of kindness in hospitals, in exam halls, in train compartments. I do not deny those. But I refuse to let them anesthetize me to the more brutal facts: we are not, collectively, ready to be the enlightened republic we pretend to be. And no amount of leader-swapping will change that until we learn the unglamorous art of looking in the mirror without immediately blaming the lighting.
+
+Part of my bleakness, I admit freely, is chemical. There are days when my brain is a well-lit library, and democracy is an interesting case study in game theory: strategic voting, public choice, incentive structures, all that. On those days, I can discuss how the median voter theorem interacts with identity politics while drinking tea and making self-mocking jokes. On other days, the same brain turns into a poorly ventilated dungeon where every news headline feels like a personal attack. My bipolarity is a treacherous lens; sometimes it magnifies reality to grotesque extremes, sometimes it flattens it into a grey smear.
+
+When I write about “rabid stupidity” and “venomous asinine” citizens, I am also talking about the version of myself who doom-scrolls at 2 a.m., heart pounding, fantasizing about apocalyptic solutions—asteroids, pandemics, some neutral cosmic reset button. It is not a healthy fantasy, but it is honest. This is what happens when you spend decades trying to think clearly in a place that rewards loud certainty over quiet doubt. You start to feel like the defective unit in a factory that only produces slogans.
+
+Overlay all this with climate change, and the picture becomes almost hilariously grim. This subcontinent is not just politically combustible; it is literally on the way to becoming a giant outdoor steam room. You read wet-bulb temperature projections, see maps where large chunks of India, Pakistan, Bangladesh turn some alarming colour by 2035, and then you step outside and watch people burn crackers, drive bigger SUVs, and talk about building more coal plants because “development.” The cognitive dissonance is so loud it has its own decibel level.
+
+So yes, I can absolutely imagine the entire region lighting up—figuratively and literally—in the next decade or two. Not because of some cosmic curse or special wickedness, but because we are sitting on fault lines of history, climate, religion, and technology with the attention span of a goldfish and the ego of a superpower. Add a few billion smartphones, some demagogues with good lighting, and you have all the ingredients for a slow-motion conflagration.
+
+Where does that leave someone like me, a slightly deranged, book-addled Bengali in his fifties, camping out in a room filled with damp walls, old books, and faintly ridiculous dreams? Not in any heroic place. I am not leading movements, I am not fixing systems, I am barely fixing my own circadian rhythm. I am, at best, keeping a kind of private chronicle of decay, in between boiling eggs and refilling my inhaler.
+
+Democracy, as I see it now, is not the shining miracle the civics textbooks promised, nor the complete farce that my darkest moods insist it is. It is an elaborate mirror maze that shows us who we are, distorted but recognizable, and hands power to whichever group figures out how to weaponize those reflections first. Our current rulers are one such group. The ones before were another. The ones after will be yet another variation on the theme. The real plot, the one that matters, is not about which costume they wear, but about whether we can, one microscopic habit at a time, become slightly less comfortable with our own everyday fraudulence.
+
+Do I think that will happen soon? No. Do I think it might happen eventually, given enough crises, enough technological shocks, enough collective near-death experiences? Possibly. Civilizations have been known to stumble into wisdom after exhausting all other options. Maybe after a few more pandemics, floods, and financial collapses, we will finally discover the radical act of not lying to ourselves about everything.
+
+Until then, the fan will keep turning, the anchors will keep shouting, the WhatsApp forwards will keep arriving with their shiny little packets of nonsense, and I will keep doing the only small, stubborn thing I know: sitting in this room in North Calcutta, watching the circus, taking unkind notes about myself and the species, and occasionally, very quietly, turning off the TV and listening to the silence between slogans.
+
+
+# File: src/lib/posts/reflections.md
 
 ---
 title: "Reflections"
@@ -780,6 +1061,7 @@ thumbnail: "/images/IMG-20251202-WA0009.jpg"
 description: "A complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless."
 category: 'personal'
 published: true
+color: "black" 
 ---
 <script>
     
@@ -926,6 +1208,211 @@ The characters I draw are the distortions that I have picked up from the odd cha
 The humor that I imbibed while I was in the US was humor from George Carlin and gleaned from the reality-endearing misanthropic art of Robert Crumb and other underground comic movements, so I have a proclivity to sketch the privates on these Odbhuture characters or other *Homo sapiens* as representing its culture-deeds immersed in the weird superconfident but usually and always wrong fiction—for males this is just sketching a sphere with hairs and for the better half a hairy triangle with a line intersection at one corner—really hirsutism in geometry, but makes people mad, because they don't want to be seen without underwear, unless it's erotica. People want to be infinitely entertained. They don’t want to go back to school or be informed about how you were molested—well, maybe only if you’re an attractive woman who can describe your bodily massacre in a way that gives the reader’s animal region the requisite blood flow. So I know an old man's blog posts are never going to be read, but I write them, I want to write them, and I sketch, and I try to remember who I am because I’m still alive, and this writing and sketching is the only vent I have left. Most people who have always resorted to taking shortcuts that require the least effort, and they being the majority, will judge anyone prolific as LLM automation—which, in a way, is what I want: staying obscure and uninfiltrated by chaotic and short-lived, distractive attention from people who least represent my type, my thoughts, or my life. But putting your thoughts on paper, the courage necessary—not just the artifice to carve words in woods—takes a whole lifetime and courage, especially the introspective honesty very few people have remaining in them. When everything is pastiche and LLM automation I want to share my personal unfiltered and raw thoughts, at least when I'm dead the exhaust of the effort would help feed a generation of creative *bipolar bots*, I see the pathology of our feeble species as important as what we label as normalcy. 
 
 
+# File: src/lib/posts/substances-simples.md
+
+---
+title: "Substances Simples"
+date: "2025-12-07"
+description: "Lavoisier’s basic Lego set of the universe: an official list of what counted as indivisible building blocks. Except, being human, he got it partly right and partly gloriously wrong."
+thumbnail: "/images/IMG-20251203-WA0006.jpg"
+category: "science"
+color: "blue"
+published: true
+---
+
+Somewhere between my school diarrhea and my adult bipolar doomscrolling there was, of course, chemistry class, that noble enterprise where a bored teacher with halitosis pointed to a laminated blue-and-pink periodic table and told us, with all the gravitas of a government notification on onion prices, that Antoine Lavoisier was the “Father of Modern Chemistry.” What she did not tell us was that this particular father of chemistry was also a father of taxes, a part-owner of a delightful exploitative racket called the Ferme Générale, and that his head eventually parted ways with the rest of his person because the French revolutionaries were not very keen on nuanced performance reviews.
+
+Our textbook had the usual bullet point:
+
+* Lavoisier discovered oxygen.
+* Lavoisier disproved phlogiston.
+* Lavoisier was guillotined.
+
+As if that last line was a casual HR exit: “Left company in 1794 for personal reasons,” instead of “had neck forcibly uninstalled by nation-state using sharpened steel and gravity.”
+
+What fascinated me, much later—not in that farts-and-fenugreek classroom—was that Lavoisier didn’t work alone. There was Marie-Anne, his wife, who is introduced in most Indian textbooks, when she appears at all, like a side salad: “His wife helped by drawing diagrams.” As if she were some 18th-century Canva plugin. The reality was that she was translating English papers, annotating Priestley’s misadventures with “dephlogisticated air,” drawing meticulous apparatus that, frankly, would put most modern “figures” in Indian journals (those pixelated MS-Paint tragedies) to shame, and cheerfully helping dismantle the great invisible fart of phlogiston that had wafted over European chemistry for a century.
+
+Picture the scene: a Parisian lab, copper kettles and glassware that looked like fragile alien intestines, Lavoisier measuring mass like a tax accountant of atoms, and Marie-Anne quietly sketching and annotating, doing with pen and ink what your brain wishes it could do with reality—track every tube, every flame, every bubble. While outside, the same city was sharpening the very blade that would later separate his careful head from the rest of the experimental apparatus.
+
+Now, the part I really love—the sort of thing that would have made my Bengali schoolboy self sit up in class, instead of counting ceiling fans—is his Table des Substances Simples, the precursor to the periodic table we memorized without understanding. This was Lavoisier’s “basic Lego set” of the universe: an official list of what counted as indivisible building blocks. Except, being human, he got it partly right and partly gloriously wrong.
+
+In the “right” column: familiar characters like oxygen, hydrogen, sulfur, phosphorus, iron, silver, carbon. Things that do, in fact, behave like elements, stubbornly refusing to be broken by the chemistry of that time. These were the kids who really existed in the classroom.
+
+In the “wrong-but-charmingly-hopeful” column:
+
+* **Caloric** – a sort of invisible, imponderable fluid of heat, like a ghost curry that flowed from hot to cold.
+* **Light** – treated as a substance you could, in principle, pour into the universe like mustard oil.
+* **Various “earths”** – lime, magnesia, and other crumbly powders that they hadn’t yet bullied into admitting they were compounds hiding metals.
+
+To my Indian exam-conditioned brain, this was heresy. How could the Father of Modern Anything be wrong? In our system, once you are fathered into something, you are permanently correct, embalmed in multiple-choice questions and photocopied notes with fungus. Yet here was Lavoisier, in his own printed table, solemnly listing heat and light alongside oxygen and sulfur, mixing what we now consider concepts with what we now consider entities—like printing a class roll where half the entries are actual students and the rest are “discipline,” “sunlight,” and “tiffin.”
+
+But that’s exactly the point, isn’t it? At any given moment, Homo sapiens’s proud “table of substances simples” is a desk full of mislabeled jars. You think you’ve separated the elements from the fantasies, and it turns out some of the jars are full of mythology, some of the labels are nationalistic bullshit, and one or two are just warm air from a bearded guru on primetime TV.
+
+In my childhood, the Indian equivalent of caloric and light were things like “meritocracy,” “ancient Indian science,” “Vedic aviation,” and the notion that coaching-center ranks are a measure of intelligence. These were our substances simples—not to be challenged, only to be inhaled. Lavoisier, at least, measured masses and wrote equations. We just write slogans and exam questions.
+
+Lavoisier’s head rolled because his second job—tax farming—was more visible to the mob than his first job—mass balance and careful thinking. The revolutionaries basically said, “The Republic has no need of scientists or tax farmers,” then proceeded to invent a century of science they absolutely did need, but using other people’s heads stuck more delicately to their necks. Marie-Anne, widowed, carried on preserving his notebooks, editing his papers, keeping the intellectual corpse warm long after the biological one had cooled. In any sane textbook, she’d be co-author of the whole enterprise; in ours, she is an optional first-line mention, like “also starring…”
+
+This is the part that hooks into my present, sitting in Calcutta with particulate matter wedged in my already enfeebled lungs. I look around and see our updated local table des substances simples:
+
+* **“Growth”** – regardless of what grows: GDP, tumors, or shopping malls.
+* **“Development”** – defined as concrete per square foot and LED strips per balcony.
+* **“Heritage”** – a grab-bag of unverified myths laminated with saffron or tricolor.
+* **“Content”** – the new caloric, an invisible fluid that flows endlessly from phones and is somehow supposed to nourish us though it mostly causes intellectual rickets.
+
+All of these are treated as basic, indivisible, beyond question. Yet, like caloric, they are probably doomed to be reclassified one day as incredibly elaborate fiction. Some future bipolar kid may scroll through our remains and say, “Wait, they thought this was real?”
+
+I find comfort, perversely, in Lavoisier’s mistakes. The man who carved “nothing is lost, nothing is created, everything is transformed” into the woodwork of science still filled his own table with ghosts—heat fluids, light stuff, earthy clumps. He got beheaded not for those errors, but for participating in a predatory system that made peasants bleed so the elite could powder their wigs. The chemistry was the honest part; the finance was the phlogiston.
+
+If I ever draw him—and I probably will—it will be with Marie-Anne standing beside him, holding the notebook, both of them looking faintly puzzled, as if trying to decide whether “faith,” “nation,” “merit,” or “market” belong on our modern substances simples list or in the dustbin with caloric. The guillotine will be in the background, a reminder that societies generally prefer to cut off the heads that measure things, while keeping the heads that hallucinate things very much attached and in charge.
+
+In that sense, this blog is my own shabby little table des substances simples—what I think is real, what I only feel is real, what I know is wrong but can’t stop listing because it has shaped me. Some entries are as solid as oxygen; others are caloric-level nonsense stinking of nostalgia and bowel memories. The best I can do is keep rewriting the labels, scratching out the fictions when I catch them, and acknowledging that, historically speaking, human beings have always been very confident and very wrong at the same time, even when they are weighing oxygen in a Paris laboratory—right up until the moment the blade drops.
+
+# File: src/lib/posts/was-atom-discovered-by-an-indian.md
+
+---
+title: "Was atom discovered by an Indian?"
+date: "2025-12-07"
+description: "Somewhere between the loudspeaker bhajans and WhatsApp forwards, there’s a skinny, half-forgotten man sitting cross-legged in the dust, quietly eating atoms."
+thumbnail: "/images/IMG-20251203-WA0003.jpg"
+category: "science"
+color: "blue"
+published: true
+---
+
+Somewhere between the loudspeaker bhajans, the WhatsApp forwards announcing that India invented Wi-Fi in the Mahabharata, and the commerce of selling “quantum healing” bracelets at South City Mall, there’s a skinny, half-forgotten man sitting cross-legged in the dust, quietly eating atoms.
+
+His name is Kaṇāda. Literally “atom-eater”. I am not making that up; *kana* is “particle, grain” and *ad* is “to eat”.
+
+Actually, he has no neat Aadhaar-card style “full name.” In the philosophical texts, he appears variously as **Kaśyapa** or **Ulūka** or **Kaṇabhuk**—all affectionate variations on “one who eats little particles.” If you absolutely must have a full name for a plaque, **Kaṇāda Kaśyapa** is the historically grounded choice, not whatever “Shri Acharya Doctor” title WhatsApp University has bestowed upon him this week.
+
+As for where he came from, later traditions try to claim he was born at Prabhas Kṣetra near Dvārakā, making him a retrospective Gujarati. But the early texts are silent on geography. Calling him “a Gujarati” is like calling Democritus “a proud Schengen citizen.” It’s retrofitting modern political boundaries onto a ghost. Academically, he is simply an ancient Indian sage; exact birthplace: unknown.
+
+The dates, fittingly, are blurry. Modern scholarship hedges and shrugs: somewhere between the 6th and the 2nd century BCE, based on the internal evidence of the Vaiśeṣika Sūtra and the fact that he is arguing with Sāṅkhya and Mīmāṃsā, but doesn’t seem to know Buddhism is a thing yet.
+
+So imagine roughly Buddha-time India: kingdoms, varnashrama nonsense, sacrificial fires, and in some corner a man who wants to know what a pot is made of and refuses to take “five elements” as a satisfying answer.
+
+If Democritus is the bearded Greek uncle giggling that everything is little hard bits bouncing in the void, Kaṇāda is the Indian sage who shows up late to the family function, says, “Yes, yes, atoms of course, but let’s also do a full ontology while we’re at it,” and then proceeds to classify the entire universe like an obsessive clerk with a cosmic spreadsheet.
+
+## The man who subdivided your lota
+
+The basic move is simple in outline and astonishing in its stubbornness. Take a clay pot, Kaṇāda says. Smash it. Keep smashing. At some point you hit dust, specks, motes in a shaft of Kolkata sunlight. Keep going conceptually—divide, divide, divide—and he insists you must hit a wall: something beyond which division doesn’t make sense. That last stop is paramāṇu: the ultimate atom, not in the Rutherford-Bohr, electrons-whizzing sense, but as the smallest measurable chunk of matter.
+
+For Kaṇāda these paramāṇu aren’t generic anonymous pellets. They come in four flavours tied to the classical elements:
+
+* **earth-atoms** (smell, taste, colour, touch)
+* **water-atoms** (taste, colour, touch)
+* **fire-atoms** (colour, touch)
+* **air-atoms** (touch only)
+
+Already you see the Indian move: properties are not polite add-ons; they’re welded to the atom type. You cannot cook a water-atom into an earth-atom, however much you chant “Bharat Mata ki jai” over the beaker.
+
+These paramāṇu are indivisible, eternal, and completely beyond sense perception; what we see and poke is always composite. Even the smallest visible fleck is, in Vaisheshika’s view, a little apartment building: first two atoms join to make a dyad (dvyaṇuka), then three dyads make a triad (tryaṇuka), and only when enough of these clusters accumulate do your bovine human senses finally say, “Ah, dust.”
+
+Combination is not automatic. Atoms don’t just YOLO into each other because of random swiping on some cosmic Tinder. Kaṇāda drags in adṛṣṭa—literally “unseen”—a kind of residual karmic/teleological nudge, plus more ordinary efficient causes like the potter’s hand or the heat of the kiln, to explain why some atoms decide to hold hands and become a pot while others stay floating around as boring air.
+
+So our man is already doing several things in parallel:
+
+* salvaging common sense (“pots break, dust doesn’t just vanish”),
+* refusing infinite divisibility (otherwise a mountain and a mustard seed become mathematically indistinguishable),
+* tying ethics and physics together with adṛṣṭa like a suspicious piece of string between two crime-scene diagrams.
+
+Democritus gives you atoms and void; Kaṇāda gives you atoms, plus space, time, souls, mind, and a slightly judgmental cosmic accounts department.
+
+## Nine boxes, six labels, one exhausted reader
+
+Where a normal person would stop at “atoms exist, cool, let’s have lunch,” Kaṇāda keeps going and designs what is basically a pre-modern relational database schema for reality.
+
+He splits everything that can be talked about into six padārtha—“things that can be pointed at with a word”:
+
+* **dravya** – substances (including those atoms),
+* **guṇa** – qualities (colour, taste, number, etc.),
+* **karma** – motion or action,
+* **sāmānya** – generality (the “pot-ness” shared by all pots),
+* **viśeṣa** – particularity (what makes this atom that one and not its cousin),
+* **samavāya** – inherence, the intimate glue holding, say, colour in the atom or parts in a whole.
+
+Later thinkers bolt on a seventh, abhāva (non-existence), because once philosophers get going even nothing must be properly classified.
+
+Within dravya he lists nine kinds of stuff: the four atomic elements, plus ether (ākāśa), time (kāla), space/direction (dik), selves (ātman), and the mind (manas). The first four are atomic; the others are smooth, continuous, all-pervading, inferred rather than seen.
+
+If that sounds suspiciously like a metaphysical version of a badly designed school timetable, that’s because it is. But it’s also the first thing in India that looks unapologetically like natural philosophy: a systematic attempt to say, “Here’s what there is, these are the boxes, these are the rules for what can go where.”
+
+Modern scholarship, using newly compared manuscripts and critical editions, tends to think the Vaiśeṣika Sūtra reached this fairly tight, aphoristic form somewhere between 200 BCE and the start of the Common Era, with later commentaries stretching all the way to Navya-Nyāya logicians in the 15th century still chewing on his categories like old paan.
+
+In other words: this isn’t some mystical one-off verse. It’s a living technical tradition that treats matter and motion, classification and causality, with the same deadpan seriousness that we now reserve for GST rules and IPL auctions.
+
+## Democritus with karma and a soul
+
+Now, the inevitable pub-quiz question: did “India” do atoms before “Greece”? Cue nationalistic chest-thumping and terribly designed PowerPoints claiming that Kaṇāda discovered the electron and probably the Bluetooth stack.
+
+The grown-up answer from recent comparative work is:
+
+**Indian atomism and Greek atomism look like independent inventions that happened to converge on “you can’t divide forever” but diverge almost everywhere else.**
+
+Democritus and friends give you identical hard atoms differentiated only by shape, size, and arrangement, rattling eternally in a void, no karma, no adṛṣṭa, no cosmic HR department. Their project is almost aggressively de-spiritual: explain change without appealing to gods.
+
+Kaṇāda, by contrast, bakes atoms into a larger, frankly nosy universe:
+
+* Atoms differ qualitatively: an earth-atom is born smelly and tactile and will die that way; it will not identify as a water-atom next week.
+* Their combinations are nudged by adṛṣṭa, which sits uncomfortably between “physical law” and “moral residue,” a kind of cosmic fine print.
+* The whole contraption is embedded in a soteriological project: understand reality properly → loosen the grip of ignorance → move towards moksha.
+
+So yes, Kaṇāda is “like Democritus” in that he’s carving the world into tiny bits, but his atoms arrive with caste, religion, and family drama included. They’re never allowed to just be dumb pellets in an empty box.
+
+You can feel modern scholars getting mildly excited about this. A 2025 essay on Vaisheshika atomism goes out of its way to point out that Kaṇāda’s atoms are metaphysical as much as physical: no one was grinding lenses or firing cathode rays in Takṣaśilā, but they were wrestling seriously with questions of composition, causation, and the relation between micro-structure and macro-appearance.
+
+That’s the interesting part—not some silly race to award a “Father of Atomic Theory” trophy to whoever’s statue you want in your town square.
+
+## The WhatsApp resurrection of an atom-eater
+
+Because we live where we live, Kaṇāda’s current afterlife is mostly as a meme.
+
+You’ve seen the format:
+
+> “300 years before Dalton, Maharshi Kaṇāda from Bharat had already discovered atoms and calculated their exact size as 7.2×10⁻⁸ metres. Western textbooks hide this. Share if you’re a proud Hindu.”
+
+There is a modern chemist who tried to retro-engineer Kaṇāda’s thinking into a rough size estimate of the atom—on the order of 10⁻⁸ metres—using his arguments about the smallest visible particles and density.
+
+It’s an entertaining exercise, like asking, “How many bits of chicken must be in the air of Kolkata for us to smell biryani?” but it’s not evidence that Kaṇāda had a mass spectrometer hidden behind the sacrificial altar.
+
+The real, documented achievements—even in the most cautious accounts like Britannica or the Stanford-ish style surveys—are already impressive without patriotism Viagra:
+
+* an explicit rejection of infinite divisibility,
+* an articulated theory of composites built from imperceptible units,
+* a categorical framework (those six padārthas) used for a millennium as serious logical machinery,
+* an insistence that you can build a realist ontology—a world that exists independently of your feelings—inside an otherwise religious civilisation.
+
+That last one, in the present Indian climate where everything from history to virology must be dragged into a TV debate, feels almost punk.
+
+Kaṇāda has no need to be inflated into a proto-Nobel laureate. He’s already stranger and more interesting: a man who thinks you can list every kind of “thing” that can be talked about, slot it into a finite set of abstract boxes, and from there climb, step by step, towards liberation.
+
+This is not how IIT entrance coaching presents “Indian heritage”.
+
+## Why he matters in my small, moldy corner of the universe
+
+For a boy in Calcutta who grew up being told that “science” was done elsewhere—by Rutherford, Bohr, some German with a moustache—and that our contribution was mainly to pass JEE and go write code for those people, discovering Kaṇāda is like finding out your great-grandfather had quietly been doing weird home-made algebra in the attic.
+
+Not modern science—no experiments, no error bars, no falsifiability—but a real attempt to tame mess:
+pots, smoke, sweat, smell, touch, impact, change, time, space, mind, desire.
+
+He looks at this chaos and says:
+fine, we’ll start with atoms, nine types of substance, six categories, two modes for anu (rest and motion), a dash of unseen causation, and see how far we can get.
+
+In a civilization currently high on its own mythology and low on its reading, Kaṇāda is an inconvenient ancestor. He doesn’t say “believe this because Veda”. In fact, one of the sutras has him define dharma as that which leads to welfare and the highest good, and then calmly remark that the Vedas are respected because they teach such dharma—not the other way round.
+
+Text first, tradition second. Try putting that on a saffron poster.
+
+So when I think of “the Indian guy like Democritus”, I don’t see a smug portrait to be garlanded on Science Day. I see a thin, slightly myopic man in some long-vanished town, staring at a grain of dust in a sunbeam with the same baffled seriousness with which I stare at Python stack traces or the Kolkata AQI index.
+
+He has no microscope, no cyclotron, no funding agency, no Nature paper to bribe reviewers for. What he has is an irritated brain, a refusal to accept mushy explanations, and a stubborn conviction that somewhere underneath the ungulate dung, incense smoke, caste rules, and political bullshit there must be a small, clean grammar to the world—little repeatable units that combine and fall apart according to rules that do not care about our status or our stories.
+
+Call them paramāṇu, call them atoms, call them whatever makes you feel modern.
+
+But if you’re going to boast about him in WhatsApp groups, the least you can do is actually read the poor man, or at least one of his descendants’ commentaries, and admit what he really is: not a Hindu trophy in a culture war, but a slightly obsessive, quietly radical atom-eater who tried to take the mess of existence and file it into a finite number of drawers.
+
+In a country that currently lives on unexamined stories, that, to me, is more explosive than any nuclear bomb.
+
+
 # File: src/lib/server/db/index.ts
 
 import { drizzle } from 'drizzle-orm/postgres-js';
@@ -966,6 +1453,7 @@ export function generateUUID(): string {
 
 # File: src/routes/+layout.server.ts
 
+// File: src/routes/+layout.server.ts
 import type { ServerLoad } from '@sveltejs/kit';
 import { siteSEO, websiteSchema } from '$lib/components/seo/SEO';
 
@@ -982,30 +1470,28 @@ export type Category = {
 };
 
 export const load: ServerLoad = async () => {
-    // Eagerly import all markdown files to get their metadata immediately
+    // Eagerly import all markdown files
 	const modules = import.meta.glob('/src/lib/posts/*.md', { eager: true });
-	
-    const posts: Article[] = [];
+	const posts: Article[] = [];
     
 	for (const path in modules) {
 		const file = modules[path] as any;
-		const slug = path.split('/').pop()?.slice(0, -3);
+        // FIX: Ensure slug is derived correctly and lowercase
+		const slug = path.split('/').pop()?.slice(0, -3).toLowerCase();
 
 		if (file && file.metadata && slug) {
 			const metadata = file.metadata;
-            
-            // Only index published posts
 			if (metadata.published !== false && metadata.title) {
 				posts.push({
 					...metadata,
 					slug,
-					category: metadata.category || 'uncategorized'
+					category: (metadata.category || 'uncategorized').toLowerCase()
 				});
 			}
 		}
 	}
 
-    // Group posts by category for the sidebar
+    // Group posts by category
 	const categoriesMap: Map<string, Article[]> = new Map();
 	posts.forEach((post) => {
 		const category = post.category;
@@ -1015,7 +1501,6 @@ export const load: ServerLoad = async () => {
 		categoriesMap.get(category)?.push(post);
 	});
 	
-    // Sort categories and articles alphabetically
     const categories: Category[] = Array.from(categoriesMap.entries()).map(([name, articles]) => ({
 		name,
 		articles: articles.sort((a, b) => a.title.localeCompare(b.title))
@@ -1224,6 +1709,84 @@ export const POST: RequestHandler = async ({ request, getClientAddress }) => {
     }
 };
 
+# File: src/routes/blog/+page.server.ts
+
+// File: src/routes/blog/+page.server.ts
+import { error } from '@sveltejs/kit';
+import type { PageServerLoad } from './$types';
+
+interface Post {
+	slug: string;
+	title: string;
+	date: string;
+	description: string;
+	thumbnail?: string;
+	category: string;
+	published?: boolean;
+}
+
+export const load: PageServerLoad = async () => {
+    // 1. Import all markdown files eagerly
+	const postFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true });
+
+	try {
+        // 2. Map files to Post objects
+		const posts = Object.entries(postFiles)
+			.map(([path, file]): Post | null => {
+				const slug = path.split('/').pop()?.replace('.md', '');
+
+				if (file && typeof file === 'object' && 'metadata' in file && slug) {
+					const metadata = file.metadata as Omit<Post, 'slug'>;
+                    
+					if (metadata.published === false) return null;
+					
+					return {
+						...metadata,
+						slug,
+						thumbnail: metadata.thumbnail,
+						category: metadata.category || 'uncategorized'
+					};
+				}
+				return null;
+			})
+			.filter((post): post is Post => post !== null);
+
+        // 3. Sort by date (newest first)
+		posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+		return { posts };
+	} catch (e) {
+		console.error(e);
+		error(500, 'Could not load blog posts.');
+	}
+};
+
+# File: src/routes/blog/+page.svelte
+
+<script lang="ts">
+	import PostGallery from '$lib/components/blog/PostGallery.svelte';
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
+</script>
+
+<svelte:head>
+	<title>All Posts - SuvroGhosh.Blog</title>
+    <meta name="description" content="Browse all engineering and personal writings." />
+</svelte:head>
+
+<section>
+	<h1 class="text-center mb-8">All Posts</h1>
+    
+    {#if data.posts.length > 0}
+        <PostGallery posts={data.posts} />
+    {:else}
+        <div class="text-center py-12 text-neutral-500">
+            <p>No posts found.</p>
+        </div>
+    {/if}
+</section>
+
 # File: src/routes/blog/[category]/+page.server.ts
 
 import { error } from '@sveltejs/kit';
@@ -1315,6 +1878,7 @@ export const load: PageServerLoad = async ({ params }) => {
 
 # File: src/routes/blog/[category]/[slug]/+page.server.ts
 
+// File: src/routes/blog/[category]/[slug]/+page.server.ts
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
@@ -1325,9 +1889,9 @@ type PostMetadata = {
 	thumbnail?: string;
 	published?: boolean;
 	keywords?: string[];
+	color?: string;
 	[key: string]: unknown;
 };
-
 type Heading = { level: number; id: string; text: string };
 
 function slugify(text: string): string {
@@ -1343,17 +1907,23 @@ function slugify(text: string): string {
 
 export const load: PageServerLoad = async ({ params, url }) => {
 	try {
-		// 1. Construct the path to the markdown file
-		const postPath = `/src/lib/posts/${params.slug}.md`;
-		
-		// 2. Import metadata using Vite's glob import
+        const { slug, category } = params;
+        
+        // 1. Import all posts via Glob (Metadata only)
 		const postModules = import.meta.glob('/src/lib/posts/*.md', { import: 'metadata' });
-		const metadataLoader = postModules[postPath];
+        
+        // 2. Find the file that matches the slug (Case insensitive lookup for robustness)
+        // This fixes Vercel issues where file might be 'Reflections.md' but URL is 'reflections'
+        const matchingPath = Object.keys(postModules).find((path) => {
+            const fileName = path.split('/').pop()?.replace('.md', '').toLowerCase();
+            return fileName === slug.toLowerCase();
+        });
 
-		if (!metadataLoader) {
-			error(404, { message: `Could not find metadata for post: ${params.slug}` });
+		if (!matchingPath) {
+			error(404, { message: `Could not find post: ${slug}` });
 		}
 
+		const metadataLoader = postModules[matchingPath];
 		const post = (await metadataLoader()) as PostMetadata;
 
 		// 3. Check if published
@@ -1361,15 +1931,16 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			error(404, { message: 'This post is not available' });
 		}
 
-		// 4. Get raw content for reading time & headings (Table of Contents)
+		// 4. Get raw content for reading time & headings
+        // Note: We use the *same* matching path found above
 		const postsRaw = import.meta.glob('/src/lib/posts/*.md', {
 			query: '?raw',
 			import: 'default'
 		});
-		const rawContentLoader = postsRaw[postPath];
+		const rawContentLoader = postsRaw[matchingPath];
 		const rawContent = (await rawContentLoader()) as string;
 
-		// 5. Extract Headings (H2, H3) for the "On This Page" sidebar
+		// 5. Extract Headings
 		const headings: Heading[] = [];
 		const headingRegex = /^(##|###)\s+(.*)/gm;
 		let match;
@@ -1379,7 +1950,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		}
 
 		// 6. Construct SEO Data
-		const canonicalUrl = `${url.origin}/blog/${params.category}/${params.slug}`;
+		const canonicalUrl = `${url.origin}/blog/${category}/${slug}`;
 		const seo = {
 			title: `${post.title} | SuvroGhosh.Blog`,
 			description: post.description,
@@ -1391,7 +1962,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			keywords: post.keywords
 		};
 
-		// 7. Construct Schema.org Data (JSON-LD)
+		// 7. Schema.org Data
 		const datePublished = post.date ? new Date(post.date).toISOString() : new Date().toISOString();
 		const schema = {
 			'@context': 'https://schema.org',
@@ -1410,7 +1981,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 				name: 'SuvroGhosh.Blog',
 				logo: {
 					'@type': 'ImageObject',
-					url: `${url.origin}/favicon.png`
+					url: `${url.origin}/favicon.svg` // Updated extension
 				}
 			},
 			description: post.description,
@@ -1420,22 +1991,21 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			}
 		};
 
-		// 8. Return everything to the page
 		return {
 			metadata: post,
 			headings,
 			seo,
-			schema
+			schema,
+            // Pass the resolved path to +page.ts so it loads the correct component
+            resolvedPath: matchingPath 
 		};
 
 	} catch (e: any) {
 		console.error(e);
-		// If we explicitly threw a 404, rethrow it. Otherwise generic 500.
 		if (e?.status === 404) throw e;
-		error(404, { message: `Could not find post: ${params.slug}` });
+		error(500, { message: 'Internal Server Error' });
 	}
 };
-
 
 # File: src/routes/blog/[category]/[slug]/+page.svelte
 
@@ -1444,48 +2014,74 @@ export const load: PageServerLoad = async ({ params, url }) => {
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
-    
-    // The markdown content component (passed from +page.ts)
+	
+    // derived values for cleaner template
     let Content = $derived(data.content);
+    let meta = $derived(data.metadata);
+
+    // Color Mapping System
+    const colorStyles: Record<string, string> = {
+        red: 'bg-red-800 text-white border-red-950',        // Satirical / R-Rated
+        black: 'bg-neutral-950 text-white border-neutral-800', // Personal / Dark
+        blue: 'bg-blue-700 text-white border-blue-900',      // Sciencey
+        green: 'bg-emerald-700 text-white border-emerald-900', // Mathematical
+        orange: 'bg-orange-600 text-white border-orange-800'   // General / Other
+    };
+
+    // FIX: Ensure the key is always a string. 
+    // If meta.color is undefined, it defaults to '' which looks up undefined in the map,
+    // falling back to the 'orange' style on the right side.
+    let headerClass = $derived(
+        colorStyles[(meta.color ?? '').toLowerCase()] ?? colorStyles['orange']
+    );
 </script>
 
 {#if data.seo}
     <SEO {...data.seo} schema={data.schema} />
 {/if}
 
-<div class="blog-post-container">
-    {#if Content}
-        <Content />
-    {/if}
-</div>
+<article class="blog-post-container max-w-4xl mx-auto">
+    <header class={`mb-8 rounded-lg p-8 shadow-lg border-b-4 ${headerClass}`}>
+        <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-4 text-center">
+            {meta.title}
+        </h1>
+        
+        <div class="flex justify-center items-center gap-4 text-sm font-medium opacity-90 uppercase tracking-widest">
+            <span>{meta.category}</span>
+            <span>•</span>
+            <span>{new Date(meta.date || new Date()).toLocaleDateString()}</span>
+        </div>
+    </header>
+
+    <div class="prose prose-lg dark:prose-invert mx-auto">
+        {#if Content}
+            <Content />
+        {/if}
+    </div>
+</article>
 
 # File: src/routes/blog/[category]/[slug]/+page.ts
 
+// File: src/routes/blog/[category]/[slug]/+page.ts
 import { error } from '@sveltejs/kit';
 import type { PageLoad } from './$types';
 
-export const load: PageLoad = async ({ params, data }) => {
+export const load: PageLoad = async ({ data }) => {
     // 1. Tell Vite about all potential markdown posts
-    // This creates a map where keys are paths and values are import functions
     const modules = import.meta.glob('/src/lib/posts/*.md');
 
-    // 2. Construct the exact key we are looking for
-    const path = `/src/lib/posts/${params.slug}.md`;
-
-    // 3. Find the correct import function
-    const resolver = modules[path];
+    // 2. Use the exact path found by the server (handles case sensitivity)
+    const resolver = modules[data.resolvedPath];
 
     if (!resolver) {
-        error(404, `Could not find post: ${params.slug}`);
+        error(404, `Could not load content for: ${data.metadata.title}`);
     }
 
-    // 4. Execute the import to get the Svelte component
+    // 3. Execute the import to get the Svelte component
     const post: any = await resolver();
 
     return {
-        // The default export of a .md file (via mdsvex) is the Svelte component
         content: post.default,
-        // Pass along the SEO and Metadata we calculated on the server
         ...data 
     };
 };
@@ -1495,6 +2091,8 @@ export const load: PageLoad = async ({ params, data }) => {
 import fs from 'node:fs';
 import path from 'node:path';
 
+// Prerender this page so it generates a static list of images at build time.
+// When you add new images to the repo and deploy, this list updates.
 export const prerender = true;
 
 export const load = async () => {
@@ -1506,14 +2104,13 @@ export const load = async () => {
     
     const files = await fs.promises.readdir(imagesDir);
     
-    // Filter for images and create public paths
+    // Filter for valid image extensions and create public paths
     const images = files
         .filter((file) => /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(file))
         .map((file) => `/images/${file}`);
 
     return { images };
 };
-
 
 # File: src/routes/gallery/+page.svelte
 
@@ -1529,14 +2126,14 @@ export const load = async () => {
 </svelte:head>
 
 <section class="container mx-auto py-8">
-	<h1 class="text-center mb-2 text-4xl font-serif font-bold">Gallery</h1>
-    <p class="text-center text-neutral-500 dark:text-neutral-400 mb-8 italic">
+	<h1 class="text-center mb-2 text-4xl font-sans font-bold text-neutral-900 dark:text-neutral-100">Gallery</h1>
+    
+    <div class="text-center text-neutral-500 dark:text-neutral-400 mb-8 italic">
         A visual collection from the archives.
-    </p>
+    </div>
     
 	<ImageMasonry images={data.images} />
 </section>
-
 
 # File: src/routes/layout.css
 

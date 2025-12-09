@@ -1,13 +1,12 @@
 <script lang="ts">
 	import PostGallery from '$lib/components/blog/PostGallery.svelte';
-    // We import PageData which is the MERGED type of layout + page data
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
 </script>
 
 <svelte:head>
-	<title>SuvroGhosh.Blog</title>
+    <title>SuvroGhosh.In</title>
 	<meta name="description" content="A collection of articles on web engineering, philosophy, and life." />
 </svelte:head>
 

@@ -1,19 +1,22 @@
 <script lang="ts">
-	import { page } from '$app/stores';
-	$: categories = $page.data.categories || [];
-    $: currentPath = $page.url.pathname;
+	import { page } from '$app/state';
+
+    // Using Runes to derive state from the global page object 
+    // This replaces the old $: syntax and $app/stores
+	let categories = $derived(page.data.categories || []);
+    let currentPath = $derived(page.url.pathname);
 </script>
 
 <aside class="h-full p-4 overflow-y-auto">
 	<nav class="space-y-8">
         <div class="sidebar-group space-y-2">
 			<a href="/blog" 
-               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold transition-colors"
                class:text-gold={currentPath === '/blog'}>
 				All Posts
 			</a>
 			<a href="/gallery" 
-               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold"
+               class="sidebar-topic block text-sm font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-400 hover:text-gold transition-colors"
                class:text-gold={currentPath === '/gallery'}>
 				Gallery
 			</a>
@@ -21,9 +24,14 @@
 
         {#each categories as category}
 			<div class="sidebar-group mb-6">
-				<div class="sidebar-topic mb-3 text-xs font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-500">
+                <a 
+                    href="/blog/{category.name}"
+                    class="sidebar-topic block mb-3 text-xs font-bold uppercase tracking-wider text-neutral-500 dark:text-neutral-500 hover:text-gold transition-colors"
+                    class:text-gold={currentPath === `/blog/${category.name}`}
+                >
 					{category.name}
-				</div>
+				</a>
+                
 				<ul class="space-y-1">
 					{#each category.articles as article}
 						<li>

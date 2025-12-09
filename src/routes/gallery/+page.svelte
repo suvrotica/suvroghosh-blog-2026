@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Gallery - SuvroGhosh.Blog</title>
+    <title>Gallery - SuvroGhosh.In</title>
 	<meta name="description" content="A visual collection." />
 </svelte:head>
 

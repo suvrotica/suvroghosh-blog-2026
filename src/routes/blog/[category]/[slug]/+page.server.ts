@@ -2,6 +2,7 @@
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
+// Define the shape of your markdown metadata
 type PostMetadata = {
 	title: string;
 	description: string;
@@ -12,6 +13,7 @@ type PostMetadata = {
 	color?: string;
 	[key: string]: unknown;
 };
+
 type Heading = { level: number; id: string; text: string };
 
 function slugify(text: string): string {
@@ -28,12 +30,11 @@ function slugify(text: string): string {
 export const load: PageServerLoad = async ({ params, url }) => {
 	try {
         const { slug, category } = params;
-        
-        // 1. Import all posts via Glob (Metadata only)
+
+		// 1. Import all posts via Glob (Metadata only)
 		const postModules = import.meta.glob('/src/lib/posts/*.md', { import: 'metadata' });
-        
-        // 2. Find the file that matches the slug (Case insensitive lookup for robustness)
-        // This fixes Vercel issues where file might be 'Reflections.md' but URL is 'reflections'
+
+		// 2. Find the file that matches the slug (Case insensitive lookup)
         const matchingPath = Object.keys(postModules).find((path) => {
             const fileName = path.split('/').pop()?.replace('.md', '').toLowerCase();
             return fileName === slug.toLowerCase();
@@ -51,8 +52,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			error(404, { message: 'This post is not available' });
 		}
 
-		// 4. Get raw content for reading time & headings
-        // Note: We use the *same* matching path found above
+		// 4. Get raw content for headings extraction
 		const postsRaw = import.meta.glob('/src/lib/posts/*.md', {
 			query: '?raw',
 			import: 'default'
@@ -70,9 +70,10 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		}
 
 		// 6. Construct SEO Data
+        // Updated branding to SuvroGhosh.In
 		const canonicalUrl = `${url.origin}/blog/${category}/${slug}`;
 		const seo = {
-			title: `${post.title} | SuvroGhosh.Blog`,
+			title: `${post.title} | SuvroGhosh.In`, 
 			description: post.description,
 			canonicalUrl: canonicalUrl,
 			ogImageUrl: post.thumbnail
@@ -84,7 +85,8 @@ export const load: PageServerLoad = async ({ params, url }) => {
 
 		// 7. Schema.org Data
 		const datePublished = post.date ? new Date(post.date).toISOString() : new Date().toISOString();
-		const schema = {
+		
+        const schema = {
 			'@context': 'https://schema.org',
 			'@type': 'Article',
 			headline: post.title,
@@ -98,10 +100,10 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			},
 			publisher: {
 				'@type': 'Organization',
-				name: 'SuvroGhosh.Blog',
+				name: 'SuvroGhosh.In', 
 				logo: {
 					'@type': 'ImageObject',
-					url: `${url.origin}/favicon.svg` // Updated extension
+					url: `${url.origin}/favicon.svg`
 				}
 			},
 			description: post.description,
@@ -116,7 +118,6 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			headings,
 			seo,
 			schema,
-            // Pass the resolved path to +page.ts so it loads the correct component
             resolvedPath: matchingPath 
 		};
 

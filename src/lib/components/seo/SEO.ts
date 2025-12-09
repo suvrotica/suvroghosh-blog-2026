@@ -1,9 +1,10 @@
+// File: src/lib/components/seo/SEO.ts
 import { dev } from '$app/environment';
 import type { WithContext, WebSite } from 'schema-dts';
 
-export const siteTitle = 'Suvro Ghosh Blog';
+export const siteTitle = 'SuvroGhosh.In'; // Updated
 export const siteDescription = "Join Suvro Ghosh's journey through the evolving landscape of technology. A blend of detailed tech tutorials, industry trend analyses, and personal stories.";
-export const siteUrl = dev ? 'http://localhost:5173' : 'https://suvroghosh.blog';
+export const siteUrl = dev ? 'http://localhost:5173' : 'https://suvroghosh.in'; 
 
 export const siteSEO = {
 	title: siteTitle,
@@ -19,7 +20,7 @@ export const siteSEO = {
 				url: `${siteUrl}/images/placeholders/default.png`,
 				width: 1200,
 				height: 630,
-				alt: 'Suvro Ghosh Blog Logo'
+				alt: 'Suvro Ghosh Logo'
 			}
 		]
 	},

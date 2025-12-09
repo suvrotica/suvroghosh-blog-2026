@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>{data.category} - SuvroGhosh.Blog</title>
+    <title>{data.category} - SuvroGhosh.In</title>
 </svelte:head>
 
 <section>

@@ -4,8 +4,8 @@
     import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
     import { dev } from '$app/environment';
     import { afterNavigate } from '$app/navigation';
-    import { page } from '$app/stores';
-
+    import { page } from '$app/state'; // Using Svelte 5 state instead of stores
+    
     // Components
     import Header from '$lib/components/layout/Header.svelte';
     import Footer from '$lib/components/layout/Footer.svelte';
@@ -13,18 +13,22 @@
     import SEO from '$lib/components/seo/SEO.svelte';
 
     let { children } = $props();
-
-    // State for mobile menu
+    
+    // State for mobile menu using Runes
     let isMenuOpen = $state(false);
-    function toggleMenu() { isMenuOpen = !isMenuOpen; }
+    
+    function toggleMenu() { 
+        isMenuOpen = !isMenuOpen;
+    }
 
     // Close menu on navigation
     afterNavigate(() => {
         isMenuOpen = false;
+        
         // Analytics Beacon
         if (!dev) {
             const payload = {
-                path: $page.url.pathname,
+                path: page.url.pathname, // Using page.url from $app/state
                 referrer: document.referrer,
                 screenWidth: window.innerWidth,
                 screenHeight: window.innerHeight,
@@ -41,8 +45,8 @@
 </script>
 
 <SEO 
-    title="Suvro Ghosh Blog" 
-    description="Engineering, Philosophy, and Code." 
+    title="SuvroGhosh.In" 
+    description="Engineering, Philosophy, and Code."
 />
 
 <div class="main-layout flex h-screen bg-neutral-200 dark:bg-neutral-900 text-neutral-800 dark:text-neutral-300 font-sans overflow-hidden">
