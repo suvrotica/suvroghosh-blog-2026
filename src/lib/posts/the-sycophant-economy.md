@@ -135,11 +135,11 @@ Political leaders stand in front of cameras and confidently state things that ar
 
 In this environment, someone like me—overly literal, pathologically unable to play along convincingly—starts to feel not only useless but slightly mad. If the whole village is applauding the emperor’s new clothes and you keep pointing at the shimmering nudity, after a while you begin to wonder whether you’re the one hallucinating.
 
-So, most days, I mute the TV.
+So, most days, I mute the fucking tablet TV.
 
-Not metaphorically; literally. The remote is within reach, my fingers know the route. The anchors open their mouths and out comes silence. I read the subtitles, which is somehow less offensive, like being insulted by a mime rather than a loud drunk.
+Not metaphorically; literally. The anchors open their mouths and out comes silence. I read the subtitles, which is somehow less offensive, like being insulted by a mime rather than a loud drunk. But I feel less irritated, human voices trigger my delicate mood swings, reading bypasses that switching circuit. 
 
-I scroll less than before, though not as little as I would like. The doom-scroll reflex is a kind of mental eczema: you know scratching makes it worse, but the itch is real, the temporary relief seductive.
+I scroll less than before, though not as little as I would like. The doom-scroll reflex is a kind of mental eczema or an atavistic leftover of foraging behavior: you know scratching or searching makes it worse, but the itch and search is real, the temporary relief seductive, even though ultimately meaning devoid. But it tires me out, and I want to sleep some more, I've slept off days, weeks, months like this, so what's new. 
 
 Writing, when I manage it, becomes the only activity that feels even vaguely like resistance. Not grand resistance—nobody is toppling any government because I compared the job market to a malfunctioning lavatory—but a small, stubborn assertion that my version of reality exists, however unfashionable. That my confusion and disgust and small kindnesses are data points too.
 
