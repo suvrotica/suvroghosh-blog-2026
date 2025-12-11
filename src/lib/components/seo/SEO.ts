@@ -1,5 +1,5 @@
 import { dev } from '$app/environment';
-import type { WithContext, WebSite, Person, WebPage } from 'schema-dts';
+import type { WithContext, WebSite, Person } from 'schema-dts';
 
 export const siteTitle = 'Suvro Ghosh';
 export const siteTitleLong = 'Suvro Ghosh | Engineering & Philosophy';
@@ -8,16 +8,24 @@ export const siteUrl = dev ? 'http://localhost:5173' : 'https://suvroghosh.in';
 
 export const socialUrls = [
 	'https://github.com/suvroghosh',
-    // Add your actual Twitter/X or other socials here
+	'https://linkedin.com/in/suvroghosh',
 ];
 
-// The "Entity" Schema - This tells Google WHO you are
+export const siteSEO = {
+    title: siteTitleLong,
+    description: siteDescription,
+    canonicalUrl: siteUrl,
+    ogImageUrl: `${siteUrl}/images/IMG-20251202-WA0009.jpg`,
+    ogImageAlt: 'Suvro Ghosh Profile',
+    keywords: ['Software Engineer', 'SvelteKit', 'Philosophy', 'Calcutta', 'Blog']
+};
+
 export const personSchema: WithContext<Person> = {
 	'@context': 'https://schema.org',
 	'@type': 'Person',
 	name: 'Suvro Ghosh',
 	url: siteUrl,
-	image: `${siteUrl}/images/IMG-20251202-WA0009.jpg`, // Using one of your profile images
+	image: `${siteUrl}/images/IMG-20251202-WA0009.jpg`,
 	sameAs: socialUrls,
 	jobTitle: ['Software Engineer', 'Writer', 'Philosopher'],
 	worksFor: {
