@@ -11,6 +11,6 @@
 </svelte:head>
 
 <section>
-	<h1 class="text-center mb-8">Latest Thoughts</h1>
+	<h1 class="text-center mb-8">Suvro Ghosh Posts</h1>
     <PostGallery posts={data.posts} />
 </section>

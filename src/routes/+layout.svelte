@@ -1,11 +1,12 @@
 <script lang="ts">
     import '../app.css';
+    import 'katex/dist/katex.min.css';
+    
     import { injectAnalytics } from '@vercel/analytics/sveltekit';
     import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
     import { dev } from '$app/environment';
     import { afterNavigate } from '$app/navigation';
-    import { page } from '$app/state'; // Using Svelte 5 state instead of stores
-    
+    import { page } from '$app/stores';
     // Components
     import Header from '$lib/components/layout/Header.svelte';
     import Footer from '$lib/components/layout/Footer.svelte';
@@ -13,22 +14,17 @@
     import SEO from '$lib/components/seo/SEO.svelte';
 
     let { children } = $props();
-    
-    // State for mobile menu using Runes
+    // State for mobile menu
     let isMenuOpen = $state(false);
-    
-    function toggleMenu() { 
-        isMenuOpen = !isMenuOpen;
-    }
+    function toggleMenu() { isMenuOpen = !isMenuOpen; }
 
     // Close menu on navigation
     afterNavigate(() => {
         isMenuOpen = false;
-        
         // Analytics Beacon
         if (!dev) {
             const payload = {
-                path: page.url.pathname, // Using page.url from $app/state
+                path: $page.url.pathname,
                 referrer: document.referrer,
                 screenWidth: window.innerWidth,
                 screenHeight: window.innerHeight,
@@ -39,13 +35,12 @@
             }
         }
     });
-
     injectAnalytics({ mode: dev ? 'development' : 'production' });
     injectSpeedInsights();
 </script>
 
 <SEO 
-    title="SuvroGhosh.In" 
+    title="Suvro Ghosh Blog" 
     description="Engineering, Philosophy, and Code."
 />
 
