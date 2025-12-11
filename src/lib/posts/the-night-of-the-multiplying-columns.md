@@ -40,7 +40,7 @@ This is already a vector. A small, domestic, carbohydrate-heavy vector. If I ass
 
 Historically, the idea of “multiplying” vectors starts with geometry: lengths, angles, projections. Euclid, of course, did geometry without vectors, the way our politicians do development—lots of waving hands, minimal coordinates. The real shift came when people started turning geometry into algebra. Descartes gave us the idea of coordinates; later, people quietly realized that once you have coordinates, a point is just a vector that has accepted a fixed origin in its life.
 
-The dot product—$a \cdot b$—is where that all crystallizes. It says:
+The dot product, $a \cdot b$, is where that all crystallizes. It says:
 
 1. If two vectors point in the same direction, their dot product is big and positive.
 2. If they are perpendicular, the product is zero.
