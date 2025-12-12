@@ -1,6 +1,6 @@
 ---
 title: "Release Notes"
-date: "2025-12-09"
+date: "2025-12-12"
 description: "The apocalypse, if it comes, will arrive with a Terms of Service and a dark-mode UI."
 thumbnail: "/images/IMG-20251210-WA0004.jpg"
 category: "personal"
