@@ -10,7 +10,7 @@ published: true
 
 <Pi
     src="IMG-20251210-WA0004.jpg" 
-    caption="Ready for the christmas cake Calcutta cunts?"
+    caption="Calcutta is getting into its Seasonal Hypocrisy Costume again"
 />
 
 The new model announcement reaches me before the sunlight does.
@@ -82,6 +82,11 @@ This is the context in which these new AI models are arriving, smiling benignly 
 The apocalypse, if it comes, will arrive with a Terms of Service and a dark-mode UI.
 
 ### Meanwhile, Back in the City of Manufactured Joy
+
+<Pi
+    src="IMG-20251211-WA0002.jpg" 
+    caption="the grand air-exposed sculptures outside bakeries"
+/>
 
 Outside my window, Calcutta is getting into its Seasonal Hypocrisy Costume again. Fairy lights are being strung up over cracked facades. Loudspeakers will soon be employed to play Christmas carols at volumes that would deafen the original shepherds.
 
@@ -179,7 +184,7 @@ Subverted democracy is not some future glitch; it is already our default setting
 
 ### The Fringe, the Mattress, the Vanishing Act
 
-From this vantage point—aging body, unstable mind, North Calcutta, dusty room, questionable lungs—the future does not look like the glossy render in the corporate slide deck. It looks more like a slow-motion sorting process in which some of us are quietly tagged “non-essential” and allowed to wither into statistics.
+From this vantage point—aging body, unstable mind, a backwaters boondocks in Calcutta, dusty room, questionable lungs—the future does not look like the glossy render in the corporate slide deck. It looks more like a slow-motion sorting process in which some of us are quietly tagged “non-essential” and allowed to wither into statistics.
 
 I can already imagine it:
 
