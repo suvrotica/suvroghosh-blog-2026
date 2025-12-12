@@ -2,14 +2,14 @@
 title: "The Four Fundamental Subspaces"
 date: "2025-12-12"
 description: "Linear algebra is the only subject I know where you can buy one matrix and it comes with four free subspaces. They are the recurring cast in the sitcom of solving Ax=b."
-thumbnail: "/images/IMG-20251207-WA0008.jpg"
+thumbnail: "/images/IMG-20251212-WA0014.jpg"
 category: "math"
 color: "green"
 published: true
 ---
 
 <Pi
-    src="IMG-20251207-WA0008.jpg" 
+    src="IMG-20251212-WA0014.jpg" 
     caption="Four Rooms in the Same Mathematical House"
 />
 
