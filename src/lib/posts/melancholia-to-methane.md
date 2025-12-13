@@ -1,7 +1,7 @@
 ---
 title: "Melancholia to Methane"
 date: "2025-12-14"
-thumbnail: "/images/IIMG-20251207-WA0023.jpg"
+thumbnail: "/images/IMG-20251207-WA0023.jpg"
 description: "What if my despair, and the despair of people like me, could be harvested like biogas? The chemistry of giving up—transmuted into power."
 category: "personal"
 color: "black"
