@@ -25,7 +25,7 @@ And the newest, shiniest, trillion-dollar-algebra-of-language contraption—runn
 
 The irony is so clean it’s almost literary. I am, on this low day, standing in front of a machine that can summarize a book I haven’t read, translate a poem I don’t understand, impersonate a professor I once feared, and it stumbles on six letters like it slipped on a banana peel placed by a bored kindergarten teacher.
 
-But now, because I have been scolded by reality (and by you, rightly), I do the one thing that the machine—apparently—did not do in the moment: I look at the object itself.
+But now, because I have been scolded by reality, I do the one thing that the machine—apparently—did not do in the moment: I look at the object itself.
 
 **G-A-R-L-I-C.**
 
