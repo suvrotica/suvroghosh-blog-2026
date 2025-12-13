@@ -13,7 +13,7 @@ color: "black"
     caption="The garlic is sitting on my table like a small, pale tribunal"
 />
 
-The garlic is sitting on my table like a small, pale tribunal, six little cloves in a loose pile, papery skins curled like old correspondence, the whole thing smelling faintly of honest work and culinary violence, and I am sitting beside it in that Calcutta December damp that gets into your bones the way bureaucracies get into your life—slowly, thoroughly, with a talent for making everything feel slightly heavier than it ought to.
+The lugubrious garlic is sitting on my table like a small, pale tribunal, six little cloves in a loose pile, papery skins curled like old correspondence, the whole thing smelling faintly of honest work and culinary violence, and I am sitting beside it in that Calcutta December damp that gets into your bones the way bureaucracies get into your life—slowly, thoroughly, with a talent for making everything feel slightly heavier than it ought to.
 
 December 13. Not a holiday, not a birthday, not a date with any cosmic myth attached to it, just a day with a particular texture in my head: low ceiling, low mood, low battery, the sort of day where the mind becomes a miser and rations hope like kerosene.
 
