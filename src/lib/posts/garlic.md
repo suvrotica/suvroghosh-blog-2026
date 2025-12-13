@@ -2,14 +2,14 @@
 title: "Garlic"
 date: "2025-12-13"
 description: "Confidence, in 2025, has become the most heavily subsidized hallucination. A meditation on negative numbers, garlic, and the necessity of being a cynic."
-thumbnail: "/images/IMG-20251213-WA0000.jpg"
+thumbnail: "/images/IMG-20251213-WA0002.jpg"
 category: "personal"
 published: true
 color: "black"
 ---
 
 <Pi
-    src="IMG-20251213-WA0000.jpg" 
+    src="IMG-20251213-WA0002.jpg" 
     caption="The garlic is sitting on my table like a small, pale tribunal"
 />
 
