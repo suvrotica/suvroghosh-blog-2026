@@ -2,7 +2,7 @@
 title: "Ruminative Piss"
 date: "2025-12-14"
 description: "Depressive rumination is me doing the opposite of alchemy: taking the raw effluent of a sick mood and swallowing it, unfiltered, and then acting surprised when it poisons my perception."
-thumbnail: "/images/IMG-20251207-WA0005.jpg"
+thumbnail: "/images/IMG-20251214-WA0002.jpg"
 category: "personal"
 color: "black"
 published: true
@@ -13,11 +13,11 @@ published: true
 </script> 
 
 <Pi
-    src="IMG-20251207-WA0005.jpg" 
+    src="IMG-20251214-WA0002.jpg" 
     caption="The liquor of certainty"
 />
 
-I have the picture open on my phone like a talisman I don’t trust, a little black-and-white man with a belly like a punctuation mark and a grin like a lie, tilting his head back to swallow something that is colored an indecent, almost cheerful yellow, the kind of yellow that belongs on a child’s plastic toy or the warning sticker on a pesticide bottle, not in the mouth of a grown man who already knows what his mind does when it wants to be cruel.
+I have the picture open on my phone like a talisman I don’t trust, a little black-and-white man with a belly like a punctuation mark and a grin like a lie, tilting his head back to swallow something that is colored an indecent, almost cheerful yellow, the kind of yellow that belongs on a child’s plastic toy or the warning sticker on a pesticide bottle, not in the mouth of a grown man who already knows what his mind does when it wants to be cruel. You can see the metaphor I hope.
 
 The room is doing its usual North Calcutta winter performance: air that looks innocent and smells like a committee decision, ceiling fan chopping lazily at nothing, a glass of water that tastes faintly of metal because everything tastes faintly of metal when you live in a city built from exhaust and resignation.
 
