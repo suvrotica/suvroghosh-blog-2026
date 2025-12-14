@@ -101,8 +101,6 @@ Of course India has its own bonfire of axioms—ours is older, smokier, more myt
 
 # Why linear algebra cares so much about fields
 
-Here’s the bridge to the future post you’re threatening to write (and I say “threatening” affectionately, because a good linear algebra essay is a public service and also a form of controlled arson).
-
 Linear algebra is, at heart, the study of solving many equations at once without losing your mind.
 
 You have vectors. You have matrices. You have systems like $Ax=b$. You have the intoxicating promise that you can reduce messy reality to a grid of numbers and then do things to it—rotate it, project it, solve it, diagonalize it, compress it, make it confess.
