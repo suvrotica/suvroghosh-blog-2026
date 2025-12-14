@@ -3,7 +3,7 @@ title: "The Night of the Multiplying Columns"
 date: "2025-12-11"
 description: "A matrix is just a rectangular grid of numbers, but the way we multiply them is so specific, so oddly ritualistic, that sometimes I think it could only have been invented in a civilization intimately familiar with bureaucracy."
 thumbnail: "/images/IMG-20251207-WA0018.jpg"
-category: "mathematics"
+category: "Math"
 color: "green"
 published: true
 ---
