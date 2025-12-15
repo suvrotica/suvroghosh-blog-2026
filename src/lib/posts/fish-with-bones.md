@@ -40,7 +40,7 @@ The British, of course, had a different fish in mind when they designed the whol
 
 My relationship with bones – fish or otherwise – follows a very simple algorithm: one memorable injury, then a lifetime of exaggerated caution. I get pricked once and my brain, like a badly tuned alarm system, decides that *all shrubs are now suspect*.
 
-I choked on fish as a child, so now I audit fish like a nervous tax inspector. I had one particularly humiliating romantic disaster in my twenties, so I now approach adult relationships like they are unexploded landmines from a war I didn’t even fight in. A minor driving mishap, and I become a pedestrian philosopher for years, walking the city like a disgruntled Socrates who failed his driving test.
+I choked on fish as a child, so now I audit fish like a nervous tax inspector. I had several romantic catastrophes in my life including a failed marriage, so I now approach adult relationships like they are unexploded landmines from a war I didn’t even fight in. A minor driving mishap, and I become a pedestrian philosopher for years, walking the city like a disgruntled Socrates who failed his driving test.
 
 From a clinical perspective, this is just trauma plus an overactive risk-averse temperament. From the inside, it feels like my amygdala has unionised and is now over-performing its job, filing objections against everything with enthusiasm. The bipolar brain adds its own special effects to this; in a hypomanic phase I will briefly forget all the bones, all the near-chokes, all the disasters and rush headlong into some new project – a big idea, an impossible website, a grand life reboot – and then, as the mood slides back into the gently suffocating porridge of depression, the memory of every previous bone returns, each one annotated in HD.
 
@@ -48,7 +48,7 @@ The fish bone in the throat is an almost perfect metaphor for how I internalise 
 
 So, over the years, I have reorganised my life in favour of soft food.
 
-Not literally – I still eat crunchy things, my jaw hasn’t retired – but emotionally, socially, professionally. I prefer routine to novelty, solitude to social adventure, books to networking events, the safe glow of a laptop to any scenario involving name tags, handshakes, or open-ended questions like “So what do you do?” I have built, around my fragile, over-indexed fear circuitry, a shanty of habits, a small predictable shelter in the boondocks of North Calcutta, where the biggest daily risk is that the neighbour’s child will start practising Bollywood dance routines at full volume during my afternoon existential crisis.
+Not literally – I still eat crunchy things, my jaw hasn’t retired – but emotionally, socially, professionally. I prefer routine to novelty, solitude to social adventure, books to networking events, the safe glow of a laptop to any scenario involving name tags, handshakes, or open-ended questions like “So what do you do?” I have built, around my fragile, over-indexed fear circuitry, a shanty of habits, a small predictable shelter in the boondocks of South Calcutta, where the biggest daily risk is that the neighbour’s child will start practising Bollywood dance routines at full volume during my afternoon existential crisis.
 
 # The Hermit in the City of Ruins
 
