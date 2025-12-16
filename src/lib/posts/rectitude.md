@@ -122,7 +122,7 @@ The absurdity is not that I feel despair. The absurdity is that I ever expected 
 
 Outside, in the para, someone has begun the daily ritual of noise. A scooter coughs. A dog barks at the concept of Tuesday. A neighbor’s television leaks devotional singing into the corridor like secondhand smoke. The city wakes up and immediately starts performing itself.
 
-I walk to the kitchen, make tea, and watch the milk form that thin skin that always looks like a dead thing trying to become a document. The kettle whistles like a tiny angry deity. I stir. I wait. I drink. It tastes like habit. It tastes like survival. It tastes like the kind of life that is not tragic enough to be interesting, but not comfortable enough to be forgiven.
+I walk to the kitchen, make tea, and watch the milk form that thin skin that always looks like a dead thing trying to become a document. I stir. I wait. I drink. It tastes like habit. It tastes like survival. It tastes like the kind of life that is not tragic enough to be interesting, but not comfortable enough to be forgiven.
 
 In another universe—one where the gods are kinder or the probability distribution is less cruel—I might have been “someone.” In this universe, I am a man who reads too much, thinks too much, earns too little, and carries around a head full of philosophy like a suitcase full of bricks.
 
