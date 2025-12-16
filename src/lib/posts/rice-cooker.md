@@ -128,6 +128,11 @@ The irony is that the writing—this messy exorcism—sometimes stabilizes me. I
 
 # The Modest, Unheroic Defiance of Making Tea
 
+<Pi
+    src="/Photos/20251216_091910.jpg"
+    caption="my rice cooker"
+/>
+
 I don’t have a neat ending because the day doesn’t have one. The rice cooker remains on warm, as if warmth were a philosophy. The headache, having made its point, loosens slightly, like an angry bureaucrat taking lunch. Outside, the city continues being itself—half miracle, half scam, all noise.
 
 There’s a small patch of comfort I don’t trust but still use: the fact that I can, at any moment, choose a smaller ritual than doomscrolling. Wash the cup properly. Open a book and actually read two pages without jumping. Sit on the edge of the bed and stretch my neck like a creature that remembers it has a body. Put mustard oil on hot rice and smell that sharp, earthy sting that says: you are still here, you animal; you still eat; you still metabolize; you still persist.
