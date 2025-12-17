@@ -1,6 +1,6 @@
 ---
 title: "The Man Who Stopped the Earth"
-date: "2025-12-20"
+date: "2025-12-17"
 description: "In the cracked plaster of Kolkata’s lanes, one man wages a lonely, forty-year war against Galileo, Copernicus, and the very idea that the Earth moves."
 thumbnail: "/images/IMG-20251207-WA0010.jpg"
 category: "science"
