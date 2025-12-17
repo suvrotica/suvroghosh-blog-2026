@@ -1,9 +1,17 @@
 ---
-title: Soot, Entropy, and the Cult of Maintenance
-date: '2025-12-17'
-description: A meditation on soot, the Second Law of Thermodynamics, and the struggle for maintenance in a porous world.
-categories: ['Personal']
+title: "Soot, Entropy, and the Cult of Maintenance"
+date: "2025-12-17"
+description: "A meditation on soot, the Second Law of Thermodynamics, and the struggle for maintenance in a porous world."
+category: "Work"
+thumbnail: "/images/IMG-20251208-WA0005.jpg"
+published: true
+color: "black"
 ---
+
+<Pi
+    src="IMG-20251208-WA0005.jpg" 
+    caption="The stubborn refusal to let the day take every orifice without a fight."
+/>
 
 The first thing I do some mornings—before tea, before the phone, before I allow the day to start selling me its bargains—is wipe the window ledge with an old cloth that used to be white and is now the color of resigned paperwork.
 
