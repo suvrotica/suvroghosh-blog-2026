@@ -60,4 +60,17 @@ Ptolemy, in 2nd century Alexandria, used complex loops (epicycles) to explain wh
 
 Like Giordano Bruno, who burnt at the stake in 1600 for defending an infinite cosmos, Paul defends his inverse proposition with the same fire. Yet Paul’s fire remains metaphorical: a quiet inferno of words and white paint on the alley walls of North Kolkata.
 
-At once hero, eccentric, and cautionary tale, Kartick Chandra Paul remains resolute. He brushes against the relentless march of scientific consensus, his inscriptions fading and reappearing like tides, resolutely geocentric in a heliocentric world.
+At once hero, eccentric, and cautionary tale, Kartick Chandra Paul remains resolute. He brushes against the relentless march of scientific consensus, his inscriptions fading and reappearing like tides, resolutely geocentric in a heliocentric world. I remember Carl Sagan mention when I was a kid watching Cosmos Aristarchus of Samos—a Greek astronomer (3rd century BCE) who argued that Earth rotates and goes around the Sun, i.e. a heliocentric model, long before Copernicus. Heraclides of Pontus (4th century BCE) is often credited with pushing Earth’s daily rotation (so the sky isn’t doing a frantic 24-hour pirouette; we are), and he may have had Mercury and Venus orbiting the Sun (a neat “mini-heliocentrism” inside an otherwise geocentric worldview).
+
+Now India, because this is where the story gets fun and annoyingly precise:
+
+Aryabhata (499 CE) very clearly argues Earth rotates on its axis (a big conceptual leap), and he measures/derives lots of things in ways that reference the Sun. But the cautious consensus is: that doesn’t automatically mean heliocentrism in the physical, “Earth orbits Sun” sense; you can use Sun-referenced corrections inside a fundamentally geocentric computational scheme. 
+
+Much later, in Kerala:
+
+Nilakantha Somayaji (15th–16th century) develops a geo-heliocentric system: Mercury, Venus, Mars, Jupiter, Saturn orbit the Sun, and the Sun orbits Earth—a very Tycho-Brahe-ish compromise, but produced independently and used as a powerful computational model. 
+
+And texts like the Surya Siddhanta are, in broad strokes, geocentric in their described computational universe.
+
+But, if you have just woken up from under a rock, here’s the bad news: you have not been “still” even once—you’ve been spun, flung, hauled, and galaxy-carried the whole time—**rotating** with Earth at up to about **465 m/s** (~**1,670 km/h**) at the equator (scaled by **cos latitude**, so Kolkata is roughly **~415 m/s**), **revolving** around the Sun at about **29.8 km/s** (~**107,000 km/h**), riding the Sun’s own orbit around the Milky Way at roughly **~220–240 km/s**, drifting with the **Local Group** at roughly **~600 km/s** relative to the cosmic microwave background, and—because the universe refuses to stop showing off—also doing the smaller but real bonus motions: Earth’s axis **precessing** (a slow wobble ~26,000-year cycle), the axis **nutating** (a little nodding on top), Earth’s rotation **slowing** by milliseconds per century, the whole Earth–Moon system doing its monthly **barycentric** dance, tectonic plates creeping a few **centimeters per year**, and tiny polar “**wobbles**” that shift the rotation axis by meters as oceans, air, and ice slosh their mass around.
+
