@@ -34,7 +34,7 @@ Quail? You better believe it. The elusive *bater dim*—quail eggs—are conside
 
 What’s with Bengalis and birds? Is it because we secretly want to fly but can’t get our sweet-loving asses off the ground? Is it because fish—our real spirit animal—got boring and bony and we wanted revenge on another branch of the animal kingdom? Or is it just that when we see feathers, we think “what would this taste like in mustard oil and existential crisis?”
 
-Historically? Sure. [cite_start]Blame it on famine[cite: 75]. Blame it on partition. Blame it on rice inflation or ancestral trauma. Birds were plentiful, stupid, and fly into traps like ideas into WhatsApp forwards. And we, with our post-colonial passive-aggressive digestive systems, needed something to butter with guilt.
+Historically? Sure. Blame it on famine. Blame it on partition. Blame it on rice inflation or ancestral trauma. Birds were plentiful, stupid, and fly into traps like ideas into WhatsApp forwards. And we, with our post-colonial passive-aggressive digestive systems, needed something to butter with guilt.
 
 Etymologically? Even the words sound delicious. *Murgi*—which probably comes from Persian *murgh*, and before that possibly from some Proto-Indo-European root meaning “to die tastily”. *Haansh*—almost like a laugh, but wetter. *Bater dim*—a phrase that sounds like someone stubbing their toe on a rural egg.
 
