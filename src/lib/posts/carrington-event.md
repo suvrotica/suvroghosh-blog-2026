@@ -2,20 +2,20 @@
 title: "The Carrington Event"
 date: "2025-12-17"
 description: "A petulant star momentarily bored of just burning quietly for billions of years, choosing instead to belch electromagnetic mayhem at our fragile little planet."
-thumbnail: "/images/IMG-20251208-WA0005.jpg"
+thumbnail: "/images/IMG-20251207-WA0026.jpg"
 category: "science"
 color: "blue"
 published: true
 ---
 
 <Pi
-    src="IMG-20251208-WA0005.jpg" 
-    caption="The Sun, shortly before ruining the Victorian internet"
+    src="IMG-20251207-WA0026.jpg" 
+    caption="My ancestor somewhere on the Indian subcontinental space was adjusting his lungi"
 />
 
 Now there's a proper cosmic tantrum: the Sun throwing an apocalyptic hissy-fit, a petulant star momentarily bored of just burning quietly for billions of years, choosing instead to belch electromagnetic mayhem at our fragile little planet.
 
-Picture this: It's the morning of September 1, 1859. A Victorian gentleman astronomer—one Richard Carrington—just minding his own goddamned business, stares through a telescope at our friendly neighborhood nuclear furnace. And suddenly, he sees two blinding white spots explode out of a cluster of sunspots—solar acne rupturing with cosmic pus. A solar flare, he realizes, but not just any solar flare—*the* solar flare. If God had heartburn, this was its belch.
+Picture this: It's the morning of September 1, 1859. A Victorian gentleman astronomer—one Richard Carrington—just minding his own goddamned business, stares through a telescope at our friendly neighborhood nuclear furnace. And suddenly, he sees two blinding white spots explode out of a cluster of sunspots—solar acne rupturing with cosmic pus. A solar flare, he realizes, but not just any solar flare—*the* solar flare. If God had heartburn, this was its belch. My ancestor somewhere on the Indian subcontinental space was adjusting his lungi unaware of this cosmic phallus being inserted surreptitiously in the Earth's backside. 
 
 # Solar Vomit
 
