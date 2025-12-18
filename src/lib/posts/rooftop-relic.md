@@ -73,7 +73,7 @@ The cruel joke of being modern is that we have replaced that prayer with “Acce
 
 ## The Terms-and-Conditions Tantra
 
-The text you handed me—the one where the “middle-aged Bengali” offers himself up to the algorithm like a sacrificial goat with Wi-Fi—lands because it’s obscene in exactly the way the era is obscene.
+As a middle-aged Bengali who offers himself up to the algorithm like a sacrificial goat with Wi-Fi is obscene in exactly the way the era is obscene.
 
 Not the sexual obscenity, though we use sexual language because it’s the nearest honest vocabulary we have left for consent and violation and appetite and shame. The real obscenity is this: **we keep volunteering our inner lives to machines we don’t understand, owned by institutions we don’t trust, under incentives designed to keep us slightly hungry forever.**
 
