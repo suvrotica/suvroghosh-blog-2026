@@ -17,7 +17,7 @@ The lugubrious garlic is sitting on my table like a small, pale tribunal, six li
 
 December 13. Not a holiday, not a birthday, not a date with any cosmic myth attached to it, just a day with a particular texture in my head: low ceiling, low mood, low battery, the sort of day where the mind becomes a miser and rations hope like kerosene.
 
-So naturally I do what any modern ape does when it feels small and powerless: I poke a glowing rectangle and ask it a stupid question.
+I always wrote like it was necessary to drain life from prose—by the need to put facts and structure on it, or by the need to shine the shit of whatever dregs surfaced from the depression-haunted, blurry, myopic past of days and years that had gone before—even if there were any spice or fun in the simple things I have left behind, I can’t recollect them with any fidelity or confidence—just a shattered unease of reticent nostalgia that makes me feel forlorn. So it is mechanistic in flavor, and the palimpsest of an LLM’s insipid rewrites over it, when I feel void of thought, won’t make it any more indigestible than it already, inveterately, is. But I want to test it first. So naturally I do what any modern ape does when it feels small and powerless: I poke a glowing rectangle and ask it a stupid question.
 
 *How many r in garlic.*
 
