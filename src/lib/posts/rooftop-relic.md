@@ -157,7 +157,7 @@ Late afternoon shifts. The sun angle changes and the bamboo’s shadow lengthens
 
 I stand there with my phone in my hand, the modern rosary, and feel the tug to turn this scene into content, into performance, into one more little offering to the digital sewer. I also feel the opposite tug: to do something stubbornly physical, small, unshareable, almost private.
 
-So I pick up the bamboo. It crackles. It falls apart a bit more, offended by being handled. The pieces are light, surprisingly—strength lost its density when it left. I gather the splinters into a rough pile. I don’t feel noble. I feel like a man cleaning his own mess, which is the least poetic form of redemption available.
+So I pick up the bamboo. It crackles. It falls apart a bit more, offended by being handled. The pieces are light, surprisingly—strength lost its density when it left. I gather some of the small splinters into a rough pile. I don’t feel noble. I feel like a man cleaning his own mess, which is the least poetic form of redemption available. Of course it's still a mess, it would need a crew of concerted concerned men to clean the rooftop from the accumulated high entropy. 
 
 Time eats everything. Fine. Let it eat. But it doesn’t get to eat *for free*. Not entirely. Not without me occasionally refusing the easy slide—closing the feed, resisting the automatic click, doing the small maintenance that keeps a mind from rotting into confetti.
 
