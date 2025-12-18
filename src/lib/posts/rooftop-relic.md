@@ -61,19 +61,9 @@ That’s the bamboo lesson again: support is not salvation. Support is borrowed 
 
 And me—middle-aged, bookish, under-wealthy, stuck in the damp arithmetic of my own mood swings—am painfully susceptible to borrowed structure. On good days, I call it “tools.” On bad days, I call it what it is: a crutch I have started to worship because it keeps me from feeling the floor.
 
-There’s an old line from the Upanishads—Vedic, antique, sincere in a way modern sincerity can’t afford:
-
-> *असतो मा सद्गमय । तमसो मा ज्योतिर्गमय । मृत्योर्मा अमृतं गमय ।*
-
-Lead me from untruth to truth, from darkness to light, from death to immortality.
-
-It’s beautiful. I don’t *believe* it the way believers believe things (I don’t have the talent), but I recognize the human gesture: a creature aware of its own decay asking for something that doesn’t rot.
-
-The cruel joke of being modern is that we have replaced that prayer with “Accept Terms and Conditions.”
-
 ## The Terms-and-Conditions Tantra
 
-As a middle-aged Bengali who offers himself up to the algorithm like a sacrificial goat with Wi-Fi is obscene in exactly the way the era is obscene.
+As a middle-aged Bengali who offers himself up to the algorithm like a sacrificial goat with Wi-Fi I am obscene in exactly the way the era is obscene.
 
 Not the sexual obscenity, though we use sexual language because it’s the nearest honest vocabulary we have left for consent and violation and appetite and shame. The real obscenity is this: **we keep volunteering our inner lives to machines we don’t understand, owned by institutions we don’t trust, under incentives designed to keep us slightly hungry forever.**
 
