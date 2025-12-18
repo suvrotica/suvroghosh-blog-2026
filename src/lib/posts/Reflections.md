@@ -66,7 +66,7 @@ It’s neither an avowal of guilt nor of defeat—there are no adversaries to sp
     caption="I was a wanker, and it was also a metaphor"
 />
 
-I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is* because it's a limp, ninny, noodle now, unwankably mushy and hides in its glen sulking or terrified. 
+I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is* because now the noodle is limp and ninny, unwankably mushy and hides, in its glen, ostracized, sulking and terrified. 
 
 <Pi
     src="IMG-20251202-WA0003.jpg" 
