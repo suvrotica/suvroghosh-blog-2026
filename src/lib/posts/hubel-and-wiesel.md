@@ -2,14 +2,14 @@
 title: "Hubel & Wiesel: Architects of Vision"
 date: "2025-12-09"
 description: "How two scientists with a few cats and some microelectrodes figured out that your brain doesn't just 'see'—it builds the world out of edges, lines, and columns."
-thumbnail: "/images/IMG-20251215-WA0001.jpg"
+thumbnail: "/images/IMG-20251219-WA0003.jpg"
 category: "science"
 color: "blue"
 published: true
 ---
 
 <Pi
-    src="IMG-20251215-WA0001.jpg" 
+    src="IMG-20251219-WA0003.jpg" 
     caption="The cat brain is a suspicious customs office, not a camera."
 />
 
