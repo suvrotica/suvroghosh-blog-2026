@@ -10,6 +10,7 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 const globalImports = `
 import Pi from '$lib/components/blog/PostImage.svelte';
 import Yt from '$lib/components/blog/YouTube.svelte';
+import Yc from '$lib/components/blog/YtCredit.svelte';
 `;
 
 /**
