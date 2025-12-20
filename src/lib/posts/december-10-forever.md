@@ -21,18 +21,7 @@ So it is a good bit of something that was a really a sad cheap trick the cave-me
 
 Most iconoclasts have a lopsided view of marriage, a misguided romantic one, or, perniciously and problematically, a fictional spaghetti of their own making. I, as an iconoclast, would not make a good writer of such fiction, even though in my vision of the world, I tend to lean heavily on my misanthropic lens, which is beauty in its pathological strangeness, romantic in a roundabout way as my madness sees it. But I believe that in the near distant future, when we look back at marriage as one archaic term good as a catch all for bygone, primitive oxymorons, someone will remember that women, often having given up on the actual merits of a marriage, value the memory of the inferior pair on their recollection of a date as the last redeemable quality; that date for me was today, I should tell you, the tenth of December, and posterity should note that I am indeed good in that trivial sense. Except now I have to qualify the tense with "used to be", it's good that she moved on from what must have been an incorrigible nightmare and I am happy she has a different date to remember and remind fondly. But I'll lurk in the background of forgotten items, hiding in the drizzle and haze of the everyday ordinary, in the small things that life decides to throw at unexpected moments, and the remembrances of our shared past, the good or the bad, will all come flooding back to her, like hard to contain emotions.
 
-<div class="my-8 aspect-video w-full overflow-hidden rounded-lg shadow-lg border border-neutral-300 dark:border-neutral-700">
-    <iframe 
-        width="100%" 
-        height="100%" 
-        src="https://www.youtube.com/embed/cJT3de5BOik?si=MK59rq-aUBpEV6KA" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerpolicy="strict-origin-when-cross-origin" 
-        allowfullscreen>
-    </iframe>
-</div>
+<Yt src="https://www.youtube.com/embed/cJT3de5BOik" />
 
 But what I feel is that the biology that was carved into us through the innumerable permutations of genes through evolution is what this shoehorn of social paraphernalia has accomplished to distort, disturbingly. People are animals, not the best kind to be with either, especially for life, and whether the level of vasopressin makes a claim for us being monogamous is debatable and a veritable bone of contention for a lived life of many more years that science may bestow in the future to come. At least we do oscillate between the horny bonobos and the occasionally doting chimpanzees in our marital escapades and duties, and it is the biological imperative that makes the males and females do what they ought to do based on algorithms that are now anachronistic for this ape with a smartphone.
 
