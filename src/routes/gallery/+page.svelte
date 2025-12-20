@@ -13,7 +13,7 @@
 	<h1 class="text-center mb-2 text-4xl font-sans font-bold text-neutral-900 dark:text-neutral-100">Gallery</h1>
     
     <div class="text-center text-neutral-500 dark:text-neutral-400 mb-8 italic">
-        A visual collection from the archives.
+        Suvro Ghosh Sketch Posts.
     </div>
     
 	<ImageMasonry images={data.images} />
