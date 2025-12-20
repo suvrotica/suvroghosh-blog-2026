@@ -15,7 +15,7 @@ published: true
     caption="Here is a list of URLs, channels and playlists I frequently visit"
 />
 
-# Suvro Ghosh curated list not on YouTube
+# Curated list not on YouTube
 
 <a href="https://www.bbc.co.uk/programmes/b015sqc7/episodes/guide" target="_blank" rel="noopener noreferrer" class="block my-8 not-prose group">
     <div class="flex items-center gap-4 p-4 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 hover:bg-neutral-200 dark:hover:bg-neutral-800 transition-colors">
@@ -32,7 +32,7 @@ published: true
     </div>
 </a>
 
-# Suvro Ghosh curated list of channels and playlists favorites on YouTube
+# Curated list of channels and playlists favorites on YouTube
 
 <Yt src="https://youtube.com/playlist?list=PLVIRTkGrtbrsYaCGtmHK2MVMRlWg9zFPC&si=oD52C6GBgBHd-5pr" />
 
