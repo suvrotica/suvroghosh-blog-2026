@@ -7,7 +7,9 @@ category: "videos"
 color: "orange"
 published: true
 ---
-**To give full credit and support to the original creator, please click the video title and watch it on YouTube. It makes a real difference for them.**
+
+<Yc />
+
 <Pi
     src="IMG-20251219-WA0005.jpg"
     caption="Here is a list of URLs, channels and playlists I frequently visit"
