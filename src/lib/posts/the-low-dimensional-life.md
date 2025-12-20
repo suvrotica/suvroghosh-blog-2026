@@ -77,7 +77,7 @@ There’s an old line in the Aitareya Upanishad that I keep thinking about—not
 
 It describes the gods—yes, gods, this is India, we do metaphysics with characters—falling into the vast ocean of existence, and then:
 
-> “तमशनापिपासाभ्यामन्ववार्जत्” — “He subjected him to hunger and thirst.” (texts.wara.in)
+> “तमशनापिपासाभ्यामन्ववार्जत्” — “He subjected him to hunger and thirst.”
 
 Hunger (*aśanā*) and thirst (*pipāsā*) show up like debt collectors at the cosmic housewarming party, and the gods themselves have to ask for an “abode” where they can eat.
 
@@ -160,7 +160,7 @@ And then—because I am me—I also think about how institutions will sabotage t
 There’s another Sanskrit verse that keeps appearing in commentaries and devotional circles—again, not because I’m joining the choir, but because the structure is interesting. It’s attributed to the Vishnu Purana (and echoed elsewhere), and it says:
 
 > “ध्यायन् कृते यजन् यज्ञैस् त्रेतायां द्वापरेऽर्चयन् ।  
-> यद् आप्नोति तद् आप्नोति कलौ सङ्कीर्त्य केशवम् ॥” (Wisdom Library)
+> यद् आप्नोति तद् आप्नोति कलौ सङ्कीर्त्य केशवम् ॥” 
 
 Roughly: what you achieved by meditation in one age, by sacrifice in another, by worship in another—you can achieve in Kali Yuga simply by chanting.
 
@@ -226,4 +226,4 @@ The ceiling fan wobbles. The 8K walker turns a corner into a street so clean it 
 
 I lock the screen.
 
-The room returns in low resolution: the faint hum of a transformer, the sticky air, the soft tyranny of hunger and thirst waiting, patiently, like ancient gods that never needed a brochure. (texts.wara.in)
+The room returns in low resolution: the faint hum of a transformer, the sticky air, the soft tyranny of hunger and thirst waiting, patiently, like ancient gods that never needed a brochure.
