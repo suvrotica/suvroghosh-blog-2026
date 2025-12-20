@@ -50,7 +50,7 @@ published: true
 
 # Not on YouTube
 
-<a href="https://www.bbc.co.uk/programmes/b015sqc7" target="_blank" rel="noopener noreferrer" class="block my-8 not-prose group">
+<a href="https://www.bbc.co.uk/programmes/b015sqc7/clips" target="_blank" rel="noopener noreferrer" class="block my-8 not-prose group">
     <div class="flex items-center gap-4 p-4 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 hover:bg-neutral-200 dark:hover:bg-neutral-800 transition-colors">
         <div class="shrink-0 flex items-center justify-center w-12 h-12 rounded-full bg-neutral-200 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
