@@ -9,6 +9,7 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 // 1. Define your global imports here
 const globalImports = `
 import Pi from '$lib/components/blog/PostImage.svelte';
+import Yt from '$lib/components/blog/YouTube.svelte';
 `;
 
 /**
