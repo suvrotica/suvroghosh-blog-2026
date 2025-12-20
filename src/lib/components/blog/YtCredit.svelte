@@ -11,7 +11,7 @@
         </div>
 
         <p class="text-sm font-medium text-neutral-700 dark:text-neutral-300 leading-relaxed max-w-prose">
-            To give full credit and support to the original creator, please click the video title and watch it on YouTube. It makes a real difference for them.
+            To give full credit and support to the original creator, please click the video title and watch it on YouTube. Once you go to their channels, you will discover many more videos that are not here. My linking them here is not to take traffic away from them or YouTube where they make a few cents, but to introduce them to a wider world who may not have yet stumbled on them.
         </p>
     </div>
 </div>
