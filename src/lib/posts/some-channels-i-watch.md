@@ -10,8 +10,28 @@ published: true
 **To give full credit and support to the original creator, please click the video title and watch it on YouTube. It makes a real difference for them.**
 <Pi
     src="IMG-20251219-WA0005.jpg"
-    caption="Here is a list of channels and playlists I frequently visit"
+    caption="Here is a list of URLs, channels and playlists I frequently visit"
 />
+
+# Not on YouTube—The Life Scientific with Jim Al-Khalili
+
+<a href="https://www.bbc.co.uk/programmes/b015sqc7/episodes/guide" target="_blank" rel="noopener noreferrer" class="block my-8 not-prose group">
+    <div class="flex items-center gap-4 p-4 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 hover:bg-neutral-200 dark:hover:bg-neutral-800 transition-colors">
+        <div class="shrink-0 flex items-center justify-center w-12 h-12 rounded-full bg-neutral-200 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
+            </svg>
+        </div>
+        <div class="flex-1 min-w-0">
+            <p class="text-sm font-medium text-neutral-900 dark:text-neutral-100 truncate">
+                The Life Scientific with Jim Al-Khalili
+            </p>
+            <p class="text-xs text-neutral-500 truncate">
+                Listen on BBC Sounds &rarr;
+            </p>
+        </div>
+    </div>
+</a>
 
 # Suvro Ghosh list of channels and playlists favorites on YouTube
 
@@ -48,22 +68,4 @@ published: true
 <Yt src="https://youtube.com/playlist?list=PL4CHL5j4XhurXvP0h0muGWCD5R-NhaDLE&si=_gyM1KfHiav7b1RB" />
 
 
-# Not on YouTube
 
-<a href="https://www.bbc.co.uk/programmes/b015sqc7/episodes/guide" target="_blank" rel="noopener noreferrer" class="block my-8 not-prose group">
-    <div class="flex items-center gap-4 p-4 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 hover:bg-neutral-200 dark:hover:bg-neutral-800 transition-colors">
-        <div class="shrink-0 flex items-center justify-center w-12 h-12 rounded-full bg-neutral-200 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-400">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
-            </svg>
-        </div>
-        <div class="flex-1 min-w-0">
-            <p class="text-sm font-medium text-neutral-900 dark:text-neutral-100 truncate">
-                The Life Scientific with Jim Al-Khalili
-            </p>
-            <p class="text-xs text-neutral-500 truncate">
-                Listen on BBC Sounds &rarr;
-            </p>
-        </div>
-    </div>
-</a>
