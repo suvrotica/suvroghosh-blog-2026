@@ -11,7 +11,7 @@
 </svelte:head>
 
 <section>
-	<h1 class="text-center mb-8">All Posts</h1>
+	<h1 class="text-center mb-8">Suvro Ghosh Posts</h1>
     
     {#if data.posts.length > 0}
         <PostGallery posts={data.posts} />
