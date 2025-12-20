@@ -10,10 +10,10 @@
 </svelte:head>
 
 <section class="container mx-auto py-8">
-	<h1 class="text-center mb-2 text-4xl font-sans font-bold text-neutral-900 dark:text-neutral-100">Gallery</h1>
+	<h1 class="text-center mb-2 text-4xl font-sans font-bold text-neutral-900 dark:text-neutral-100">Suvro Ghosh Sketch Posts.</h1>
     
     <div class="text-center text-neutral-500 dark:text-neutral-400 mb-8 italic">
-        Suvro Ghosh Sketch Posts.
+        Bengali bipolar mediocre madness unleased.
     </div>
     
 	<ImageMasonry images={data.images} />
