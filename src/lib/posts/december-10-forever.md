@@ -7,7 +7,9 @@ category: "personal"
 color: "black"
 published: true
 ---
-**To give full credit and support to the original creator, please click the video title and watch it on YouTube. It makes a real difference for them.**
+
+<Yc />
+
 <Pi
     src="IMG-20251210-WA0001.jpg" 
     caption="Marriage is a sort of mutual domestication"
