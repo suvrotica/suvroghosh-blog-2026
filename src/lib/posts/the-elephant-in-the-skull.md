@@ -5,7 +5,7 @@ description: "A meditation on the chronic diseases of a civilization: inflated s
 thumbnail: "/images/IMG-20251221-WA0072.jpg"
 category: "personal"
 published: true
-color: "black"
+color: "red"
 ---
 
 <Pi
@@ -13,174 +13,144 @@ color: "black"
     caption="A map of India pretending to be an elephant, carrying history and a personality disorder."
 />
 
-The paper is the color of old milk and bad decisions, a xerox that has lived too long, the way documents do in India—first as a useful thing, then as a sacred thing, then as a thing that cannot die even when you want it to. It’s curled at the corners like it’s trying to peel itself off reality. Somebody has stapled it to a noticeboard that already contains a missing-cow poster, a coaching class advertisement promising IIT to anyone with a pulse, and one of those laminated clinic schedules where “DOCTOR” is spelled like it lost a limb in battle.
+The drawing is a map of India pretending to be a patient suffering from severe elephantiasis, which is already a very Indian sort of metaphor—cartography as disease, nationalism as pet animal—except this man is not majestic. He’s lumpy in his balls where it hurts the most, semi-bored, vaguely constipated, like he has been asked to carry history on its back and has responded by developing a personality disorder.
 
-The drawing is a map of India pretending to be an elephant, which is already a very Indian sort of metaphor—cartography as zoology, nationalism as pet animal—except this elephant is not majestic. It’s lumpy, semi-bored, vaguely constipated, like it has been asked to carry history on its back and has responded by developing a personality disorder.
+I drew him with the kind of impatient tenderness you reserve for your own worst habits. Not hatred, not pride—more like that exhausted, familiar disgust you feel when you catch yourself doing the same idiotic thing again, the brain reaching automatically for the same cheap comfort, the same inflated narrative, the same little lie that keeps you warm but makes you stupid. My hand did the outline first, that confident stroke that always arrives before the confidence is deserved, and then I had to go back and dirty it up—stippling, shading, giving him that swollen, lived-in misery—because even caricature needs biology. Even satire needs flesh.
 
-Across its body are the “chronic diseases”: inflated self-esteem, overconfidence, shallow knowledge, caste, religion. The tail end of the page mutters something about “self perpetuating mythology” and “parochial supremacist views,” which is exactly the kind of phrase that appears when someone’s satire gets tired and decides to do a small amount of actual stabbing.
+And there’s something deliciously obscene about using a medical condition as a national allegory, because India is the sort of place where metaphors are always bodily if you look long enough. We don’t just have corruption; we have rot. We don’t just have inequality; we have infestation. We don’t just have ideology; we have fever dreams. We speak in stomach and skin and blood and purity and pollution, even when we pretend we’re talking about GDP.
 
-I stare at it for too long, because I’m the sort of man who will stare at a cartoon like it’s an MRI of a civilization, and because my brain—bipolar, book-fed, and perpetually underemployed—tends to treat any provocation as an invitation to build a cathedral out of toothpicks.
+Also I’m fifty-ish, stuck in the south Calcutta boondocks with a mind that behaves like a miswired electrical panel—sparks of hypomanic pattern-making, long brownouts of depressive realism—so my metaphors tend to arrive wearing sandals and dragging a bag of groceries: ordinary, physical, faintly pathetic.
 
-Also because the elephant looks familiar.
+# A Quick Science Detour, Because I Can’t Resist
 
-Not the India-elephant. Me-elephant.
+Elephantiasis—real elephantiasis—isn’t a moral failing. It’s a physiological tragedy. Lymphatic filariasis, parasites, mosquitoes, a quiet war happening under skin; a drainage system clogged until the body swells grotesquely, not because the body is arrogant, but because the plumbing is broken. The lymph system is one of those unglamorous miracles: it hauls away waste, moves immune cells, keeps tissues from becoming soggy ruined sponges. When it fails, the body doesn’t politely malfunction. It balloons. It announces the failure.
 
-The inflated self-esteem is right there, like a bloated organ in a medical diagram. I know this organ. I have carried it around in my chest like a secret contraband item: an absurd, tender certainty that I am special, that if the world had been fairer—or if I had been tougher, more disciplined, less allergic to authority, less moody—then some brighter timeline would have opened its doors and said, “Come in, sir, we’ve been waiting.”
+That’s why it’s such a cruelly perfect metaphor for societies.
 
-This is a ridiculous thought, obviously. The universe is not a hotel.
+Because societies also have drainage systems. Not literal ones—though India, famously, struggles with those too—but conceptual ones: institutions that remove waste ideas, that filter nonsense, that prevent the same toxic myths from recirculating until they become culture. The scientific method is one. Journalism, at its best, is another. Courts, when they’re not asleep. Education, when it teaches thinking rather than obedience. A functioning civil service. A social norm that says: *you don’t get to claim anything you like just because you said it loudly*.
 
-But the thought persists, and it is one of those thoughts that feels like confidence until you touch it and realize it’s made of shame.
+When those systems clog—when superstition becomes identity, when propaganda becomes patriotism, when caste becomes “heritage,” when religion becomes a political weapon—the social body swells. Not with strength. With edema. With trapped fluid.
 
-# The Elephant in the Skull
+And then the swelling itself becomes proof. Look how big we are, the swollen nation says. Look how powerful. Look how ancient. Look how *special*.
 
-I like science because science is a polite way of saying, “Calm down, you primate.” It hands you a measuring tape. It gives you a graph. It points at your favorite belief and asks you to provide receipts.
+A tumor also grows. That doesn’t mean it’s winning.
 
-And the first receipt we need, if we’re going to talk about “inflated self-esteem” and “overconfidence” and “shallow knowledge,” is that these are not uniquely Indian diseases. They are human diseases. *Homo sapiens* is basically a nervous system dragging a storybook around, trying to narrate the chaos into something flattering.
+# Why I Drew His Balls First
 
-The brain is not a truth machine. It’s a survival machine that occasionally stumbles into truth the way a drunk man occasionally stumbles into the right bus.
+It’s vulgar, sure, but it’s honest. The groin is where insecurity lives. Not poetry-insecurity—actual, sweaty, trembling insecurity. The place where evolution stored the fear of being laughed at by the tribe, rejected, made irrelevant. We dress it up as honor, pride, tradition, culture; underneath, it’s the same mammalian panic: *am I safe, am I respected, am I desired, am I allowed to exist without being crushed*.
 
-We evolved to make quick judgments, to detect threats, to belong to groups, to punish traitors, to worship leaders, to find patterns in noise—because the cost of a false positive (thinking a bush is a tiger) was usually smaller than the cost of a false negative (thinking a tiger is a bush). So now we live in cities and scroll on phones and argue about cosmic metaphysics while our ancient pattern-detectors squirt adrenaline at memes.
+India’s public mood often feels like a man constantly protecting his crotch while shouting about greatness.
 
-This is why “overconfidence” is so common that psychologists don’t even need to hunt for it in exotic tribes; it’s the default weather of the mind. Most people think they are above-average drivers. Most people think they are unusually kind. Most people think their understanding of complex topics is deeper than it is. If this sounds like an insult, it’s not. It’s a design feature of a species that would rather be wrong and alive than correct and dead.
+And I’m not outside this. God knows I’m not. The part of me that wants India to be “great” is not the part that cares about justice or science or dignity; it’s the part that wants my own life to retroactively matter, my own disappointments to be reframed as merely temporary setbacks in the grand civilizational arc. If the tribe is glorious, then my smallness feels less humiliating. If the nation is special, then my mediocrity becomes a rounding error.
 
-But then you place this human brain inside India, a country that is less a country than a crowded library where half the books are sacred, a quarter are propaganda, and the rest are exam guides; you pour in colonial history, poverty, humiliation, aspiration, caste anxiety, religious competition, and a modern attention economy that runs on outrage like a diesel generator runs on adulterated fuel, and you get… this elephant.
+This is the psychological engine of supremacy narratives everywhere—national, religious, racial, whatever. The ego is a hungry little bureaucrat. It wants a stamp. It wants certification. It wants a letterhead that says: IMPORTANT PERSON, BELONGS TO IMPORTANT GROUP.
 
-Not evil. Not stupid. Not uniquely cursed. Just a very specific flavor of human.
+So I drew the swelling where it hurts most, because that’s where the lie lives.
 
-# A Small Detour Into Ancient Self-Help That Isn’t Self-Help
+# Inflated Self-Esteem: The Inflatable Raft of the Poor
 
-India loves ancient wisdom the way a drowning man loves driftwood. It doesn’t matter if the driftwood is actually a plank from a shipwreck that caused the drowning; it floats, so we cling.
+The cartoon labels it like a symptom: inflated self-esteem, overconfidence, shallow knowledge. People might read that and think it’s pure insult—Indians are arrogant and dumb, ha ha. That’s the cheap reading. The satisfying reading. The reading that lets you feel smarter than a billion people without doing any work.
 
-And the ancient texts—Vedas, Upanishads, epics—are complicated things. They contain poetry, philosophy, ritual, metaphysics, politics, and the usual human mess: insight beside nonsense, tenderness beside hierarchy, skepticism beside certainty. They’re not one voice. They’re a crowded room across centuries.
+But when I wrote “inflated self-esteem,” I wasn’t thinking of strength. I was thinking of an inflatable raft.
 
-Which is why I find it darkly hilarious that we use them as stickers. As slogans. As civilizational certificates.
+You don’t inflate a raft because you’re proud. You inflate it because you’re drowning.
 
-Because if you actually open the Upanishads—those weird, sharp little philosophical knives—you keep finding lines that do the opposite of what our modern supremacy fantasies want. They don’t inflate you. They puncture you.
+A lot of India’s chest-thumping is not confidence; it’s compensation for humiliation—colonial humiliation, poverty humiliation, the daily humiliation of being treated like a replaceable insect by systems that don’t have to care. And when a society has been humiliated for a long time, it develops a weird reflex: it starts building myths the way a body builds scar tissue.
 
-There’s a verse in the *Kena Upanishad* that I’ve always loved because it is basically a cosmic slap: *yasyāmataṁ tasya mataṁ mataṁ yasya na veda saḥ*—the one who thinks he doesn’t know, knows; the one who thinks he knows, doesn’t. ([upanishads.org.in](https://upanishads.org.in))
+Some scars are protective. Some scars make you stiff.
 
-That’s not a nationalist anthem. That’s a warning label for the human ego.
+The trouble is that scar tissue doesn’t feel like weakness. It feels like armor. And armor, once you’re wearing it, starts making you behave like a soldier even when you’re just buying potatoes.
 
-And then there’s the famous old plea from the *Bṛhadāraṇyaka Upanishad*—*asato mā sad gamaya, tamaso mā jyotir gamaya, mṛtyor mā amṛtaṁ gamaya*—lead me from the unreal to the real, from darkness to light, from death to immortality. ([VivekaVani](https://vivekavani.com))
+# Overconfidence: The National Sport Nobody Admits They Play
 
-We love chanting it, because chanting feels like doing something. But the meaning is inconvenient: it admits that we are stuck in unreality, darkness, and death. It’s not a victory song. It’s a confession.
+Overconfidence is not just a personality trait. It’s a social reward structure.
 
-And the *Isha Upanishad*, in its own mischievous way, points out another trap: people who worship ignorance fall into blind darkness, and people who worship knowledge alone fall into an even greater darkness. ([upanishads.org.in](https://upanishads.org.in))
+In India, certainty is applause-worthy. Nuance is suspicious. Doubt is treated like treason or softness or—my favorite accusation—“confusion,” as if being confused in a complex world is a personal failure rather than an accurate perception.
 
-Read that again. The text is basically saying: “Yes, ignorance is a problem. Also, smug intellectualism is a problem. Congratulations, you can be wrong in multiple directions.”
+So people learn to speak like gods even when they know like toddlers.
 
-Which brings me back to the elephant-cartoon and its labeled organs: shallow knowledge, overconfidence, inflated self-esteem.
+I’ve watched men who can’t explain how interest rates work explain geopolitics with the confidence of a CIA director. I’ve watched family WhatsApp groups transform a badly edited video into a worldview in ten minutes. I’ve watched religion become a substitute for curiosity: why learn when you can chant?
 
-That’s not just India. That’s me, on days when my hypomania turns my reading into a kind of arrogance—when I feel like because I have words for things, I have understood them.
+And yes, of course, this happens everywhere. Humans are credulous animals with smartphones. But India adds particular accelerants: a brittle status hierarchy, a schooling system that often trains memory more than reasoning, and a political culture that thrives on spectacle. Overconfidence becomes not just common but *functional*. It gets you jobs. It gets you followers. It gets you power.
 
-Vocabulary is not wisdom. It is often just decoration for confusion.
+Meanwhile the quiet person who says “I don’t know” gets treated like a malfunction.
 
-# Shallow Knowledge: The Exam-Guide Civilization
+This is why I’m suspicious of any society that treats humility as weakness. Humility is not self-hatred. Humility is epistemic hygiene. It’s washing your hands before you touch reality.
 
-India has a particular relationship with knowledge, and it smells faintly of cheap paper and stress sweat.
+# Shallow Knowledge: The Coaching-Class Epistemology
 
-The Indian school system, for many of us, trains the mind like a circus animal: jump through the hoop, perform on command, get the mark, survive. You learn early that “understanding” is optional, but “answering” is mandatory. You learn that the world rewards the appearance of competence more reliably than competence itself.
+Shallow knowledge is not “knowing little.” It’s knowing things that haven’t been metabolized—facts as ornaments, concepts as trophies, vocabulary as camouflage.
 
-So we become a nation of people who can recite definitions and still not know what the definition is for. Like owning a screwdriver and thinking you understand architecture.
+India is brilliant at producing the appearance of knowledge. We are the homeland of the exam guide, the shortcut, the “important questions,” the last-minute crash course, the coaching-industrial complex that treats learning like a military drill: memorize, reproduce, rank, repeat.
 
-And then we add the colonial hangover—the English-medium prestige, the bureaucratic fetish for certificates, the Macaulay-shaped idea that education is a credential factory—and we produce a weird creature: the confident half-knower.
+The tragedy is that this system can produce high scorers who are intellectually malnourished.
 
-The half-knower is dangerous because he doesn’t feel half. He feels whole.
+It can also produce the worst kind of semi-educated arrogance: the man who has just enough jargon to bully other people, and just enough ignorance to never suspect he’s wrong. The Dunning–Kruger creature—though I hate invoking that phrase because it has become another shallow meme, another way to dunk on others while pretending to do psychology.
 
-He watched two YouTube videos and now speaks like a policy expert. He read a WhatsApp forward and now has “research.” He has a cousin in the US and therefore understands global economics. He quotes a Sanskrit line out of context and therefore has mastered metaphysics.
+But the phenomenon is real. The less you know, the easier it is to feel certain.
 
-I am mocking, but I am also describing my own temptations. I have done this. I have been this. I have been the man who reads a thing, feels a rush of comprehension, and mistakes that rush for truth.
+Knowledge, actual knowledge, comes with discomfort. The more you learn, the more you see the edges of what you don’t know. The world grows teeth.
 
-The brain loves the feeling of “click.” That click is dopamine. It is not necessarily understanding. It’s just the brain saying, “A pattern! Finally! I can stop being anxious.”
+So shallow knowledge is seductive because it gives you the warm feeling of understanding without the cold price of humility.
 
-Shallow knowledge is not the absence of information. It’s information that hasn’t been digested. It’s chewing without swallowing.
+# Caste and Religion: The Old Plumbing That Keeps Clogging Everything
 
-# Overconfidence: A Psychological Solar Flare
+I drew “caste” and “religion” near the lower body not because I’m trying to be edgy, but because these systems are deeply bodily in India. They are obsessed with touch, with food, with purity, with contamination, with who can be near whom, who can marry whom, who can enter which space, who can do which work. They are social biology pretending to be spiritual order.
 
-There’s a cognitive bias (and yes, I’m about to do the thing where I use psychology terms like spices) in which people with low skill overestimate their competence, partly because the skills required to do a thing are also the skills required to evaluate doing the thing.
+Caste is not merely prejudice. It is infrastructure. It is networks, marriage markets, informal references, the invisible hand that is not a hand but a very old fist.
 
-So if you don’t know, you also don’t know what you don’t know.
+Religion, in its everyday politicized form, becomes a technology for organizing crowds—identity, belonging, moral permission, enemy-making. It can also be beauty and community, yes, but I’m allergic to the grandstanding version, the version that talks like God hired a PR agency.
 
-This is why the loudest people in the room are often the least informed. It’s not because they are evil. It’s because ignorance is oddly serene.
+The cartoon doesn’t say “religion = bad.” It says religion becomes a chronic disease when it is used to justify supremacist fantasies and to keep people from asking questions that would threaten the hierarchy.
 
-Knowledge comes with nausea. You start seeing complexity. You start seeing trade-offs. You start seeing that every confident claim has footnotes and exceptions and hidden assumptions. You begin to speak more slowly, not because you are wise, but because you are scared of being wrong.
+This is where the elephantiasis metaphor bites again: when the drainage system fails, waste accumulates. And social waste is not only corruption money; it’s dead ideas that refuse to die. It’s myths that keep reproducing because they flatter the ego and stabilize power.
 
-Overconfidence, meanwhile, is a kind of psychological solar flare—bright, energetic, destructive, impressive to look at from a distance, terrible for nearby electronics.
+# The Worst Part: I’m in the Drawing Too
 
-India’s public discourse rewards overconfidence the way street dogs reward the man with biscuits. If you are nuanced, you are “confused.” If you say “I don’t know,” you are “weak.” If you ask for evidence, you are “negative.” If you refuse to chant the tribe’s slogans, you are “anti-national,” “anti-religion,” “paid,” “brainwashed,” or my favorite: “Westernized,” as if critical thinking is a foreign import like Scotch whisky.
+Here’s the part I hate admitting, because it spoils the righteous pleasure of satire.
 
-This is where inflated self-esteem becomes not just personal vanity but social armor. We have lived through humiliations—colonial humiliation, poverty humiliation, global hierarchy humiliation, the daily humiliation of bureaucracy and corruption and being told to wait—and we compensate with grandeur narratives. We were greatest. We knew everything. We invented everything. The world stole from us. The world fears us.
+I drew this cartoon, and then I caught myself feeling superior to the people I was criticizing, and that—right there—is the disease doing push-ups in my own head.
 
-These stories are analgesics. They reduce pain. They also reduce curiosity.
+My depression tells me I’m irrelevant. My hypomania tells me I’m a prophet. Both are forms of narcissism, just dressed differently: one says, “I am uniquely doomed,” the other says, “I am uniquely insightful.” Either way, I’m the main character in a cosmic drama that reality didn’t agree to produce.
 
-# Caste and Religion: The Old Machinery With New Paint
+And because I’m bookish, my arrogance often wears a sweater vest. It quotes history. It name-drops science. It pretends that reading is a moral virtue. I can become the kind of man who thinks that because he has *language*, he has *wisdom*, which is like thinking that owning a map makes you a good traveler.
 
-The cartoon labels “caste” and “religion” near the elephant’s rear, which is rude, but also… anatomically accurate, in the sense that these are the systems that deal with waste: who is considered pure, who is considered polluted, who is allowed to touch what, who is allowed to be close to power, who is assigned the dirty work of society and then blamed for the dirt.
+So when I label “inflated self-esteem” on the cartoon, I have to ask: whose self-esteem is inflated?
 
-Caste is not merely “a belief.” It is infrastructure. It’s a social operating system that assigns worth, controls marriage, shapes networks, distributes opportunities, and then pretends it’s merely tradition.
+Mine, too.
 
-Religion, in its everyday Indian form, often becomes a political technology: a way to create in-groups, out-groups, moral permission slips, and a cosmic judge who conveniently agrees with your tribe.
+When I label “shallow knowledge,” I have to stare at my own shelves—my half-read books, my hoarded PDFs, my concepts collected like stamps—and ask how much of it is actually lived understanding and how much is intellectual cosplay.
 
-Now, I’m an atheist, but I’m not a simplistic atheist. I don’t think religion is just stupidity. I think it’s a multi-tool: it can be compassion, art, community, existential comfort, ethical aspiration. It can also be a club.
-
-The problem is not belief in gods. The problem is belief in supremacy.
-
-And supremacy is the true chronic disease in the cartoon’s footnote: “parochial supremacist views.” The conviction that your group—your nation, your caste, your religion, your language—has a special metaphysical license to dominate.
-
-It’s a deeply childish idea, but childhood is where most of our moral intuitions are formed, and then adulthood is just childhood with property.
-
-Even the *Rig Veda*, in a verse that gets quoted a lot but not understood a lot, offers a kind of antidote: *ekaṁ sad viprā bahudhā vadanti*—the real is one, sages speak of it in many ways. ([Wisdom Library](https://www.wisdomlib.org))
-
-It’s not saying “all religions are the same.” It’s saying reality is larger than our names for it. Which is exactly the kind of humility supremacy narratives cannot tolerate.
-
-# The Personal Thread, Because I Can’t Pretend I’m Above the Elephant
-
-It is easy—deliciously easy—to look at this cartoon and become a smug little intellectual tourist, pointing at the organs: “Ah yes, inflated self-esteem, shallow knowledge, caste, religion, how dreadful, how fascinating, pass the popcorn.”
-
-But the cartoon is only useful if I can locate myself inside it, like a parasite discovering its host.
-
-Inflated self-esteem: I have it. It hides under my self-loathing like a cockroach under a cupboard. On my worst days, my depression tells me I am useless, finished, irrelevant; on my hypomanic days, I feel like I can see patterns others can’t, that I could explain the world better, that I have ideas that should matter. Both moods are narcissistic in different directions: one says “I am uniquely terrible,” the other says “I am uniquely gifted.” Either way, the center of the universe is me.
-
-Overconfidence: I have it, especially when I’m tired, because tiredness makes nuance feel expensive. I will read something and decide I understand it because the alternative is admitting I’m lost, and being lost is emotionally costly.
-
-Shallow knowledge: I have oceans of it. I have read about a hundred things and mastered maybe five. My brain collects concepts the way some people collect keychains.
-
-Caste and religion: I like to believe I have transcended them because I am educated and atheist and left-leaning and therefore morally superior (look at me, mom, I’m enlightened), but the truth is uglier: I live in a society where these forces shape everything, including me, including my opportunities, my networks, my instincts, my reflexive disgusts, my quiet assumptions. You don’t “transcend” a system you grew up inside the way you transcend a bad mood. You spend your life noticing the system’s fingerprints on your thoughts.
-
-This is the depressing part of adulthood: realizing you are not a self-made person. You are a committee meeting of history, biology, and accident.
+This is the humiliating thing about satire: it’s supposed to be a weapon, but it keeps turning into a mirror.
 
 # Methods, Not Myths
 
-The cartoon is satire, but satire is only useful if it points toward something sharper than laughter. And the only thing sharper than laughter, for me, is method.
+If the cartoon is more than a cynical doodle, it has to point toward something other than contempt, because contempt is the laziest emotion—cheap, instant, endlessly recyclable, like plastic bags.
 
-Not ideology. Not slogans. Not civilizational pride. Methods.
+What it points toward, for me, is method. Not ideology. Not slogans. Methods.
 
-Methods are boring. That’s why they work. They don’t depend on your mood. They don’t care about your caste. They don’t care if you are patriotic or pious. They are repeatable ways of turning “I feel” into “I can check.”
+The scientific method is one: you propose, you test, you try to falsify your own idea, you let evidence humiliate you, you update. Statistics is another: you quantify uncertainty, you resist the brain’s addiction to stories, you learn to live with probability instead of craving certainty. Philosophy—actual philosophy, not motivational posters—teaches you to define terms, examine assumptions, follow arguments until they either hold or collapse.
 
-The scientific method is one of those methods: propose, test, falsify, revise. Statistics is another: quantify uncertainty, resist story-making, demand base rates, understand noise. Philosophy—real philosophy, not TED-talk pseudo-wisdom—is another: define terms, expose assumptions, follow arguments until they embarrass you.
+And it’s funny—darkly funny—that even the ancient Indian texts people weaponize as supremacy proof often contain warnings against certainty.
 
-Even the Upanishads, at their best, are methodical: they interrogate appearances, ask “what is the self,” question rituals, question language, question certainty. They are not always right, but they are often brave.
+One of the Upanishads, in a line that feels like it was written specifically to ruin a WhatsApp forward, basically says: the person who thinks he knows doesn’t know. That’s not anti-knowledge. That’s anti-arrogance. That’s epistemic humility dressed as poetry.
 
-And bravery, in intellectual life, is mostly the courage to say: “I might be wrong.”
+Which is the opposite of how we use “tradition” today. We use it as a shield: don’t question, don’t examine, don’t test—just revere. But reverence without inquiry is how you end up worshipping your own ignorance, like a man polishing a locked box and calling it treasure.
 
-Which is why the *Kena Upanishad* line keeps returning like a mosquito in my ear: the one who thinks he knows doesn’t know. ([upanishads.org.in](https://upanishads.org.in))
+# The Bitter Little Punchline
 
-It’s not anti-knowledge. It’s anti-arrogance.
+The elephantiasis patient in my cartoon is not India as a place—the smells of frying oil, wet dust, old books, the sudden sweetness of jasmine near a roadside shrine, the chaos that sometimes feels like a jazz solo and sometimes like a riot. I love the place even when I can’t stand the people, including myself.
 
-And if I had to explain this to a novice—someone who doesn’t care about India, doesn’t care about philosophy, just wants the point—I’d say it like this: your mind is a storyteller, and storytellers lie. Not maliciously. Automatically. So you need tools that interrupt the lying.
+The patient is India as an idea: swollen with stories it cannot metabolize, dragging around ancient hierarchies that keep rebranding themselves, mistaking noise for knowledge, mistaking pride for strength, mistaking supremacy for dignity.
 
-Evidence. Measurement. Peer disagreement. The willingness to update. The habit of asking, “What would change my mind?” The ability to sit with discomfort instead of anesthetizing it with certainty.
+And because I drew him, I have to admit something even more irritating: I drew him as a warning, but also as a confession. The cartoon is me trying to drain some of my own trapped fluid—my own resentment, my own disappointed love, my own itch to feel superior—onto paper, where it can at least be looked at under a harsh light.
 
-These methods matter in science, obviously, but they matter just as much in politics, in religion, in family arguments, in personal identity. They matter anywhere humans are tempted to turn belief into armor.
+Later, when the house is quiet and the ceiling fan does its tired helicopter impression, I’ll probably open a new document and start rewriting this, deleting sentences, adding clauses, trying to make the prose sound less like a man arguing with himself in the dark.
 
-# A Small, Uncomfortable Ending
+I’ll fail, of course. That’s part of the condition.
 
-The xerox paper flutters slightly when someone walks past, as if the elephant is breathing.
+Then I’ll close the laptop, and somewhere in the corner of my mind that swollen cartoon-man will sit, lumpy and constipated and absurdly familiar, reminding me that the real chronic disease isn’t India.
 
-I imagine the cartoonist drawing this in some cramped room, perhaps equally tired of public nonsense, perhaps equally guilty of private nonsense, and I feel a flicker of affection for the whole ridiculous species. We build temples and missiles and myths and exam guides; we also build jokes that try to save us from ourselves.
+It’s certainty.
 
-I take one last look at the elephant’s labeled body—its swollen pride, its confident ignorance, its ancient hierarchies disguised as holiness—and I realize the most unsettling part is not that the elephant exists, but that it keeps insisting it is a god.
-
-So I do the smallest possible rebellion. I don’t forward it. I don’t weaponize it. I don’t use it as proof that “my side” is smarter.
-
-I just fold the paper carefully, like it’s a fragile thing, and slip it into my book, and later, when the room goes quiet and my brain starts its nightly doom-chorus, I switch off the light and let the elephant stand there in the dark—not as a nation, not as an insult, but as a reminder that the real chronic disease is certainty, and the only modest cure is the unglamorous habit of checking whether the story in my head is, in fact, true.
+And the only modest cure I know—the one I can practice even from my small, shabby corner of Calcutta—is the embarrassing habit of checking whether the story in my head is true before I start worshipping it.
