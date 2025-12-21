@@ -2,14 +2,14 @@
 title: "The Elephant in the Skull"
 date: "2025-12-21"
 description: "A meditation on the chronic diseases of a civilization: inflated self-esteem, overconfidence, and the elephant in the room that is actually inside our heads."
-thumbnail: "/images/IMG-20251208-WA0003.jpg"
+thumbnail: "/images/IMG-20251221-WA0072.jpg"
 category: "personal"
 published: true
 color: "black"
 ---
 
 <Pi
-    src="IMG-20251208-WA0003.jpg"
+    src="IMG-20251221-WA0072.jpg"
     caption="A map of India pretending to be an elephant, carrying history and a personality disorder."
 />
 
