@@ -9,7 +9,7 @@ color: "black"
 ---
 
 <Pi
-    src="IIMG-20251029-WA0013(1).jpg"
+    src="IMG-20251029-WA0013(1).jpg"
     caption="The balcony rail is cold enough in December to feel like it has opinions."
 />
 
