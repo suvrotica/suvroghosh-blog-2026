@@ -22,7 +22,7 @@ keywords: ["linear algebra", "matrices", "algorithms", "math"]
 Take a square matrix $A$ (think: the coefficients in a pile of simultaneous linear equations) and rewrite it as a product of two triangular matrices:
 
 $$
-A = LU \quad (\text{or, more often in real life, } PA = LU)
+A = LU \quad (\text{or, often } PA = LU)
 $$
 
 Here $L$ is **lower triangular** (zeros above the diagonal) and $U$ is **upper triangular** (zeros below the diagonal). The $P$ is a permutation matrix—a bookkeeping gadget that means “we swapped some rows to keep the arithmetic sane.” (Wikipedia)
