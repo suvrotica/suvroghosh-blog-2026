@@ -63,6 +63,14 @@ Doesn't matter what calendar date or weather,
 
 I'm sad in a room with a ceiling fan.
 
+---
 
+It doesn't matter the pain, the vividness vain,
+
+I am a sore little loser ninny bloody nincompoop.
+
+I am a dingleberry doom that's duly done,
+
+And soon will plop unceremoniously out of the loop. 
 
 </Dl>
