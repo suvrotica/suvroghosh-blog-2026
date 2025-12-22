@@ -15,7 +15,7 @@ published: true
 
 <Dl>
 
-I kill several cunts with steely-eyed stunts,
+I spy several cunts with steely-eyed hunts,
 
 As I surf porn at near-light speed.
 
