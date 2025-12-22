@@ -23,7 +23,7 @@ I can never tire; this orgasm dire,
 
 Am I cumming; is this really my seed?
 
-
+---
 
 The ejaculate is dry; in a hoarse voice, I cry,
 
@@ -33,7 +33,7 @@ Simulation or not, an emotional knot,
 
 I put a gun in my head and want to die.
 
-
+---
 
 Fuck it, I say, but I haven't shit today,
 
@@ -43,7 +43,7 @@ Yes, Christmas cake—that's what I'll bake,
 
 From this shit, some sugar, and wrap.
 
-
+---
 
 Misery is mine: mistletoe and wine,
 
@@ -53,7 +53,7 @@ He pisses in his bed, shits shit in mortal dread,
 
 He's just more unhappy than any other head.
 
-
+---
 
 Yes, I think I will be more sad, lonely even,
 
