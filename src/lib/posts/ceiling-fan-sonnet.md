@@ -27,11 +27,11 @@ Am I cumming; is this really my seed?
 
 The ejaculate is dry; in a hoarse voice, I cry,
 
-Fuck this world; I know for sure it's a lie.
+Fuck this world; I know for sure it's not my pie.
 
 Simulation or not, an emotional knot,
 
-I put a gun in my head and want to die.
+I put a lie in my head and want to die.
 
 ---
 
