@@ -9,6 +9,7 @@ published: true
 keywords: ["linear algebra", "matrices", "algorithms", "math"]
 ---
 
+<Yc />
 
 <Pi
     src="IMG-20251207-WA0019.jpg" 
