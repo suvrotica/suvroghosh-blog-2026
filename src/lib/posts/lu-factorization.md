@@ -25,7 +25,7 @@ $$
 A = LU \quad (\text{or, often } PA = LU)
 $$
 
-Here $L$ is **lower triangular** (zeros above the diagonal) and $U$ is **upper triangular** (zeros below the diagonal). The $P$ is a permutation matrix—a bookkeeping gadget that means “we swapped some rows to keep the arithmetic sane.” 
+Here $L$ is **lower triangular** (zeros above the diagonal) and $U$ is **upper triangular** (zeros below the diagonal). The $P$ is a permutation matrix—a bookkeeping gadget that means we swapped some rows to keep the variables, also known as real or pivot variables and free variables in an echelon form which is French for staircase shape.
 
 Triangular matrices are the divas of linear algebra: fussy-looking, but once you have one, solving $Tx=b$ becomes almost embarrassingly straightforward. Lower-triangular systems solve by **forward substitution** (top to bottom), upper-triangular by **back substitution** (bottom to top). LU factorization turns “hard once” into “easy many times.”
 
