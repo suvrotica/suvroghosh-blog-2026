@@ -81,6 +81,16 @@ I am a sore little loser ninny bloody nincompoop.
 
 I am a dingleberry doom that's duly done,
 
-And soon will plop unceremoniously out of the loop. 
+And soon will plop out of the fucking loop. 
+
+---
+
+Unceremoniously flushed then into a septic tank,
+
+Like the fate meted out to all fetid feces fresh.
+
+My atoms pain return to the soil again,
+
+And the giggling universe resets a shit refresh. 
 
 </Dl>
