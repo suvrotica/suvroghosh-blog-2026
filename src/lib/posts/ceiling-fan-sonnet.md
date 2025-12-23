@@ -35,6 +35,16 @@ I put a lie in my head and want to die.
 
 ---
 
+Life a damp squib I quietly quip inside my rib,
+
+Caged within a small cartoon Bengali torso.
+
+Dick so small, the dull blunt man must fall,
+
+Just a damp dank December depressive low.
+
+---
+
 Fuck it, I say, but I haven't shit today,
 
 So I squat on the stool and crap.
