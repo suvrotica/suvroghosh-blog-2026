@@ -1,11 +1,16 @@
 ---
 title: "Vector Dot Product"
-thumbnail: "/images/IMG-20251203-WA0000.jpg"
+thumbnail: "/images/IMG-20251212-WA0001.jpg"
 description: "Two arrows walk into a bar; one says, “How much are we aligned?” The other says, “I can answer that with a single number.”"
 category: "math"
 published: true
 color: "indigo"
 ---
+
+<Pi 
+src ="IMG-20251212-WA0001.jpg" 
+caption ="Two arrows walk into a bar" 
+/>
 
 Two arrows walk into a bar; one says, “How much are we aligned?” The other says, “I can answer that with a single number.” That single number is the dot product: a way to take **two vectors** (think: directed arrows, or lists of numbers) and produce **one scalar** (a plain old number) that tells you how much one vector points in the same direction as the other, scaled by their lengths.
 
