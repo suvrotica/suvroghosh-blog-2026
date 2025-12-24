@@ -20,7 +20,7 @@ By the time my term done this nation will be cum,
 
 All you'll hear will be poots, farts and gas hiss.
 
-Men will lose their spine, cunts climb and cling like vine,
+Men will lose their spine, cunts cling like vine,
 
 Will only want to drink rich men's yellow piss.
 
