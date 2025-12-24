@@ -10,7 +10,7 @@ published: true
 
 <Pi
     src="IMG-20250728-WA0003(1).jpg" 
-    caption="The silent witness overhead"
+    caption="I’ll make america a fuck again"
 />
 
 <Dl>
