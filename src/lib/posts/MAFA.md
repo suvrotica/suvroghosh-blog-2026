@@ -1,7 +1,6 @@
 ---
 title: "Make America a Fuck Again (MAFA)"
 category: "Doggerel"
-date: "2025-12-25"
 description: "Make America a Fuck Again (MAFA)"
 thumbnail: "/images/IMG-20250728-WA0003(1).jpg"
 color: "red"
