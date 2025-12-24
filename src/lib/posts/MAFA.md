@@ -22,7 +22,7 @@ All you'll hear will be poots, farts and gas hiss.
 
 Men will lose their spine, cunts cling like vine,
 
-Americans forced to drink white rich men's yellow piss.
+Americans forced to drink rich men's yellow piss.
 
 ---
 
