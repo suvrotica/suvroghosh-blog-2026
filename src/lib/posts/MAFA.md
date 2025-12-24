@@ -3,13 +3,13 @@ title: "Make America a Fuck Again (MAFA)"
 category: "Doggerel"
 date: "2025-12-25"
 description: "Make America a Fuck Again (MAFA)"
-thumbnail: "/images/IMG-20251020-WA0069(1).jpg"
+thumbnail: "/images/IMG-20250728-WA0003(1).jpg"
 color: "red"
 published: true
 ---
 
 <Pi
-    src="IMG-20251020-WA0069(1).jpg" 
+    src="IMG-20250728-WA0003(1).jpg" 
     caption="The silent witness overhead"
 />
 
