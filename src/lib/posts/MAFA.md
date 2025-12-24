@@ -100,7 +100,7 @@ Jesus doth knoweth, how shit will floweth,
 
 Once we shit dishonesty in their brain.
 
-The wise too disappoint me everyday,
+The wise too, disappoint me fucking everyday,
 
 Power drain, vain utter shit stain.
 
