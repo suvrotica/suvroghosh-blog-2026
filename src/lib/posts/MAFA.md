@@ -4,6 +4,7 @@ category: "Doggerel"
 description: "Make America a Fuck Again (MAFA)"
 thumbnail: "/images/IMG-20250728-WA0003(1).jpg"
 color: "red"
+date: "2025-12-23"
 published: true
 ---
 
@@ -13,7 +14,8 @@ published: true
 />
 
 <Dl>
-  
+
+
 By the time my term done this nation will be cum,
 
 All you'll hear will be poots, farts and gas hiss.
