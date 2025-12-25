@@ -2,14 +2,14 @@
 title: "The Pigeonhole Principle"
 date: "2025-12-25"
 description: "It’s so obvious you think it can’t possibly do anything… and then it strolls into a proof like a bored uncle at a wedding and solves the whole problem."
-thumbnail: "/images/pigeonhole-principle.jpg"
+thumbnail: "/Photos/IMG-20251225-WA0003.jpg"
 category: "math"
 color: "green"
 published: true
 ---
 
 <Pi
-    src="pigeonhole-principle.jpg" 
+    src="IMG-20251225-WA0003.jpg" 
     caption="The drawer principle: fewer nests than birds means someone has to share."
 />
 
