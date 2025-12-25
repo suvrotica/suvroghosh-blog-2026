@@ -240,9 +240,9 @@ Goodly thee thou, I will fuck you now,
 
 Not those fucks but me gets the Nobel.
 
-I ask Putin to assfuck the jew Netyanahu,
+I ask Putin to assfuck the ninny Netanyahu,
 
-Then send him and other oligarchs to hell.
+Fuck him and other oligarchs in the ass to hell.
 
 ---
 
