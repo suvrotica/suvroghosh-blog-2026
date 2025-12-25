@@ -2,14 +2,14 @@
 title: "The Microbial Mirage"
 date: "2025-12-25"
 description: "The cake arrives in a crinkled cardboard coffin, taped like evidence. But the real labour of that cake was performed by small beings."
-thumbnail: "/images/IMG-20251207-WA0004.jpg"
+thumbnail: "/images/IMG-20251210-WA0004.jpg"
 category: "science"
 color: "blue"
 published: true
 ---
 
 <Pi
-    src="IMG-20251207-WA0004.jpg" 
+    src="IMG-20251210-WA0004.jpg" 
     caption="A chemical approximation of joy"
 />
 
