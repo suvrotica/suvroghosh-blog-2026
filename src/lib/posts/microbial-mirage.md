@@ -7,11 +7,13 @@ category: "science"
 color: "blue"
 published: true
 ---
-
+<Yc />
 <Pi
     src="IMG-20251210-WA0004.jpg" 
     caption="A chemical approximation of joy"
 />
+
+<Yt src="https://youtu.be/CDO8DeyAUYY?si=f9OSCDL5Ob0lVoZV" />
 
 The cake arrives in a crinkled cardboard coffin, taped like evidence, and when I tear it open the first thing that hits me is not “Christmas” so much as *a chemical approximation of joy*—vanillin (the budget cousin of vanilla), a smack of rum essence that never met a barrel, and that sweet, slightly metallic fog that hangs around anything with too much glycerin and too little shame.
 
