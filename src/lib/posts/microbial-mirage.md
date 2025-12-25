@@ -86,7 +86,9 @@ We didn’t invent bread so much as we learned how to host yeast.
 
 # The Great Festive Bullshit Overlay
 
-Here’s the part where I become unbearable, so let me at least be accurate while doing it.
+<Yt src="https://youtu.be/0XzU_q_DyDw?si=uit3M_J6oTANQvRk" />
+
+Here’s the part where I as an iconoclastic misanthrope become unbearable, so let me at least be accurate while doing it.
 
 Christmas in Calcutta—like many imported festivals—has been metabolized into a consumer ritual. It is less about theology than about aesthetics: lights, cake, music, shopping, the intoxicating permission to be briefly theatrical. The city doesn’t need Jesus to enjoy a party; it needs an excuse. The excuse changes; the impulse stays.
 
