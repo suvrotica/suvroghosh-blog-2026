@@ -132,5 +132,3 @@ Notice the vibe: we never needed the actual integers. We forced a property to ex
 Physics often runs on conservation laws: energy can’t vanish, charge can’t disappear, entropy has opinions. Pigeonhole is a conservation law for *possibilities*. When outcomes are limited, repetition isn’t a surprise—it’s a necessity.
 
 And that’s why it’s such a staple in proofs: it’s a way to turn “life is messy” into “life is cornered.”
-
-If you later want to push this into the next tier, the two natural upgrades are the **probabilistic method** (where you prove something exists by showing it has nonzero probability) and **Ramsey theory** (the “complete order is forced by enough chaos” school of thought). Pigeonhole is the small, polite doorway into that strange mansion.
