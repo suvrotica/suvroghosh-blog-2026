@@ -57,6 +57,13 @@ It is also, I suspect, a microbiological crime scene.
 
 # The Great Calcutta Cake Mirage
 
+<Pi 
+src="IMG-20251225-WA0010.jpg"
+layout="iL"
+caption="Calcutta loves a symbol"
+size={0.5}
+/>
+
 Calcutta loves a symbol. The city is a museum of symbols that have outlived their contents—columns without empires, statues without conviction, slogans without comprehension. So the Christmas cake becomes a kind of edible emblem: proof that you participated, proof that you belong, proof that you were modern for a moment, proof that your household contains “culture” (which, in Indian English, often means *purchased things that suggest you are not desperate*).
 
 The irony is that the real labour of that cake—the deep work, the alchemy, the transformation from wet flour-sadness to something fragrant and structured—was not performed by any saint, chef, grandmother, influencer, or church committee.
