@@ -1,8 +1,8 @@
 <script lang="ts">
 	/**
 	 * A responsive YouTube video player component.
-	 * Updated for Svelte 5 Runes + Tailwind 4.1.
-	 * Fixes mobile playlist UI visibility.
+	 * Svelte 5 Runes.
+	 * FIX: Removed modestbranding to force top-bar playlist UI on mobile.
 	 */
 	let {
 		src,
@@ -17,7 +17,6 @@
 	} = $props();
 
 	function parseYouTubeId(url: string): string | null {
-		// Regex to catch standard, short, and embed URLs
 		const regex =
 			/(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/;
 		const match = url.match(regex);
@@ -33,15 +32,19 @@
 	let embedSrc = $derived.by(() => {
 		const videoId = parseYouTubeId(src);
 		const playlistId = parseYouTubePlaylistId(src);
-
-		// Base URL
 		const baseUrl = 'https://www.youtube-nocookie.com/embed/';
 		
-		// params: playsinline=1 is crucial for mobile UI stability
+		// CONFIGURATION NOTES:
+		// 1. playsinline=1: Prevents iOS from fullscreening automatically.
+		// 2. modestbranding=0 (Default): WE MUST ALLOW THE LOGO. 
+		//    If we set modestbranding=1, YouTube hides the top title bar 
+		//    (containing the playlist icon) on mobile screens to save space.
+		// 3. controls=1: Explicitly force controls.
 		const params = new URLSearchParams({
 			playsinline: '1',
 			rel: '0',
-			modestbranding: '1'
+			controls: '1',
+			fs: '1' // Allow fullscreen
 		});
 
 		if (playlistId) {
