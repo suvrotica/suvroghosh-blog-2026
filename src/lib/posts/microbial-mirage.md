@@ -88,8 +88,8 @@ We didn’t invent bread so much as we learned how to host yeast.
 
 <Yt src="https://youtu.be/0XzU_q_DyDw?si=uit3M_J6oTANQvRk" />
 
-Here’s the part where I as an iconoclastic misanthrope become unbearable, so let me at least be accurate while doing it.
-
+Here’s the part where I as an iconoclastic misanthrope become unbearable, so let me at least be accurate while doing it. Every Christmas in Calcutta is a strange colonial hangover, soaked in rum cake and indigestion. The city decks itself in fairy lights and fake snow, but the stomachs beneath those sweaters are brewing full-blown gastric revolts. People gorge on plum cake thick with dried fruits soaked in cheap alcohol, roast meats their intestines haven’t seen all year, and sugary drinks disguised as festive cheer. Hospitals quietly prepare for the annual uptick in emergency admissions—hypertensive crises, sudden spikes in diabetes, gallbladder tantrums—because when Christ is born, Calcutta eats like it’s the Last Supper. Add to that the celebratory tippling—wine for some, whiskey for most—and the night ends with a predictable spike in drunk driving, sirens replacing carols. Then there’s the trash: heaps of wrapping paper, broken baubles, plastic Santas with amputated limbs, all dumped unceremoniously by morning. Park Street glitters, but behind the shimmer is the slow constipation of a city hoarding its own debris—joy, yes, but also cholesterol, chaos, and crap.
+ 
 Christmas in Calcutta—like many imported festivals—has been metabolized into a consumer ritual. It is less about theology than about aesthetics: lights, cake, music, shopping, the intoxicating permission to be briefly theatrical. The city doesn’t need Jesus to enjoy a party; it needs an excuse. The excuse changes; the impulse stays.
 
 The cake functions as a secular sacrament. It’s shared. It’s sliced. It’s offered. It’s photographed. It’s used to mark time: *this is the week we pretend things are okay*.
