@@ -15,7 +15,37 @@ published: true
 
 <Yt src="https://youtu.be/CDO8DeyAUYY?si=f9OSCDL5Ob0lVoZV" />
 
-The cake arrives in a crinkled cardboard coffin, taped like evidence, and when I tear it open the first thing that hits me is not “Christmas” so much as *a chemical approximation of joy*—vanillin (the budget cousin of vanilla), a smack of rum essence that never met a barrel, and that sweet, slightly metallic fog that hangs around anything with too much glycerin and too little shame.
+I can still smell the dry paraffin of those old candles—white, brittle, cheap. Not birthday candles, not votive candles, but the ones that came wrapped in translucent wax paper and sat unused in kitchen drawers till a power cut, a death, or Christmas. They were never straight. Always bent. Like they'd survived a heatwave or just couldn't be arsed to stand upright. My mother would straighten them, laboriously, over boiling water. Not for Jesus, no—we were Hindus with no formal affiliation—but for the ritual. Or the aesthetic. Or maybe just because that’s what you did with cake in the eighties.
+
+The cake, too, was terrible. Compressed, brick-like, with candied fruit bits that looked like someone had murdered a jellybean. It came in a box with cartoon holly and tasted of dry rum, wet sugar, and the stale morality of Western import. But we laid it out, like an offering, in front of that shoddy, fluorescent-lit framed reproduction of Leonardo da Vinci’s The Last Supper—a cheap offset print stuck in a landscape frame. The Apostles, in that version, looked vaguely Bengali and hungry.
+
+And yes, we lit the candles, placed them in front, and did not—under any circumstance—eat the cake until this quasi-Christian puja was performed. It was *ritual without doctrine*, the very best kind. Nobody knew why. Nobody asked. Least of all me. I was in class six or seven, and like all children in a Hindu family in Calcutta, I accepted that rituals were just part of the ontological wallpaper.
+
+Looking back, of course, I see the whole thing as a baroque act of misdirected syncretism—colonial hangover meets middle-class mimicry, with a twist of Doordarshan kitsch. But at the time, it was just what you *did* before cake. You gave it to Jesus first. The inferior Jesus. The pixelated Jesus. The Jesus who looked like he'd been photocopied too many times and now resided among our family portraits as a kind of bureaucratic mistake.
+
+### I Know Too Much Now
+
+That’s the problem. I know *too much* now. And not in a good way—not the generous knowing of a wide-eyed physicist in love with quarks and uncertainty, but the bitter, tight-jawed knowing of a man who’s seen too many spreadsheets and too few miracles. I know that nostalgia is just a function of trauma plus time. I know that the mitochondria in my cells were inherited from my mother and her mother and her mother, all the way back to some woman squatting by the Ganges whose name nobody remembers.
+
+And I know that Christmas in Calcutta has become performative in the worst sense. *Park Street is lit like an Instagram whore.* Everyone and their flared-jeans-wearing cousin flocks there with DSLRs and no discernible soul. The fairy lights are brighter, yes, but the faces are dimmer. Plastic snowflakes hang on a city that hasn’t seen snow since Gondwana split from Pangaea.
+
+I don’t go anymore. Not because I hate it. I mean, I do—but that's not why. I don’t go because the person who *used to* find magic in it is gone. Dead, in the way that childhoods die. Not with funerals, but with layers. Layers of knowing. Layers of disappointment. Layers of adult.
+
+I sit in my room now, curtains drawn. A room that used to be a study, then became a storeroom, then became a holding pen for the life I never quite managed to lead. And the room—like a good partner—never asks questions. It does not wonder why I haven’t shaved or why I talk back to the tea cup. It simply holds me, dim and indifferent, like an old shoe you refuse to throw away.
+
+### The Quantum of Cake
+
+You know, there’s a weird quantum aspect to memories like this. The act of observing them changes them. They crystallize into something they never were. If I poke at that memory of the 1983 Christmas cake, I start to remember other things. And I remember not knowing what that meant. And not caring. Because knowledge had not yet ruined joy.
+
+Science tells me that nostalgia is limbic system activity tinged with serotonergic decay. A kind of chemical reckoning. It’s the brain trying to reconcile the sharpness of the past with the bluntness of the now. But that doesn’t stop it from feeling like a real place. Like I could go back there if I just walked far enough in the right direction.
+
+### Not This Year
+
+This year, I did not light any candles. I did not buy any cake for Christmas but just because I wanted to sample the bread from the breed of confectioners that are seasonal. I did not even walk down to Bowbazar, where they sell the Chinese fairy lights that blink like caffeinated anxiety. I stayed home. I looked at the crack in my wall that looks like a pussy. I boiled tea. I sat very still. I remembered.
+
+And maybe that’s enough.
+
+A room. A kettle. A ghost. And the quiet certainty that this, too, is ritual. The cake that I bought arrived in a crinkled cardboard coffin, taped like evidence, and when I tore it open the first thing that hit me was not “Christmas” so much as *a chemical approximation of joy*—vanillin (the budget cousin of vanilla), a smack of rum essence that never met a barrel, and that sweet, slightly metallic fog that hangs around anything with too much glycerin and too little shame.
 
 The icing has the texture of wall putty left out in a Calcutta winter—soft, reluctant, vaguely damp—while the inside is studded with fluorescent “fruit” that looks like it escaped from a cheap aquarium: green cubes, red slivers, orange bits, all of them suspiciously immortal. I hold a slice near the tube-light, as one does when one has an underfunded scientific temperament, and I can almost see the economics: an artisanal cake, yes, handcrafted, yes, lovingly, yes—by which we mean a woman in a back room with a hairnet in theory, a mixing bowl in practice, and the municipal water supply as a kind of philosophical question.
 
