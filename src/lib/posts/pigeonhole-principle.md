@@ -26,6 +26,7 @@ That’s it. That’s the whole thing. The entire principle fits on the back of 
 
 * If you have 11 socks and only 10 drawers, some drawer has at least 2 socks.
 * If 367 people are in a room, at least two share a birthday (because there are only 366 possible birthdays if you include Feb 29).
+* More magically if 13 people are in a room then at least two have the same birth month according to our 12 month calendar. 
 
 ## A simple proof by contradiction (The "Uh-Oh" method)
 
