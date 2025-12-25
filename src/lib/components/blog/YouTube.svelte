@@ -2,7 +2,7 @@
 	/**
 	 * A responsive YouTube video player component.
 	 * Svelte 5 Runes.
-	 * FIX: Removed modestbranding to force top-bar playlist UI on mobile.
+	 * OPTIMIZED: Uses standard YouTube domain and strict params to force UI on mobile.
 	 */
 	let {
 		src,
@@ -32,32 +32,27 @@
 	let embedSrc = $derived.by(() => {
 		const videoId = parseYouTubeId(src);
 		const playlistId = parseYouTubePlaylistId(src);
-		const baseUrl = 'https://www.youtube-nocookie.com/embed/';
-		
-		// CONFIGURATION NOTES:
-		// 1. playsinline=1: Prevents iOS from fullscreening automatically.
-		// 2. modestbranding=0 (Default): WE MUST ALLOW THE LOGO. 
-		//    If we set modestbranding=1, YouTube hides the top title bar 
-		//    (containing the playlist icon) on mobile screens to save space.
-		// 3. controls=1: Explicitly force controls.
+
+		// Use standard domain. 'nocookie' often strips UI elements on mobile for privacy compliance.
+		const baseUrl = 'https://www.youtube.com/embed/';
+
 		const params = new URLSearchParams({
-			playsinline: '1',
-			rel: '0',
-			controls: '1',
-			fs: '1' // Allow fullscreen
+			playsinline: '1', // Crucial: prevents iOS from hijacking the player
+			controls: '1',    // Force native controls
+			fs: '1',          // Allow fullscreen (required for some UI overlays)
+			rel: '0'          // Don't show random related videos
+			// NOTE: We intentionally OMIT 'modestbranding'. 
+			// Including 'modestbranding=1' REMOVES the top bar (and playlist icon) on mobile.
 		});
 
 		if (playlistId) {
 			params.set('list', playlistId);
 			if (videoId) {
-				// Case 1: Video context within a playlist
 				return `${baseUrl}${videoId}?${params.toString()}`;
 			} else {
-				// Case 2: Playlist only
 				return `${baseUrl}videoseries?${params.toString()}`;
 			}
 		} else if (videoId) {
-			// Case 3: Single video
 			return `${baseUrl}${videoId}?${params.toString()}`;
 		}
 		
@@ -81,9 +76,15 @@
 				referrerpolicy="strict-origin-when-cross-origin"
 			></iframe>
 		</div>
-		{#if caption}
+		{#if caption || parseYouTubePlaylistId(src)}
 			<figcaption class="mt-2 text-sm italic text-neutral-600 dark:text-neutral-400 text-center leading-tight">
 				{caption}
+				{#if parseYouTubePlaylistId(src)}
+					<br/>
+					<a href={src} target="_blank" rel="noopener noreferrer" class="text-xs text-sky-600 dark:text-sky-400 hover:underline">
+						(Open Playlist on YouTube)
+					</a>
+				{/if}
 			</figcaption>
 		{/if}
 	</figure>
@@ -91,4 +92,4 @@
 	<div class="my-6 p-4 rounded-lg border border-red-300 bg-red-50 dark:bg-red-900/20 text-center text-red-600 dark:text-red-400 text-sm font-bold">
 		<p>Invalid YouTube URL provided: {src}</p>
 	</div>
-{/if}
+{/if} 
