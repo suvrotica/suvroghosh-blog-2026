@@ -39,6 +39,6 @@ Language itself seems complicit in this erosion. Words like “depression,” le
 
 # Morning
 
-When morning finally intrudes—grey, tentative, without promise—I sit up and observe the room as though it belonged to someone else: the books that have ceased to instruct and now merely witness, the glass of water left untouched overnight, the pale wall where a gecko remains perfectly still, ancient and indifferent, surviving by a mastery of stillness I can only imitate. 
+When morning finally intrudes—grey, tentative, without promise—I sit up and observe the room as though it belonged to someone else: the books that have ceased to instruct and now merely witness, the glass of water left untouched overnight, the pale wall where a gecko remains perfectly still yet animated, animated in a scientific fiction I imagine, naughty and irresistible flights of fancy I afford, but in reality it is motionless, surviving by a mastery of stillness perhaps only I can imitate. 
 
 Somewhere, my mother's nurse will be making tea for my mother, repeating gestures perfected over habit and instructions, and my mother will be sipping that tea, believing—perhaps correctly—that continuity itself is a form of care. I do not move toward her, nor away. I remain where I am, suspended in the present, which is neither painful nor consoling, but simply there, like the fan above me, turning, imperfectly, again.
