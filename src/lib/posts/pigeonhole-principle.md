@@ -9,7 +9,7 @@ published: true
 ---
 
 <Pi
-    src="IMG-20251225-WA0003.jpg" 
+    src="/Photos/IMG-20251225-WA0003.jpg" 
     caption="The drawer principle: fewer nests than birds means someone has to share."
 />
 
