@@ -1,7 +1,8 @@
 <script lang="ts">
 	/**
 	 * A responsive YouTube video player component.
-	 * It intelligently handles URLs for single videos, playlists, or videos within a playlist.
+	 * Updated for Svelte 5 Runes + Tailwind 4.1.
+	 * Fixes mobile playlist UI visibility.
 	 */
 	let {
 		src,
@@ -16,6 +17,7 @@
 	} = $props();
 
 	function parseYouTubeId(url: string): string | null {
+		// Regex to catch standard, short, and embed URLs
 		const regex =
 			/(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/;
 		const match = url.match(regex);
@@ -32,19 +34,30 @@
 		const videoId = parseYouTubeId(src);
 		const playlistId = parseYouTubePlaylistId(src);
 
+		// Base URL
+		const baseUrl = 'https://www.youtube-nocookie.com/embed/';
+		
+		// params: playsinline=1 is crucial for mobile UI stability
+		const params = new URLSearchParams({
+			playsinline: '1',
+			rel: '0',
+			modestbranding: '1'
+		});
+
 		if (playlistId) {
-			// Case 1: Video context within a playlist
+			params.set('list', playlistId);
 			if (videoId) {
-				return `https://www.youtube-nocookie.com/embed/${videoId}?list=${playlistId}`;
-			} 
-			// Case 2: Playlist only
-			else {
-				return `https://www.youtube-nocookie.com/embed/videoseries?list=${playlistId}`;
+				// Case 1: Video context within a playlist
+				return `${baseUrl}${videoId}?${params.toString()}`;
+			} else {
+				// Case 2: Playlist only
+				return `${baseUrl}videoseries?${params.toString()}`;
 			}
 		} else if (videoId) {
 			// Case 3: Single video
-			return `https://www.youtube-nocookie.com/embed/${videoId}`;
+			return `${baseUrl}${videoId}?${params.toString()}`;
 		}
+		
 		return null;
 	});
 </script>
@@ -60,8 +73,9 @@
 				src={embedSrc}
 				{title}
 				frameborder="0"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 				allowfullscreen
+				referrerpolicy="strict-origin-when-cross-origin"
 			></iframe>
 		</div>
 		{#if caption}
