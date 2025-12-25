@@ -8,9 +8,7 @@ color: "black"
 published: true
 ---
 
-<script>
-    import Pi from '$lib/components/blog/PostImage.svelte';
-</script>
+
 
 <Pi
     src="IMG-20251207-WA0013.jpg" 
