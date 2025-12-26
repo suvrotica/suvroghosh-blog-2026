@@ -65,9 +65,9 @@ All gods still inside my rectum goodly hide.
 
 ---
 
-Misery is mine: mistletoe and wine,
+Misery is mine: mistletoe dipped in bootleg wine,
 
-What does a broke Bengali do in December?
+What does a broke bullshit Bengali do in December?
 
 He pisses in his bed, shits shit in mortal dread,
 
