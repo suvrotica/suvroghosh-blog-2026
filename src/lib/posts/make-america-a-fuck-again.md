@@ -242,7 +242,7 @@ Not those fucks but me gets the Nobel.
 
 I ask Putin to assfuck the ninny Netanyahu,
 
-Fuck him and other oligarchs in the ass to hell.
+Fuck him and other oligarchs in their ass to hell.
 
 ---
 
