@@ -55,6 +55,16 @@ From this shit, some sugar, and wrap.
 
 ---
 
+Fuck it, fuck shit, shit stuck is superhit,
+
+Spread gaped ass super wide but nothing bonafide.
+
+Just a fool with an overflowing shit stool, 
+
+All gods still inside my rectum goodly hide.
+
+---
+
 Misery is mine: mistletoe and wine,
 
 What does a broke Bengali do in December?
