@@ -56,6 +56,16 @@ Let's make healthcare a righteous cunt stain.
 
 ---
 
+Horny as a dead whore, presidency is a bore,
+
+But golf I play near the Gulf of America dear. 
+
+That's the only shit I can think I did,
+
+Or sit in the chair on my fatass rear.
+
+---
+
 Greedy as fuck, my shit gets stuck,
 
 Like cunts of the posh baby mushy plushy kind.
