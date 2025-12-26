@@ -80,7 +80,7 @@ I flush I flush I blush in a hushed rush,
 
 Biden's flush always woke and bluff.
 
-The Epstein logs come floating back up,
+The Epstein's logs come floating back up,
 
 Makes me scream I'VE HAD ENOUGH.
 
