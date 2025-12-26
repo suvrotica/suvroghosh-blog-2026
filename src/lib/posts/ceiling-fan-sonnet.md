@@ -10,7 +10,7 @@ published: true
 
 <Pi
     src="IMG-20251020-WA0069(1).jpg" 
-    caption="The silent witness overhead"
+    caption="Dick so small, the dull blunt man must fall"
 />
 
 <Dl>
@@ -91,6 +91,6 @@ Like the fate meted out to all fetid feces fresh.
 
 My atoms pain return to the soil again,
 
-And the giggling universe resets a shit refresh. 
+And the giggling universe hits a shit refresh. 
 
 </Dl>
