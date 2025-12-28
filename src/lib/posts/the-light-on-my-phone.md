@@ -2,9 +2,9 @@
 title: The Light on My Phone
 date: '2025-12-28'
 description: A reflection on the machine, the nature of questions, and the quiet defiance of choosing the slower path.
-categories: ['philosophy', 'technology', 'reflection']
-image: '/images/IMG-20251220-WA0031.jpg'
-thumbnail: '/images/the-light-on-my-phone-thumb.jpg'
+category : "personal" 
+thumbnail: '/images/IMG-20251220-WA0031.jpg'
+color : "orange" 
 ---
 
 <Pi 
