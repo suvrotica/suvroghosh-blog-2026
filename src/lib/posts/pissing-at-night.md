@@ -39,4 +39,4 @@ And then the moment itself: the latch, the tiny click; the sound that is always 
 
 Outside, the city continues being itself: a distant horn, a stray cat conducting its private negotiations with garbage, a mosquito discovering my ankle like an explorer claiming land. Inside, a single drop misses the target and lands on the tile—small, bright, ridiculous—like a punctuation mark placed by a careless editor.
 
-I wipe it up, with a scrap of paper I find lying around, the great philosopher and his favorite medium reduced to janitorial duties, and the universe remains unimpressed, which is one of its better qualities. Anyway fuck the universe. 
+I wipe it up, with a scrap of paper I find lying around, the great philosopher and his favorite medium reduced to janitorial duties, and the universe remains unimpressed, which is one of its better qualities.  
