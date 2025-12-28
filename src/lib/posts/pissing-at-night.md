@@ -3,12 +3,12 @@ title: "The art of incontinence"
 date: "2025-12-28"
 description: "On the unglamorous physics of urgency, and the metaphysics of being dragged by your own plumbing."
 thumbnail: "/images/IMG-20251101-WA0003(1).jpg"
-category: "Essay"
+category: "personal"
 color: "black"
 published: true
 ---
 
-<Pi src="IMG-20251101-WA0003(1).jpg" caption="I run to piss" /> 
+<Pi src="IMG-20251101-WA0003(1).jpg" caption="I contain 300 millilitres" /> 
 
 
 I wake the way a submarine wakes to a sonar ping—no dream, no poetry, just a clean internal alarm: a complaint has been filed, stamped URGENT, and escalated directly to the dictator in charge (which is not, despite my many books and my long practice of overthinking, “the mind”; it is a wet, muscular sack with the diplomacy of a traffic horn).
