@@ -22,7 +22,7 @@ I am watching Gul Saxena singing "Raat ke Humsafar" on YouTube not because she�
 
 That memory is pinned to Delhi, to our honeymoon in 2001: a city that felt like a step up from Calcutta—cleaner angles, wider roads, a slightly more confident electricity—though still nowhere near the league of American cities like Austin, where I was living then and where even the blandness had an odd competence to it.
 
-Now I’m a divorced, fifty-year-old, crusty scrote, and I can’t tell whether it’s the AQI inside my head or the one outside that’s the real problem. The first thing I notice—before thought, before politics, before the day has put on its trousers and started lying to itself—is the taste.
+Now I’m a divorced, fifty-year-old, crusty scrote, an asshole really, and I can’t tell whether it’s the AQI inside my head or the one outside that’s the real problem. The first thing I notice—before thought, before politics, before the day has put on its trousers and started lying to itself—is the taste.
 
 It arrives the way bad news does in India: politely, persistently, and already inside your mouth.
 
