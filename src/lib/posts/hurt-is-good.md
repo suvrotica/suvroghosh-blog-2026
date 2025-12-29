@@ -2,18 +2,16 @@
 title: "Hurt Is Good"
 date: "2025-12-29"
 description: "Hurt is the last union worker still doing his job. It proves you are still in the system. It proves you are still addressable."
-thumbnail: "/images/IMG-20251208-WA0005.jpg"
+thumbnail: "/images/IMG-20251214-WA0010.jpg"
 category: "personal"
 color: "black"
 published: true
 ---
 
-<script>
-    // The preprocessor will inject the Pi component import here automatically
-</script>
+
 
 <Pi
-    src="IMG-20251208-WA0005.jpg" 
+    src="IMG-20251214-WA0010.jpg" 
     caption="Hurt is the last union worker still doing his job."
 />
 
@@ -34,7 +32,7 @@ I don’t just feel hurt. I renovate it. I build an extension. I add a balcony a
 Rumination is such a polite word, isn’t it. It sounds pastoral. A cow chewing thoughtfully under a tree. In the brain it’s more like a stray dog worrying a bone that has no marrow left, just the idea of marrow. Over and over and over again. Neural loops with the aesthetic of a scratched CD: here comes the chorus, here comes the chorus, here comes the chorus.
 
 <Pi
-    src="IMG-20251207-WA0024.jpg" 
+    src="IMG-20251031-WA0006(1).jpg" 
     layout="iR"
     caption="The world has started speaking in the manic register of acceleration"
     size={0.6}
@@ -69,7 +67,7 @@ I don’t just hurt; I narrate the hurt. I produce it. I replay it. I turn it in
 Reflection is what a mirror does. Rumination is what a closed room does.
 
 <Pi
-    src="IMG-20251207-WA0005.jpg" 
+    src="IMG-20251031-WA0001(1).jpg" 
     layout="block"
     caption="My small act of defiance is to keep my hands steady enough not to spill"
 />
