@@ -7,13 +7,17 @@ thumbnail: '/images/IMG-20251220-WA0031.jpg'
 color : "orange" 
 ---
 
+<Yc />
+
 <Pi 
 src ="IMG-20251220-WA0031.jpg" 
 caption ="The light on my phone" />
 
-The light on my phone is the first thing to wake up, before I do. It lies there on the table like a small aquarium—blue, restless—full of manufactured currents. Next to it, my notebook is open to a page where I once tried to write a clean sentence and instead produced a tangle of arrows, half-words, and one sulky Bengali interjection—ধুর—that looks like a tiny animal curled up to die.
+The light on my phone is the first thing to wake up, before I do. It lies there on the table like a small aquarium—blue, restless—full of manufactured currents. Next to it, my notebook is open to a page where I once tried to write a clean sentence and instead produced a tangle of arrows, half-words, and one sulky Bengali interjection—ধুর—that looks like a tiny animal curled up to die. 
 
-Outside, a scooter coughs awake. Someone drags a plastic chair across concrete—an ugly sound, but honest. The air smells of damp dust and reheated oil, and the day has that particular South Calcutta light: not sunshine so much as a pale administrative decision.
+Outside, a scooter coughs awake. Someone drags a plastic chair across concrete—an ugly sound, but honest. The air smells of damp dust and reheated oil, and the day has that particular South Calcutta light: not sunshine so much as a pale administrative decision. I checked the last song I was listening to before I fell asleep, inappropriately it was "raat akeli hein", inappropriate not because that's what defines my thoughts, but because the night was far from empty, it was full of thoughts and not the kind that you can masturbate with but ones that drag in a miserable questionable existence — mine. 
+
+<Yt src="https://youtu.be/rE6H6cUYfUs?si=sWM71mP4EcT5ilPd" />
 
 I ask the machine questions sometimes, not because I believe in it, but because it is there—like a streetlamp that keeps glowing even when the electricity is doing one of its periodic philosophical withdrawals. It answers instantly, fluently, with a polished kindness that never has to pay rent, never has to nurse a headache through a crowded bus, never has to live inside the consequences of its own certainty. It speaks like a person who has never been corrected by life.
 
