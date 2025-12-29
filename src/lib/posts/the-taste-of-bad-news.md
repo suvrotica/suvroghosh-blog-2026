@@ -68,4 +68,6 @@ Not by slogans, obviously. Slogans are air fresheners sprayed in a burning room.
 
 And yet—*and yet*—I know what we will do first. We will argue about the number. We will debate 402 versus 420. We will make memes. We will accuse someone of defaming the nation. We will demand that the air apologize for being anti-national.
 
-I close the window. The room smells briefly of old paper and tea leaves and my own stubborn carbon-based existence. Outside, the city continues, busy being itself. The light has that dull, filtered quality—like sunlight seen through a used handkerchief—and for a second the world looks almost cinematic, almost beautiful, the way disasters often do when they’re far enough away from the part of you that has to breathe.
+<Yt src="https://youtu.be/Nt5lzSUpBWE?si=lpRwsE6MGiAj5Rbx" />
+
+I close the window dancing mentally to "Aaj ki raat hona hein kya." I might suffocate to death but given I have everything that's good in my past, I don't give a fuck anymore "hona hein jo ho jane do." The room smells briefly of old paper and tea leaves and my own stubborn carbon-based existence. Outside, the city continues, busy being itself. The light has that dull, filtered quality—like sunlight seen through a used handkerchief—and for a second the world looks almost cinematic, almost beautiful, the way disasters often do when they’re far enough away from the part of you that has to breathe.
