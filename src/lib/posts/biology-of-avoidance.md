@@ -8,12 +8,16 @@ color : "orange"
 published: true
 ---
 
+<Yc />
+
 <Pi
 src="IMG-20251207-WA0029.jpg" 
 caption ="I sat up" 
 />
 
 This morning my pillow looked like it had hosted a small, private blizzard—white flecks, grey grit, the occasional black comma of something that might be dandruff or might be the soot from yesterday’s city, which has learned to crawl indoors the way certain relatives do: without invitation, with entitlement, and with a long memory for corners you forgot existed.
+
+<Yt src="https://youtu.be/JLFIdQHQK4E?si=ldvH77jiDUh5DpWF" />
 
 I sat up and the light did that Calcutta thing where it pretends to be sunlight but is really an argument—hazy, particulate, morally undecided—and when I scratched my scalp (not dramatically, not in some operatic “woe is me” fashion, just the ordinary scratch of a man trying to locate his own body in the morning) a few more flakes let go and floated down with the slow dignity of ash after a riot.
 
@@ -28,6 +32,8 @@ That beam would hit the air and—this is the part that still feels like a trick
 What you’re seeing there is not the dust “glowing” the way devotional posters claim certain holy men glow (always in suspiciously marketable hues). It’s physics doing its blunt, unsentimental miracle: light scattering.
 
 Light, when it moves through clean air, is annoyingly well-behaved. It goes straight. It minds its business. Which is why you can’t normally see a beam of sunlight as a beam—you only see the bright patch where it lands. But put *stuff* in the air—dust, smoke, tiny droplets, the invisible confetti of living—and the beam becomes visible, because those particles intercept the light and throw some of it sideways into your eyes. It’s the same reason you can see headlights in fog. Fog isn’t “bright.” Fog is a million tiny mirrors with no coordination.
+
+<Yt src="https://youtu.be/r7lgn8vmJ1c?si=KQzQUi-_f2pbwa56" />
 
 # Tyndall effect 
 
