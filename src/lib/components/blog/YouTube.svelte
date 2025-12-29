@@ -1,4 +1,4 @@
-<script lang="ts">
+	<script lang="ts">
 	/**
 	 * A responsive YouTube video player component.
 	 * Svelte 5 Runes.
@@ -17,8 +17,9 @@
 	} = $props();
 
 	function parseYouTubeId(url: string): string | null {
+		// FIX: Added '|shorts' to the regex group to handle youtube.com/shorts/ID
 		const regex =
-			/(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/;
+			/(?:youtube\.com\/(?:[^/]+\/.+\/|(?:v|e(?:mbed)?|shorts)\/|.*[?&]v=)|youtu\.be\/)([^"&?/\s]{11})/;
 		const match = url.match(regex);
 		return match ? match[1] : null;
 	}
