@@ -16,7 +16,11 @@ caption = "AQI 420 nationwide"
 
 # Delhi AQI
 
-The first thing I notice—before thought, before politics, before the day has put on its trousers and started lying to itself—is the taste.
+I am watching Gul Saxena on YouTube not because she’s Lata Mangeshkar (though she sings well), but because she’s an eerily close look-alike of my ex-wife—who, the last time I can hold her face still in memory, looked like a young Runa Laila.
+
+That memory is pinned to Delhi, to our honeymoon in 2001: a city that felt like a step up from Calcutta—cleaner angles, wider roads, a slightly more confident electricity—though still nowhere near the league of American cities like Austin, where I was living then and where even the blandness had an odd competence to it.
+
+Now I’m a divorced, fifty-year-old, crusty scrote, and I can’t tell whether it’s the AQI inside my head or the one outside that’s the real problem. The first thing I notice—before thought, before politics, before the day has put on its trousers and started lying to itself—is the taste.
 
 It arrives the way bad news does in India: politely, persistently, and already inside your mouth.
 
