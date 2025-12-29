@@ -52,7 +52,7 @@ There’s a grim comedy here that even Mencken would have enjoyed, if he weren�
 
 # In 5 years... 
 
-Give it five more years, you say, and there’ll be haze inside your house and you won’t be able to see your pisser when pissing.
+Give it five more years, I add another comment, and there’ll be haze inside your house and you won’t be able to see your pisser when pissing.
 
 This is grotesque, yes, but it’s also the kind of domestic prophecy that hits harder than any policy paper because it drags the abstract down to the humiliating human level where all truth lives: the bathroom, the throat, the eyes that sting, the child who coughs at night and is told it’s “just allergy,” as if the air itself were a seasonal flower. The body doesn’t care about ideology. The lungs are famously non-partisan. They are equal-opportunity sufferers—though the poor, as usual, get more of the “opportunity.”
 
