@@ -29,6 +29,8 @@ What you’re seeing there is not the dust “glowing” the way devotional post
 
 Light, when it moves through clean air, is annoyingly well-behaved. It goes straight. It minds its business. Which is why you can’t normally see a beam of sunlight as a beam—you only see the bright patch where it lands. But put *stuff* in the air—dust, smoke, tiny droplets, the invisible confetti of living—and the beam becomes visible, because those particles intercept the light and throw some of it sideways into your eyes. It’s the same reason you can see headlights in fog. Fog isn’t “bright.” Fog is a million tiny mirrors with no coordination.
 
+# Tyndall effect 
+
 That sideways-throwing is the heart of what people loosely call the Tyndall effect. Historically, John Tyndall was poking at the way “clear” media weren’t always optically clear, and he showed that colloids—tiny suspended particles—make light paths visible. In school we’re told, dutifully, “Tyndall effect: scattering by colloids,” and then we’re shown a flashlight through milk-water like it’s a magic trick performed by the chemistry teacher who secretly hates us. But in real life, the city gives you the demonstration for free, every morning, along with existential dread and noise.
 
 Strictly speaking, the dust in a room spans sizes. Some particles are small enough that they behave like Rayleigh scattering (the kind that makes the sky blue—shorter wavelengths scatter more). Many are larger, and then you’re in the messy domain of Mie scattering, where the math stops being cute and starts being “numerical methods and despair.” The practical takeaway is simple and wonderfully humiliating: particles in the air redirect light. The beam becomes visible because the beam is being vandalized.
@@ -36,6 +38,20 @@ Strictly speaking, the dust in a room spans sizes. Some particles are small enou
 So why the glitter, specifically? Why not just a uniform haze?
 
 Because those particles aren’t identical, and the light isn’t hitting them evenly, and your eyes are not passive cameras—they’re hungry pattern-machines. A speck tumbles, catches the beam at just the right angle, flashes bright for a fraction of a second, and then it’s gone. It’s not “sparkle” like a diamond; it’s more like the flashing of tiny, indifferent fish scales in a river you cannot enter. The glitter is a statistical accident you interpret as beauty because you are a primate with a brain that evolved to notice shiny things and then overthink them into meaning.
+
+At most times of day the room is lit fairly evenly. Light is coming in from many directions (window + sky + reflections off walls), so the scattering from dust is smeared into a general brightness. The dust is still there, still scattering, but it doesn’t stand out as a distinct shaft.
+
+When the sun hits a certain angle—low-ish, slanting in—it does three useful (for visibility) things at once:
+
+It makes a *collimated-ish* sheet of light. Direct sunlight is relatively directional compared to diffuse skylight. Through window panes it becomes a cleaner, narrower “slab” of light cutting through the room.
+
+It creates *high contrast*. The rest of the room is in shade, so you have “bright beam” against “dark background.” Scattered light from the dust inside that bright slab pops, like chalk dust in a projector beam in a dark classroom.
+
+It aligns the scatter with your line of sight. Dust scatters light in many directions, but not equally for all particle sizes—there’s often a strong “forward scatter” tendency (especially for bigger particles). When the sunbeam, the dust, and your eyes are arranged so that a good fraction of that scattered light is headed toward you, the beam looks thicker and more dramatic. Change the angle a bit and the same dust scatters light, just not into *your* eyes as effectively.
+
+Why “glitter,” specifically: because the particles are drifting and tumbling. Each speck briefly enters the brightest part of the beam and, for a moment, sends a little flash toward you. The sun angle that makes the beam most directional and the background darkest makes those flashes look like sparkles instead of a bland haze.
+
+# Those French windows 
 
 There’s also the choreography of the room itself. Those French window panes—how grand that sounds for a lower-middle-class North Calcutta box where four people lived, ate, argued, and tried not to become each other’s worst destinies—created a certain geometry. The panes broke the light into strips. The curtains softened it. The almirah and bed made shadows like solid objects. And inside that geometry, the dust performed: rising when someone walked, settling when the ceiling fan slowed, erupting when my mother snapped a bedsheet as if she were trying to whip the day into cleanliness.
 
