@@ -17,7 +17,41 @@ This morning my pillow looked like it had hosted a small, private blizzard—whi
 
 I sat up and the light did that Calcutta thing where it pretends to be sunlight but is really an argument—hazy, particulate, morally undecided—and when I scratched my scalp (not dramatically, not in some operatic “woe is me” fashion, just the ordinary scratch of a man trying to locate his own body in the morning) a few more flakes let go and floated down with the slow dignity of ash after a riot.
 
-In my old North Calcutta room, dust had a job description. It arrived from the street, it settled on books, it made the almirah look older than it was, and once a week someone would wipe it with a cloth that quickly became the same color as the dust, which felt like a philosophical joke: you cannot defeat the enemy without becoming him. Now in South Calcutta’s unfashionable fringes—where the buses come grudgingly, where the new buildings stand like freshly minted lies—the dust is less quaint. It has gone corporate. It comes with metrics.
+In my old North Calcutta room, dust had a job description. It arrived from the street, it settled on books, it made the almirah look older than it was, and once a week someone would wipe it with a cloth that quickly became the same color as the dust, which felt like a philosophical joke: you cannot defeat the enemy without becoming him.
+
+And yet—every morning, for a few minutes, that same enemy would turn theatrical.
+
+Sunlight would come in through the French window panes as if it had been rehearsing, not the general daylight that simply *is*, but the kind that enters like a guest with opinions: a clean, angled blade of brightness slicing the cramped room into “lit” and “not yet.” We were four bodies in that rectangle—my sister, my mother, my father, and I—stacked among furniture the way lesser-known books are stacked in a secondhand shop: too close, too earnest, and all waiting to be opened.
+
+That beam would hit the air and—this is the part that still feels like a trick—suddenly the air would confess it wasn’t empty. The dust would glitter. Not metaphorically. Literally: a slow snowfall of tiny specks turning gold, then silver, then disappearing as they drifted out of the angle, as if the room had briefly developed its own astronomy. *Dhulo* became constellations. Poverty became planetarium.
+
+What you’re seeing there is not the dust “glowing” the way devotional posters claim certain holy men glow (always in suspiciously marketable hues). It’s physics doing its blunt, unsentimental miracle: light scattering.
+
+Light, when it moves through clean air, is annoyingly well-behaved. It goes straight. It minds its business. Which is why you can’t normally see a beam of sunlight as a beam—you only see the bright patch where it lands. But put *stuff* in the air—dust, smoke, tiny droplets, the invisible confetti of living—and the beam becomes visible, because those particles intercept the light and throw some of it sideways into your eyes. It’s the same reason you can see headlights in fog. Fog isn’t “bright.” Fog is a million tiny mirrors with no coordination.
+
+That sideways-throwing is the heart of what people loosely call the Tyndall effect. Historically, John Tyndall was poking at the way “clear” media weren’t always optically clear, and he showed that colloids—tiny suspended particles—make light paths visible. In school we’re told, dutifully, “Tyndall effect: scattering by colloids,” and then we’re shown a flashlight through milk-water like it’s a magic trick performed by the chemistry teacher who secretly hates us. But in real life, the city gives you the demonstration for free, every morning, along with existential dread and noise.
+
+Strictly speaking, the dust in a room spans sizes. Some particles are small enough that they behave like Rayleigh scattering (the kind that makes the sky blue—shorter wavelengths scatter more). Many are larger, and then you’re in the messy domain of Mie scattering, where the math stops being cute and starts being “numerical methods and despair.” The practical takeaway is simple and wonderfully humiliating: particles in the air redirect light. The beam becomes visible because the beam is being vandalized.
+
+So why the glitter, specifically? Why not just a uniform haze?
+
+Because those particles aren’t identical, and the light isn’t hitting them evenly, and your eyes are not passive cameras—they’re hungry pattern-machines. A speck tumbles, catches the beam at just the right angle, flashes bright for a fraction of a second, and then it’s gone. It’s not “sparkle” like a diamond; it’s more like the flashing of tiny, indifferent fish scales in a river you cannot enter. The glitter is a statistical accident you interpret as beauty because you are a primate with a brain that evolved to notice shiny things and then overthink them into meaning.
+
+There’s also the choreography of the room itself. Those French window panes—how grand that sounds for a lower-middle-class North Calcutta box where four people lived, ate, argued, and tried not to become each other’s worst destinies—created a certain geometry. The panes broke the light into strips. The curtains softened it. The almirah and bed made shadows like solid objects. And inside that geometry, the dust performed: rising when someone walked, settling when the ceiling fan slowed, erupting when my mother snapped a bedsheet as if she were trying to whip the day into cleanliness.
+
+My father would cough sometimes, not dramatically, just the ordinary cough of a man who had lived long enough in a city that burns and builds and pretends it isn’t doing either. My mother would scold the dust as if dust had ears. My sister would sit with her own private impatience, the kind children have when they’re forced to share space and oxygen and attention. And I—overeducated even then in the way only certain Bengali households can manage, where a child is fed words the way other children are fed protein—would stare at the glitter and feel, without knowing how to say it, that the world has two layers: the visible one you’re supposed to talk about, and the invisible one that is actually running the show.
+
+That’s what the Tyndall effect teaches, if you don’t ruin it by turning it into a definition. It’s an existential lesson in optics: the beam is always there, but you only see it when the impurities confess it.
+
+And there’s a small, nasty irony in that, because the dust that made my childhood mornings look briefly enchanted wasn’t a benevolent fairy powder. It was skin. Cloth fiber. Road grit. Cooking smoke. Pollen. Bits of our own lives breaking down into particles and joining the air like a union you never applied to. What glittered was decomposition, made pretty by the angle of the sun.
+
+Even now, when I see a beam of light in a room, I have that reflex—half tenderness, half suspicion—because the sight is beautiful, yes, but it is also evidence. A visible beam is a diagnostic. It’s the universe pointing at your air and saying, politely, *look what you’re inhaling.*
+
+In that North Calcutta room, the beam would drift across the spines of books, across my mother’s folded saris, across the edge of my father’s newspaper, across my sister’s hair, and for a moment everything looked dusted with gold, as if poverty itself had been gilded by a careless god.
+
+Then someone would move, the particles would swirl, the glitter would break apart, and the air would go back to pretending it was nothing at all.
+
+Now in South Calcutta’s unfashionable fringes—where the buses come grudgingly, where the new buildings stand like freshly minted lies—the dust is less quaint. It has gone corporate. It comes with metrics.
 
 AQI: three letters that make air sound like a quarterly report.
 
