@@ -16,7 +16,9 @@ caption = "AQI 420 nationwide"
 
 # Delhi AQI
 
-I am watching Gul Saxena on YouTube not because she’s Lata Mangeshkar (though she sings well), but because she’s an eerily close look-alike of my ex-wife—who, the last time I can hold her face still in memory, looked like a young Runa Laila.
+I am watching Gul Saxena singing "Raat ke Humsafar" on YouTube not because she’s Lata Mangeshkar (though she sings well), but because she’s an eerily close look-alike of my ex-wife—who, the last time I can hold her face still in memory, looked like a young Runa Laila.
+
+<Yt src="https://youtu.be/ugeXVmC6H4Y?si=DdXcieiVsE5WFCTX" />
 
 That memory is pinned to Delhi, to our honeymoon in 2001: a city that felt like a step up from Calcutta—cleaner angles, wider roads, a slightly more confident electricity—though still nowhere near the league of American cities like Austin, where I was living then and where even the blandness had an odd competence to it.
 
