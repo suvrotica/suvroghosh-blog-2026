@@ -59,6 +59,11 @@ Why “glitter,” specifically: because the particles are drifting and tumbling
 
 # Those French windows 
 
+<Pi 
+src ="/Photos/IMG-20251229-WA0017.jpg" 
+caption = "Tyndall effect" 
+/>
+
 There’s also the choreography of the room itself. Those French window panes—how grand that sounds for a lower-middle-class North Calcutta box where four people lived, ate, argued, and tried not to become each other’s worst destinies—created a certain geometry. The panes broke the light into strips. The curtains softened it. The almirah and bed made shadows like solid objects. And inside that geometry, the dust performed: rising when someone walked, settling when the ceiling fan slowed, erupting when my mother snapped a bedsheet as if she were trying to whip the day into cleanliness.
 
 My father would cough sometimes, not dramatically, just the ordinary cough of a man who had lived long enough in a city that burns and builds and pretends it isn’t doing either. My mother would scold the dust as if dust had ears. My sister would sit with her own private impatience, the kind children have when they’re forced to share space and oxygen and attention. And I—overeducated even then in the way only certain Bengali households can manage, where a child is fed words the way other children are fed protein—would stare at the glitter and feel, without knowing how to say it, that the world has two layers: the visible one you’re supposed to talk about, and the invisible one that is actually running the show.
