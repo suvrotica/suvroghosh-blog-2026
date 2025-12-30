@@ -375,6 +375,16 @@ Fuck dirtiest dumb brown stupids I say.
 
 ---
 
+Modi plus Adani beard moustache combo funny,
+
+His kakistocratic style in my Reich I pile. 
+
+India a nightmarish brown diarrhea backwater, 
+
+Indians anal pinworms on world anus without style.
+
+---
+
 It's destined it's divine, helluva so fine,
 
 Brown slavery by fiat + $100K visa pain.
