@@ -9,6 +9,8 @@ color: "orange"
 
 <Yc />
 
+<Yt src="https://youtu.be/SnUfixeP02A?si=twivvmteGOHnqIzK" />
+
 <Pi
     src="IMG-20251202-WA0009.jpg" 
     caption="boring brick and mortar self-similar repeating blocks"
