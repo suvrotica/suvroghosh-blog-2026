@@ -15,6 +15,15 @@ published: true
 
 <Dl>
 
+Shit my shit in 2026 will be holy superhit,
+
+Ass fucking by vote, routine and rote *au fait*.
+
+When I whip out my dick for little cunts to suck,
+
+Their assfucked parents will have nothin' to say.
+
+---
 
 By the time my term done this nation will be cum,
 
