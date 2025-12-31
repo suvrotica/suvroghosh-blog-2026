@@ -1,5 +1,5 @@
 ---
-title: "Anthropomorphizing the Accord"
+title: "Driving the Accord"
 date: "2026-01-01"
 description: "The year begins not with fireworks, but with the quiet realization that my most faithful companions still don’t have faces."
 thumbnail: "/Photos/IMG-20251012-WA0004(1).jpg"
