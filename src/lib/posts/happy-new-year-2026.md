@@ -59,9 +59,7 @@ You wake up at a roughly consistent time. You don’t negotiate with your phone 
 
 You learn one thing properly. Not “skim fifteen threads and feel informed,” but learn, with the slow dignity of repetition. One proof. One chapter. One skill. One repair you do yourself. This is a small rebellion in an economy built on making you feel behind and therefore purchasable.
 
-You become suspicious of advice that flatters you. Especially mine. Especially mine.
-
-Because the truth—my least popular product—is that most of us do not need a cosmic rebranding. We need fewer self-inflicted wounds. We need to stop mistaking stimulation for life. We need to stop living as if attention is a free resource, when it’s the one thing the market is actively strip-mining from your skull. This moment reminds me of something that was repeated in the classroom—if wishes were horses beggars would ride.
+Because the truth—my least popular product—is that most of us do not need a cosmic rebranding. We need fewer self-inflicted wounds. We need to stop mistaking stimulation for life. We need to stop living as if attention is a free resource, when it’s the one thing the market is actively strip-mining from your skull. 
 
 <Pi
     src="IMG-20251231-WA0027.jpg"
@@ -70,7 +68,7 @@ Because the truth—my least popular product—is that most of us do not need a 
 
 Education, in our country, often behaves like a corrupt railway timetable: huge, official, and disconnected from reality. It teaches performance, not comprehension. It rewards fluent nonsense. It produces men (mostly men) who can recite definitions like shlokas and then stare blankly when asked to apply them, because application requires admitting you might be wrong, and our culture treats being wrong as a moral failing rather than a necessary step in learning. *Bokachoda* is easier to say than “I don’t know.” And so we drown in people who always know.
 
-Nationalism arrives on top of this like cheap icing on a stale cake. Civilizational smugness. Spiritual branding. The same old mythological syrup poured over modern problems: unemployment solved by pride, poverty solved by slogans, climate solved by prayer, corruption solved by blaming foreigners who left seventy-five years ago. Meanwhile the real gods—data brokers, monopolies, surveillance systems, the bored cruelty of algorithmic feeds—operate quietly, without incense, which is why everyone trusts them more.
+Nationalism arrives on top of this like cheap icing on a stale cake. Civilizational smugness. Spiritual branding. The same old mythological syrup poured over modern problems: unemployment solved by pride, poverty solved by slogans, climate solved by prayer, corruption solved by blaming foreigners who left seventy-five years ago. This reminds me of something that was repeated in my classroom—*if wishes were horses beggars would ride*. Meanwhile the real gods—data brokers, monopolies, surveillance systems, the bored cruelty of algorithmic feeds—operate quietly, without incense, which is why everyone trusts them more.
 
 I can’t pretend I’m outside it. I’m typing this on a machine connected to networks designed to monetize my irritation. I am, as usual, performing my disdain while using the very stage I’m heckling. *Amar chokhe dhulo diyechhe*, as my grandmother would say—someone has thrown dust in my eyes—and the dust is partly mine.
 
