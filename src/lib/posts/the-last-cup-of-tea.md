@@ -8,6 +8,7 @@ color: "black"
 thumbnail: "/images/IMG-20251212-WA0009.jpg"
 ---
 
+<Yc />
 <Pi
     src="IMG-20251212-WA0009.jpg" 
     caption="The last cup of tea"
@@ -18,6 +19,8 @@ The last cup of tea of the year always tastes like it has been reheated in a mun
 It is 31 December 2025, which sounds like a date from a science-fiction paperback printed on cheap paper that yellows faster than my optimism. The calendar says end of year; my body says end of attention span; my mind says, as always, end of something, begin of something, who cares, the kettle is whistling again. Somewhere in the building a child shrieks and someone laughs too loud, as if volume could bribe time into being generous.
 
 On the floor near my chair lies the true religious object of my house: an old speaker, scuffed and slightly leaning, with a wire that has been re-twisted so many times it resembles a family tradition. I press play, and the room fills with that particular kind of music that refuses to be merely sound—old songs that arrive with their own weather, their own perfume, their own ghostly furniture. The singer’s voice has the warm fatigue of someone who knows life is a losing argument but insists on making it eloquent anyway.
+
+<Yt src="https://youtube.com/playlist?list=PL5hFsPf-1mfW-_mejmhtCQwt9TkGCBQuC&si=wv65XH0WIjQfLeGM" />
 
 ### The Problem of Presence
 
