@@ -29,12 +29,6 @@ Also, to be precise, “anthropomorphize” is one of those words that sounds li
 
 Anyway. The Accord.
 
-<Pi
-    src="IMG-20251203-WA0004.jpg"
-    layout="iR"
-    caption="Silver: a color that tries to look like the future while actually being a diplomatic compromise."
-/>
-
 Silver, which is a color that tries to look like the future while actually being the diplomatic compromise of the universe: not white (too pure), not grey (too defeated), not black (too final). That car had a certain honest competence. It didn’t flirt with me. It didn’t make promises. It simply started when asked, like a well-trained dog that doesn’t need to be told it’s a “good boy” every morning.
 
 The word “accord,” of course, is one of those deceptively friendly nouns—agreement, harmony, people in suits nodding at each other. Latin *accordare*, “to bring hearts together” (*ad* + *cor*, the heart). I’m not sure Honda’s naming committee sat around chanting Latin like monks of corporate semiotics, but it amuses me that the car carried “heart-agreement” in its name while my actual heart—if we’re using that word for the messy endocrine committee inside my ribcage—was busy disagreeing with everything.
@@ -64,11 +58,6 @@ And yet: these objects.
 A rice cooker is a miracle so commonplace we don’t call it one. In another century it would be witchcraft. In my childhood it would have been a status symbol. Now it is a modest cylinder that contains an entire political economy: the global supply chain of metal, polymer, silicon; the invisible labor of assembly; the electricity grid’s mood swings; the rice itself, domesticated grass that built empires and famines and election slogans.
 
 It clicks when it’s done. That click is a little theorem: input energy → phase change → output food. No speeches. No flags. No “civilizational resurgence.” Just starch and steam.
-
-<Pi
-    src="IMG-20251204-WA0001.jpg"
-    caption="Books do not merely keep you company; they rearrange your sense of what is possible."
-/>
 
 Books—my actual oxygen—are the least shiny objects and the most dangerous. They do not merely keep you company. They rearrange your sense of what is possible, which is why authoritarian systems fear them more than they fear poverty. Poverty can be managed; hunger can be weaponized; but a citizen who reads widely develops the irritating habit of comparing reality to alternatives.
 
