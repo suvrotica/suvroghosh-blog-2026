@@ -13,7 +13,7 @@ published: true
     caption="The belt starts moving."
 />
 
-At 11:58 p.m. the plastic wall clock in my room—one of those cheap quartz things that keep time the way our bureaucracy keeps promises, by vibrating faintly and pretending—began to tick louder, or maybe my nerves simply turned up the gain, and the whole house joined in: the hum of the ceiling fan’s tired bearings, the distant cough of a scooter that refuses to die, the smell of last night’s cooking oil climbing back out of the drain like an accusation, and, from somewhere in the neighborhood, the first premature cracker—because Bengalis cannot wait for anything, not trains, not revolutions, not enlightenment, not even midnight.
+At 11:58 p.m. I was watching the time on my smartphone—its clean, backlit digits pretending to be objective, like a bureaucrat in a freshly ironed shirt—when the whole house joined in anyway: the cold pressing in through the window seams, the distant cough of a scooter that refuses to die, the dry scrape of someone dragging a plastic chair across concrete, and, from somewhere in the neighborhood, the first premature cracker—because Bengalis cannot wait for anything, not trains, not revolutions, not enlightenment, not even midnight.
 
 I looked down at my feet, as if I could see it.
 
