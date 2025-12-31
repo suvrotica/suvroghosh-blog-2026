@@ -1,57 +1,85 @@
 ---
 title: "Happy New Year 2026"
 date: "2025-12-31"
-description: "The calendar is not a reset button. It is a numbering system stapled onto a thermodynamic slaughterhouse. A wish for reality over propaganda."
-thumbnail: "/images/IMG-20251030-WA0004(1).jpg"
+description: "The belt is moving whether you’ve made peace with it or not. A wish for prosperity defined as boring competence in an accelerating timeline."
+thumbnail: "/images/IMG-20251230-WA0008.jpg"
 category: "personal"
 color: "black"
 published: true
 ---
 
 <Pi
-    src="IMG-20251030-WA0004(1).jpg"
-    caption="a feral watchdog who doesn't know there's a tomorrow"
+    src="IMG-20251230-WA0008.jpg"
+    caption="The belt starts moving."
 />
 
-Tonight the neighborhood is doing its annual experiment in applied chemistry: gunpowder, cheap paper, and the confidence of men who believe the universe can be impressed by noise. The air has that January-eve taste even before January exists—burnt cracker smoke, damp winter breath, and the faint metallic tang of Kolkata dust pretending to be atmospheric mystery. Somewhere a DJ is throttling a song into paste. Somewhere a dog is rethinking its relationship with humans. On my table: a calendar with a glossy picture of a waterfall I will never visit, a mug with tea gone cold in the way tea does when you stop believing in time, and a pen that works only when it feels respected.
+At 11:58 p.m. the plastic wall clock in my room—one of those cheap quartz things that keep time the way our bureaucracy keeps promises, by vibrating faintly and pretending—began to tick louder, or maybe my nerves simply turned up the gain, and the whole house joined in: the hum of the ceiling fan’s tired bearings, the distant cough of a scooter that refuses to die, the smell of last night’s cooking oil climbing back out of the drain like an accusation, and, from somewhere in the neighborhood, the first premature cracker—because Bengalis cannot wait for anything, not trains, not revolutions, not enlightenment, not even midnight.
 
-People like to begin the year with blessings, resolutions, affirmations—the whole ceremonial laundering of the self. "Prosperous new year," they say, as if prosperity is a coupon code you can apply at checkout. I understand the urge. Humans have always loved the idea that the universe resets. The Hindus have yugas, the Christians have confession, the Marxists had history with a plot, Silicon Valley has "fresh starts" every time a product fails, and my building has a feral watchdog who doesn't know there's a tomorrow. We are a species addicted to the word "tomorrow" the way alcoholics are addicted to "just one more."
+I looked down at my feet, as if I could see it.
 
-But the calendar is not a reset button. It is a numbering system stapled onto a thermodynamic slaughterhouse.
+The belt.
 
+Not an actual belt, of course—no helpful little conveyor with “TIME” printed in cheery corporate font—but that sensation you get in certain old factories, or at baggage claim in Dum Dum, when the rubber starts moving and you realize you have two choices: keep your hand on your suitcase or watch it slide away into somebody else’s life. The new year does this trick annually: it gives time a sound effect and a costume. It takes the same continuous flow—seconds pouring into seconds like indifferent tea into an already over-sugared cup—and snaps a chalk line across it so we can pretend we’ve arrived somewhere.
 
-The arrow of time doesn't care about Gregorian enthusiasm. Entropy doesn't pause because your aunt forwarded a WhatsApp message with sparkles and "2026" in gold. The second law of thermodynamics is the only god that has never once asked for ghee and still gets what it wants. Things spread out. Heat leaks. Bodies creak. Regret accumulates. The past hardens into a shape you cannot re-melt without spending absurd energy, and most of us are already running on low battery, like those solar streetlights that glow heroically for three hours and then die quietly at 2 a.m., which is basically the human condition with a nicer marketing brochure.
+And yes, I want to wish you a prosperous new year.
 
-So when I tell you "happy new year," I have to do it without lying, which is difficult because every socially approved greeting is, in some small way, a sanctioned lie. "Happy birthday" means "congratulations on remaining not-dead." "Good morning" means "I acknowledge you as an organism." "Happy new year" means "please pretend, with me, that time is negotiable."
+Not the limp “Happy New Year :)” that people fling around like confetti made of emojis, but a wish with some spine in it, like a man setting down a bag of rice and saying, eat, don’t philosophize. Prosperity, for the record, is a word that has been domesticated into meaning “more money,” which is like saying the Himalayas are “a nice pile of rocks.” The older sense—Latin *prosperus*, favorable, doing well—was closer to “the wind is behind you,” which is still money-adjacent but at least acknowledges there is a wind, and that some of us are trying to row with a spoon.
 
-Still. One can try to say the thing honestly.
+# The Cost of Advice
 
-### The Moving Walkway
+I’m not pretending I’ve got saintly authority to dispense this wish. My greatest qualification is a sharp tongue and an allergy to comforting lies, which—historically—has paid very poorly. Even in the golden age of patronage, they didn’t put “excellent at pointing out obvious stupidity” on marble plaques. The few people who did were usually poisoned, exiled, or given an honorary post and then ignored, which is a slower poison.
 
-Here is my honest model, since I am constitutionally incapable of offering sentiments without turning them into a diagram.
+Most people carry baggage that isn’t even theirs. Strings tied to money—where it comes from, who it flatters, what it expects in return. Advice pumped into them by industries that exist only because human insecurity is renewable energy. Advertising that behaves like a parasite with excellent graphic design. Then the internal traps: adolescent dreams that refuse to grow up, fantasies of effortless triumph, the belief that one dramatic gesture will rewrite your story the way films do, with a swelling violin and a convenient cut to black.
 
-Imagine standing on one of those moving walkways at the airport. You can stand still and still go forward, sure, but only because the belt is doing the work. Now imagine that the belt is not level. It's angled upward. Now imagine the belt is speeding up, and the handrail is sticky, and the signage is in an unfamiliar language, and the people ahead of you are live-streaming their ascent while selling courses on "How I walked uphill effortlessly." Now imagine you are on the shadow side of the curve—the side where your feet keep slipping, where your calves burn, where you can see the incline but not the top, and where someone behind you keeps nudging you with the gentle violence of "just be positive."
+The problem with adulthood—real adulthood, not the moustache-and-EMI version—is that it doesn’t arrive with a certificate. It’s a creeping recognition that the belt is moving whether you’ve made peace with it or not. That you can’t reverse it. That “later” is a story we tell ourselves so we can take a nap inside a burning building.
 
-That is the year-to-year feeling lately, and not only for me. Socio-economic acceleration is not a metaphor; it's the lived experience of compound interest applied to everything that can hurt you. Prices, expectations, comparison, noise, paperwork, the speed at which the world decides you are obsolete. If there is a singularity coming—technological, cultural, bureaucratic, pick your poison—it doesn't need flying cars to be terrifying. A singularity can be as banal as a society in which the average person cannot hold a thought long enough to notice they are being robbed, and the people doing the robbing have excellent fonts.
+<Pi
+    src="IMG-20251221-WA0101.jpg"
+    layout="iR"
+    caption="Entropy accumulates like dust in a North Calcutta storage room."
+/>
 
-Judging 2025, I am uncomfortably where I was at the fag end of 2024, which is to say: the same room, the same habits, the same private negotiations with my own biology. I don't know about you. Maybe you conquered mountains. Maybe you built empires. Maybe you became one of those aggressively cheerful people who wake up at 5 a.m. to "own the day," which is a phrase that always makes me picture a man trying to register the Sun at the Registrar of Assurances in Alipore.
+Physics, in its cold-hearted politeness, calls this the arrow of time. Entropy increases; the universe gets, on average, more scrambled, more statistically messy, more like a North Calcutta storage room where nobody knows what any box contains but everyone is sure it contains something important. We feel this as aging, memory, regret, the peculiar pain of realizing you can revisit a street but never re-enter a moment. Boltzmann gave us a number for it, and people talk as if putting a number on a thing makes it less haunting. It doesn’t. It just gives the haunting a unit.
 
-My situation is not grand. It's not even tragic in the cinematic way. It's just rot—a slow, ordinary decay of circumstance, health, mood, motivation, that doesn't look like anything on Instagram. Physical infirmities, mental weather, the tedious maintenance required to remain a functioning mammal. Some people have a dramatic fall. I have a gentle, administrative slide. The kind where the calendar changes but your inner room stays the same temperature, the same stale air, the same thoughts circling like those ceiling fans that wobble and refuse to die.
+# The Singularity of Incompetence
 
-### A Wish Without Syrup
+But here’s where my metaphor starts misbehaving—because metaphors always do, if you keep them on the leash long enough.
 
-And yet: I cannot quite stop the impulse to wish something better for you.
+A conveyor belt is supposed to move at a steady speed. Predictable. Industrial. A comfort, in a depressing way. Yet lately the belt feels like it’s accelerating—not in the science-fiction sense where everyone gets jetpacks and universal basic income and a tasteful Scandinavian kitchen, but in the grim socio-economic sense where the floor under your feet turns into one of those moving walkways at airports and you realize half the passengers are sprinting with luggage and the other half are being dragged backward while a loudspeaker cheerfully announces, “Please mind the gap.”
 
-Not because I believe the universe will reward you. The universe doesn't reward. It just continues. But because wishing is one of the few free actions left that doesn't require a subscription or a government form. A wish is cheap. A wish is defiant. A wish is a small rebellion against the cosmic conveyor belt.
+People toss around the word “singularity” the way aunties toss around “brain stroke”: as a dramatic noun for things they don’t understand but feel entitled to fear. In mathematics, a singularity is not a mystical portal; it’s a point where your equations stop behaving—divide by zero, go to infinity, cease to give sensible output. In culture, we’ve achieved something similar: systems that once produced tolerable answers—education, employment, public institutions—are now spitting out garbage with great confidence. Undefined, but with a press conference.
 
-So let me do it without the syrup.
+I look back at 2025 and the brutal part is not that it was hard. Hard I can handle. Hard is honest. The brutal part is how eerily similar it is to 2024 for me: the same stalled projects, the same tired body that needs maintenance like an old Ambassador, the same mind that oscillates between sharp clarity and that foggy, underwater heaviness where even boiling water feels like a major infrastructure project.
 
-In 2026, I hope you get more reality than propaganda. More sleep than scrolling. More quiet than performative noise. More skill than opinion. More useful discomfort than useless suffering. Fewer miracles, more mechanisms. Less "vibes," more evidence. Fewer people selling you enlightenment in EMI installments. More of that stubborn, unglamorous courage that consists of doing the next right thing when your mind is screaming that nothing matters.
+# Boring Competence
 
-And for me—since I am also in the queue, ticket in hand, on the same absurd moving belt—I will try, again, to do the thing I always claim to do: think clearly, write honestly, and keep one eye on the science even when my feelings are staging a coup. The new year is arbitrary, yes. But the body isn't. The mind isn't. The consequences aren't.
+So, when I say “prosperous,” I don’t mean “manifest wealth” (I cannot type that phrase without feeling I should wash my hands). I mean something more embarrassing and therefore more real: better decisions, made more often, with less drama attached. The kind of prosperity that looks, from the outside, like boring competence.
 
-Outside, someone has started the countdown early, because time is fake but impatience is real. A rocket cracks open the sky like a cheap metaphor. The smoke drifts into my window and settles on my books, which will still be here tomorrow, quietly accumulating dust the way history does.
+You wake up at a roughly consistent time. You don’t negotiate with your phone for forty minutes like it’s a hostage-taker. You eat something that didn’t come from a packet designed by a committee of addiction engineers. You move your body a little, not because you’re chasing a beach physique—Kolkata is not a beach city; it’s a moist argument—but because the brain is a biological organ and it sulks when treated like an abstract concept.
 
-Happy new year, 2026.
+You learn one thing properly. Not “skim fifteen threads and feel informed,” but learn, with the slow dignity of repetition. One proof. One chapter. One skill. One repair you do yourself. This is a small rebellion in an economy built on making you feel behind and therefore purchasable.
 
-The calendar will flip. The conveyor belt won't.
+You become suspicious of advice that flatters you. Especially mine. Especially mine.
+
+Because the truth—my least popular product—is that most of us do not need a cosmic rebranding. We need fewer self-inflicted wounds. We need to stop mistaking stimulation for life. We need to stop living as if attention is a free resource, when it’s the one thing the market is actively strip-mining from your skull. This moment reminds me of something that was repeated in the classroom—if wishes were horses beggars would ride.
+
+<Pi
+    src="IMG-20251231-WA0027.jpg"
+    caption="if wishes were horses beggars would ride"
+/>
+
+Education, in our country, often behaves like a corrupt railway timetable: huge, official, and disconnected from reality. It teaches performance, not comprehension. It rewards fluent nonsense. It produces men (mostly men) who can recite definitions like shlokas and then stare blankly when asked to apply them, because application requires admitting you might be wrong, and our culture treats being wrong as a moral failing rather than a necessary step in learning. *Bokachoda* is easier to say than “I don’t know.” And so we drown in people who always know.
+
+Nationalism arrives on top of this like cheap icing on a stale cake. Civilizational smugness. Spiritual branding. The same old mythological syrup poured over modern problems: unemployment solved by pride, poverty solved by slogans, climate solved by prayer, corruption solved by blaming foreigners who left seventy-five years ago. Meanwhile the real gods—data brokers, monopolies, surveillance systems, the bored cruelty of algorithmic feeds—operate quietly, without incense, which is why everyone trusts them more.
+
+I can’t pretend I’m outside it. I’m typing this on a machine connected to networks designed to monetize my irritation. I am, as usual, performing my disdain while using the very stage I’m heckling. *Amar chokhe dhulo diyechhe*, as my grandmother would say—someone has thrown dust in my eyes—and the dust is partly mine.
+
+Still. The calendar flips. The fireworks happen. People insist on hope because it’s a social requirement, like washing your hands before eating with guests watching. I don’t have that kind of hope in stock. Mine comes in smaller, less photogenic packets.
+
+Sometimes it’s just this: I notice the belt moving under my feet, and I stop pretending it isn’t.
+
+I stand at the window. The lane is slick with winter damp and last year’s carelessness. A stray dog trots past, indifferent to numerology. Somewhere, someone laughs in that loose midnight way, half-drunk on sugar and noise. In the distance a ribbon of smoke hangs in the air, illuminated by a streetlight that flickers like a tired conscience.
+
+Time keeps going. The belt doesn’t consult us.
+
+Happy New Year, 2026—may you at least have the decency to be honest about what you are.
