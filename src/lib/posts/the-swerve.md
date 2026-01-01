@@ -65,7 +65,7 @@ We teach children to memorize. Lucretius teaches adults to *unmemorize.* To peel
 
 Which sounds cold until you realize: cold is sometimes exactly what a fever needs.
 
-# A Brief Detour Into Etymology (And Its Counterfeit Cousin)
+# Etymology
 
 There’s a kind of folk etymology that floats around educated circles like a polite parasite: the idea that if you can split a word into pieces, you can extract a hidden truth, like cracking open a coconut and finding philosophy inside. This is how people end up “proving” that their favorite language invented science, democracy, the internet, and possibly the airplane.
 
@@ -115,11 +115,11 @@ Lucretius is hard to package into a nationalist sermon. He refuses to play masco
 
 Which is precisely why he should be compulsory.
 
-# Ten or Twenty Years, You Say?
+# Ten or Twenty Years, I Claim?
 
-The claim that “if India has to succeed in ten or twenty years, this adjustment must be made” sounds dramatic, like something said into a microphone with background music. I dislike that tone. Reality doesn’t respond to ultimatums. A country is not a student you can threaten into studying.
+I claim that if India has to succeed in ten or twenty years, this adjustment must be made. It sounds dramatic, like something said into a microphone with background music. A country is not a student I can threaten into studying, but I see we need to inculcate rationality at the national level and pronto. 
 
-But something in the timeline is real: the next couple decades will punish societies that can’t think clearly. Not morally punish. Mechanically punish. The way a badly built bridge “punishes” the first overloaded truck.
+The timeline is real: the next couple decades will punish societies that can’t think clearly. Not morally punish. Mechanically punish. The way a badly built bridge “punishes” the first overloaded truck.
 
 Climate, energy, public health, misinformation, automation—none of these care about our cultural self-esteem. They require systems that can test claims, update beliefs, and admit error without collapsing into shame. They require people trained to tolerate uncertainty long enough to examine it.
 
