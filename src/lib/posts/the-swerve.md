@@ -2,15 +2,17 @@
 title: "The Swerve"
 date: "2026-01-02"
 description: "Why India needs Lucretius more than it needs another recitation of Julius Caesar. A meditation on atoms, fear, and the epistemology of the Indian classroom."
-thumbnail: "/images/IMG-20251207-WA0005.jpg"
+thumbnail: "/Photos/IMG-20260102-WA0000.jpg"
 category: "personal"
 color: "black"
 published: true
 ---
 
+<Yc />
+
 <Pi
-    src="IMG-20251207-WA0005.jpg"
-    caption="old turmeric pages and the ghost of tea breath"
+    src="/Photos/IMG-20260102-WA0000.jpg"
+    caption="The Nature of Things by Lucretius, with a coral-orange dotted, constellation-like pattern framed by a border; a red ribbon bookmark peeks out at the bottom; the book rests on a patterned blanket that keeps me warm"
 />
 
 The copy I have now is brand new—Amazon.in, midnight-blue cloth, coral-orange dots scattered across the cover like atoms pretending to be constellations, a tidy border holding the whole swarm in place, and a little red ribbon bookmark poking out like a private joke. It even smells new: paper, glue, that faint chemical cleanliness of something that hasn’t yet been handled by despair. I still open it carefully, though, because my last library didn’t slowly die on shelves; it was taken in Hyderabad in one greedy gulp—fifteen thousand books hauled from the US, plus the intimate junk that makes a person administratively real (passport, underwear, the whole inventory of identity). Ever since, every “new” book arrives with the quiet, unreasonable solemnity of a replacement organ.
@@ -140,6 +142,8 @@ Fear.
 That’s the real syllabus, isn’t it. Not Shakespeare versus Lucretius. Not East versus West. Not tradition versus modernity. Fear versus inspection. Fear versus explanation. Fear versus the stubborn, almost unglamorous courage to look at the world without a cosmic comfort blanket.
 
 I close the book gently—not reverently, just gently, like you close a door when someone is sleeping—and the dust rises in a thin slant of light, drifting with all the lazy confidence of atoms in a room that has seen too many prayers and not enough experiments. 
+
+<Yt src="https://youtu.be/VGk24PddSf4?si=0Dd84wOHUpK7h1at" />
 
 Somewhere in the middle of all this—atoms, void, fear as a management strategy—I keep hearing *Master of Puppets* on the piano, specifically the Gamazda version, because my brain has apparently appointed her as the official musician of my private nervous system. She’s also, embarrassingly, one of the only pianists who can lift my depressive lows by a measurable notch—like someone quietly opening a window in a room I’d forgotten had air. It makes no historical sense and perfect emotional sense: the most mechanized, clenched-jaw metal song of my adolescence, stripped of distortion and bravado and translated into an instrument built to make grief sound civilized. In her hands the famous riff turns into an engine diagram, a little deterministic treadmill: motif repeats, the hand obeys, the body falls into time, and whatever you call “choice” is reduced to a finger deciding whether to land a millimeter early or late. That’s Lucretius in disguise—matter in motion, patterns that feel like fate until you look closely and notice the tiny human swerve, the micro-delay, the refusal to be perfectly machine. And it’s India in 2026, if we’re honest: a country full of people who think they’re playing the anthem of freedom while invisible hands—syllabi, gods, caste, parties, gurus, algorithms—pull the strings, and the first step toward adulthood is to hear the puppet-strings *as music* and then decide, awkwardly, to stop dancing.
 
