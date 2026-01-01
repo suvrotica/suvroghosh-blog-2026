@@ -17,6 +17,8 @@ published: true
 
 While marriages aren't made in heaven, the fact is that they are indeed made, or made up. That should be a consternation to anyone who can think, but happily, we live in a time where thinking is gladly unpopular.
 
+<Yt src="https://youtu.be/TEzVLLbwAdY?si=e-Rt-DxJkctj4X7T" />
+
 Marriage is a sort of mutual domestication, a necessary compromise after the agricultural revolution that diverted hunter-gatherers into monogamy as it proffered advantage in survival and inheritance; otherwise, romance of the biological sort that defines intimacy is due to nerve growth factors that don't subscribe to the lived happily ever after, it can't, familiarity wears it off.
 
 So it is a good bit of something that was a really a sad cheap trick the cave-men hit on to enslave the feral females and later promulgate the perverted hypocrisy of religious, well, jibber-jabber jibberish, can't think of a good word ever—nonsense to make it seem like an inevitable but permanent bond designed in the clouds; and like religious institutions, marriage never can, give people the sort of peace that happily-lived-ever-after; until or unless the protagonists are both dead, of course, which is why dead people are happily married; they look so cute side by side, sitting stiffly, black and white, in a photo frame.
