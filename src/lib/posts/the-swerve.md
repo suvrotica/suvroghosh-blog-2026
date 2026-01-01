@@ -133,9 +133,9 @@ And yes, I know how ridiculous it sounds to propose a Roman poet as national inf
 
 # Small Scene Again, Because the Body Keeps Score
 
-The kettle has boiled dry once, a sad metallic smell rising like a warning. The room is quiet in the specific way that South Kolkata can be quiet—quiet with distant horns, quiet with a neighbor’s TV leaking a devotional serial, quiet with the occasional clatter of a utensil like a dropped coin in the well of the day.
+The tea pan has boiled dry once, a sad metallic smell rising like a warning. The room is quiet in the specific way that South Kolkata can be quiet—quiet with distant horns, quiet with a neighbor’s TV leaking a devotional serial, quiet with the occasional clatter of a utensil like a dropped coin in the well of the day.
 
-I look at the book again. In the margin near a passage about fear, someone has written a single Bengali word, underlined twice: *bhoy.*
+I look at the book again. I feel it viscerally. 
 
 Fear.
 
@@ -145,7 +145,7 @@ I close the book gently—not reverently, just gently, like you close a door whe
 
 <Yt src="https://youtu.be/VGk24PddSf4?si=0Dd84wOHUpK7h1at" />
 
-Somewhere in the middle of all this—atoms, void, fear as a management strategy—I keep hearing *Master of Puppets* on the piano, specifically the Gamazda version, because my brain has apparently appointed her as the official musician of my private nervous system. She’s also, embarrassingly, one of the only pianists who can lift my depressive lows by a measurable notch—like someone quietly opening a window in a room I’d forgotten had air. It makes no historical sense and perfect emotional sense: the most mechanized, clenched-jaw metal song of my adolescence, stripped of distortion and bravado and translated into an instrument built to make grief sound civilized. In her hands the famous riff turns into an engine diagram, a little deterministic treadmill: motif repeats, the hand obeys, the body falls into time, and whatever you call “choice” is reduced to a finger deciding whether to land a millimeter early or late. That’s Lucretius in disguise—matter in motion, patterns that feel like fate until you look closely and notice the tiny human swerve, the micro-delay, the refusal to be perfectly machine. And it’s India in 2026, if we’re honest: a country full of people who think they’re playing the anthem of freedom while invisible hands—syllabi, gods, caste, parties, gurus, algorithms—pull the strings, and the first step toward adulthood is to hear the puppet-strings *as music* and then decide, awkwardly, to stop dancing.
+And somewhere in the middle of all this—atoms, void, fear as a management strategy—I keep hearing *Master of Puppets* on the piano, specifically the Gamazda version, because my brain has apparently appointed her as the official musician of my private nervous system. She’s also, embarrassingly, one of the only pianists who can lift my depressive lows by a measurable notch—like someone quietly opening a window in a room I’d forgotten had air. It makes no historical sense and perfect emotional sense: the most mechanized, clenched-jaw metal song of my adolescence, stripped of distortion and bravado and translated into an instrument built to make grief sound civilized. In her hands the famous riff turns into an engine diagram, a little deterministic treadmill: motif repeats, the hand obeys, the body falls into time, and whatever you call “choice” is reduced to a finger deciding whether to land a millimeter early or late. That’s Lucretius in disguise—matter in motion, patterns that feel like fate until you look closely and notice the tiny human swerve, the micro-delay, the refusal to be perfectly machine. And it’s India in 2026, if we’re honest: a country full of people who think they’re playing the anthem of freedom while invisible hands—syllabi, gods, caste, parties, gurus, algorithms—pull the strings, and the first step toward adulthood is to hear the puppet-strings *as music* and then decide, awkwardly, to stop dancing.
 
 I drink the tea. It’s gone cold.
 
