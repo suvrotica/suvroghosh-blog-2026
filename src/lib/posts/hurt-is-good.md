@@ -8,7 +8,7 @@ color: "black"
 published: true
 ---
 
-
+<Yc />
 
 <Pi
     src="IMG-20251214-WA0010.jpg" 
@@ -47,6 +47,8 @@ And then there’s the quieter annihilation—less cinematic, more total—this 
 So I have a less lyrical suspicion: the singularity, for people like me in the unfashionable fringes of South Calcutta, will feel less like transcendence and more like logistics.
 
 Water pressure that turns the morning into a negotiation. Power that arrives in stuttering syllables—loadshedding as punctuation. A city sweating under its own damp armpits while somewhere else, in a cooled bunker of servers, a polite artificial mind composes sonnets about the dignity of mankind.
+
+<Yt src="https://youtu.be/Xa6JuimHoEA?si=djkAaixL_ePJo_iG" />
 
 People imagine augmentation as a sleek comic-book upgrade: organic AI, robotic exoskeletons, brain-computer symphonies. Fine. Let them have their titanium fantasies. In my version, the winners get exoskeletons and the rest of us get—how to put it—*sociological osteoporosis*. Jobs go first, then meaning. Minds go next. The streets fill with anachronisms: men trained for a world that has been uninstalled, wandering around like outdated software still running on human hardware.
 
