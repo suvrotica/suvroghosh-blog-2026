@@ -65,6 +65,8 @@ We teach children to memorize. Lucretius teaches adults to *unmemorize.* To peel
 
 Which sounds cold until you realize: cold is sometimes exactly what a fever needs.
 
+Part of why Lucretius feels like contraband in our syllabus—something you’d smuggle in under the false bottom of a Milton anthology—is the double inheritance: colony and church. The British didn’t just export railways and paperwork; they exported a curriculum with a moral spine, and Victorian Christianity had a long, enthusiastic habit of treating certain Greeks as respectable interior decorators for doctrine—Plato for the immortal-soul vibes, Aristotle for teleology and “natural order,” the kind of philosophical scaffolding that makes sin, creation, providence, and cosmic judgment feel like sober metaphysics instead of revealed-storytelling with better grammar. Epicurus and Lucretius, meanwhile, are the party guests who keep pointing at the machinery: atoms and void, no supervising deity, death as an ending rather than a bureaucratic transfer, fear as the core revenue model of priesthood—ideas that don’t *bolster* the propaganda, they dissolve it, and empires (both ecclesiastical and administrative) tend to prefer philosophies that oil the hinges of obedience rather than teach the mind to say *na, eta holo bhoy-er byabsha*—no, this is a business of fear.
+
 # Etymology
 
 There’s a kind of folk etymology that floats around educated circles like a polite parasite: the idea that if you can split a word into pieces, you can extract a hidden truth, like cracking open a coconut and finding philosophy inside. This is how people end up “proving” that their favorite language invented science, democracy, the internet, and possibly the airplane.
