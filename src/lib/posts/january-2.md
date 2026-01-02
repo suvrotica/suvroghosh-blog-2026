@@ -37,6 +37,8 @@ Someone somewhere is always having the kind of disaster that doesn’t fit in yo
 
 I read, half-awake, about a fire in Switzerland—clean, efficient Switzerland, the place that looks like it was designed by a committee of competent engineers—burning, because the universe enjoys irony and will not let any country hoard safety like it’s chocolate. A big fire becomes a headline because scale makes it legible. But there are always smaller fires: a cylinder explosion in a slum, a short circuit in a wedding tent, a kitchen blaze that eats three rooms and two lives and then disappears into the statistics like it never had names.
 
+<Yt src="https://youtu.be/yybJ656MadA?si=tGgwda1Q5Ia4gPVz" />
+
 And then the road accidents. Those are our true national festival. We don’t even need a calendar for them. Every day is a sacrificial offering to speed, alcohol, potholes, and the peculiar Indian belief that the laws of physics are negotiable if you honk loudly enough. We kill people in bulk and call it “unfortunate,” as if misfortune arrived from outside, like a courier, rather than being manufactured locally with great enthusiasm.
 
 The second day of January, if you really want to honor it, should be observed by standing at a crossing and watching how many people try to outrun a turning bus. There’s your religion: momentum.
@@ -47,7 +49,11 @@ I can handle the metaphysics of meaninglessness. I can’t handle lungs full of 
 
 And then the water.
 
+<Yt src="https://www.youtube.com/live/hxKuYMV9d-0?si=_94CZ__C-iwlJFRE" />
+
 Indore—again, this is just what I saw and what everyone forwards with the same concerned emojis they use for celebrity divorces—had people dying after drinking polluted potable water. The phrase itself is a little joke: *polluted potable*. Like *honest politician*. Like *pure ghee* in a country that has turned adulteration into an art form and then acts shocked when the canvas poisons the buyer.
+
+<Yt src="https://youtu.be/icjhOQkzqVg?si=UNX_jiwlFP6DL1vF" />
 
 What kills me isn’t just the contamination. It’s the choreography around it.
 
