@@ -69,7 +69,9 @@ This is the absurd modern Indian ethic: we pay taxes for services we then privat
 
 So yes, I am the crank who tells people to buy their own filters. It’s not virtue. It’s triage. And it comes with a bitter little epiphany: “public” is an adjective that has been quietly stolen from us, like my hope, like my hairline.
 
-Somewhere in the middle of this sour thought-spiral, I open YouTube and let piano music leak into the room. Not the grand concert-hall kind—the kind where the pianist has to wear a suit and look spiritually tortured—but the internet kind: a performer somewhere far away, framed by a camera and a quiet room, playing for strangers who need company. There is something tenderly ridiculous about it. Civilization is collapsing in small ways, and meanwhile a person sits at a keyboard and translates grief into harmonics.
+<Yt src="https://youtube.com/playlist?list=PLRtAzD5XzTpIlaQ1dPmaiHnwOgSti4MZ8&si=V3vxt_SkIyJBZIHS" />
+
+Somewhere in the middle of this sour thought-spiral, I open YouTube and let piano music leak into the room. Not the grand concert-hall kind—the kind where the pianist has to wear a suit and look spiritually tortured—but the internet kind: a performer like Gamazda or Alisa Procenko, somewhere far away, framed by a camera and a quiet room, playing for strangers who need company. There is something tenderly ridiculous about it. Civilization is collapsing in small ways, and meanwhile a person sits at a keyboard and translates grief into harmonics.
 
 Sometimes it’s classical; sometimes it’s something perversely modern arranged into elegance—metal turned into lace. The notes fall into the room like clean water from a tap I don’t entirely trust.
 
