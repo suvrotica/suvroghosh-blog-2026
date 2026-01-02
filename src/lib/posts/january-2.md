@@ -1,6 +1,23 @@
-The paper calendar on my wall is doing that thing paper calendars do in damp Kolkata winters: the corners curl like old toenails, the ink looks faintly ashamed of itself, and the whole object hangs there pretending it is the official embassy of Time. The second day of January sits in its little square—obedient, boxed, domesticated—while outside my window the street has already begun its daily devotional chant of horn, cough, drill, and the faint metallic wheeze of a bus that sounds like it is trying to die politely without making a scene.
+---
+title: "A bird over the haze"
+thumbnail: "/images/IMG-20251013-WA0004(1).jpg"
+description: "The paper calendar on my wall is doing that thing paper calendars do in damp Kolkata winters: the corners curl like old toenails..."
+category: 'personal'
+published: true
+color: "orange" 
+---
 
-On the sill there’s a light snowfall of gray: not snow, obviously—this city doesn’t do European romance, it does particulate matter—but a soft ash that could be from last night’s fireworks, or the roadwork, or the general combustion of modern life. I wipe it with my finger and it smears like bad eyeliner. *Auspicious*, I think, because we Bengalis have the spiritual gift of calling everything auspicious right up to the moment we’re in an ICU, at which point we switch to calling it fate.
+<Yc />
+
+<Yt src="https://youtube.com/playlist?list=PLTLeI7tcJHJ7xXPTSIiaHaIKpIsNi5B6H&si=2ADok1HjHkc4Hhdt" />
+
+<Pi
+    src="IMG-20251013-WA0004(1).jpg" 
+    caption="a bird over the haze"
+/>
+The paper calendar on my wall is one of those free things—thin paper, corporate logo in a corner, the days arranged in obedient squares as if time itself were a municipal project. The second day of January sits in its little square—obedient, boxed, domesticated—while outside my window the street has already begun its daily devotional chant of horn, cough, drill, and the faint metallic wheeze of a SUV that sounds like it is trying to die politely without making a scene, and above the gray haze a lone bird crosses like a small, stubborn punctuation mark.
+
+On the sill there’s a light snowfall of gray: not snow, obviously—this city doesn’t do European romance, it does particulate matter—but a soft ash that could be from last night’s fireworks, or the roadwork, or the general combustion of modern life. I wipe it with my finger and it smears like bad eyeliner. *Auspicious*, I think, because we Bengalis have the spiritual gift of calling everything auspicious right up to the moment we’re in an ICU, at which point we switch to calling it fate. 
 
 It’s an odd talent, this ability to celebrate a number on a page as if the universe itself has undergone a factory reset.
 
