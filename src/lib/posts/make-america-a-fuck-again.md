@@ -35,9 +35,19 @@ Americans forced to drink rich men's yellow piss.
 
 ---
 
-I fucked the government to a halt,
+I sodomize this race, then fuck their face,
 
-Next black brown legal to be slain.
+They bend over backwards and want fucking more.
+
+A nation of dicks and cunts I make fucks again,
+
+My manifesto is to turn the US into a whore.
+
+---
+
+I fucked the government to several halts,
+
+Next black brown legal to be always slain.
 
 Also Red-Indian Mexican meat etcetera,
 
@@ -391,6 +401,6 @@ Brown slavery by fiat + $100K visa pain.
 
 And cunts won't be free with their cunts,
 
-I'll make america a fuck again.
+*I make america a fuck again.*
 
 </Dl>
