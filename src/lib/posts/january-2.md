@@ -49,7 +49,7 @@ I can handle the metaphysics of meaninglessness. I can’t handle lungs full of 
 
 And then the water.
 
-<Yt src="https://www.youtube.com/live/hxKuYMV9d-0?si=_94CZ__C-iwlJFRE" />
+<Yt src="https://youtu.be/3ubE93h7ZGU?si=Qsn8s_lS8L-EHCWy" />
 
 Indore—again, this is just what I saw and what everyone forwards with the same concerned emojis they use for celebrity divorces—had people dying after drinking polluted potable water. The phrase itself is a little joke: *polluted potable*. Like *honest politician*. Like *pure ghee* in a country that has turned adulteration into an art form and then acts shocked when the canvas poisons the buyer.
 
