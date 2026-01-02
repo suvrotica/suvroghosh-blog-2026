@@ -17,8 +17,7 @@ color: "orange"
 
 <Yt src="https://youtube.com/playlist?list=PLTLeI7tcJHJ7xXPTSIiaHaIKpIsNi5B6H&si=2ADok1HjHkc4Hhdt" />
 
-
-The paper calendar on my wall is one of those free things—thin paper, corporate logo in a corner, the days arranged in obedient squares as if time itself were a municipal project. The second day of January sits in its little square—obedient, boxed, domesticated—while outside my window the street has already begun its daily devotional chant of horn, cough, drill, and the faint metallic wheeze of a SUV that sounds like it is trying to die politely without making a scene, and above the gray haze a lone bird crosses like a small, stubborn punctuation mark.
+I woke up early to the loud voices of the people who own—and rent, and sublet, and generally *possess*—the two SUVs parked right in front of my bedroom window, as if my sleep were an unpaid roadside tax and their morning gossip the official receipt. They weren’t angry exactly, just vigorously alive in that way people get when they have vehicles large enough to confer moral authority; the kind of voices that bounce off metal, multiply, and arrive in your skull as a committee decision. Outside, the street was already doing its usual Kolkata rehearsal—horns clearing throats, a distant drill warming up like a bad tabla player, air with that faint aftertaste of yesterday’s combustion—and above the haze a bird crossed, small and single-minded, like the world’s last unsponsored headline.
 
 On the sill there’s a light snowfall of gray: not snow, obviously—this city doesn’t do European romance, it does particulate matter—but a soft ash that could be from last night’s fireworks, or the roadwork, or the general combustion of modern life. I wipe it with my finger and it smears like bad eyeliner. *Auspicious*, I think, because we Bengalis have the spiritual gift of calling everything auspicious right up to the moment we’re in an ICU, at which point we switch to calling it fate. 
 
