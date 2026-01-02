@@ -1,6 +1,7 @@
 ---
 title: "A bird over the haze"
 thumbnail: "/images/IMG-20251013-WA0004(1).jpg"
+date:"2026/1/2"
 description: "The paper calendar on my wall is doing that thing paper calendars do in damp Kolkata winters: the corners curl like old toenails..."
 category: 'personal'
 published: true
