@@ -14,7 +14,7 @@ published: true
 
 <Dl>
 
-As a hero, I attacked the moustachioed Maduro,
+As a hero, I kidnapped the moustachioed Maduro,
 
 US dick in Venezuelan vagina, a happy day, 
 
