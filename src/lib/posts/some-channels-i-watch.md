@@ -34,6 +34,8 @@ published: true
 
 # On YouTube
 
+<Yt src="https://youtube.com/playlist?list=PLd0D0VLGALV0acMu0LhYVIARsPgv8vpx-&si=NZFQrt6MTJVRbLGq" />
+
 <Yt src="https://youtube.com/playlist?list=PLVIRTkGrtbrsYaCGtmHK2MVMRlWg9zFPC&si=oD52C6GBgBHd-5pr" />
 
 <Yt src="https://youtube.com/playlist?list=PLU3TaPgchJtRk0sqM6jgVDIFDxj3swvxq&si=XLLxEFdNn7sr99UC" />
