@@ -34,6 +34,16 @@ If not the world will be my new crime spree.
 
 ---
 
+Nation at war ridiculously always,
+
+What the fuck is wrong with that? 
+
+Well if I don't make a trillion in retirement,
+
+I'm going sell MAGA blubber as *cooking fat*.
+
+---
+
 Shit my shit in 2026 will be holy superhit,
 
 Ass fucking by vote, routine and rote *au fait*.
