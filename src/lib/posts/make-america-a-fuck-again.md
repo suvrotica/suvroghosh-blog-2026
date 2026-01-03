@@ -40,7 +40,7 @@ What the fuck is wrong with that?
 
 Well if I don't make a trillion in retirement,
 
-I'm going sell MAGA blubber as *cooking fat*.
+I'm gonna sell MAGA blubber as *cooking fat*.
 
 ---
 
