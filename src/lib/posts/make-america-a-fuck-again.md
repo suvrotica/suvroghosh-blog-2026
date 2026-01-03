@@ -24,6 +24,16 @@ Repent sinners and kiss my orange asshole I say.
 
 ---
 
+Cum soaked this prized Venezuelan oil,
+
+Thicker than any man's can ever be.
+
+Now the Epsteins' files will be caked black,
+
+If not the world will be my new crime spree.
+
+---
+
 Shit my shit in 2026 will be holy superhit,
 
 Ass fucking by vote, routine and rote *au fait*.
