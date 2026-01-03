@@ -26,7 +26,7 @@ Repent sinners and kiss my orange asshole I say.
 
 Cum soaked this prized Venezuelan oil,
 
-Thicker than any man's can ever be.
+Thicker than any man's cum can ever really be.
 
 Now the Epsteins' files will be caked black,
 
