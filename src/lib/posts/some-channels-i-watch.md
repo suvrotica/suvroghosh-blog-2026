@@ -38,6 +38,8 @@ published: true
 
 <Yt src="https://youtube.com/playlist?list=PLU3TaPgchJtRk0sqM6jgVDIFDxj3swvxq&si=XLLxEFdNn7sr99UC" />
 
+<Yt src="https://youtube.com/playlist?list=PLgy71-0-2-F0o8pYCoY9T4fGuJow22Ppt&si=qB4Cy8OqKl32eZmN" />
+
 <Yt src="https://youtube.com/playlist?list=PL9hNFus3sjE7dqq_m80FnzCbiG46pciqB&si=R1AdiR79h8NIwRmC" />
 
 <Yt src="https://youtube.com/playlist?list=PLqHnHG5X2PXBVZsf_rvAwGnUgZ-mGdqCy&si=gNX_ZS6azZbgFyck" />
