@@ -67,6 +67,6 @@ I almost start to romanticize it—there’s the trope forming, the sentimental 
 
 Still, I think about the layers again: steam, electricity, digitization, AI. Strata of progress, stacked unevenly, with cracks where the old infrastructure shows through. In the rich countries, the Fourth Revolution is marketed as fusion—cyber-physical systems, smart everything, seamless automation. Here, it sometimes feels like a new coating over old rot, and the rot is not just corruption or incompetence but the deeper habit of treating human beings as interruptions.
 
-The generator bass-note continued all day, steady as a mantra, except this mantra didn’t promise liberation or moksha—only uptime.
+The misremembered imagined generator bass-note continued all day at the back of my skull, steady as a mantra, except this mantra didn’t promise liberation or moksha—only uptime.
 
 At dusk the sky went the color of unwashed cotton, that familiar Kolkata compromise between beauty and particulate matter, and the red light on my phone’s screen lit my palm again—another code, another proof, another tiny petition to the machine-gods. Somewhere behind a wall, a diesel engine kept the cloud alive. The future, as ever, smelled faintly of fuel.
