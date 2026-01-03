@@ -4,7 +4,6 @@ category: "Doggerel"
 description: "Make America a Fuck Again (MAFA)"
 thumbnail: "/images/IMG-20250728-WA0003(1).jpg"
 color: "red"
-date: "2025-12-25"
 published: true
 ---
 
@@ -14,6 +13,16 @@ published: true
 />
 
 <Dl>
+
+As a hero I attacked the moustachioed Maduro,
+
+My dick in Venezuelan vagina Christians pray. 
+
+Uff meaningless wars, so super goodly holy,
+
+Repent sinners and kiss my ass today.
+
+---
 
 Shit my shit in 2026 will be holy superhit,
 
