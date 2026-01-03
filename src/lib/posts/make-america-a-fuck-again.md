@@ -14,13 +14,13 @@ published: true
 
 <Dl>
 
-As a hero I attacked the moustachioed Maduro,
+As a hero, I attacked the moustachioed Maduro,
 
-US dick in Venezuelan vagina a happy new year day, 
+US dick in Venezuelan vagina, a happy day, 
 
-Not a meaningless war, really for goodly oil. 
+Not a meaningless war, really for oil. 
 
-Repent sinners and kiss my orange asshole I say.
+Trembling in fear shit your pants you may. 
 
 ---
 
