@@ -16,11 +16,11 @@ published: true
 
 As a hero I attacked the moustachioed Maduro,
 
-My dick in Venezuelan vagina Christians pray. 
+My dick in Venezuelan vagina happy new year I say, 
 
 Uff meaningless wars, so super goodly holy,
 
-Repent sinners and kiss my ass today.
+Repent unholy sinners and kiss my orange asshole today.
 
 ---
 
