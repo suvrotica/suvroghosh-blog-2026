@@ -21,9 +21,9 @@ It is the first of January, 2026, which means nothing in physics and everything 
 
 # The Ghost of 2002
 
-And with that click comes a ghost: a silver 2002 Honda Accord SE in Austin, bought back when I still lived inside the illusion that adulthood was a stable country with clear borders and a functioning postal system.
-
-Most people hear “car” and think: transport, metal, insurance premiums, a place to keep stale fries. I hear “car” and my brain insists on giving it a temperament. This is my little pathology: I anthropomorphize things. Not in the cute Pixar way where the toaster has dreams and the lamp falls in love. More like the way a lonely man assigns moral reliability to an object because the human alternative has a poor track record and no warranty.
+And with that click comes a ghost: a silver 2002 Honda Accord SE in Austin, bought back when I still lived inside the illusion that adulthood was a stable country with clear borders and a functioning postal system. The Honda was the one that drove those long, mostly uneventful, boring, long, shimmering stretches in the hot Texas sun, on I-35. It did most of the work too, because I had it on cruise control at 80 mph, almost the speed of an airplane, in the middle of the boondocks where I now live, where you bump into a hog or a stray ungulate even on short ambulatory adventures to a nearby Kirana or tea stall.
+ 
+Most people here hear “car” and think: transport, metal, insurance premiums, a place to keep stale fries. I hear “car” and my brain insists on giving it a temperament. This is my little pathology: I anthropomorphize things. Not in the cute Pixar way where the toaster has dreams and the lamp falls in love. More like the way a lonely man assigns moral reliability to an object because the human alternative has a poor track record and no warranty.
 
 Also, to be precise, “anthropomorphize” is one of those words that sounds like a Victorian scientist poking a frog with a stick. *Anthrōpos* + *morphē*, Greek for “human-form.” People sometimes say it means “man-shape,” which is a lazy translation with patriarchy baked into the subtitle; *anthrōpos* is human, not male. Even the etymology has to fight for breath.
 
