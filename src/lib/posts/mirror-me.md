@@ -42,4 +42,5 @@ Outside, the neighborhood wakes up with its usual noisy conviction. A vendor cal
 
 I wipe the glass with the corner of my towel, leaving a smear that makes my face look briefly like an impressionist painting, kinder than realism, and in that blur I find the only defiance I can reliably afford: to keep looking without pretending it’s noble.
 
-My breath fogs the mirror again, a soft white bloom, and for a second I disappear completely—finally improved by subtraction—then the glass clears, and there I am, back to being an unpaid clerk of my own existence.
+My breath fogs the mirror again, a soft white bloom, and for a second I disappear completely—finally improved by subtraction—then the glass clears, and there I am, back to being an unpaid clerk of my own existence. And then I remember Shyam in Shirshendu Mukhopadhyay’s *Ghunpoka*—that depressed man returning again and again to his little shaving mirror, as if repetition could coax out a different fate, as if the glass might one day confess a loophole. I find myself drifting into his terrified shape, the same small ritual, the same compulsive checking, the same grim bargaining with reflection—going slowly sadder and mad, not with fireworks but with the quiet, steady efficiency of a worm in wood.
+ 
