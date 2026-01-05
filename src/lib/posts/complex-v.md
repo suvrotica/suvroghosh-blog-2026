@@ -8,7 +8,9 @@ published: true
 color: "blue"
 ---
 
-
+<script>
+  import ComplexPlane from '$lib/components/viz/ComplexPlane.svelte';
+  </script>
 
   Mathematics is often taught as a static subject—formulas on a chalkboard, dead ink on paper. But complex analysis, the study of functions of complex numbers ($z = x + iy$), is inherently visual.
 
@@ -18,11 +20,12 @@ color: "blue"
 
   Try typing `(z^2 - 1) * (z - 2 - i)^2` below. The **colors** represent the angle (argument) of the result, and the **bands** represent the magnitude.
 
-  <Cp />
+  <ComplexPlane />
 
   ### How it works
 
   This component iterates over every pixel on the canvas:
+
   1. Converts the pixel $(x, y)$ to a complex number $z$.
   2. Calculates $f(z)$.
   3. Maps the resulting angle to a Hue (Color).
