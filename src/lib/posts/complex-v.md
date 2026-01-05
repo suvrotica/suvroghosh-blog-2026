@@ -3,7 +3,7 @@ title: "Visualizing the Complex Plane"
 date: "2026-01-05"
 description: "Interactive Domain Coloring: identifying singularities, poles, and zeros using Svelte 5 and Canvas."
 thumbnail: "/images/IMG-20251207-WA0010.jpg"
-category: "science"
+category: "math"
 published: true
 color: "green"
 ---
@@ -27,7 +27,7 @@ color: "green"
   In this visualization, we map the mathematical properties of the function to visual cues. Here is how to read the "map" above to find singularities—points where the function behaves strictly or chaotically.
 
   <Pi 
-      src="IMG-20251207-WA0011.jpg" 
+      src="IMG-20251227-WA0043.jpg" 
           caption="Visualizing mathematical infinity requires mapping magnitude to light."
           />
 
