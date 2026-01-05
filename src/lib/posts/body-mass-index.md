@@ -7,9 +7,7 @@ published: true
 color: "blue" 
 ---
 
-<Yc />
 
-<Yt src="https://youtube.com/playlist?list=PLTLeI7tcJHJ7xXPTSIiaHaIKpIsNi5B6H&si=2ADok1HjHkc4Hhdt" />
 
 <Pi
     src="IMG-20260105-WA0000.jpg" 
