@@ -2,7 +2,7 @@
 title: "Visualizing the Complex Plane"
 date: "2026-01-05"
 description: "Interactive Domain Coloring: identifying singularities, poles, and zeros using Svelte 5 and Canvas."
-thumbnail: "/images/IMG-20251207-WA0010.jpg"
+thumbnail: "/images/IMG-20260105-WA0001.jpg"
 category: "math"
 published: true
 color: "green"
