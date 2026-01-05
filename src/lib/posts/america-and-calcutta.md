@@ -2,8 +2,8 @@
 title: America and Calcutta
 thumbnail : "/images/IMG-20251031-WA0006(1).jpg" 
 date: '2026-01-05'
-categories:"personal" 
-
+category : "personal" 
+published : true 
 description: "A reflection on the sensory differences between the insulated precision of America and the chaotic intimacy of Calcutta."
 color : "orange" 
 ---
