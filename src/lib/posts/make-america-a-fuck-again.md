@@ -24,6 +24,16 @@ Trembling in fear shit your pants you may.
 
 ---
 
+I am racist fascist all very goodly tacit,
+
+Except sometimes I fart a fucking trace. 
+
+Cheer up grumbling but ninny citizen Americans,
+
+Or I'll cum on and fuck your stupid face. 
+
+---
+
 Cum soaked this prized Venezuelan oil,
 
 Thicker than any man's cum can ever really be.
