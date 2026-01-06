@@ -8,9 +8,7 @@ published: true
 color: "orange" 
 ---
 
-<Yc />
 
-<Yt src="https://youtube.com/playlist?list=PLTLeI7tcJHJ7xXPTSIiaHaIKpIsNi5B6H&si=2ADok1HjHkc4Hhdt" />
 
 <Pi
     src="IMG-20251220-WA0033.jpg" 
