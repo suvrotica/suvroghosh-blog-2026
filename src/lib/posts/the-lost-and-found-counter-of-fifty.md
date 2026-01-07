@@ -14,7 +14,6 @@ color: "orange"
 src="IMG-20251221-WA0047.jpg"
 caption="A forlorn feeling of missing people I knew earlier and the old me"
 />
---
 
 At 1:47 a.m. the phone does that small, humiliating thing—lights up for no reason, a phantom notification, the rectangle of glass briefly becoming an aquarium where my own face floats, older, more porous, like it’s been left too long in water. The room smells faintly of kerosene from the stairwell. Outside, a dog negotiates territory with another dog in the language of exhausted threats. Inside, my thumb does the daily pilgrimage: wake screen, unlock, open the same app, scroll past the same faces. Love at fifty is not the operatic thing it promised when I was seventeen and prone to melodrama in cheap ballpoint; it is mostly this—missing people, and the long, dull, oddly physical ache of realizing you can miss someone without even wanting them back, the way you can miss a childhood knee without desiring the scrape.
 
