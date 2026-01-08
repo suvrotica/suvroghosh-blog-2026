@@ -1,7 +1,7 @@
 ---
 title: "Civilization Is the Art of Hiding Exponents"
 thumbnail: "/images/IMG-20251216-WA0016.jpg"
-date: '2026-01-07'
+date: '2026-01-08'
 description: "A morning transaction, a smiling black box, and the Indian talent for selling exponential mess as a one-tap bargain—plus the older religious version of the same trick."
 category: 'personal'
 published: true
@@ -98,8 +98,10 @@ I keep circling back to that green tick on my screen. It felt so clean. It felt 
 
 But even that has its shadow, doesn’t it. The very convenience that makes the system humane also makes it easy to hide rot. When everything is one tap, you stop asking what it costs. Not rupees—exponents. You stop seeing the structure. You stop noticing the power lines, the server farms, the workers, the minerals. You stop noticing who is squeezed and who is insulated. O(1) comfort is a kind of anesthesia, and anesthesia is lovely until someone is operating on the wrong limb.
 
-My own life, I realize, has been a long argument with shortcuts. I wanted clean equations. I wanted fair systems. I wanted institutions that behaved like mathematics—transparent, consistent, not bribable. Instead I got this: a place where people often treat rules as optional and morality as negotiable, and where the loudest claims of simplicity are usually the ones hiding the nastiest exponent.
+My own life, I realize, has been a long argument with shortcuts. I wanted clean equations. I wanted fair systems. I wanted institutions that behaved like mathematics—transparent, consistent, not bribable. Instead I got this: a place where people often treat rules as optional and morality as negotiable, and where the loudest claims of simplicity are usually the ones hiding the nastiest exponent. And yet I’m still here, still paying with my phone, still hoping for honest interfaces, still muttering *dhur* under my breath when the world tries to sell me magic. 
 
-And yet I’m still here, still paying with my phone, still hoping for honest interfaces, still muttering *dhur* under my breath when the world tries to sell me magic.
+And now we’re being offered the most seductive O(1) of all: let the machine do the thinking, outsource the tedious parts of cognition the way we outsourced remembering phone numbers, directions, and—if we’re honest—other people’s birthdays; it’s wonderful, genuinely, like indoor plumbing for the mind, except indoor plumbing still requires you to know what water is, and this new plumbing has a dark little failure mode where the user forgets what thinking even feels like. I’m Generation X; as a child I didn’t have a choice—I had to learn to think because boredom was mandatory and ignorance was expensive, and maybe I was always destined to become this middle-class, middle-aged no-one ninny nonentity with books (the kind of man who can name five dead French philosophers yet can’t fix a dripping tap), but at least the mental muscles got exercised because there was nothing else to do; now I look around and see heads buried in phones before they’ve even learned the basic physics of attention, never trained in the first place, and I can’t shake the image of a future where we’re not enlightened cyborgs but atavistic primates with a supercomputer in our pocket and nothing in our skull but notifications—civilization as a perfect interface over a hollowed-out user.
+
+I am afraid of the future. 
 
 The shopkeeper hands me the biscuits, my phone screen already asleep, the green tick gone as if it never existed, and I step outside into the street where everything is complicated again—traffic as a living theorem, humans as impatient variables, the city as a proof that never ends—so I walk on, carrying my small purchase like a minor treaty with chaos.
