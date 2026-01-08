@@ -9,9 +9,13 @@ published: true
 color: "orange"
 ---
 
+<Yc />
+
 <Pi
  src="IMG-20251210-WA0000.jpg"
  caption="I get headaches from bass..." />
+
+
 
 
 The first thing you notice isn’t the sound, it’s the vibration—an invisible hand shaking the marrow of the building—followed by that particular Calcutta perfume of diesel breath and pulverized stone, as if someone is grinding a centuries-old courthouse into chutney right outside my door, and then the sound arrives properly, late to its own party, a hard metallic clank and the impatient stutter of a machine that does not understand the concept of “enough already.”
@@ -38,7 +42,9 @@ Speaking of gods: there’s a special local superstition that if you slap enough
 
 I admit, I’ve been cheated by my own romanticism too. I came back to India with that NRI sheen still on my eyes—the belief that if you bring skills and sincerity, the world will meet you halfway—and the country greeted me like a street magician: smile, patter, flourish, now your wallet is gone and you’re somehow applauding. The damage isn’t only financial; it’s neurological, a slow erosion of trust until even simple interactions feel like hostile negotiations. Somewhere in there I learned a cowardly wisdom: tell the truth too directly and you invite consequences; bluntness is treated as aggression, rationality as arrogance, and the demand for evidence as an insult to someone’s ancestral pride. So I’ve become careful in the ugliest way—careful not because I respect others, but because I don’t trust them.
 
-And then there’s my mother, which is where the essay stops being an essay and becomes a daily manual. I don’t have the luxury of grand ambitions anymore; the remaining ambition is mechanical: keep a set of lungs working, keep oxygen moving in and out, keep infections away, keep panic from becoming physiology. This is the part people don’t put in patriotic speeches—the part where “family values” are not slogans but unpaid respiratory labor. I’ve bought an RO purifier, which is its own small satire: clean water as a consumer upgrade, like a streaming subscription, while the city outside treats air as an ashtray. The RO sits there, humming softly, a tiny private infrastructure, the domestic equivalent of building your own moon because the sky has been outsourced to incompetence.
+And then there’s my mother, which is where the essay stops being an essay and becomes a daily manual. I don’t have the luxury of grand ambitions anymore; the remaining ambition is mechanical: keep a set of lungs working, keep oxygen moving in and out, keep infections away, keep panic from becoming physiology, because she is enfeebled by that inexorable label of time we call age, and she needs the financial support to still exist — and if she doesn't I have nothing else to look forward to. This is the part people don’t put in patriotic speeches—the part where “family values” are not slogans but unpaid respiratory labor. I’ve bought an RO purifier, which is its own small satire: clean water as a consumer upgrade, like a streaming subscription, while the city outside treats air as an ashtray. The RO sits there, humming softly, a tiny private infrastructure, the domestic equivalent of building your own moon because the sky has been outsourced to incompetence. Just recently many people died in Indore, it happened somewhere else, elsewhere is a license to be cavalier in India, so I hide my life behind a RO. 
+
+<Yt src="https://youtu.be/5pagAmRUo_g?si=dfiKJNomhTmTVwrS" />
 
 Sometimes I wonder if this is what modern citizenship is: you pay for your own micro-safety while the macro-system rots, and then you’re told you’re ungrateful for noticing. The post-leftist in me is tired of slogans; the rationalist in me is tired of magical thinking; the *bhadralok* in me—God help me—still wants to believe that education should produce a gentler society rather than a better-armed one. But education here is often ornamental, a certificate nailed to the wall like a dead butterfly, while the real social currency is volume: volume of voice, volume of faith, volume of certainty, volume of music. The subwoofer becomes a political model.
 
