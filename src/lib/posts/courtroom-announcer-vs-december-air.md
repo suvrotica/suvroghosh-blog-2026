@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi
  src="IMG-20251209-WA0001.jpg"
- caption="It happens while I’m on the toilet" 
+ caption="I bend down and inspect the melodramatic turds I have shit and inhale the incense of madness like a madman" 
  />
 
 It happens while I’m on the toilet, because of course it does, because my life has a gift for staging its little tragedies with my pants around my ankles, knees wide like a surrender flag, the winter air leaking through the bathroom window smelling of diesel and damp concrete and that particular Kolkata December perfume—smoke, dust, old marigolds, someone burning garbage like a devotional offering to the god of “not my problem”—and my phone is warm and greasy in my hand, and my body is doing its slow, humiliating work with the enthusiasm of a government clerk: stamp, sigh, push, postpone.
@@ -60,7 +60,7 @@ That fear has history. Not colonial history in the grand museum sense, but the s
 
 And so I keep typing in my head. I imagine writing: “Yes, December air is toxic, but noise is also pollution—sleep deprivation is real—stress hormones—cardiovascular risk—” and my inner Announcer nods, pleased, because he loves citations, he loves the fantasy of being unarguably correct, he loves the idea that logic will win. He is like those men who think women can be convinced into desire with a well-structured argument. He has never met a human nervous system, despite living inside one.
 
-Meanwhile my body is still here. My stomach gurgles. A fart escapes—small, sad, like a footnote. The bathroom fan rattles. I scratch my groin like a miserable ape. I remember, with the kind of intrusive cruelty my memory specializes in, an old crush from years ago—her smell, her indifferent kindness, the way my desire sat in my chest like a trapped animal—and I feel the familiar sting: I couldn’t close that deal, couldn’t be that man, couldn’t be normal, and so I became this: a middle-aged Bengali brain in a cramped flat, arguing with strangers while my erection fails like a power cut.
+Meanwhile my body is still here. My stomach gurgles. A fart escapes—small, sad, like a footnote. I scratch my groin like a miserable ape. I remember, with the kind of intrusive cruelty my memory specializes in, an old crush from years ago—her smell, her indifferent kindness, the way my desire sat in my chest like a trapped animal—and I feel the familiar sting: I couldn’t close that deal, couldn’t be that man, couldn’t be normal, and so I became this: a middle-aged Bengali brain in a cramped flat, arguing with strangers while my erection fails like a power cut.
 
 The Courtroom Announcer tries to rescue my dignity with scripture, because nothing says “rationalist” like using the Gita as a meme when you’re desperate. “कर्मण्येवाधिकारस्ते,” he whispers—only your right is to action—like it’s a motivational poster, like it’s not being used right now to justify me typing paragraphs into the void while my ass goes numb on a toilet seat.
 
@@ -74,7 +74,7 @@ And every “maybe” costs me. It costs mood, quietly. Rumination is not dramat
 
 So I do the only dignified thing available, which is not grand and not inspiring and not clean. I close the tab.
 
-Not with a flourish. Not with enlightenment. Just a dry little swipe, like brushing away a fly. The Courtroom Announcer sputters—objection!—but I ignore him the way you ignore a neighbor’s TV when you finally accept you can’t fight every noise. I stand up, my knees creak, my underwear clings with sweat, my half-erection evaporates into embarrassment, and I do a small physical task that has no audience and no applause: I wash the one plate that’s been sitting in the sink with yesterday’s alur dom crusted on it like a fossil, and I scrub until the grease gives up, and I wipe the counter, and I make a tiny “craft deposit” into the only court that matters—the one where reality keeps its receipts.
+Not with a flourish. Not with enlightenment. Just a dry little swipe, like brushing away a fly. The Courtroom Announcer sputters—objection!—but I ignore him the way you ignore a neighbor’s TV when you finally accept you can’t fight every noise. I stand up, my knees creak, my underwear clings with sweat, my half-erection evaporates into embarrassment, and I do a small physical task that has no audience and no applause: I bend down and inspect the melodramatic turds I have shit and inhale the incense of madness like a madman.
 
 Then I walk past the window, see the December air sitting there like a dirty curtain, hear somebody’s bass thumping through concrete like a heartbeat I didn’t consent to, and I feel, briefly, the old itch to go back and reopen the tab, to argue my way into existence.
 
