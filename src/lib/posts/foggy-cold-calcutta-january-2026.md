@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi
  src="IMG-20251231-WA0000.jpg"
- caption="Fat lady in the calcutta cold enjoying a phallic treat"
+ caption="a colorfully attired fat lady enjoys a phallic treat"
 />
 
 
@@ -47,7 +47,7 @@ Memory in winter is a bastard. It doesn’t bring you the good scenes; it brings
 
 And yes, I know: I could “exercise,” I could “meditate,” I could “practice gratitude,” I could become one of those tidy self-improvement motherfuckers who treat the body like a startup and the soul like a productivity app. But I am not a project; I am a person, and a person is mostly a bag of contradictions leaking through pores. The city doesn’t help. It encourages the worst in you: impatience, suspicion, laziness, rage. It teaches you to shout because shouting is the only language that cuts through. It teaches you to hoard because scarcity is always one bad week away. It teaches you to lie a little because truth is expensive and honesty doesn’t always get a receipt.
 
-By late morning the fog thins, not because the city has improved, but because the sun has simply bullied it into retreat, and the street reappears like a face you don’t particularly like but have to live with. Vendors set up. Dogs argue. Men in sweaters pose as if winter is an achievement. Somewhere, someone lights incense, and it mixes with exhaust, and for a second the smell is almost tolerable, almost tender, like the city is trying to apologize with a cheap perfume.
+By late morning the fog thins, not because the city has improved, but because the sun has simply bullied it into retreat, and the street reappears like a face you don’t particularly like but have to live with. Vendors set up. Dogs argue. Men in sweaters pose as if winter is an achievement, a colorfully attired fat lady enjoys a phallic treat. Somewhere, someone lights incense, and it mixes with exhaust, and for a second the smell is almost tolerable, almost tender, like the city is trying to apologize with a cheap perfume.
 
 I step out anyway because staying inside makes the body too loud. The cold hits the lungs and they complain. The air tastes of smoke and frying oil and wet concrete. The pavement is damp, and every puddle looks like it contains a small history of neglect. I walk past a tea stall and watch a man blow into his hands, and I think about how humans are the only creatures who can invent satellites and still have to warm their fingers over a cup because the world remains, at its core, indifferent.
 
