@@ -8,6 +8,10 @@ published: true
 color: "blue"
 ---
 
+<Yc />
+
+<Yt src="https://youtu.be/G23Jx0kPCSI?si=X259cGfVQ_AdDg5J" />
+
 <Pi src="IMG-20251013-WA0001(1).jpg" 
   caption ="Madhava" 
   />
