@@ -6,11 +6,8 @@ date: 2026-01-11
 description: "Announcing a new corner of the blog: where tectonics get sexy and YouTube geology videos get dumped without apology."  
 
 category: "videos"
-
-published: true  
-
-color: "blue"  
-
+color: "orange"
+published: true
 ---
 
 <Yc />
