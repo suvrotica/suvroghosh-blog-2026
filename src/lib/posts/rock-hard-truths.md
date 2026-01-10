@@ -1,13 +1,19 @@
 ---  
 
 title: "Geology Videos"  
+
 thumbnail: "/images/IMG-20251023-WA0006(1).jpg"  
+
 date: 2026-01-11  
-description: "Announcing a new corner of the blog: where tectonics get sexy and YouTube geology videos get dumped without apology."  
+
+description: "YouTube geology videos get dumped without apology"  
 
 category: "videos"
+
 color: "orange"
+
 published: true
+
 ---
 
 <Yc />
