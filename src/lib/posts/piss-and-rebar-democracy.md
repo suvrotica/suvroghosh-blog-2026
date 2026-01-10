@@ -1,0 +1,46 @@
+---
+title: "piss and rebar democracy"
+thumbnail: "/images/IMG-20251020-WA0068(1).jpg"
+date: 2026-01-11
+description: "A filthy, muttering crawl through collapsing systems, bodily failures, overconfident myths, and the soft science of why nothing lasts long enough to rot properly."
+category: 'personal'
+published: true
+color: "orange"
+---
+
+
+<Pi src="IMG-20251020-WA0068(1).jpg" caption="rust, piss, optimism" />
+
+
+
+The smell hits first, always, a hot metallic piss tang with a note of wet cement and fried oil and something dead-but-not-committed-to-being-dead, the way a public stairwell smells at dawn when the city hasn’t decided yet whether it’s going to wake up or just lie there twitching, and I’m standing ankle-deep in a puddle that is neither rain nor sewage but some cuntish third thing invented by committee, watching a rebar skeleton poke through flaking concrete like bones through the ass of a starving cow, and my bladder does that traitorous clench where it wants to join the puddle out of solidarity, a worker’s strike in my own pelvis, because this is what solidarity looks like here: everyone leaks.
+
+There’s a building—no, a promise of a building—leaning slightly like it heard a joke years ago and never recovered, wrapped in green netting that pretends to be safety the way prayer pretends to be engineering, and someone once cut a ribbon here, I swear to god they did, some motherfucker in a crisp shirt with a borrowed smile and a microphone that smelled like spit and disinfectant, and now the ribbon is gone but the spit remains, fossilized in spirit, and the concrete is already shedding its skin like a reptile with a thyroid problem.
+
+I think about load-bearing capacity while holding in a fart, which feels right, because both are exercises in faith, and the fart wins, a small wet betrayal, because of course it does, and the building loses, because of course it does, and somewhere in the middle there’s a pamphlet explaining why none of this is anyone’s fault except time, weather, and vague enemies who live far away and are very jealous of our potential, which is a word we use the way drunks use tomorrow.
+
+You can build a bridge out of math, that’s the thing they don’t tell you loudly enough, actual equations that don’t give a shit about elections or slogans or whether your uncle got the contract because he knows a guy who knows a guy who once shared a bidi with a minister’s cousin’s driver, and the equations will hold if you feed them honestly, if you give them good steel and patience and testing and a willingness to fail in small humiliating ways before the big humiliating collapse, but we skip the small humiliations because they’re boring and unphotogenic, and we go straight for the big ribbon and the bigger hoarding with a smiling family that does not live here and will never cross this bridge except in Photoshop.
+
+I learned once—no, overheard, learned implies effort—that concrete cures slowly, that it is not dry when it looks dry, that water is not the enemy but the midwife, and I remember this while watching a contractor hose down a slab like he’s baptizing a reluctant baby, too fast, too much, because the schedule says today is curing day and tomorrow is inauguration day and the day after that is denial day, and I want to explain hydration curves and capillary action and microcracks but my mouth is busy tasting last night’s cheap liquor and the ghost of a cigarette I didn’t smoke but wanted to, and anyway nobody wants to hear about capillaries unless they’re bursting in someone else’s brain.
+
+Colonial engineers wrote manuals, thick boring manuals full of tables and cautions and footnotes, and yes they were bastards and thieves and racists and the whole fucking parade, but they were meticulous bastards, and they built drains that still work because water does not respect your feelings, and somewhere along the line we kept the arrogance and lost the manuals, which is an impressive trick, like keeping the erection and losing the dick, and now we build drains that slope the wrong way because slope is a suggestion, and then we blame the monsoon like it’s a bad tenant who refuses to leave.
+
+There is a particular confidence that comes from never having to fix what you broke, a confidence that swells like a hemorrhoid and hurts when you sit on it but you sit anyway because standing would require admitting you have a problem, and that confidence is everywhere, strutting in steel-toed boots over blueprints no one read, talking about scale and vision while the screws are counterfeit and the sand has more clay than a kindergarten art class, and the language gets weird, words like “world-class” and “global” and “next-generation” flung around like condoms at a fertility rally, because saying the word is cheaper than doing the thing.
+
+I piss behind a half-finished wall because there is no finished wall anywhere nearby, and the piss arcs beautifully, physics still works, thank god, gravity still pulls, parabolic and honest, and it splashes onto a base that was supposed to anchor something permanent, and I think about entropy not as a cosmic abstraction but as a local sport, a neighborhood hobby, something you can watch with a cup of tea while your building sheds another tile like dandruff, and entropy wins not because it’s clever but because it shows up every day, which is more than can be said for maintenance.
+
+Maintenance is the least sexy word in any language, it doesn’t get you laid, it doesn’t get you elected, it doesn’t get you a plaque, and it smells like grease and sweat and the humility of checking your own work, and so we avoid it, we fetishize creation and ignore custody, and then we act surprised when the baby grows up feral and bites us, and the metaphors pile up like illegal floors on an illegal building, each one worse than the last, but still cheaper than admitting we needed to spend money on boring people with clipboards.
+
+There’s a science to failure too, a taxonomy of fuckups, and we specialize in the early bloomers, the ones that look impressive right before they rot, like fruit sprayed with shine and poison, and you can chart it: underestimate complexity, overestimate control, confuse velocity with direction, declare victory while the concrete is still warm, and then institutionalize forgetting so no one remembers the last time this exact cuntish sequence happened, which was, let me check my watch, five minutes ago.
+
+I get horny at the wrong times, like now, because the body is an idiot savant that associates danger with blood flow, and there’s a billboard of a smiling couple promising luxury living above a site where a man is shitting into a plastic bag because the toilet block was inaugurated but never plumbed, and my body thinks this is erotic because it is stupid and alive, and I have to tuck the thought away like a bribe in a file, because public transport does not forgive.
+
+Politics leaks into the cracks the way piss leaks into stairwells, not as ideology but as scheduling, the tyranny of the next date circled in red, and you can feel it in the materials, the way corners are cut with a knife that’s already dull, the way audits happen after the fact like autopsies that declare the patient died of being poor, and somewhere a committee will conclude that lessons were learned, which is a phrase that means nothing was learned and everyone got paid.
+
+I once watched a fly land on wet cement and struggle, a tiny tragedy, its legs stuck, its wings buzzing uselessly, and for a moment I felt kinship, which is not flattering to either of us, and then someone stepped on it, mercy or negligence, hard to tell, and the cement kept curing, indifferent, because materials don’t care about metaphors, only ratios, and that fly is now part of the structure, load-bearing in a way no one planned.
+
+The city hums, a constant electrical fart, and my stomach answers back, and I think about how systems fail not with a bang but with a shrug, with everyone assuming someone else checked the bolts, and how that shrug becomes culture, becomes a way of standing, a slouch that looks like confidence if you squint, and how exhausting it is to hold yourself upright when everything around you is leaning on you like a drunk friend who promises he’s fine.
+
+By the time I leave, my shoes are sticky with someone else’s history, my bladder is empty, my head is full, and the building is still not a building, just a rumor held together with hope and rust and the certainty that no one will be punished because punishment requires clarity and clarity requires looking, and looking requires time, and time is expensive.
+
+On the bus home, packed tight, I realize I’ve misjudged my body again, a small swelling of blood where it shouldn’t be, reacting to nothing in particular, and I angle my bag like a shield, pressed against strangers who smell like sweat and resignation, and through the window I see another skeleton rising, wrapped in green netting, already flaking, already leaning, already smiling for a camera that hasn’t arrived yet, and I think, not for the first time, that this whole place is held together by piss, rebar, and the unkillable belief that tomorrow will be different, which is funny, because tomorrow is already cracking.
