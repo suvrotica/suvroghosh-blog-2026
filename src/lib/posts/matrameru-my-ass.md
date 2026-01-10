@@ -8,6 +8,10 @@ published: true
 color: "blue"
 ---
 
+<Yc />
+
+<Yt src ="https://youtu.be/gTQeVlDsAi0?si=NrbAN2C7lTyJaUmW" />
+
 <Pi
   src="IMG-20251109-WA0003(1).jpg"
   caption="Even my shits follow a syllabic rhythm—Laghu, Guru, Laghu, Guru, splat."
