@@ -32,7 +32,7 @@ Meanwhile, society thunders outside. Men with chest hair and confidence. Women w
 
 I’ve had gas since 4:15 a.m. It’s now 9. Still going strong. The air smells faintly of boiled eggs and betrayal. I haven’t left the house in four days. I haven't spoken to a woman in three months unless you count customer service. I do not shave. I do not shine. I do not give a flying fuck. I am the last man on Earth who remembers the internet before porn tubes. I am the ghost of dial-up erections.
 
-My doctor—who once touched my scrotum with a pencil and said “hmm”—told me I could get a circumcision, but I’d have to stop smoking and lose weight first. I told him I’d rather die snouted than live jogged. He laughed. I didn’t.
+My doctor—who once touched my scrotum with a pencil and said “hmm”—told me I could get a circumcision, but I’d have to lose weight first. I told him I’d rather die snouted than live jogged. He laughed. I didn’t.
 
 And so I remain. A winged, wrinkled, swollen little man, drawing his own dick because no one else will. There is no metaphor here. Or maybe there is, and it’s just too ashamed to show itself.
 
