@@ -25,7 +25,7 @@ You don’t have to be circumcised to feel castrated, just raised under the slow
 
 Jesus Christ.
 
-Even the word sounded like crime: MASTURBATION. The “bast” like BASTARD, the “tion” like CONDEMNATION—as if what you were doing in the dark with your Vaseline wasn’t relieving pressure but committing an act of spiritual genocide. And for what? A sticky belly and shame hiccups?
+Even the word sounded like crime: MASTURBATION. The “mast” like BASTARD, the “tion” like CONDEMNATION—as if what you were doing in the dark with your Vaseline wasn’t relieving pressure but committing an act of spiritual genocide. And for what? A sticky belly and shame hiccups?
 
 Let’s be fucking clear here—this guilt isn’t Vedic. Krishna had threesomes in the bushes and Shiva fucked corpses into transcendence. No, this—this rotten little voice whispering “you’re dirty, you’re sinful, that’s your grandmother’s photo on the wall”—that came later.
 
@@ -57,6 +57,8 @@ And don’t get me started on how Christian girls became the gold standard of er
 
 Science break: the average male produces 1,500 sperm a second. That’s 129 million deaths per orgasm. If guilt had a math, I’d be the motherfucking Pol Pot of pleasure.
 
+<Pi src="IMG-20260105-WA0006.jpg" />
+
 And I know. I *know* this shit isn’t exclusive to me. There are entire generations of desi boys who’ve spent their puberty in bathroom stalls with one hand on their dick and the other on a guilt-laced script written by colonial pricks who couldn’t get it up without punishing someone else.
 
 It’s not just repression.
@@ -69,7 +71,7 @@ Once I came to a photo of a woman in a saree ad cut from the Telegraph, and imme
 
 She was holding a fucking mango.
 
-I don’t even like mangoes.
+I don’t even like that genre of mangoe cunts.
 
 And that, my friend, is the genius of the Christian cunt legacy—they didn’t just demonize sex. They rewrote the neurons.
 
