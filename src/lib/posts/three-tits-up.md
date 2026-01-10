@@ -12,7 +12,7 @@ category: 'personal'
 
 published: true  
 
-color: "red"  
+color: "black" 
 
 ---
 
