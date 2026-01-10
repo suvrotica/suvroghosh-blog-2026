@@ -55,7 +55,7 @@ So now we jerk off with guilt and pray with porn and call that *progress.*
 
 And don’t get me started on how Christian girls became the gold standard of erotic shame for brown boys like me—as if fucking a white girl was redemption and jerking off to one was atonement but doing either still meant you had somehow let down your culture, your parents, your caste, and Jesus all in one lotion-slick thrust.
 
-Science break: the average male produces 1,500 sperm a second. That’s 129 million deaths per orgasm. If guilt had a math, I’d be the motherfucking Pol Pot of pleasure.
+Science break: the average male produces 1,500 sperm a second. That’s 129 million deaths per orgasm. If guilt had a math, I’d be the motherfucking Pol Pot of pleasure. But I need to jerk off before I sleep or otherwise I cum asleep, which is a real waste multidimensionally. 
 
 <Pi src="IMG-20260105-WA0006.jpg" />
 
