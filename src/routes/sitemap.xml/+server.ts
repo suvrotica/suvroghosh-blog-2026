@@ -1,3 +1,4 @@
+// File: src/routes/sitemap.xml/+server.ts
 import { siteUrl } from '$lib/components/seo/SEO';
 
 export const prerender = true;
@@ -9,11 +10,18 @@ export async function GET() {
     const posts = Object.entries(modules).map(([path, file]: any) => {
 		const slug = path.split('/').pop()?.slice(0, -3).toLowerCase();
         const metadata = file.metadata;
+
+        // CRITICAL FIX: Skip files without metadata or category to prevent build crash
+        if (!metadata || !metadata.category || metadata.published === false) {
+            return null;
+        }
+
 		return {
 			url: `${siteUrl}/blog/${metadata.category.toLowerCase()}/${slug}`,
 			lastMod: metadata.date ? new Date(metadata.date).toISOString() : new Date().toISOString()
 		};
-	});
+	})
+    .filter((post) => post !== null); // Filter out the nulls from above
 
     // 2. Define static pages
     const pages = [
@@ -40,8 +48,8 @@ export async function GET() {
         `).join('')}
         ${posts.map(post => `
             <url>
-                <loc>${post.url}</loc>
-                <lastmod>${post.lastMod}</lastmod>
+                <loc>${post?.url}</loc>
+                <lastmod>${post?.lastMod}</lastmod>
                 <changefreq>monthly</changefreq>
                 <priority>0.7</priority>
             </url>
@@ -54,4 +62,4 @@ export async function GET() {
             'Cache-Control': 'max-age=0, s-maxage=3600'
 		}
 	});
-}
+		 } 
