@@ -1,11 +1,19 @@
 ---  
+
 title: "Three Tits Up"  
+
 thumbnail: "/images/IMG-20251023-WA0006(1).jpg"  
+
 date: 2026-01-11  
+
 description: "The decayed stink of failed empires, political prolapse, climate nihilism, and a deeply constipated Bengali atheist waiting for death and/or hell."  
+
 category: 'personal'  
+
 published: true  
+
 color: "red"  
+
 ---
 
 <Pi src="IMG-20251023-WA0006(1).jpg" />
