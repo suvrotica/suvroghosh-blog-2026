@@ -3,9 +3,9 @@ title: "Zero to Fuck-All"
 thumbnail: "/images/IMG-20251017-WA0005(1).jpg"
 date: 2026-01-11
 description: "A foul-mouthed, pissed-off rant about how India gave the world zero and the decimal system—and then went on to invent absolutely fuck-all after that, except maybe WhatsApp family groups and edible food coloring with lead in it. A bodily, bile-laced tour through invention, disillusionment, and the stink of cultural delusion."
-category: 'personal'
+category: 'math'
 published: true
-color: "red"
+color: "blue"
 ---
 
 <Pi src="IMG-20251017-WA0005(1).jpg" caption="Zero to Fuck-All, with proud decimal placement." />
