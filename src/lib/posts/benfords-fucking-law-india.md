@@ -59,8 +59,6 @@ I once had a friend—statistician, paranoid, probably correct—who said if you
 
 Anyway.
 
-I’m off to file my taxes, which is basically me guessing how much extortion will keep them from calling again. I’ll round it off to the nearest lakh. Just like they taught me.
-
 Benford would be proud.
 
 No—Benford would be *fucking furious*. But what does it matter?
