@@ -9,7 +9,11 @@ color: "green"
 ---
 
 <Pi src="IMG-20251129-WA0003.jpg" />
+<script>
+    import BenfordVisualizer from '$lib/components/viz/BenfordVisualizer.svelte';
+</script>
 
+<BenfordVisualizer />
 
 The smell, right, let’s start with the smell—because it *always* fucking starts with the smell in this country, doesn’t it?—like someone boiled a thousand election affidavits in cow piss, threw in some rotting sarson ka saag, stirred with a broom previously used to beat a Dalit voter unconscious, and let it ferment in a cracked municipal drain for three Lok Sabha terms. That’s the stench that hit me as I opened the morning paper—no, not *read* it, I mean physically opened the thing, because it was still wet with printing ink and statistical diarrhea—and the top headline, in its usual syphilitic optimism, screamed “INDIA FASTEST GROWING ECONOMY IN THE WORLD.” In font size so large it looked like the number of unemployed graduates in Bihar.
 
