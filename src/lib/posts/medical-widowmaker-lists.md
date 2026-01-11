@@ -19,20 +19,14 @@ First page—lists.
 Second page—lists.
 Every page after that—fucking lists.
 
-Not poems. Not dreams. Not a single “Dear diary, today I felt young again” or even “the nurse had nice ankles.”
 Just names.
 Doctor names.
 Specialties.
 Chamber addresses.
 Timings that were theoretical, aspirational, almost literary.
 Phone numbers scratched out and rewritten like regret.
-Blood pressure readings like falling share prices.
-“Doxy 200 morning—PPI—NO MILK.”
-Underline.
-Circle.
-Two exclamation marks like the pills would grow legs and chase him if he forgot.
 
-He had—Jesus fuck—built his own electronic health record with a ballpoint pen on ruled paper. A tragic, coffee‑stained, tear‑salted EHR, a shrine to compliance. He believed in medicine the way accountants believe in ledgers. Because in his mind, and in the minds of every educated, colonially trimmed, exam‑passing middle‑class Indian bastard of his generation, *doctor = God*.
+Because in his mind, and in the minds of every educated, colonially trimmed, exam‑passing middle‑class Indian bastard of his and all generation after in India, *doctor = God*.
 
 Except this God doesn’t wash his hands after fingering your lungs.
 
@@ -84,6 +78,6 @@ I keep the diary in a box now. Not for memories. For the lists. Because one day,
 
 That’s as good as it gets.
 
-Today I woke up with acid in my throat and three missed calls from my mother asking if I’ve booked my colonoscopy yet. I told her soon. Then I farted, checked the PM2.5—221—and thought how the air is still safer for bacteria than it is for me.
+Today I woke up with acid in my throat. Then I farted, checked the PM2.5—221—and thought how the air is still safer for bacteria than it is for me.
 
 
