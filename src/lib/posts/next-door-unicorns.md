@@ -1,11 +1,11 @@
----  
-title: "Next-Door Unicorns"  
-thumbnail: "/images/IMG-20251030-WA0003(1).jpg"  
-date: 2026-01-12  
-description: "Everyone in Indian startups is either a deluded messiah or a broke-ass conman in a Sealdah dorm room wearing a LinkedIn mask. I should know. I died with my own fake-ass startup in 2016."  
-category: 'personal'  
-published: true  
-color: "orange"  
+---
+title: "Next-Door Unicorns"
+thumbnail: "/images/next-door-unicorns.jpg"
+date: "2026-01-12"
+description: "The Indian startup ecosystem is a steaming swamp of fake bios, performative disruption, and cargo cult capitalism. I once built something real in the middle of it. It died."
+category: "personal"
+published: true
+color: "orange"
 ---
 
 <Pi src="IMG-20251030-WA0003(1).jpg" />  
