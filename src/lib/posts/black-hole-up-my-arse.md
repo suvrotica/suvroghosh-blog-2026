@@ -18,13 +18,11 @@ And I don’t mean one of those slippery, banana-peel soft-dumps that slither ou
 
 This is not a metaphor.
 
-I mean a literal rogue black hole, those ungravitationally leashed motherfuckers that got booted from their original galaxy like a drunk uncle at a wedding and now just **wander**, **drift**, **slurp**, **consume** like a cocksucker with no gag reflex and a fetish for planets. No spin. No warning. No cosmic courtesy tap.
+I mean a literal rogue black hole, those ungravitationally leashed motherfuckers that got booted from their original galaxy like a drunk twat at a wedding and now just **wander**, **drift**, **slurp**, **consume** like a cocksucker with no gag reflex and a fetish for planets. No spin. No warning. No cosmic courtesy tap.
 
 We could die tonight and not even know it.
 
 And I’d die on the shitter, pants around ankles, still trying to pinch off a reluctant turd that’s now fossilizing inside my traitor colon, while a silent sphere of infinite gravity and zero fucks **unzips reality like a prolapsed anus in reverse**.
-
-That’s the SEED. That’s the MOOD.
 
 Let me tell you something about wandering black holes. First: they exist. Second: they are **undetectable unless they’re feeding**. And third: *statistically*, one of them should've passed within 100 light-years of us by now. Maybe it already did. Maybe it *is*. Maybe that's why I can't get an erection without a Ted Chiang story playing in the background and a third-world oil massage.
 
@@ -32,7 +30,7 @@ You think I’m exaggerating?
 
 Of course you do, because you're a fucking optimist. Because your body doesn't hurt yet. Or if it does, you’re still stupid enough to think you can *fix* it—yoga, turmeric, kombucha, vitamin D enemas, whatever shiny rectal placebo you rub on your mortality.
 
-Me, I’ve got sciatica, cracked heel, bile reflux, and the faint lingering suspicion that my left kidney's playing *fuck-you* jazz solos when I sleep. Every morning is a fresh audition for the role of "Coughing Civil Servant About to Die of Minor Infection."
+Me, I’ve got sciatica, cracked heel, bile reflux, and the faint lingering suspicion that my left kidney's playing *fuck-you* jazz solos when I sleep. Every morning is a fresh audition for the role of "Coughing Fuck About to Die of Minor Infection."
 
 We’ll get back to the black holes, I promise, but first—since I brought it up—**have you ever noticed how utterly useless the human body is** in the face of cosmic risk?
 
@@ -40,7 +38,7 @@ I mean, let’s say some snub-nosed, non-accreting stellar-mass black hole just 
 
 And meanwhile your phone would still be auto-updating.
 
-I read somewhere—we don’t know how many rogue black holes are out there because most of them don’t eat. They're celibate. They're Jim Nortons. And the only way we spot them is by watching stars *lensing*—warping light as they pass behind a gravitational field. Some tiny tug on a pixel. Blink, and your star does a little jiggle. That’s it. That’s the sign. That’s the **death knell**.
+I read somewhere—we don’t know how many rogue black holes are out there because most of them don’t eat. They're celibate. And the only way we spot them is by watching stars *lensing*—warping light as they pass behind a gravitational field. Some tiny tug on a pixel. Blink, and your star does a little jiggle. That’s it. That’s the sign. That’s the **death knell**.
 
 A shimmer.
 
@@ -76,9 +74,9 @@ Not stardust.
 
 I wiped with two-ply that felt like 19th-century colonial parchment, probably bleached with some carcinogenic chemical banned in Europe, probably made by a child working in a factory near a dried-up lake. My left hand was trembling—might be Parkinson’s, might just be guilt.
 
-Went to the kitchen, made tea. Milk gone bad. Fuck it. Drank it anyway. I mean what’s the worst that could happen, I already lived through a state-owned high school and a Hindu nationalist recession.
+Went to the kitchen, made tea. Milk gone bad. Fuck it. Drank it anyway. I mean what’s the worst that could happen, I already lived through enough.
 
-Still tasted better than the air in New Town.
+Still tasted better than the air in my room today.
 
 And now I’m sitting here, typing with a hunchback spine and an oily keyboard that smells faintly of sambar and despair, wondering—not if—but **when**. Because it's not *if*.
 
