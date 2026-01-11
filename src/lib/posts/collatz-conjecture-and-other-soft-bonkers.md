@@ -8,6 +8,10 @@ published: true
 color: "green"
 ---
 
+<Yc />
+
+<Yt src="https://youtu.be/094y1Z2wpJg?si=25iNeZzMirA1ylm-" />
+
 <Pi src="IMG-20251013-WA0005(1).jpg" />
 
 
