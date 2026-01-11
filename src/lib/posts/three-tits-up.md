@@ -8,7 +8,7 @@ published: true
 color: "black"
 ---
 
-(Start writing your content here...)
+
 
 <Pi 
   src="IMG-20251015-WA0007(1).jpg" 
