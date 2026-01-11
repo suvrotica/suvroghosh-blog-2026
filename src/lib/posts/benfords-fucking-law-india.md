@@ -8,10 +8,11 @@ published: true
 color: "green"
 ---
 
-<Pi src="IMG-20251129-WA0003.jpg" />
 <script>
     import BenfordVisualizer from '$lib/components/viz/BenfordVisualizer.svelte';
 </script>
+
+<Pi src="IMG-20251129-WA0003.jpg" />
 
 <BenfordVisualizer />
 
