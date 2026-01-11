@@ -1,6 +1,6 @@
 ---
 title: "Next-Door Unicorns"
-thumbnail: "/images/next-door-unicorns.jpg"
+thumbnail: "/images/IMG-20251030-WA0003(1).jpg"
 date: "2026-01-12"
 description: "The Indian startup ecosystem is a steaming swamp of fake bios, performative disruption, and cargo cult capitalism. I once built something real in the middle of it. It died."
 category: "personal"
