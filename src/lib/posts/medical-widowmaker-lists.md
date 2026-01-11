@@ -1,6 +1,6 @@
 ---
 title: "Medical Widowmaker Lists"
-thumbnail: "/images/IMG-20251018-WA0017(1).jpg"
+thumbnail: "/images/medical-widowmaker-lists"
 date: 2026-01-12
 description: "A foulmouthed, digressive rant about a dead father, lists of doctors, and the grotesque medical indifference of a system that milks your dying breath like it’s sucking marrow through a straw."
 category: 'personal'
@@ -8,8 +8,7 @@ published: true
 color: "orange"
 ---
 
-
-<Pi slug="IMG-20251018-WA0017(1).jpg" />
+<Pi src="IMG-20251018-WA0017(1).jpg" />
 
 
 
