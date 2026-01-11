@@ -12,7 +12,7 @@ color: "orange"
 
 <Yc />
 
-<Yt src="https://youtu.be/ETrYE4MdoLQ?si=FOaCJn1QtO7w7cND" />
+<Yt src="https://youtu.be/ovJcsL7vyrk?si=CqfhnXFKD0Xf7z_A" />
 
 <Pi src="IMG-20251023-WA0012(1).jpg" />
 
