@@ -14,7 +14,7 @@ color: "green"
 
 <Pi src="IMG-20251129-WA0003.jpg" />
 
-<BenfordVisualizer />
+
 
 The smell, right, let’s start with the smell—because it *always* fucking starts with the smell in this country, doesn’t it?—like someone boiled a thousand election affidavits in cow piss, threw in some rotting sarson ka saag, stirred with a broom previously used to beat a Dalit voter unconscious, and let it ferment in a cracked municipal drain for three Lok Sabha terms. That’s the stench that hit me as I opened the morning paper—no, not *read* it, I mean physically opened the thing, because it was still wet with printing ink and statistical diarrhea—and the top headline, in its usual syphilitic optimism, screamed “INDIA FASTEST GROWING ECONOMY IN THE WORLD.” In font size so large it looked like the number of unemployed graduates in Bihar.
 
@@ -70,3 +70,6 @@ No—Benford would be *fucking furious*. But what does it matter?
 
 The last honest digit in India died in a ration queue in 2016.
 
+<BenfordVisualizer />
+
+And here's the bit that really puts chilli powder on the chapped asshole of this whole spectacle: if you ask a fucking computer as above, to generate numbers—just blindly, randomly, like a digital toddler flinging digits out its silicon asshole—they still follow Benford’s Law. Why? Because even so-called pseudorandomness isn’t truly random, it’s math underneath, beautiful cruel math—multiplicative cascades and modular congruences and other such abstract foreplay—which means it accidentally stumbles into the same curved frequency distribution that nature, markets, populations, and entropy follow. The math doesn’t cheat. The math is dumb but honest. It doesn’t care about elections or headline GDP or some sweaty babu’s appraisal. Meanwhile, our government’s idea of randomness is “how many toilets should we say we built this week?” followed by an office boy spinning a fucking chakra wheel labeled 1000, 2000, 5000, and Jai Hind.
