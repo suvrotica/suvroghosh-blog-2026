@@ -10,6 +10,10 @@ color: "orange"
 
 ---
 
+<Yc />
+
+<Yt src="https://youtu.be/ETrYE4MdoLQ?si=FOaCJn1QtO7w7cND" />
+
 <Pi src="IMG-20251023-WA0012(1).jpg" />
 
 
