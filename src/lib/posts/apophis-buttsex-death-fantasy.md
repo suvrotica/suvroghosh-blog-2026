@@ -12,7 +12,7 @@ color: "orange"
 
 
 
-I was on the commode, shirtless, of course, and sweating from the nape like a goat in a pressure cooker, knees sharp as two guilted elbows folded upward and the bastard of a fan clicking like a Stalinist typewriter above me, when I heard it again—Apophis.
+I was on the commode, shirtless, of course, and sweating from the nape like a goat in a pressure cooker, knees sharp as two guilted elbows folded upward and the bastard of a winter wind knocking on the broken glass in the bathroom's exhaust hole like a Stalinist typewriter above me, when I heard it again—Apophis.
 
 Not the snake, not the myth, not the Egyptian chaos-god bullshit—but the asteroid, the fucking literal space-rock gunning for us in 2029 like some cold, jagged celestial hemorrhoid traveling at Mach Jesus with the sole aim of turning Earth into a glazed ceramic toilet bowl of sizzling crust and screams. And I thought, mid-shit, gripping the mop handle like it was the severed arm of Jesus, wouldn’t it be funny—I mean wouldn’t it be just hysterically tragicomic in the Charlie Hebdo jerking-off-in-a-bomb-shelter kind of way—if this, this was it.
 
