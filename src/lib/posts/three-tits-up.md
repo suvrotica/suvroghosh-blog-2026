@@ -1,9 +1,8 @@
-
 ---  
 
 title: "Three Tits Up"  
 
-thumbnail: "/images/IMG-20251023-WA0006(1).jpg"  
+thumbnail: "/images/IMG-20251015-WA0007(1).jpg"  
 
 date: 2026-01-11  
 
@@ -17,7 +16,9 @@ color: "black"
 
 ---
 
-<Pi src="IMG-20251023-WA0006(1).jpg" />
+<Pi 
+  src="IMG-20251015-WA0007(1).jpg" 
+  />
 
 
 
