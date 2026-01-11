@@ -83,3 +83,24 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 /* Post Image Layouts */
 .post-image.inline-left { @apply float-left mr-6 mb-4 max-w-[50%] clear-left; }
 .post-image.inline-right { @apply float-right ml-6 mb-4 max-w-[50%] clear-right; }
+
+/* src/app.css */
+@layer components {
+    .benford-grid-container {
+        @apply grid gap-1 items-center justify-center h-full w-full overflow-hidden p-2;
+        @apply bg-neutral-50 dark:bg-neutral-950 border border-neutral-200 dark:border-neutral-800 rounded-xl shadow-inner;
+    }
+
+    .benford-cell {
+        @apply flex items-center justify-center h-8 text-[10px] font-mono border border-neutral-200/50 
+               dark:border-neutral-800/50 rounded bg-white dark:bg-neutral-900 shadow-sm truncate px-1 transition-colors;
+    }
+
+    .chart-bar-actual {
+        @apply w-full bg-neutral-900 dark:bg-neutral-100 rounded-t-xs transition-all duration-500 ease-in-out relative;
+    }
+
+    .chart-marker-expected {
+        @apply absolute w-full border-t-2 border-amber-500/60 z-10 pointer-events-none;
+    }
+}
