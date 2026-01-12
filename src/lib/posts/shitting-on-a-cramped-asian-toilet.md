@@ -77,6 +77,3 @@ And then the power went out.
 And I got an erection.
 
 Don’t ask why.
-
-2026-01-13
-```
