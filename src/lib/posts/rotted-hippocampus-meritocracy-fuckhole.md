@@ -62,7 +62,8 @@ Now the only things I fuck are time, memory, and my own expectations.
 
 I don’t even get erections properly anymore.  
 
-They rise, unsure, like a shy protester at a fascist rally, half-hearted, then collapse when the room gets too cold.
+They rise, unsure, like a shy protester at a fascist rally, half-hearted, then collapse when the room gets too cold. Childhood indoctrinations, those crusty old mindfucks we wear like dead skin we forgot to exfoliate, are hard to peel off at fifty, when your dick needs coaxing and your smile is a memory and your friends are all either therapists or dead or books—and mine, incidentally, are only the books, the rest of you are freeloading festering fraudfuck figments of a fractured fucked-up fantasyland that rewards the flabby, the flattering, the flamboyantly false, the fame-fucked fart-blowers with daddy money and a penchant for LinkedIn self-fellation; and here I am, an adolescent still marooned inside an aging skull lined with anhedonia and dread, cursed with a prism so cracked it sees only rot no matter the light, a bitter blunt Bengali bastard who’s out of both options and serotonin, exhausted by the chronic, insufferable, ever-itchy worries of a collapsing planet run by a parade of gloating gossiping grunting fuckfaces and frauds in high chairs fingering the levers of policy while I sit in my underpants parsing my last neuron’s ability to care.
+ 
 
 
  
