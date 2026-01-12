@@ -22,7 +22,7 @@ My mother said truth mattered. My father, who had enough dogma in his moustache 
 
 They don’t tell you this when they talk about “doing well” and “being the best.” They leave out that the best gets you nowhere when you’re a skinny Bengali boy with peeling lips, a 20-rupee gel pen, and an anxiety disorder that curls around your amygdala like a garter snake sniffing for failure.  
 
-I read Sapolsky. That beardy American cocksucker with the zebra ulcers. He said stress fucks the hippocampus. Makes it shrink. Makes memory leak like a tap in a shitty government bathroom where the plumber is probably dead. I nodded so hard reading that book I gave myself whiplash.  
+I read Sapolsky. That beardy American professor with the zebra ulcers. He said stress fucks the hippocampus. Makes it shrink. Makes memory leak like a tap in a shitty government bathroom where the plumber is probably dead. I nodded so hard reading that book I gave myself whiplash.  
 
 It *is* rotting. I forget words now. Words like… “purpose.” Or “fuckable.” Or “plan.”  
 
@@ -36,9 +36,9 @@ They all moved up. The bootlickers, the smugglers of personality, the loudmouth 
 
 This country rewards artifice like it’s a fucking god. You wear it like a second foreskin—oily, smug, uncut, eternal. You bullshit your way through meetings, code reviews, relationships, marriages, temple bells, PhDs, and when someone like me walks in trying to solve something for real, they ask if I have a LinkedIn Premium subscription.  
 
-Meanwhile, in America, the same Kakistocratic dick buffet is happening with more expensive lawyers and better-looking news anchors. Trump’s out, in, out again—like a bad prostate massage from a senile dominatrix in a MAGA thong.  
+Meanwhile, in America, the same Kakistocratic dick buffet is happening with more expensive lawyers and better-looking news anchors. Trump’s out, in again—like a bad prostate massage from a senile dominatrix in a MAGA thong.  
 
-And here I am. Forty-nine, broke, mad, still jacking off to the memory of a girl who once handed me a stapler in 2002. My blog gets 11 views. Ten of them are bots trying to sell me hair transplant pills and one is me, drunk.  
+And here I am. Fifty, broke, mad. My blog gets 11 views. Ten of them are bots trying to sell me dick pills and one is me, drunk.  
 
 There’s something cruelly funny about the fact that being honest shrinks your hippocampus. Like biology itself is telling you: “Don’t be a dumbass. Learn to lie.” The cortisol eats your neurons like termites with Ivy League degrees.  
 
@@ -62,7 +62,7 @@ Now the only things I fuck are time, memory, and my own expectations.
 
 I don’t even get erections properly anymore.  
 
-They rise, unsure, like a shy protester at a fascist rally, half-hearted, then collapse when the room gets too cold or the gas bill arrives.
+They rise, unsure, like a shy protester at a fascist rally, half-hearted, then collapse when the room gets too cold.
 
 
  
