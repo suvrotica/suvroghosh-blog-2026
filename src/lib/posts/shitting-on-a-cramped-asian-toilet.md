@@ -5,12 +5,10 @@ date: 2026-01-13
 description: "A graphic, foul, funny and depressingly accurate depiction of the absurd daily humiliation of squatting over a filthy pan while the tap runs dry mid-wipe."
 category: 'personal'
 published: true
-color: "orange"
+color: "black"
 ---
 
 <Pi src="IMG-20260113-WA0001.jpg" />
-
-
 
 The first turd hit the ceramic with the suicidal slap of a man leaping off the 4:47 Sealdah local.
 
