@@ -1,7 +1,6 @@
 ---
-title: Shitting on a Cramped Asian Toilet
+title: Calcutta Toilet
 thumbnail: "/images/IMG-20260113-WA0001.jpg"
-date: "2026-01-13"  
 description: "A graphic, foul, funny and depressingly accurate depiction of the absurd daily humiliation of squatting over a filthy pan while the tap runs dry mid-wipe."
 category: 'personal'
 published: true
@@ -42,8 +41,6 @@ You think I’m exaggerating?
 
 Picture this: the mug is there, but there’s no water. The tap gives nothing. The wall has graffiti—some scratched sex hotline, some political slogan now half-washed off by decades of despair—and the only thing even *remotely* absorbent is a torn poster for a tantric baba who guarantees longer erections and visa approval in 30 days.
 
-There is no soap.
-
 There is no dignity.
 
 There is only the reality of your own body’s betrayal. Of the chap from the roadside stall you shouldn’t have eaten. Of the pakoda that tasted just a little *too* tangy. Of the chai with milk that may or may not have been boiled this century. And all of it has now conspired into a digestive protest rally marching out of your rectum with slogans and banners and fucking drums.
@@ -76,11 +73,9 @@ Eventually, you shuffle out.
 
 Half-washed. Humiliated. Hollow.
 
-You drop the mug on the floor because, fuck it, let the next poor bastard know the truth. You walk out into the sunlight blinking like a man reborn, but not really. You will carry this scent for hours. You will not talk about it. You will pretend your soul is intact.
+You walk out into the sunlight blinking like a man reborn, but not really. You will carry this scent for hours. You will not talk about it. You will pretend your soul is intact.
 
 You will go to work.
-
-And the dried stain on your heel will remind you: this is your country.
 
 And yes, the erection came later.
 
