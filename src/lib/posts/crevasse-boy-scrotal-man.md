@@ -14,7 +14,7 @@ color: "orange"
 
 It started with a boil on the inner thigh that refused to burst. Just sat there, a sullen fat cunt of a thing, like an overfed maggot curling under skin, half-pus, half-regret, located inconveniently where my balls meet my loneliness. A humid fucking canyon of grief. I would scratch it at night, through the pantyhole I’d torn open just enough to tickle but not enough to pleasure, because pleasure these days is more hypothetical than Pluto’s planetary status and about as cold.
 
-I learned the word “crevasse” from *Tintin in Tibet*, page seventeen or thereabouts, right after Chang fell and everyone got all melodramatic and European about it. I was nine. I thought it meant snow crack. I didn’t realize it would be the topological summary of my adulthood. Because reader, the real crevasse wasn’t in the fucking Alps—it was the long frozen gorge between who you thought you’d be and the trench-beside-a-sewer you end up squatting in, at 50, adjusting your balls on a plastic stool while your rice overcooks in the electric cooker that clicks in that judgmental "I’m done, you sad bastard" tone.
+I learned the word “crevasse” from *Tintin in Tibet*, page seventeen or thereabouts, right after Chang fell and everyone got all melodramatic and European about it. I was nine. I thought it meant snow crack. I didn’t realize it would be the topological summary of my adulthood. Because reader, the real crevasse wasn’t in the fucking Tibet—it was the long frozen gorge between who you thought you’d be and the trench-beside-a-sewer you end up squatting in, at 50, adjusting your balls on a plastic stool while your rice overcooks in the electric cooker that clicks in that judgmental "I’m done, you sad bastard" tone.
 
 Pollyanna-me had dreams. Pollyanna-me thought girls would like someone who knew words like “crevasse” and “liminal.” Pollyanna-me thought loneliness was a temporary hydrological condition, like a puddle or a flood, not a fucking tectonic plate you spend decades tumbling down while pretending you're climbing.
 
@@ -42,7 +42,7 @@ She said, “You’re catastrophizing.” I said, “You’re billing me ₹1,80
 
 Even my farts sound different now. They used to be confident. Brassy. Jazz-band flatulence. Now they’re whispered and wet, like a defeated MLA’s resignation letter.
 
-There’s a tree outside my shanty—a neem. Half-dead. Bent. Fungal patches where the leaves should be. I relate to it so much I almost asked it to marry me. But she’s taken. By termites. Like all the good ones.
+There’s a tree outside my shanty. Half-dead. Bent. Fungal patches where the leaves should be. I relate to it so much I almost asked it to marry me. But she’s taken. By termites. Like all the good ones.
 
 Sometimes I look up and think, what would it be like to just ascend? To be one of those men who actually climbs the mountain, emotionally or physically, doesn’t matter, the metaphor is flexible like a drunk yoga instructor. But my knees say no. My cholesterol says no. My inertia screams “sit the fuck down you delusional crinkled foreskin of a human.”
 
