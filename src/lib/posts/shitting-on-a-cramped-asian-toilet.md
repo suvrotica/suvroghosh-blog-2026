@@ -10,70 +10,78 @@ color: "black"
 
 <Pi src="IMG-20260113-WA0001.jpg" />
 
-The first turd hit the ceramic with the suicidal slap of a man leaping off the 4:47 Sealdah local.
 
-And before I could even half-breathe through the swampy odor of last night’s reheated alur dom, the fuck-all tap gurgled out one last passive-aggressive *plop*, coughed like a dying tuberculosis patient from the 1920s, and died.
 
-And there I was—naked, hairy, balding, knees jammed into ribcage, spine bent like a goddamn pi-helix, left asscheek hovering dangerously off the squat pan’s greasy lip—trying to negotiate with the universe through clenched glutes and a rusted aluminium mug, which had the volume capacity of a baby’s piss sample and the leaking dignity of an alcoholic uncle trying to piss in a moving bus.
+The shit came out sideways.
 
-Now see, in this country, the *default* state of water infrastructure is not "functioning" or "failing"—it is that middle zone, that tantric limbo where molecules gather and whisper false hope into your blistered bumcrack, just to then remind you—no no, you are not a citizen, you are a test subject in some Kafkaesque experiment involving amoebic dysentery, humidity, and unresolved colonial trauma that’s been festering in the plumbing since Lord fucking Curzon.
+Not metaphorically, not as some sly turn of phrase for moral collapse or the political climate or the nation’s collective constipation—no, I mean it *literally* exited my ass with a velocity and angular deviation that made me think my sphincter had developed its own gravitational field and was now participating in astrophysics without my consent.
 
-Let’s pause.
+This was inside a public toilet in north-central Calcutta, or maybe Dum Dum, or Behala, or Burrabazar, or anywhere else the smell of humanity’s digestive regret hits you like a gut punch from God with IBS. One of those "pay and use" models of hygiene theater where the entry costs 2 rupees and the exit costs your fucking will to live.
 
-Let's zoom in on the mechanism, because oh yes, there *is* science here—foul, fecal, functional science. The squat position, ironically, is superior for rectal evacuation. Anorectal angle straightens. Puborectalis muscle relaxes. Shit slides like Newton intended. Western toilets? They kink your colon like a drunk saxophonist trying to fuck a paper straw. But evolutionary dignity is a small consolation when you're bare-assed in a cemented box smaller than the average coffin and the water supply has just died with all the tragic drama of a Hindi soap opera mother slapping her own forehead at the family funeral.
+The floor was a mosaic of old piss, recent piss, confused spit, and something green that moved when I didn’t look directly at it.
 
-I tried to shuffle my foot.
+And the door didn’t lock.
 
-I slipped.
+And the lightbulb didn’t work.
 
-My heel went straight into my own pre-deposited log—yes, that happened—and now my ankle had become a secondary point of sanitation concern, which added complexity to the already unsolvable logistics of ass-cleaning without water. This is not just bad hygiene. This is a metaphysical reckoning.
+And the fan spun like a dying ceiling angel who hated you.
 
-And the worst part? I had kept the bucket outside. For aesthetics. Because I wanted the bathroom to look “less chawl” when guests came. Oh fuck me with a sanitary pad.
+And the mug had teeth marks.
 
-So I did what any sensible Bengali man with declining testosterone and a chronic distrust of divine intervention does in such moments: I reached for the mug, tilted it to catch the last droplet from the corroded tap, like a drought refugee licking dew off cactus spines, and waited for gravity to hand me a miracle.
+Teeth. Fucking. Marks.
 
-It didn’t.
+And I had to squat like a demented ape being punished for existing, right foot barely resting on the slippery edge of a pan that seemed designed for someone with the body mass of a feral cat and the thigh strength of a gymnast. My knees pressed against my chest. My balls stuck to my thigh. My back ached. My spine whimpered. And then, the pièce de merde—*the tap coughed and died.*
 
-All it gave me was a drip—a single, impotent bead that dangled like a politician’s promise and then fell—not in the mug—but on the floor, creating a sad wet spot that immediately collected a halo of pubic hair, dust, and one anonymous ant struggling through life.
+One last droplet, like a stingy pension from a dead bureaucracy, fell with theatrical delay onto the dry aluminum mug—mocking me, announcing: “This is all you get, bitch.”
 
-And I crouched.
+Why, in the name of Euclid and all that’s geometrically holy, are Indian public toilets designed like punishment cells in a Soviet sex cult? Why the narrow width? Why the crumbling cement alcoves that are too small for even a rat to turn around in, and yet still contain one (who is also shitting, but more gracefully)? Why the slanted floors that guarantee your own shit will chase you like a determined duckling?
 
-And I cursed.
+The science of it makes no sense. See, squat toilets are biomechanically superior—yeah yeah, your anorectal angle opens up, puborectalis relaxes, the poop flows—but what good is that when you’re being dripped on by a ceiling leak that smells like fermented leg sweat, and the water source below your ass has tapped out like a drunk uncle at a wedding?
 
-I cursed every fucking authority from the municipality to the postmaster general to the fucking ghost of Jawaharlal Nehru whose five-year plans apparently didn’t account for my asshole in 2026. I cursed the builder who forgot ventilation, the contractor who tiled the bathroom floor like he was having a seizure, the Edison of the 3-watt bulb above my head that now swung and flickered like a strobe light in a death rave, and I cursed myself, for having eaten with such arrogant abandon last night, knowing damn well that lentils and gut bacteria have the same relationship as Bengal and China: quietly hostile but occasionally explosive.
+You think I’m exaggerating?
 
-Memory?
+Picture this: the mug is there, but there’s no water. The tap gives nothing. The wall has graffiti—some scratched sex hotline, some political slogan now half-washed off by decades of despair—and the only thing even *remotely* absorbent is a torn poster for a tantric baba who guarantees longer erections and visa approval in 30 days.
 
-Oh yes, one came—my uncle, aged 84, used to say: “ei deshe jodi jete chao, pet theke suru koro”—If you want to escape this country, start with your stomach. He died squatting, mid-shit. Heart attack. Found three hours later by my cousin with a newspaper still rolled up in his hand and one sock off. I think of him every time I shit. That is my inheritance.
+There is no soap.
 
-But let me get back to the current swamp of my undoing.
+There is no dignity.
 
-I leaned to the side to inspect the little niche in the wall. Aah. One bar of soap. Fucked. A sliver of former soap. Now mostly hair. One sachet of Clinic Plus, unopened. Tempting. One old tube of minty toothpaste with ants in it. Possibly viable. A single sock. Why? No answer.
+There is only the reality of your own body’s betrayal. Of the chap from the roadside stall you shouldn’t have eaten. Of the pakoda that tasted just a little *too* tangy. Of the chai with milk that may or may not have been boiled this century. And all of it has now conspired into a digestive protest rally marching out of your rectum with slogans and banners and fucking drums.
 
-I scraped together the courage, grabbed the mug, turned it upside down like a stupid hopeful priest at a defunct well, and said aloud: “fuck this fucking country.”
+No one knocks.
 
-And that’s when the neighbor's child—age somewhere between three and reincarnated demon—started banging on the common bathroom door. “Kaku? Kaku? Ki korchho?”
+No one interrupts.
 
-I paused.
+No one *needs* to.
 
-I looked down at my poop-smeared foot. The ruined mug. The lightbulb swinging above like a tired, old testicle hanging from God’s own wrinkled taint. And I knew.
+Because the building itself is a performance. The walls tremble when someone next door sneezes. The flush from a different stall echoes through the concrete like a ghost moaning into a bucket. You hear it all—the endless chorus of squats and spits and sighs and farts and the occasional grunt of someone whose soul is trying to exit their body via their colon.
 
-This was it.
+A man walks past the open top half of your stall wall. You see his eyes. He sees yours. You both pretend nothing happened. You both die a little inside.
 
-This was who I was now.
+And then there’s the final insult: *wiping.*
 
-The kind of man who would wipe his ass with the cover page of a photocopied LIC premium receipt, printed in 2014, slightly yellowed, but still more absorbent than a Times of India editorial.
+You check your pockets like a man searching for redemption in a wallet of expired train tickets and gut bacteria. You find nothing but the edge of a grocery receipt and a piece of tissue folded so many times it’s now denser than neutronium and just as cruel. 
 
-I wiped.
+You look at the door.
 
-I limped.
+You look at the crack in the floor where something just skittered.
 
-I left a trail.
+You look at your hand.
 
-I washed one foot in the bucket kept under the bed, reserved for mopping. I sat naked on the plastic stool and stared at the ceiling and thought of Europe—not even to visit, just to *imagine* a toilet that obeys, a tap that loves, a mug that doesn’t smell like old piss and dead lizards.
+You consider your options.
 
-And then the power went out.
+And you realize the real genius of Indian culture isn’t zero, or surgery, or nonviolence—it’s managing to maintain national cohesion while every citizen has, at some point, wiped their ass with newspaper and shame in a 40-degree cement chamber that smells like an exorcism gone wrong.
 
-And I got an erection.
+Eventually, you shuffle out.
+
+Half-washed. Humiliated. Hollow.
+
+You drop the mug on the floor because, fuck it, let the next poor bastard know the truth. You walk out into the sunlight blinking like a man reborn, but not really. You will carry this scent for hours. You will not talk about it. You will pretend your soul is intact.
+
+You will go to work.
+
+And the dried stain on your heel will remind you: this is your country.
+
+And yes, the erection came later.
 
 Don’t ask why.
