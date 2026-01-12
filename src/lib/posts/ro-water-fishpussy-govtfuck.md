@@ -40,7 +40,7 @@ And yet, the irony squirts on, like the last drop of wet fart from a constipated
 
 And it’s not just me.
 
-Every house in this colony—this post-apocalyptic Rajarhat expanse with its turmeric-flecked terraces and CCTV-controlled ghettos of middle-class decay—is using water that smells like a sushied tampon. Every child brushing their teeth is holding in their gag reflex. Every elderly man washing his dentures is doing so with the same water that would make a sewer rat cross itself.
+Every house in this colony—this post-apocalyptic expanse with its turmeric-flecked terraces and CCTV-controlled ghettos of middle-class decay—is using water that smells like a sushied tampon. Every child brushing their teeth is holding in their gag reflex. Every elderly man washing his dentures is doing so with the same water that would make a sewer rat cross itself.
 
 But what are we gonna do? Protest?
 
