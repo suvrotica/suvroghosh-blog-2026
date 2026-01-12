@@ -1,8 +1,7 @@
 ---
 
 title: "Rotted Hippocampus Meritocracy Fuckhole"  
-thumbnail: "/images/IMG-20260112-WA0007.jpg"  
-date: 2026-01-13  
+thumbnail: "/images/IMG-20260112-WA0007.jpg"
 description: "A savage, spiraling, deeply bitter teardown of how believing in meritocracy turned one Bengali man's brain into soup and his life into ash. Full of foul-mouthed, comic, hopeless rage at school, stress, science, and society."  
 category: 'personal'  
 published: true  
@@ -27,6 +26,8 @@ I read Sapolsky. That beardy American professor with the zebra ulcers. He said s
 It *is* rotting. I forget words now. Words like… “purpose.” Or “fuckable.” Or “plan.”  
 
 It started in second-year engineering. One day I was solving Fourier Series like a nerdy gangbanger with a calculator fetish, and the next I was staring at the ceiling fan wondering how hard I’d have to jump for the neck crack to be instant and not just mildly paralyzing. Bipolar, they said later. Depression. Genetic? Situational? Who gives a goat’s hairy fuck.  
+
+<Pi src="IMG-20251220-WA0034.jpg" />
 
 It *felt* like betrayal. Like the same truth and hard work they applauded in the Civics textbooks had snuck behind me in the shower and jabbed a broken thermodynamics textbook into my prostate.
 
