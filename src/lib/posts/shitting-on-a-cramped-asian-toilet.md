@@ -1,5 +1,5 @@
 ---
-title: "Shitting on a Cramped Asian Toilet"
+title: Shitting on a Cramped Asian Toilet
 thumbnail: "/images/IMG-20260113-WA0001.jpg"
 date: "2026-01-13"  
 description: "A graphic, foul, funny and depressingly accurate depiction of the absurd daily humiliation of squatting over a filthy pan while the tap runs dry mid-wipe."
