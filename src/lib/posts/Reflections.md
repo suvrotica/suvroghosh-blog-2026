@@ -1,5 +1,5 @@
 ---
-title: "Reflections — read this first"
+title: "Read this first"
 thumbnail: "/images/IMG-20251202-WA0009.jpg"
 description: "A complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless."
 category: 'personal'
