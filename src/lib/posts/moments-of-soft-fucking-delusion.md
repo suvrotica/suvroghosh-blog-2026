@@ -7,7 +7,7 @@ category: 'videos'
 published: true
 color: "orange"
 ---
-
+<Yt />
 <Pi src="IMG-20260104-WA0008.jpg" />
 
 
@@ -15,7 +15,9 @@ color: "orange"
 
 The day starts with my tea pan screaming like it’s being exorcised, metal on flame, water threatening to mutiny, while my head does that familiar pre-dawn thing where it inventories every mistake I’ve ever made and a few I haven’t gotten around to yet, and I’m standing there scratching the inside of my elbow like a nervous chimp, thinking not about sex or love or any of the usual pornographic lies we sell ourselves, but about whether the song I’m about to play will shut this fucking noise off for five minutes or just rearrange it into a more melodic form of suffering.
 
-The songs I return to—because I always return, like a loyal dog or a moron—aren’t really about romance, not in the way people think when they hear me muttering along to some soft Hindi nonsense from the late nineties. They’re not postcards from failed affairs or ghosted women or beds that went cold. They’re older than that. Pre-sexual. Pre-disaster. They belong to a time when my brain hadn’t yet declared war on itself, when bipolarity was still a rumor, a distant thunderclap, not the full fucking monsoon dumping depression straight into my skull with no drainage plan.
+<Yt src="https://youtube.com/playlist?list=PLGAT_DYBcNKAqWUYLBg8HtqFZmHHtceys&si=xyPkFWD343cnfRT6" />
+
+The songs some of them generations before I happened, I return to—because I always return, like a loyal dog or a moron—aren’t really about romance, not in the way people think when they hear me muttering along to some soft Hindi nonsense from the late nineties. They’re not postcards from failed affairs or ghosted women or beds that went cold. They’re older than that. Pre-sexual. Pre-disaster. They belong to a time when my brain hadn’t yet declared war on itself, when bipolarity was still a rumor, a distant thunderclap, not the full fucking monsoon dumping depression straight into my skull with no drainage plan.
 
 These songs are about childhood, or at least about a slice of life when I wasn’t constantly negotiating with my own chemistry like a hostage-taker with mood swings. Back when the worst thing I worried about was homework and whether my socks matched, not whether today would be a “can’t get out of bed” day or a “pace the room like a deranged cocksucker” day. When I listen now, it’s not nostalgia for a person; it’s nostalgia for neurological quiet. For the absence of static.
 
