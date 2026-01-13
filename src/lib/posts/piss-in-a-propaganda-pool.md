@@ -1,7 +1,6 @@
 ---
 title: "Piss in a Propaganda Pool"
 thumbnail: "/images/IMG-20251207-WA0011.jpg"
-date: 2026-01-13
 description: "Why shitting in truthless times feels like a moral act, how my ass became a moral compass, and what flatulence taught me about fascism."
 category: 'personal'
 published: true
@@ -34,19 +33,16 @@ And all of this? Makes me feel like my balls are being slow-boiled by a Sanskrit
 
 Back to the shitter—I felt the sweat run down my spine, cross my ass-crack, and disappear somewhere between the birthmark and the pile I pretend isn’t there. As I wiped with the sad, one-ply toilet paper that tears like secular values in a WhatsApp family group, I remembered my school civics teacher.
 
-Mr. Bhaduri.
+Who once said, “Right and wrong are shaped by truth.”
 
-Who once said, “Right and wrong are shaped by truth.”  
-Who also later ran for office on a Hindutva ticket and now tweets in all caps about “urban Naxals.”
-
-So that’s what happens. You suppress truth long enough, and suddenly “right” becomes whatever the fuck you can say without being lynched online or in a literal cow shelter. And “wrong” becomes...anything inconvenient. Like menstruation. Or Ambedkar.
+You suppress truth long enough, and suddenly “right” becomes whatever the fuck you can say without being lynched online or in a literal cow shelter. And “wrong” becomes...anything inconvenient. Like menstruation. Or Ambedkar.
 
 I walk out of the bathroom. My morning tea is cold. The milk’s gone sour.  
 I sip it anyway because, much like this nation’s tolerance levels, my standards have curdled beyond recognition.
 
 The fan’s still clacking.  
 
-The press, once the supposedly noble check-and-balance—like a moral butler gently reminding power not to shit on the carpet—has now become that same butler’s decomposing body in the basement, while the new one wears a party hat and gives blowjobs to the Prime Minister’s hologram.
+The national press fondly called the Godi media, once the supposedly noble check-and-balance—like a moral butler gently reminding power not to shit on the carpet—has now become that same butler’s decomposing body in the basement, while the new one wears a party hat and gives blowjobs to the Prime Minister’s hologram.
 
 What the fuck even is journalism anymore? Five men in a studio screaming like monkey dicks caught in electric fence wire? You can’t tell the difference between a news anchor and a gambling site advertisement with slightly more saffron.
 
