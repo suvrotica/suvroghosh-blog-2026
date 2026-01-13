@@ -7,7 +7,8 @@ category: 'personal'
 published: true
 color: "orange"
 ---
-
+<Yc />
+<Yt src="https://youtu.be/JJbxw1Nms44?si=T0DZxEqYYLKip4pg" />
 
 <Pi src="IMG-20251018-WA0012(1).jpg" />
 
