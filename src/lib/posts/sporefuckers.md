@@ -11,11 +11,6 @@ color: "orange"
 <Pi src="IMG-20260113-WA0002.jpg" />
 
 
-
-It looked like a uterus drawn by a schizophrenic mosquito with a charcoal kink.
-
-I mean the sketch, yes, but also my life.
-
 Two faces—both moustached, both masculine, both farcical reflections of each other like government and opposition humping in sync while pretending to swordfight. One smug in his smugness, the other furious in his fury, like two versions of constipation: the clenching and the denial. They glare across a shared womb of spores—those stippled black bursts that look like the kind of thing you find on a corpse when you dig it up too late for an autopsy but too early for forgiveness.
 
 This isn’t just a standoff.
