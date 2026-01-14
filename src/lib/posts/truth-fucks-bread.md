@@ -61,7 +61,7 @@ Hope is like that last fart you trust before a long walk—you think it’s safe
 
 And me?
 
-I’m a 52-year-old bipolar Bengali with a mild crush on Sudhir Chaudhary’s mustache and a death wish for every municipal clerk who ever told my mother to come back "after lunch."
+I’m a 50-year-old bipolar Bengali with a death wish for every politician. 
 
 Last week I masturbated to a cooking video because the woman used mustard oil like a goddess and I hadn’t tasted mustard oil in a month.
 
