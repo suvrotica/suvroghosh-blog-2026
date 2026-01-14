@@ -1,12 +1,12 @@
----  
-title: "Makar Shitkanthi"  
-thumbnail: "/images/IMG-20251212-WA0008.jpg"  
-date: 2026-01-14 
-description: "During Makar Sankranti, that pious turd-hugging harvest fest, radish transforms from cheap fart bait to holy rectal dynamite. A gastrointestinal memoir of suffering, gas, and social terrorism by a man left alone with his boxers and regrets."  
-category: 'festivals'  
-published: true  
-color: "orange"  
----  
+---
+title: "Radish Gas War and Other Domestic Acts of Terror"
+thumbnail: "/images/IMG-20251212-WA0008.jpg"
+date: 2026-01-15
+description: "My lower intestine is a biological weapon when exposed to radish, and I’ve been deploying it recklessly in the poor ventilation zone of my South Calcutta rented shithole. A chronically foul, scientifically tangential, fart-filled confession of a man too far gone."
+category: 'personal'
+published: true
+color: "orange"
+---
 
 <Pi src="IMG-20251212-WA0008.jpg" />  
 
