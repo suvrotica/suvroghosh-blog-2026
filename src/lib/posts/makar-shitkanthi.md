@@ -1,7 +1,7 @@
 ---  
 title: "Makar Shitkanthi and the Gas That Ate the Living Room"  
 thumbnail: "/images/IMG-20251212-WA0008.jpg"  
-date: 2026-01-15  
+date: "2026-01-14"  
 description: "During Makar Sankranti, that pious turd-hugging harvest fest, radish transforms from cheap fart bait to holy rectal dynamite. A gastrointestinal memoir of suffering, gas, and social terrorism by a man left alone with his boxers and regrets."  
 category: 'personal'  
 published: true  
