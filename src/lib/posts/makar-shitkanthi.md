@@ -1,16 +1,14 @@
 ---  
-title: "Makar Shitkanthi and the Gas That Ate the Living Room"  
+title: "Makar Shitkanthi"  
 thumbnail: "/images/IMG-20251212-WA0008.jpg"  
-date: "2026-01-14"  
+date: 2026-01-14 
 description: "During Makar Sankranti, that pious turd-hugging harvest fest, radish transforms from cheap fart bait to holy rectal dynamite. A gastrointestinal memoir of suffering, gas, and social terrorism by a man left alone with his boxers and regrets."  
-category: 'personal'  
+category: 'festivals'  
 published: true  
 color: "orange"  
 ---  
 
 <Pi src="IMG-20251212-WA0008.jpg" />  
-
-
 
 There’s a special kind of betrayal that comes when your own ass doesn’t warn you. No sputter, no burble, no polite intestinal murmur like “Hey buddy, incoming.” Just—*pffffft*—a full-volume protest note from your asshole, unsigned, and you’re suddenly sitting in a dense mustardy fog, eyes watering, questioning every decision that led you to this point, which in my case was *eating fucking radish during Makar Sankranti*.  
 
