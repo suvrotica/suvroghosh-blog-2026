@@ -17,6 +17,8 @@ There’s a specific, oily type of rash you get when your boxer shorts are too t
 
 That rash, that fungal red arc—part eczema, part spiritual regret—begins under the curve of the thigh and ends just at the upper asshole. It's a Krishna’s Kiss, and if you’ve never had it, you’ve never danced for four hours in your sweat-stained college tee while some overcooked sadhu in white bedsheets screams about nectar and the eternal dick of the universe.
 
+<Pi src="IMG-20251218-WA0015.jpg" />
+
 Let’s get this out of the way: the Hare Krishna motherfuckers are culty as wet bread and almost as useful. They’re not the worst, but they sure as shit aren’t the best, unless your idea of spiritual enlightenment involves dressing like a 1970s air-hostess caught in a Hindu cosplay, handing out stale ladoos and unsolicited fucking pamphlets while ambushing you at traffic lights like saffron-tinted Jehovah’s Witnesses with harmoniums and halitosis.
 
 I was nineteen when I first saw it. Not the rash—though that came later—but the spectacle. The performative piety, the bouncing white tits and dreadlocked white dicks jumping in beatific ignorance while one Krishna-fucker waved incense like he was casting a spell to summon his lost foreskin. They were white. So painfully white. So vegan, so yoga-mat-carrying, so spiritually desperate they would’ve licked a pujari’s toe-jam if he told them it came from Vishnu’s bunion. They said “Namaste” like it had an umlaut. Their Sanskrit pronunciation sounded like they’d gargled linoleum.
