@@ -46,5 +46,4 @@ The human gut, let’s be honest, is not built for reverence. It is a hot, wet, 
 
 By nightfall, I was lying on my mattress, bloated like a washed-up walrus, one hand on my belly, the other waving away the residual gasclouds, wondering how the fuck my life had come to this. Alone. Mid-festival. Loosely dressed. Deeply ashamed. And still… farting.  
 
-I farted into a steel plate by mistake while collecting the sweets. It echoed. Like a temple bell rung by Satan himself.  
-
+I farted into a steel plate by mistake while collecting the sweets. It echoed. Like a temple bell rung by Satan himself.
