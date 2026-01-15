@@ -80,7 +80,7 @@ We don’t breathe.
 
 We metabolize particulate matter.
 
-And we dream of clean air the way some people dream of anal with their ex: nostalgically, pathetically, and with the full knowledge it’ll never happen again.
+And we dream of clean air the way some people dream of anal with an old edition playboy pinup: nostalgically, pathetically, and with the full knowledge it’ll never happen.
 
 Today, my head aches in that specific cavity-pounding way that only PM2.5-infused snot can deliver.
 
