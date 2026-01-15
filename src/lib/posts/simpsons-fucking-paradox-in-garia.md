@@ -1,5 +1,5 @@
 ---
-title: "Simpson’s Fucking Paradox in Garia"
+title: "Simpson’s Fucking Paradox"
 thumbnail: "/images/IMG-20260113-WA0005.jpg"
 date: 2026-01-16
 description: "A gas-leaking meditation on statistical illusions, half-dead erections, and why the suburbs of South Calcutta feel like quantum traps of piss and regret."
