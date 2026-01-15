@@ -46,7 +46,7 @@ Yes, you judgmental titweasel. I fucking licked it.
 
 Metallic. Slightly spicy. Familiar.
 
-Like the old mutton kosha from Golpark that gave me gonorrhea-adjacent gas in 2003. That was the year I tried dating a junior from Presidency College who quoted Sartre during head, and later left me for a Naxalite who wrote poetry about menstrual blood and once burned down an ATM.
+Like the old mutton kosha from Golpark that gave me gonorrhea-adjacent gas in 1995. 
 
 But this—this slime—was *not of this Earth*.
 
