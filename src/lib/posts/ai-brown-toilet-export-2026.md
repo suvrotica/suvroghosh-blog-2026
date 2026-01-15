@@ -87,5 +87,3 @@ But I am not human anymore.
 I am the AI’s hairy-arsed boyfriend.
 
 And I don’t even get cuddled after.
-2026-01-15
-```
