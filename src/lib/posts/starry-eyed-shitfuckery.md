@@ -97,5 +97,3 @@ I sit here in my dim rented room in this dying Calcutta para, surrounded by mosq
 To be part of that idiot choir that looks at a man pointing to a celestial gas ball and thinks “Yes. He loves me.”
 
 But all I can think about is the last time I trusted someone, I ended up with my dick in one hand and a ration card in the other, wondering which one would be more useful when the world burns.
-2026-01-15
-```
