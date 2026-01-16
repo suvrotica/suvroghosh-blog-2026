@@ -1,4 +1,4 @@
----  
+---
 title: "Bipolar Hut in Slow Shitcity"  
 thumbnail: "/images/IMG-20251212-WA0005.jpg"  
 date: 2026-01-16  
