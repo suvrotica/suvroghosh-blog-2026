@@ -50,7 +50,7 @@ We call it “bhaavnaa” when we mean brain-rot.
 
 We smear cow piss on our face and chant GDP figures like a cult that forgot it’s broke.
 
-I went to get groceries yesterday, and the man at the counter had a massive poster of that dead-eyed fuckhead MLA right behind his head like a pimple saint halo. I asked him, "Why do you have this here?" and he said, I swear to Kali, “Dada, undar bhalo rakhte hobe. Ki jani kon dine ki lagte pare.”
+I went to get groceries yesterday, and the man at the counter had a massive poster of that dead-eyed fuckhead MLA right behind his head like a pimple saint halo. I asked him, "Why do you have this here?" and he said, I swear to Kali, “Dada, shomporko bhalo rakhte hobe. Ki jani kon dine ki lagte pare.”
 
 Translation: keep the rat happy. Who knows when you’ll need his teeth.
 
