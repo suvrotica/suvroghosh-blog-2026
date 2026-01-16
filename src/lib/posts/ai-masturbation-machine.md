@@ -10,8 +10,6 @@ color: "orange"
 
 <Pi src="IMG-20260116-WA0006.jpg" />
 
-
-
 There was this one moment—last week, I think, or three weeks ago, time's been fucking itself with a rusty spoon lately—where I opened my goddamn eyes at 3:44am, sat up in boxer shorts stuck to my sagging balls like a warm wet polythene packet of despair, stared at the ceiling fan doing its futile whirr like a government clerk marking attendance, and realized I hadn’t had a thought that was mine in about seven fucking days.
 
 Not one.  
