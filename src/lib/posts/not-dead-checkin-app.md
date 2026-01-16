@@ -1,4 +1,4 @@
----  
+---
 title: "If I'm Not Dead, I'm Just Taking a Very Long Shit"  
 thumbnail: "/images/IMG-20251021-WA0064(1).jpg"  
 date: 2026-01-16  
