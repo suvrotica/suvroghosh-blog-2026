@@ -20,7 +20,7 @@ Because apparently there’s a Chinese app now, a sort of "Hey, I’m not a corp
 
 And the moment I saw it, I thought—finally, software for me.
 
-Except if I used it, and it said *Add Emergency Contact*, who would I even put? My sister, who’s already ghosted me harder than any corpse? The old fuckers in this lane who already assume I’m an antisocial masturbation monk with BO and possibly a fridge full of severed genitalia? Any relative I still have would react to my death like people react to a piece of spam in their inbox: slight annoyance, immediate deletion, maybe a moment of vague moral farting about whether to feel sad. But definitely no action. Maybe not even a phone call.  
+Except if I used it, and it said *Add Emergency Contact*, who would I even put? My kith and kin, who’ve already ghosted my broke ass harder than any corpse? The old fuckers in this lane who already assume I’m an antisocial masturbation monk with BO and possibly a fridge full of severed genitalia? Any relative I still have would react to my death like people react to a piece of spam in their inbox: slight annoyance, immediate deletion, maybe a moment of vague moral farting about whether to feel sad. But definitely no action. Maybe not even a phone call.  
 
 If the stench gets bad enough, somebody might throw a torn mosquito net over me and inform the local councillor. And the councillor will send some municipal halfwit in plastic sandals and leftover COVID gloves, who’ll call a “van,” which will be a hollowed-out Mahindra Bolero from 1998 with a single rusted stretcher, and they'll dump me next to vegetable peels, condom clusters, puja flowers, and the occasional Ganesh idol that failed to make it into the Ganga, all into the grand unified theory of Calcutta waste—the landfill.  
 
@@ -52,7 +52,7 @@ I could automate the app with some script that checks in daily so no one ever ha
 
 The fucking irony of a society that needs an *app* to notice you’re not rotting is that it says more about the living than the dead. We’re all corpses-in-training. Some are just better at putting on deodorant.  
 
-And people talk about community, about social fabric, but I live in a fucking jute bag of a neighborhood, full of snot-nosed little shits who scream because their mothers are too busy scrolling, old fuckers who think WhatsApp forwards are a religious canon, and some uncle-shaped methane sack upstairs who plays Bhojpuri remixes like it’s a sonic weapon system.  
+And people talk about community, about social fabric, but I live in a fucking jute bag of a neighborhood, full of snot-nosed little shits who scream because their mothers are too busy scrolling, old fuckers who think WhatsApp forwards are a religious canon, and some uncle-shaped methane sack next door who plays Bhojpuri remixes like it’s a sonic weapon system.  
 
 And me? I’m a boxers-wearing turd-ghost who smells like an old hostel mattress fucked a latrine.
 
