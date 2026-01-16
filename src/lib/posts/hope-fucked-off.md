@@ -1,5 +1,5 @@
---- 
-title: "Hope Fucked Off and Took the Lube"  
+---
+title: "Hope Fucked Off and Took the Lube" 
 thumbnail: "/images/IMG-20251214-WA0001.jpg"  
 date: 2026-01-16  
 description: "A bipolar Bengali bastard in a south Calcutta oven-box grapples with the complete evacuation of hope from his asshole, via rage, shit, science, and remembered erections."  
@@ -9,7 +9,6 @@ color: "orange"
 ---
 
 <Pi src="IMG-20251214-WA0001.jpg" />
-
 
 
 There are days—weeks, really—when the only thing I look forward to is the relief of an exceptionally well-timed fart, when my stomach feels like it’s fermenting its own fucking vinegar and my ass cheeks are stuck together with the glum sweat of another Calcutta noon, the fan above me wheezing like an old racist ex-Brit civil servant remembering his last blowjob in Darjeeling.
