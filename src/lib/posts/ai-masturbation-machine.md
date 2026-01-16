@@ -135,4 +135,15 @@ They cradle you like a pervert uncle who smells like vicks and unwashed feet, mu
 Maybe this is what the apocalypse looks like—not a bang, not a mushroom cloud, not even a stock market crash, but a warm bath of infinite curated mediocrity with your dick in one hand and an overpriced phone in the other, gently dissolving your cortex into paste.
 
 And you don’t scream.  
-You rate it five stars and share it with a friend.
+You rate it five stars and share it with a friend. And maybe—maybe it’s because I didn’t inherit this glowing handjob machine like a trust fund sociopath inherits his grandfather’s racist stocks and country club cufflinks.  
+
+Maybe it’s because I got thrown into this digital fuckbucket without a generational handover, without the bruises and calluses of the industrial staircase.  
+Maybe because I’m a third-world denizen, brown, broke, and buried in heat and sewage, but still humping the latest tech like a starving dog given a high-speed dildo.  
+
+Everything we’re addicted to here—the food, the fashion, the porn, the pills, the platforms, the goddamn godless silicon demiurges—they were made somewhere else, slow-cooked in the boredom of first-world winters, born from starvation and soot and tuberculosis and textile mills and slow pain and slow death.  
+
+They *earned* their addictions in factories and famines; we just imported the syringes.  
+
+We skipped the sweat and went straight to the fentanyl of modernity—AI that writes our thoughts, cars we can’t fix, food we can’t digest, clothes that disintegrate in six washes, and phones that fuck our brains raw while we still shit in open drains.  
+
+We live in poverty with the final products of someone else’s progress, and like kids licking the wrappers of other people’s meals, we’ve confused *access* with *arrival*.
