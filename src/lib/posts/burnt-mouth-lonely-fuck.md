@@ -138,10 +138,10 @@ I think I’ve run out of blood.
 
 Just like I’ve run out of people to tell my stories to. Or jokes. Or questions like, “What is the evolutionary function of sadness?” and “Why do I still keep my first toothbrush?” and “Is it true that black holes fart information in a way that violates the unitarity of quantum mechanics or am I just projecting again?”
 
-***
-
 There’s a dead lizard behind my rice cooker.
 
 Been there three days.
 
-I think I’ll name it "Purpose."
+I think I’ll name it "Purpose." 
+
+They can send Pegasus if they want. The whole fucking alphabet agency orchestra—NSA, RAW, your local paranoid WhatsApp uncle, or whatever sweaty-palmed junior bureaucrat in a polyester shirt gets the unenviable assignment of wiretapping my bowels through my burner phone in South Calcutta—go ahead, motherfuckers. I hope they enjoy the full frequency spectrum of my existence. I hope they archive my rants and label them "national threat: self-loathing fartbag with literary delusions." Because if they're listening, here’s what they'll hear: me moaning about hemorrhoids that itch like Satan’s pinky finger on my sphincter, halitosis so rich and ancient it could be carbon-dated and sold as Harappan artifact breath, and a lingering whooping cough that sounds like a TB-riddled goose trying to give a TED Talk underwater. And that’s just three afflictions from one single station in the whole cursed A-to-Z trainwreck that is my body. Wait till they get to S for scrotal sadness. Or W for wank-induced wrist pain. Or Z for the fucking zero I feel like most mornings before I even piss.
