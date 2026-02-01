@@ -9,6 +9,10 @@
 	let progress = 0;
 	/** @type {SpeechSynthesisVoice[]} */
 	let voices = [];
+	
+	// FIX: Explicitly type this as 'any' to handle browser/node mismatch in VS Code
+	/** @type {any} */
+	let progressInterval;
 
 	const icons = {
 		play: "M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.347a1.125 1.125 0 0 1 0 1.972l-11.54 6.347a1.125 1.125 0 0 1-1.667-.986V5.653Z",
@@ -20,46 +24,60 @@
 		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 			supported = true;
 			
-			const loadVoices = () => {
+			voices = window.speechSynthesis.getVoices();
+
+			window.speechSynthesis.onvoiceschanged = () => {
 				voices = window.speechSynthesis.getVoices();
 			};
-
-			window.speechSynthesis.onvoiceschanged = loadVoices;
-			loadVoices();
 		}
-
 		return () => cancel();
 	});
 
 	function getBestVoice() {
+		if (voices.length === 0) {
+			voices = window.speechSynthesis.getVoices();
+		}
+
 		return (
 			voices.find(v => v.name === "Google US English") || 
 			voices.find(v => v.name === "Google UK English Male") ||
-			voices.find(v => v.name.includes("Natural") && v.name.includes("Male")) || 
-			voices.find(v => v.name.includes("David")) || 
-			voices.find(v => v.lang === "en-US" && v.name.includes("Male")) ||
-			voices.find(v => v.lang.startsWith("en")) 
+			voices.find(v => v.name.includes("English United States")) ||
+			voices.find(v => v.lang === "en-US" && !v.name.includes("Network")) ||
+			voices.find(v => v.name.includes("Natural")) || 
+			voices.find(v => v.lang.startsWith("en")) ||
+			voices[0]
 		);
 	}
 
 	function getText() {
 		const article = document.querySelector('article') || document.querySelector('.prose') || document.body;
 		
-		// FIX: Cast the cloned node to HTMLElement so TS knows it has .querySelector and .innerText
+		// @ts-ignore
 		const clone = /** @type {HTMLElement} */ (article.cloneNode(true));
 
 		const self = clone.querySelector('[data-tts-exclude]');
 		if (self) self.remove();
 		
-		const elementsToRemove = clone.querySelectorAll('button, script, style, .no-read');
 		// @ts-ignore
-		elementsToRemove.forEach(el => el.remove());
+		clone.querySelectorAll('button, script, style, .no-read').forEach(el => el.remove());
 
 		return clone.innerText || "";
 	}
 
 	function speak() {
 		if (!supported) return;
+
+		if (window.speechSynthesis.paused && speaking) {
+			window.speechSynthesis.resume();
+			paused = false;
+			return;
+		}
+
+		if (speaking && !paused) {
+			window.speechSynthesis.pause();
+			paused = true;
+			return;
+		}
 
 		if (paused) {
 			window.speechSynthesis.resume();
@@ -68,31 +86,35 @@
 			return;
 		}
 
-		if (speaking) {
-			window.speechSynthesis.pause();
-			paused = true;
-			speaking = false;
-			return;
-		}
-
 		const text = getText();
 		if (!text.trim()) return;
 
-		cancel();
+		window.speechSynthesis.cancel();
 
 		utterance = new SpeechSynthesisUtterance(text);
 		
 		const voice = getBestVoice();
 		if (voice) {
 			utterance.voice = voice;
-			utterance.rate = voice.name.includes("Google") ? 1.0 : 0.9;
+			utterance.rate = 1.0; 
 			utterance.pitch = 1.0;
 		}
 		
+		utterance.onstart = () => {
+			speaking = true;
+			paused = false;
+		};
+
 		utterance.onend = () => {
 			speaking = false;
 			paused = false;
 			progress = 0;
+			clearInterval(progressInterval);
+		};
+
+		utterance.onerror = (e) => {
+			console.error("TTS Error:", e);
+			speaking = false;
 		};
 
 		utterance.onboundary = (event) => {
@@ -101,7 +123,15 @@
 		};
 
 		window.speechSynthesis.speak(utterance);
-		speaking = true;
+		
+		if (progressInterval) clearInterval(progressInterval);
+		
+		progressInterval = setInterval(() => {
+			if (!window.speechSynthesis.speaking) {
+				clearInterval(progressInterval);
+				if (speaking) speaking = false;
+			}
+		}, 1000);
 	}
 
 	function cancel() {
@@ -110,6 +140,7 @@
 			speaking = false;
 			paused = false;
 			progress = 0;
+			if (progressInterval) clearInterval(progressInterval);
 		}
 	}
 </script>
@@ -118,7 +149,7 @@
 	<div data-tts-exclude class="my-8 flex items-center gap-4 p-4 rounded-xl border border-neutral-200 dark:border-neutral-800 bg-white/50 dark:bg-neutral-900/50 backdrop-blur-sm not-prose shadow-sm">
 		<button 
 			on:click={speak}
-			class="flex-none flex items-center justify-center w-12 h-12 rounded-full bg-neutral-900 dark:bg-white text-white dark:text-neutral-900 hover:scale-105 active:scale-95 transition-all shadow-md"
+			class="flex-none flex items-center justify-center w-12 h-12 rounded-full bg-neutral-900 dark:bg-white text-white dark:text-neutral-900 hover:scale-105 active:scale-95 transition-all shadow-md touch-manipulation"
 			aria-label={speaking ? "Pause" : "Listen to post"}
 		>
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
@@ -133,12 +164,12 @@
 		<div class="flex-1 flex flex-col gap-1.5 min-w-0">
 			<div class="flex justify-between items-center">
 				<span class="text-xs font-bold uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-					{speaking && !paused ? 'Reading Aloud...' : 'Audio Article'}
+					{speaking && !paused ? 'Reading...' : 'Audio Article'}
 				</span>
 				{#if speaking || paused}
 					<button 
 						on:click={cancel}
-						class="text-xs font-medium text-red-500 hover:text-red-600 transition-colors uppercase tracking-wider"
+						class="text-xs font-medium text-red-500 hover:text-red-600 transition-colors uppercase tracking-wider p-2"
 					>
 						Stop
 					</button>
