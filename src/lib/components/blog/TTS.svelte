@@ -7,12 +7,17 @@
 	/** @type {SpeechSynthesisUtterance} */
 	let utterance;
 	let progress = 0;
-	/** @type {SpeechSynthesisVoice[]} */
-	let voices = [];
-	
-	// FIX: Explicitly type this as 'any' to handle browser/node mismatch in VS Code
 	/** @type {any} */
 	let progressInterval;
+	
+	// Debug logging for mobile troubleshooting
+	let debugLog = "";
+	
+	/** @param {string} msg */
+	function log(msg) {
+		console.log(msg);
+		// debugLog = msg; 
+	}
 
 	const icons = {
 		play: "M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.347a1.125 1.125 0 0 1 0 1.972l-11.54 6.347a1.125 1.125 0 0 1-1.667-.986V5.653Z",
@@ -23,41 +28,18 @@
 	onMount(() => {
 		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 			supported = true;
-			
-			voices = window.speechSynthesis.getVoices();
-
-			window.speechSynthesis.onvoiceschanged = () => {
-				voices = window.speechSynthesis.getVoices();
-			};
+			window.speechSynthesis.getVoices();
 		}
 		return () => cancel();
 	});
-
-	function getBestVoice() {
-		if (voices.length === 0) {
-			voices = window.speechSynthesis.getVoices();
-		}
-
-		return (
-			voices.find(v => v.name === "Google US English") || 
-			voices.find(v => v.name === "Google UK English Male") ||
-			voices.find(v => v.name.includes("English United States")) ||
-			voices.find(v => v.lang === "en-US" && !v.name.includes("Network")) ||
-			voices.find(v => v.name.includes("Natural")) || 
-			voices.find(v => v.lang.startsWith("en")) ||
-			voices[0]
-		);
-	}
 
 	function getText() {
 		const article = document.querySelector('article') || document.querySelector('.prose') || document.body;
 		
 		// @ts-ignore
 		const clone = /** @type {HTMLElement} */ (article.cloneNode(true));
-
 		const self = clone.querySelector('[data-tts-exclude]');
 		if (self) self.remove();
-		
 		// @ts-ignore
 		clone.querySelectorAll('button, script, style, .no-read').forEach(el => el.remove());
 
@@ -66,72 +48,70 @@
 
 	function speak() {
 		if (!supported) return;
+		log("Clicked Play");
 
-		if (window.speechSynthesis.paused && speaking) {
+		if (window.speechSynthesis.paused) {
+			log("Resuming...");
 			window.speechSynthesis.resume();
-			paused = false;
-			return;
 		}
 
 		if (speaking && !paused) {
+			log("Pausing...");
 			window.speechSynthesis.pause();
 			paused = true;
 			return;
 		}
 
 		if (paused) {
-			window.speechSynthesis.resume();
 			paused = false;
 			speaking = true;
 			return;
 		}
 
-		const text = getText();
-		if (!text.trim()) return;
-
 		window.speechSynthesis.cancel();
+
+		const text = getText();
+		if (!text.trim()) {
+			log("No text found");
+			return;
+		}
 
 		utterance = new SpeechSynthesisUtterance(text);
 		
-		const voice = getBestVoice();
+		const voices = window.speechSynthesis.getVoices();
+		log(`Voices found: ${voices.length}`);
+
+		const voice = 
+			voices.find(v => v.name.includes("Google US English")) || 
+			voices.find(v => v.lang === "en-US") || 
+			voices[0];
+
 		if (voice) {
 			utterance.voice = voice;
-			utterance.rate = 1.0; 
-			utterance.pitch = 1.0;
+			log(`Selected: ${voice.name}`);
+		} else {
+			log("Using System Default Voice");
 		}
+
+		utterance.onstart = () => { log("Started"); speaking = true; paused = false; };
 		
-		utterance.onstart = () => {
-			speaking = true;
-			paused = false;
-		};
-
-		utterance.onend = () => {
-			speaking = false;
-			paused = false;
-			progress = 0;
-			clearInterval(progressInterval);
-		};
-
-		utterance.onerror = (e) => {
-			console.error("TTS Error:", e);
-			speaking = false;
-		};
-
-		utterance.onboundary = (event) => {
-			const len = text.length;
-			if (len > 0) progress = (event.charIndex / len) * 100;
-		};
+		// @ts-ignore
+		utterance.onend = () => { log("Ended"); speaking = false; paused = false; progress = 0; clearInterval(progressInterval); };
+		
+		// @ts-ignore
+		utterance.onerror = (e) => { log(`Error: ${e.error}`); speaking = false; };
 
 		window.speechSynthesis.speak(utterance);
-		
+
 		if (progressInterval) clearInterval(progressInterval);
-		
 		progressInterval = setInterval(() => {
-			if (!window.speechSynthesis.speaking) {
+			if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
+				progress = (progress + 0.5) % 100; 
+			} else if (!window.speechSynthesis.speaking) {
 				clearInterval(progressInterval);
 				if (speaking) speaking = false;
 			}
-		}, 1000);
+		}, 200);
 	}
 
 	function cancel() {
@@ -164,7 +144,7 @@
 		<div class="flex-1 flex flex-col gap-1.5 min-w-0">
 			<div class="flex justify-between items-center">
 				<span class="text-xs font-bold uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-					{speaking && !paused ? 'Reading...' : 'Audio Article'}
+					{speaking && !paused ? 'Playing...' : 'Audio Article'}
 				</span>
 				{#if speaking || paused}
 					<button 
@@ -182,6 +162,6 @@
 					style="width: {progress}%"
 				></div>
 			</div>
-		</div>
+			</div>
 	</div>
 {/if}
