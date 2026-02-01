@@ -4,19 +4,25 @@
 	let speaking = false;
 	let paused = false;
 	let supported = false;
+	
 	/** @type {SpeechSynthesisUtterance} */
 	let utterance;
+	
 	let progress = 0;
+	
 	/** @type {any} */
-	let progressInterval;
-	
-	// Debug logging for mobile troubleshooting
+	let progressInterval;     // Updates the UI bar
+	/** @type {any} */
+	let keepAliveInterval;    // Fixes the Android 15-second bug
+
+	// DEBUGGING: Set to true to see logs on screen
+	let debugMode = true; 
 	let debugLog = "";
-	
+
 	/** @param {string} msg */
 	function log(msg) {
 		console.log(msg);
-		// debugLog = msg; 
+		if (debugMode) debugLog = msg; 
 	}
 
 	const icons = {
@@ -28,16 +34,27 @@
 	onMount(() => {
 		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 			supported = true;
+			
+			// Force load voices immediately
 			window.speechSynthesis.getVoices();
+			
+			// Listen for async voice loading (Android specific)
+			window.speechSynthesis.onvoiceschanged = () => {
+				const v = window.speechSynthesis.getVoices();
+				log(`Voices Loaded: ${v.length}`);
+			};
 		}
-		return () => cancel();
+		return () => cleanup();
 	});
 
 	function getText() {
+		// Synchronous DOM grab - fast enough to not break user gesture
 		const article = document.querySelector('article') || document.querySelector('.prose') || document.body;
 		
 		// @ts-ignore
 		const clone = /** @type {HTMLElement} */ (article.cloneNode(true));
+		
+		// Clean up
 		const self = clone.querySelector('[data-tts-exclude]');
 		if (self) self.remove();
 		// @ts-ignore
@@ -48,39 +65,40 @@
 
 	function speak() {
 		if (!supported) return;
-		log("Clicked Play");
 
-		if (window.speechSynthesis.paused) {
-			log("Resuming...");
-			window.speechSynthesis.resume();
-		}
+		// 1. CRITICAL ANDROID FIX: Synchronous Cancel
+		// We must cancel before doing anything else to clear the audio stack.
+		window.speechSynthesis.cancel();
 
+		// Handle Toggle Logic
 		if (speaking && !paused) {
-			log("Pausing...");
+			log("User Paused");
 			window.speechSynthesis.pause();
 			paused = true;
 			return;
 		}
 
 		if (paused) {
+			log("User Resumed");
+			window.speechSynthesis.resume();
 			paused = false;
-			speaking = true;
 			return;
 		}
 
-		window.speechSynthesis.cancel();
-
+		// 2. GET TEXT
 		const text = getText();
 		if (!text.trim()) {
-			log("No text found");
+			log("Error: No text found");
 			return;
 		}
 
+		// 3. SETUP UTTERANCE
 		utterance = new SpeechSynthesisUtterance(text);
 		
+		// Get voices synchronously - don't await!
 		const voices = window.speechSynthesis.getVoices();
-		log(`Voices found: ${voices.length}`);
-
+		
+		// Android Preference: "Google US English" > Any US English > Default
 		const voice = 
 			voices.find(v => v.name.includes("Google US English")) || 
 			voices.find(v => v.lang === "en-US") || 
@@ -88,39 +106,77 @@
 
 		if (voice) {
 			utterance.voice = voice;
+			// Keep rate normal on mobile to prevent artifacts
+			utterance.rate = 1.0; 
 			log(`Selected: ${voice.name}`);
-		} else {
-			log("Using System Default Voice");
 		}
 
-		utterance.onstart = () => { log("Started"); speaking = true; paused = false; };
-		
-		// @ts-ignore
-		utterance.onend = () => { log("Ended"); speaking = false; paused = false; progress = 0; clearInterval(progressInterval); };
-		
-		// @ts-ignore
-		utterance.onerror = (e) => { log(`Error: ${e.error}`); speaking = false; };
+		// 4. EVENT HANDLERS
+		utterance.onstart = () => { 
+			log("Audio Started"); 
+			speaking = true; 
+			paused = false; 
+			startKeepAlive();
+		};
 
+		// @ts-ignore
+		utterance.onend = () => { 
+			log("Audio Ended"); 
+			cleanup();
+		};
+
+		// @ts-ignore
+		utterance.onerror = (e) => { 
+			log(`TTS Error: ${e.error}`); 
+			cleanup();
+		};
+
+		utterance.onboundary = (event) => {
+			const len = text.length;
+			if (len > 0) progress = (event.charIndex / len) * 100;
+		};
+
+		// 5. FIRE IMMEDIATELY (Same Call Stack)
+		log("Sending to Engine...");
 		window.speechSynthesis.speak(utterance);
-
+		
+		// Fallback UI updater in case onboundary fails (common on Android)
 		if (progressInterval) clearInterval(progressInterval);
 		progressInterval = setInterval(() => {
 			if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
-				progress = (progress + 0.5) % 100; 
-			} else if (!window.speechSynthesis.speaking) {
-				clearInterval(progressInterval);
-				if (speaking) speaking = false;
+				// Artificial progress if the event isn't firing
+				if (progress < 99) progress += 0.1;
 			}
-		}, 200);
+		}, 100);
 	}
 
-	function cancel() {
-		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+	// The "Poker" - Fixes Chrome Android 15-second timeout
+	function startKeepAlive() {
+		if (keepAliveInterval) clearInterval(keepAliveInterval);
+		
+		keepAliveInterval = setInterval(() => {
+			if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
+				log("Keep-Alive Poke");
+				window.speechSynthesis.pause();
+				window.speechSynthesis.resume();
+			}
+		}, 10000); // Poke every 10 seconds
+	}
+
+	function cleanup() {
+		speaking = false;
+		paused = false;
+		progress = 0;
+		if (progressInterval) clearInterval(progressInterval);
+		if (keepAliveInterval) clearInterval(keepAliveInterval);
+		// Don't cancel here or it cuts off the very end
+	}
+
+	function stop() {
+		if (typeof window !== 'undefined') {
 			window.speechSynthesis.cancel();
-			speaking = false;
-			paused = false;
-			progress = 0;
-			if (progressInterval) clearInterval(progressInterval);
+			cleanup();
+			log("Stopped");
 		}
 	}
 </script>
@@ -148,7 +204,7 @@
 				</span>
 				{#if speaking || paused}
 					<button 
-						on:click={cancel}
+						on:click={stop}
 						class="text-xs font-medium text-red-500 hover:text-red-600 transition-colors uppercase tracking-wider p-2"
 					>
 						Stop
@@ -162,6 +218,12 @@
 					style="width: {progress}%"
 				></div>
 			</div>
-			</div>
+			
+			{#if debugMode && debugLog}
+				<div class="text-[10px] text-red-500 font-mono mt-1 truncate">
+					Debug: {debugLog}
+				</div>
+			{/if}
+		</div>
 	</div>
 {/if}
