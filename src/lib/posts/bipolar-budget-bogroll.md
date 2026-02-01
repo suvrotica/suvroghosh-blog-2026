@@ -53,5 +53,3 @@ It ends, not in drama, not in fire, not in some genius insight or enlightenment.
 With me sitting on the toilet, constipated from cheap rice and worse thoughts, listening to a YouTuber say, "This is a game-changing budget," while I’m trying to remember if I wiped properly last time or if that vague itch is just another symptom of my declining hygiene standards.
 
 Or possibly a metaphor for this entire bloody country.
-
-02 February 2026
