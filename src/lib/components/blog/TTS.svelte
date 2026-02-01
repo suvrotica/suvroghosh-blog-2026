@@ -1,23 +1,22 @@
 <script>
 	import { onMount, onDestroy } from 'svelte';
 
+	// STATE
 	let speaking = false;
 	let paused = false;
 	let supported = false;
-	
-	/** @type {SpeechSynthesisUtterance} */
-	let utterance;
-	
-	let progress = 0;
-	
-	/** @type {any} */
-	let progressInterval;     // Updates the UI bar
-	/** @type {any} */
-	let keepAliveInterval;    // Fixes the Android 15-second bug
+	let buffering = false; // New state for between chunks
 
-	// DEBUGGING: Set to true to see logs on screen
-	let debugMode = true; 
+	// CHUNKING LOGIC
+	/** @type {string[]} */
+	let chunks = [];
+	let currentChunkIndex = 0;
+	/** @type {SpeechSynthesisUtterance} */
+	let currentUtterance;
+
+	// DEBUGGING
 	let debugLog = "";
+	let debugMode = true; // Keep this on for now
 
 	/** @param {string} msg */
 	function log(msg) {
@@ -34,27 +33,18 @@
 	onMount(() => {
 		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 			supported = true;
-			
-			// Force load voices immediately
+			// Android Init
 			window.speechSynthesis.getVoices();
-			
-			// Listen for async voice loading (Android specific)
-			window.speechSynthesis.onvoiceschanged = () => {
-				const v = window.speechSynthesis.getVoices();
-				log(`Voices Loaded: ${v.length}`);
-			};
+			window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
 		}
-		return () => cleanup();
+		return () => cancel();
 	});
 
 	function getText() {
-		// Synchronous DOM grab - fast enough to not break user gesture
 		const article = document.querySelector('article') || document.querySelector('.prose') || document.body;
-		
 		// @ts-ignore
 		const clone = /** @type {HTMLElement} */ (article.cloneNode(true));
 		
-		// Clean up
 		const self = clone.querySelector('[data-tts-exclude]');
 		if (self) self.remove();
 		// @ts-ignore
@@ -63,130 +53,130 @@
 		return clone.innerText || "";
 	}
 
-	function speak() {
+	// NEW: Split text into safe sentence-sized chunks
+	/** @param {string} text */
+	function splitIntoChunks(text) {
+		// Regex splits on punctuation (. ! ?) but keeps the punctuation
+		const rawChunks = text.match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [text];
+		return rawChunks.map(c => c.trim()).filter(c => c.length > 0);
+	}
+
+	function speakNextChunk() {
+		if (currentChunkIndex >= chunks.length) {
+			log("Finished all chunks");
+			speaking = false;
+			paused = false;
+			currentChunkIndex = 0;
+			return;
+		}
+
+		const chunkText = chunks[currentChunkIndex];
+		
+		// Create new utterance for just this sentence
+		const utt = new SpeechSynthesisUtterance(chunkText);
+		currentUtterance = utt;
+
+		// Voice Selection (Conservative)
+		const voices = window.speechSynthesis.getVoices();
+		const voice = 
+			voices.find(v => v.name.includes("Google US English")) || 
+			voices.find(v => v.lang === "en-US") ||
+			null; // If null, Android uses system default (safest)
+		
+		if (voice) utt.voice = voice;
+		utt.rate = 1.0;
+
+		// Handlers
+		utt.onstart = () => {
+			buffering = false;
+			log(`Speaking chunk ${currentChunkIndex + 1}/${chunks.length}`);
+		};
+
+		utt.onend = () => {
+			// Automatically trigger next chunk
+			if (speaking && !paused) {
+				currentChunkIndex++;
+				speakNextChunk();
+			}
+		};
+
+		// @ts-ignore
+		utt.onerror = (e) => {
+			log(`Error on chunk ${currentChunkIndex}: ${e.error}`);
+			if (e.error === 'interrupted') return; // Expected on Stop
+			
+			// If synthesis fails, try skipping this chunk
+			currentChunkIndex++;
+			setTimeout(speakNextChunk, 100);
+		};
+
+		window.speechSynthesis.speak(utt);
+	}
+
+	function togglePlay() {
 		if (!supported) return;
 
-		// 1. CRITICAL ANDROID FIX: Synchronous Cancel
-		// We must cancel before doing anything else to clear the audio stack.
-		window.speechSynthesis.cancel();
-
-		// Handle Toggle Logic
+		// 1. If currently speaking (or buffering), PAUSE
 		if (speaking && !paused) {
-			log("User Paused");
-			window.speechSynthesis.pause();
+			log("Pausing...");
+			window.speechSynthesis.cancel(); // Must cancel to stop current chunk immediately
 			paused = true;
 			return;
 		}
 
+		// 2. If Paused, RESUME
 		if (paused) {
-			log("User Resumed");
-			window.speechSynthesis.resume();
+			log("Resuming...");
 			paused = false;
+			speaking = true;
+			speakNextChunk(); // Restart from current index
 			return;
 		}
 
-		// 2. GET TEXT
+		// 3. START NEW
+		log("Starting New...");
+		window.speechSynthesis.cancel();
+		
 		const text = getText();
 		if (!text.trim()) {
-			log("Error: No text found");
+			log("No text found");
 			return;
 		}
 
-		// 3. SETUP UTTERANCE
-		utterance = new SpeechSynthesisUtterance(text);
-		
-		// Get voices synchronously - don't await!
-		const voices = window.speechSynthesis.getVoices();
-		
-		// Android Preference: "Google US English" > Any US English > Default
-		const voice = 
-			voices.find(v => v.name.includes("Google US English")) || 
-			voices.find(v => v.lang === "en-US") || 
-			voices[0];
-
-		if (voice) {
-			utterance.voice = voice;
-			// Keep rate normal on mobile to prevent artifacts
-			utterance.rate = 1.0; 
-			log(`Selected: ${voice.name}`);
-		}
-
-		// 4. EVENT HANDLERS
-		utterance.onstart = () => { 
-			log("Audio Started"); 
-			speaking = true; 
-			paused = false; 
-			startKeepAlive();
-		};
-
-		// @ts-ignore
-		utterance.onend = () => { 
-			log("Audio Ended"); 
-			cleanup();
-		};
-
-		// @ts-ignore
-		utterance.onerror = (e) => { 
-			log(`TTS Error: ${e.error}`); 
-			cleanup();
-		};
-
-		utterance.onboundary = (event) => {
-			const len = text.length;
-			if (len > 0) progress = (event.charIndex / len) * 100;
-		};
-
-		// 5. FIRE IMMEDIATELY (Same Call Stack)
-		log("Sending to Engine...");
-		window.speechSynthesis.speak(utterance);
-		
-		// Fallback UI updater in case onboundary fails (common on Android)
-		if (progressInterval) clearInterval(progressInterval);
-		progressInterval = setInterval(() => {
-			if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
-				// Artificial progress if the event isn't firing
-				if (progress < 99) progress += 0.1;
-			}
-		}, 100);
-	}
-
-	// The "Poker" - Fixes Chrome Android 15-second timeout
-	function startKeepAlive() {
-		if (keepAliveInterval) clearInterval(keepAliveInterval);
-		
-		keepAliveInterval = setInterval(() => {
-			if (window.speechSynthesis.speaking && !window.speechSynthesis.paused) {
-				log("Keep-Alive Poke");
-				window.speechSynthesis.pause();
-				window.speechSynthesis.resume();
-			}
-		}, 10000); // Poke every 10 seconds
-	}
-
-	function cleanup() {
-		speaking = false;
+		chunks = splitIntoChunks(text);
+		currentChunkIndex = 0;
+		speaking = true;
 		paused = false;
-		progress = 0;
-		if (progressInterval) clearInterval(progressInterval);
-		if (keepAliveInterval) clearInterval(keepAliveInterval);
-		// Don't cancel here or it cuts off the very end
+		buffering = true;
+
+		// Tiny timeout to let the cancel() settle on Android
+		setTimeout(speakNextChunk, 50);
 	}
 
-	function stop() {
-		if (typeof window !== 'undefined') {
+	function cancel() {
+		if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
 			window.speechSynthesis.cancel();
-			cleanup();
+			speaking = false;
+			paused = false;
+			buffering = false;
+			currentChunkIndex = 0;
 			log("Stopped");
 		}
 	}
+	
+	// Helper to calculate progress percentage across all chunks
+	$: progressPct = chunks.length > 0 
+		? Math.min(100, Math.round((currentChunkIndex / chunks.length) * 100)) 
+		: 0;
+
 </script>
 
 {#if supported}
 	<div data-tts-exclude class="my-8 flex items-center gap-4 p-4 rounded-xl border border-neutral-200 dark:border-neutral-800 bg-white/50 dark:bg-neutral-900/50 backdrop-blur-sm not-prose shadow-sm">
 		<button 
-			on:click={speak}
+			on:click={togglePlay}
 			class="flex-none flex items-center justify-center w-12 h-12 rounded-full bg-neutral-900 dark:bg-white text-white dark:text-neutral-900 hover:scale-105 active:scale-95 transition-all shadow-md touch-manipulation"
-			aria-label={speaking ? "Pause" : "Listen to post"}
+			aria-label={speaking && !paused ? "Pause" : "Listen to post"}
 		>
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
 				{#if speaking && !paused}
@@ -200,11 +190,17 @@
 		<div class="flex-1 flex flex-col gap-1.5 min-w-0">
 			<div class="flex justify-between items-center">
 				<span class="text-xs font-bold uppercase tracking-widest text-neutral-500 dark:text-neutral-400">
-					{speaking && !paused ? 'Playing...' : 'Audio Article'}
+					{#if speaking && !paused}
+						Reading chunk {currentChunkIndex + 1} of {chunks.length}
+					{:else if paused}
+						Paused
+					{:else}
+						Audio Article
+					{/if}
 				</span>
 				{#if speaking || paused}
 					<button 
-						on:click={stop}
+						on:click={cancel}
 						class="text-xs font-medium text-red-500 hover:text-red-600 transition-colors uppercase tracking-wider p-2"
 					>
 						Stop
@@ -215,10 +211,10 @@
 			<div class="h-1.5 w-full bg-neutral-100 dark:bg-neutral-800 rounded-full overflow-hidden">
 				<div 
 					class="h-full bg-blue-600 dark:bg-blue-400 transition-all duration-300 ease-linear"
-					style="width: {progress}%"
+					style="width: {progressPct}%"
 				></div>
 			</div>
-			
+
 			{#if debugMode && debugLog}
 				<div class="text-[10px] text-red-500 font-mono mt-1 truncate">
 					Debug: {debugLog}
