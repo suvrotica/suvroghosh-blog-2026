@@ -10,6 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251018-WA0017(1).jpg" />
 
+<TTS />
 
 I had all my books and notes and paper assets moved from my North Calcutta flat to this godforsaken termite‑ridden South Calcutta prison, this sunbaked asbestos‑top shithole adjacent where I now live surrounded by mediocrity and motorbike exhaust—but in one of the damp trunks, nestled between a bound set of books and my old Jadavpur University BCSE notebook where I’d drawn an amoeba like it had jaundice, I found it—
 

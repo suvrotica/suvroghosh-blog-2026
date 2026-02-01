@@ -11,6 +11,9 @@ color: "orange"
 <Pi src="IMG-20251015-WA0011(1).jpg" />
 
 
+<TTS />
+
+
 
 The first philosophical fart I remember—a proper throat-scorching, morally ambiguous fart, not the comic “oops” variety that sneaks out like a confessional monk—happened at exactly 3:14 a.m. in a concrete toilet that sounded like it was built over a disused artillery range, and smelt like Nietzsche’s armpit after a sauna orgy with Hegel and a durian fruit. 
 

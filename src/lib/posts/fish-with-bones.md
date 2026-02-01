@@ -12,6 +12,8 @@ color: "black"
     caption="fish with bones"
 />
 
+<TTS />
+
 There is a particular kind of silence that falls over a Bengali dining table when the fish arrives, the way a courtroom quiets when the judge enters, or a railway platform pauses just before the train finally pulls in; even the ceiling fan seems to develop a conscience and stop rattling for a second, as if it too respects the ritual of *maachh* and *bhaat*.
 
 On my childhood table the fish would appear in a metal bowl, steaming, aromatic, and sinister, like a friendly-looking visiting relative who you know is going to ask about your exam marks. The adults would lean in, eyes trained in the ancient art of deboning, their fingers moving with the unhurried efficiency of veteran surgeons; my role, as a scrawny, easily-traumatized boy, was to sit very still and attempt not to die.

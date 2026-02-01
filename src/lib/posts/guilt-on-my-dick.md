@@ -10,6 +10,8 @@ color: "red"
 
 <Pi src="IMG-20251103-WA0002(1).jpg" />
 
+<TTS />
+
 There was once a period in my life—I say period like it’s some fucking Gregorian calendar note and not a sticky, shame-glued loop of days where I jerked off every 4 hours and still felt like I’d stolen something from Jesus’s lunchbox—that I believed, genuinely, that sperm had a soul, and not in the stupid poetic way where people use words like “life essence” while lighting incense and weeping into their chakras, but like a courtroom drama where every ejaculation was a literal goddamn execution of millions of unborn choirboys.
 
 And I didn’t make this shit up on my own. No, I had help.  

@@ -14,6 +14,9 @@ thumbnail: "/images/IMG-20251212-WA0009.jpg"
     caption="The last cup of tea"
 />
 
+<TTS />
+
+
 The last cup of tea of the year always tastes like it has been reheated in a municipal office—lukewarm, slightly resentful, faintly metallic, as if the spoon has opinions. The cup sits on my table with that brown ring the world’s laziest cartographer leaves behind, a little coastline of tannin marking where I have been and where I am too tired to wipe. Outside, South Calcutta does its usual December performance: a damp cold that isn’t cold so much as insistent, a fog that feels like a bored clerk stamping everything “PENDING,” and a chorus of scooters coughing like old men clearing their throats before announcing they are still alive.
 
 It is 31 December 2025, which sounds like a date from a science-fiction paperback printed on cheap paper that yellows faster than my optimism. The calendar says end of year; my body says end of attention span; my mind says, as always, end of something, begin of something, who cares, the kettle is whistling again. Somewhere in the building a child shrieks and someone laughs too loud, as if volume could bribe time into being generous.

@@ -13,6 +13,9 @@ color: "black"
 
 <Pi src="IMG-20260112-WA0007.jpg" />
 
+<TTS />
+
+
 
 
 The taste of iron is still there when I burp, which I do involuntarily now, a kind of body-fuck tic like I’m half-geyser, half-gas chamber, courtesy of some ulcer maybe or just the slow rot of my hippocampus that smells like molten pennies and drying piss under a hostel bed where someone jerked off in 1997 and forgot the tissue under the mattress for ten years.

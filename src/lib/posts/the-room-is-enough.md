@@ -13,6 +13,9 @@ color: "black"
     caption="The room is the size of a small argument"
 />
 
+<TTS />
+
+
 The fan is doing its usual North-Indian-December imitation of a bored bureaucrat: technically present, spiritually absent. The room is the size of a small argument. One cot that creaks like an old man’s knees, one table that has survived tea spills, pen leaks, and the occasional fist (mine; always mine; I have never once punched the world, only the furniture that couldn’t run away). The walls are that municipal off-white that looks like it was invented to lower ambition. Somewhere outside, a scooter coughs itself into the evening, and the air carries that familiar Kolkata perfume—diesel, damp, frying oil, and a hint of somebody’s incense trying to bribe reality into being less filthy.
 
 This room is enough.

@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20251029-WA0014(1).jpg" />
 
-
+<TTS />
 
 It begins with the smell, as all truly national tragedies must—the distinct double-whammy of temple cow diarrhea layered over a drain-choked gutter of half-fermented government idli—**a nose-fisting fog of fermented piss and cumin-tinted neglect** that wraps around your ankles like a nationalist uncle trying to bless your feet with turmeric and caste anxiety, while somewhere nearby, a man named Chintu is shitting behind a broken Ambedkar statue, his turds slow-cooked by the ambient 47°C heatwave and the vague hum of a nearby LED-lit Ram Mandir playing Bluetooth bhajans off a Chinese speaker made from parts stolen from a failed Chandrayaan lander.
 

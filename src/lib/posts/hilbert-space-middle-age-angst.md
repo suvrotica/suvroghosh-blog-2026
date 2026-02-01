@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20251014-WA0020(1).jpg" />
 
-
+<TTS />
 
 I woke up today with my balls sticking to the inside of my thigh like two boiled eggs in a damp sock stapled to a rotting mango leaf, and before I could even scratch out the crusted sleep-piss from my eye corners, the gas cylinder delivery dickhead downstairs was honking like a syphilitic duck with a panic disorder, as if a country of 1.4 billion won’t shart itself to death if his iron chariot of subsidized petroleum isn’t applauded like motherfucking Vamana descending from heaven on wheels.
 

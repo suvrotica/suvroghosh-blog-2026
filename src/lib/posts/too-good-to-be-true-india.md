@@ -11,6 +11,9 @@ color: "orange"
 <Pi src="IMG-20260112-WA0000.jpg" />
 
 
+<TTS />
+
+
 
 I was crouched over the plastic Western toilet that pretends to flush like a real one but gurgles like a drowning buffalo, peeling off the moist strip of toilet paper that had somehow fused into my ass crack like those laminated barcode stickers they put on LPG cylinders, wondering—not for the first time—if I had rectally absorbed yet another fungal infection from the last time the water tank wasn’t cleaned and the pipe brought in liquid diarrhea straight from the Hooghly.  
 

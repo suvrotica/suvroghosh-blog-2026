@@ -14,6 +14,7 @@ color: "orange"
  caption="a colorfully attired fat lady enjoys a phallic treat"
 />
 
+<TTS />
 
 January in Calcutta arrives like a damp clerk with a rubber stamp and a personal grudge, and this year it came foggy and forlorn and cold in that uncharacteristic way that makes the city look briefly European—if Europe were run by a committee of exhaust pipes—so I woke up with my mouth tasting like I’d been French-kissed by a bus depot, my nostrils crusted with a paste made of particulate matter and yesterday’s bad decisions, and my stomach already doing that anxious municipal gurgle, the kind that says, good morning sir, we have scheduled your humiliation between tea and toothbrush.
 

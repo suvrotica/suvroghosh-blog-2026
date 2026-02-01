@@ -14,6 +14,7 @@ color: "orange"
  caption="A winter morning, a porcelain tribunal, and one very confident turd."
 />
 
+<TTS />
 
 It arrived like a slow-moving landslide with ambitions, the kind of thing you don’t so much *produce* as *witness*, and I knew something had changed in the republic of my body because my asshole felt briefly like it was being asked to participate in infrastructure, like the Kolkata Municipal Corporation had come knocking in the night and said, hello sir, we’d like to widen this road by two lanes, please cooperate, and my toilet bowl, that chipped white colonial relic, sat there in the cold January air like a judge who’s seen too much, and then—there it was—this colossally huge dump, a disturbingly solid, thick, almost architectural turd that looked less like shit and more like a dark, wet brick with a future, and I stared at it the way you stare at a train accident you caused with your own intestines.
 

@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251020-WA0071(1).jpg" />
 
-
+<TTS />
 
 I woke up with a sour-metal taste in my mouth, which I first assumed was the consequence of my own nocturnal gastric reflux—my middle-aged Bengali esophagus now rebels against gravity itself, hurling up half-digested acid memories at 3:42 AM like a vengeful ex who can’t shut the fuck up—but no, this wasn’t mine, not my flavor; this was stranger, greasy, meatier, like someone else’s vomit had taken a lazy detour through my sinuses.
 

@@ -16,6 +16,9 @@ published: true
     layout="block"
 />
 
+<TTS />
+
+
 Try as we might, no amount of synchronized ass-clenching, grimacing, or existential constipation has ever convinced humanity to shit simultaneously. Nope, we're hopelessly unsynchronized in all things—happiness, sadness, bowel movements, even the damned philosophical profundities we crap out at 3 a.m. after too much chili vodka. You see, while some schmuck in Brussels may be wiping his ass clean with a monogrammed silk tissue at the zenith of his morning glory, a hapless Calcutta sucker (yours truly) is clenching tighter than Scrooge's purse strings, choking on the constipated misery of unfulfilled dreams and partially digested lentils.
 
 Think about it (or don’t—what’s it to me?): When Socrates waxed philosophical, downing hemlock shots like a cocky college kid challenging mortality to beer pong, somewhere a Neanderthal ancestor was probably crouched behind a rock, furrowing a low unibrow, trying to decipher why eating berries made the back exit so goddamned fiery. Wisdom and diarrhea, my friends, have always marched side by side, like obnoxious Siamese twins joined at the sphincter.

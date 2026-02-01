@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251019-WA0016(1).jpg" />
 
-
+<TTS />
 
 The last time I heard “We Shall Overcome” in the wild—live, as in belched through human throats and not a nostalgia-embedded .mp3 buried in some forgotten RSS feed of revolutionary karaoke—I was squatting next to a drain in Dhakuria, trying to piss discreetly behind a wall someone built just high enough to hide a leaking stomach but not a soft dick. The smell was half-chlorine half-raw mango vomit and all of it reminding me, in one warm splash, of the school assembly mornings where we sang that very same song—our little brown mouths wide open, eyes on some rusty flag, our balls not yet dropped and our minds not yet fertilized by the pungent guano of modern Indian despair.
 

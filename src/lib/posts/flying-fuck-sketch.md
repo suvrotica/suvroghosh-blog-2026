@@ -14,6 +14,8 @@ color: "black"
  caption="My hand drew what my soul has become: a chubby airborne nothing with wings and no dignity."
 />
 
+<TTS />
+
 I don’t give a flying fuck about anything anymore, I said, and then I drew what was left of my dignity: my phimosis-turtledick, complete with angry little wings and those aren’t feet, those are my balls—two speckled, itty-bitty nuts squatting under the ballooned disaster of foreskin like guilty witnesses at a suicide. The thing looked like a depressed paratha that got molested by a squid and grew antennae just to express its despair. I call it “the Flying Snout.” My mother used to say God gives everyone a gift. I got this: a diseased diddly squat dick. 
 
 Sometimes drawing my dick with phimosis—snout and all, with those saggy little lychee-nuts stippled like acne constellations—feels like the only goddamn thing that soothes the bipolar screech inside my skull; the act of turning shame into absurdity, of giving contour and ink to the thing that mocks me in every mirror and every memory, becomes almost meditative. The repetition of dotting the sack, each grainy pore a tiny fuck-you to the day’s spiral, quiets that pissy, antagonistic inner voice that wants me dead or humiliated. It’s like I'm tattooing the madness out in slow motion, one speck at a time, onto a cartooned organ that’s betrayed me for decades—but here, on paper, it’s mine, ridiculous and therapeutic, like whispering a fart joke into a padded cell.

@@ -14,6 +14,8 @@ color: "blue"
     caption="a fatty"
 />
 
+<TTS />
+
 I drew it on my Samsung S9 Ultra tab in Sketchbook, using that slightly apologetic digital charcoal brush that always looks like it wants to be a real pencil when it grows up, and I wrote, in the top margin with my best imitation of certainty: “INDIAN BMI is exponential.” The woman beneath the words is sweating, ballooned, staring up at the ceiling as if the ceiling might offer a dividend or a diagnosis, and when I finished, I just sat there for a while with the stylus hovering, not because I was proud of the drawing—this isn’t the Sistine Chapel, it’s my rented room with a fan that wheezes like an elderly bureaucrat—but because the sentence felt true in that irritating way truths do, the way an EMI feels true when it arrives every month whether you’re in the mood for arithmetic or not.
 
 Exponential, yes. That’s the word we use when we want to sound mathematical about a phenomenon that feels like it’s getting away from us—like EMI. Monthly installments. The polite, middle-class leash around your ankle. You buy a refrigerator, you buy a scooter, you buy a little rectangle of “future security,” and then the future arrives as a bill with compound interest and a smile. BMI, in this telling, is the body’s EMI: you don’t exactly *choose* it so much as you sign up for a lifestyle, a food environment, a work rhythm, a stress chemistry, and then discover that the payments are due in flesh.

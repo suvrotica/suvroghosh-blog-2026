@@ -15,6 +15,8 @@ published: true
 
 <Yt src="https://youtu.be/CDO8DeyAUYY?si=f9OSCDL5Ob0lVoZV" />
 
+<TTS />
+
 I can still smell the dry paraffin of those old candles—white, brittle, cheap. Not birthday candles, not votive candles, but the ones that came wrapped in translucent wax paper and sat unused in kitchen drawers till a power cut, a death, or Christmas. They were never straight. Always bent. Like they'd survived a heatwave or just couldn't be arsed to stand upright. My mother would straighten them, laboriously, over boiling water. Not for Jesus, no—we were Hindus with no formal affiliation—but for the ritual. Or the aesthetic. Or maybe just because that’s what you did with cake in the eighties.
 
 The cake, too, was terrible. Compressed, brick-like, with candied fruit bits that looked like someone had murdered a jellybean. It came in a box with cartoon holly and tasted of dry rum, wet sugar, and the stale morality of Western import. But we laid it out, like an offering, in front of that shoddy, fluorescent-lit framed reproduction of Leonardo da Vinci’s The Last Supper—a cheap offset print stuck in a landscape frame. The Apostles, in that version, looked vaguely Bengali and hungry.

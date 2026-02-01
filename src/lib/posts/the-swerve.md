@@ -15,6 +15,9 @@ published: true
     caption="The Nature of Things by Lucretius, with a coral-orange dotted, constellation-like pattern framed by a border; a red ribbon bookmark peeks out at the bottom; the book rests on a patterned blanket that keeps me warm"
 />
 
+<TTS />
+
+
 The copy I have now is brand new—Amazon.in, midnight-blue cloth, coral-orange dots scattered across the cover like atoms pretending to be constellations, a tidy border holding the whole swarm in place, and a little red ribbon bookmark poking out like a private joke. It even smells new: paper, glue, that faint chemical cleanliness of something that hasn’t yet been handled by despair. I still open it carefully, though, because my last library didn’t slowly die on shelves; it was taken in Hyderabad in one greedy gulp—fifteen thousand books hauled from the US, plus the intimate junk that makes a person administratively real (passport, underwear, the whole inventory of identity). Ever since, every “new” book arrives with the quiet, unreasonable solemnity of a replacement organ.
 
 Lucretius. Titus Lucretius Carus. *De Rerum Natura.* A title that sounds like it should come with a brass plaque and a dead moth, but inside it’s oddly unceremonious: atoms, void, the blunt fact that the world is made of stuff moving in space, and that most of our spiritual drama is a kind of nervous overinterpretation of thunderstorms.

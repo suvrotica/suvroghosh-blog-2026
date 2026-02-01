@@ -13,6 +13,9 @@ color: "red"
     caption="A map of India pretending to be an elephant, carrying history and a personality disorder."
 />
 
+<TTS />
+
+
 The drawing is a map of India pretending to be a patient suffering from severe elephantiasis, which is already a very Indian sort of metaphor—cartography as disease, nationalism as pet animal—except this man is not majestic. He’s lumpy in his balls where it hurts the most, semi-bored, vaguely constipated, like he has been asked to carry history on its back and has responded by developing a personality disorder.
 
 I drew him with the kind of impatient tenderness you reserve for your own worst habits. Not hatred, not pride—more like that exhausted, familiar disgust you feel when you catch yourself doing the same idiotic thing again, the brain reaching automatically for the same cheap comfort, the same inflated narrative, the same little lie that keeps you warm but makes you stupid. My hand did the outline first, that confident stroke that always arrives before the confidence is deserved, and then I had to go back and dirty it up—stippling, shading, giving him that swollen, lived-in misery—because even caricature needs biology. Even satire needs flesh.

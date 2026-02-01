@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251013-WA0006(1).jpg" />
 
-
+<TTS />
 
 It started with a boil on the inner thigh that refused to burst. Just sat there, a sullen fat cunt of a thing, like an overfed maggot curling under skin, half-pus, half-regret, located inconveniently where my balls meet my loneliness. A humid fucking canyon of grief. I would scratch it at night, through the pantyhole I’d torn open just enough to tickle but not enough to pleasure, because pleasure these days is more hypothetical than Pluto’s planetary status and about as cold.
 

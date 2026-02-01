@@ -14,6 +14,7 @@ color: "green"
 
 <Pi src="IMG-20251013-WA0005(1).jpg" />
 
+<TTS />
 
 It began, like all great questions in my life do, while I was attempting to take a shit at 4:17 a.m., ass cheeks cold against the cracked ceramic toilet seat that pinches like a jealous ex-wife when the hinge slips, my intestines fighting entropy in looping, recursive waves—half gas, half philosophical lamentation, all treason—and I was thinking about the Collatz Conjecture.
 

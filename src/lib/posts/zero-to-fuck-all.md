@@ -10,6 +10,9 @@ color: "blue"
 
 <Pi src="IMG-20251017-WA0005(1).jpg" caption="Zero to Fuck-All, with proud decimal placement." />
 
+<TTS />
+
+
 
 There’s a dry yellow pustule right at the inner crease of my thigh—not quite groin, not quite leg, exactly where your sweaty fold meets the ass-tang airlock—and I discovered it while scratching at my balls during a particularly stupid YouTube video on "Why India Was Once the Most Advanced Civilization." Yes, I know, my algorithm is a sadist with a sense of irony.
 

@@ -10,6 +10,8 @@ color: "orange"
 
 <Pi src="IMG-20251214-WA0001.jpg" />
 
+<TTS />
+
 The first thing I notice every morning is the taste, that coppery, battery-lick taste at the back of the tongue like I’ve been chewing on old coins all night, which is how my brain announces it has rebooted into the same busted operating system again, fans whirring, error logs scrolling, no splash screen of optimism, just the smell of stale sweat trapped in boxers that have lost their elastic and their will, and a bladder that feels like a petty tyrant tapping a baton against the inside of my pelvis, reminding me that biology does not give a fuck about my metaphysics.
 
 Hope, if it ever lived here, packed its bags quietly, didn’t slam the door, didn’t even leave a note, just vanished like electricity in Calcutta during summer, leaving the ceiling fan spinning down in stages, thup-thup-thup, until the air goes thick and accusatory and you’re left lying there counting cracks and thinking about how even the fan had more follow-through than you ever did.

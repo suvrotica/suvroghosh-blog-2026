@@ -14,6 +14,8 @@ color: "orange"
 />
 
 
+<TTS />
+
 The QR code on the counter has a small tear through its left edge, like a paper cut in the face of modernity, and I’m standing there with my phone held at an angle that makes me look either devotional or faintly criminal—light hits the screen, the camera refuses to focus, the shopkeeper watches me with the patient contempt of a man who has seen literacy fail in many forms, and behind me a teenager is doing the same payment in one effortless thumb-flick, as if money has always been a polite beam of light that travels through the air when summoned.
 
 The payment goes through.

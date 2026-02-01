@@ -12,6 +12,8 @@ color: "green"
   import ComplexPlane from '$lib/components/viz/ComplexPlane.svelte';
   </script>
 
+<TTS />
+
   Mathematics is often taught as a static subject—formulas on a chalkboard, dead ink on paper. But complex analysis, the study of functions of complex numbers ($z = x + iy$), is inherently visual.
 
   Because a complex function maps a 2D plane to another 2D plane, we need 4 dimensions to graph it properly. Since we don't have 4D screens yet, we use **Domain Coloring**.

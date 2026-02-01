@@ -13,6 +13,8 @@ published: true
     caption="The cat brain is a suspicious customs office, not a camera."
 />
 
+<TTS />
+
 Imagine you’re trying to understand a city by standing on one rooftop with a pair of binoculars and a notebook, and the city is *the brain*, and the neighborhood you care about is the back of your head where vision gets turned from “photons” into “meaning.”
 
 That’s roughly where David Hubel and Torsten Wiesel decided to set up camp in the late 1950s and 1960s, except their binoculars were microelectrodes thin as guilt, their city was the cat’s visual cortex, and their notebook was a loudspeaker that went *pop… pop… pop…* every time a single neuron fired. (Neuroscience, at least the fun parts, often begins with: “Let’s listen to one cell and see what makes it excited.”)

@@ -14,6 +14,8 @@ color: "orange"
  caption="I bend down and inspect the melodramatic turds I have shit and inhale the incense of madness like a madman" 
  />
 
+ <TTS />
+
 It happens while I’m on the toilet, because of course it does, because my life has a gift for staging its little tragedies with my pants around my ankles, knees wide like a surrender flag, the winter air leaking through the bathroom window smelling of diesel and damp concrete and that particular Kolkata December perfume—smoke, dust, old marigolds, someone burning garbage like a devotional offering to the god of “not my problem”—and my phone is warm and greasy in my hand, and my body is doing its slow, humiliating work with the enthusiasm of a government clerk: stamp, sigh, push, postpone.
 
 The comment lands with the weight of a dead mosquito: “This is least of the pollution problems, can’t breathe in December.”

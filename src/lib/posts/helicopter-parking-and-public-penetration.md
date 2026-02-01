@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251020-WA0070(1).jpg" />
 
-
+<TTS />
 
 There’s a very particular way your asshole flinches when someone’s flaccid, probably fungal-damp crotch presses up against it in a bus queue near Esplanade, not maliciously, not erotically, just a tragicomic inevitability—like pigeon shit on Gandhi’s head or WhatsApp forwards about turmeric curing brain tumors—some things just are, and your sphincter learns early to cope by disassociating like a Victorian ghost child.
 

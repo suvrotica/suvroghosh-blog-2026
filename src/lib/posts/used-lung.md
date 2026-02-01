@@ -13,6 +13,10 @@ color: "black"
     caption="NRI in India is a small grubby meal"
 />
 
+
+<TTS />
+
+
 The air feels like used lung.
 Not metaphorically. Literally like somebody has already inhaled this batch, coughed wetly into it, added a light seasoning of burning plastic and stale diesel, and passed it along to me out of neighborly sadism. My chest this morning has that familiar tightness, as if some bureaucrat of respiration has suddenly decided I’m exceeding my quota of oxygen molecules per capita and quietly shut one window of the alveolar office. The AQI app, that little digital horoscope of mortality, has been hovering around 260 here in the so-called boondocks, which is the polite way of saying “still technically Earth, yet with decorative additions borrowed from industrial Mordor.”
 

@@ -13,6 +13,7 @@ import Yt from '$lib/components/blog/YouTube.svelte';
 import Yc from '$lib/components/blog/YtCredit.svelte';
 import Dl from '$lib/components/blog/Doggerel.svelte';
 import Cp from '$lib/components/viz/ComplexPlane.svelte'; 
+import TTS from '$lib/components/blog/TTS.svelte';
 `;
 
 /**

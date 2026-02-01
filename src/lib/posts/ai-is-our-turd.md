@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20260114-WA0005.jpg" />
 
-
+<TTS />
 
 You ever squat on the shitter so long that your asshole goes numb but your mind goes sharp, sharper than your father’s belt on your adolescence or your mother’s passive-aggressive guilt on your ambition? Yeah, that's where this begins. Right between two clenched cheeks and one slippery betrayal of the colon. I'm perched like a mangled baboon on a porcelain time machine, shitting what might be the most honest metaphor this fuckall civilization has to offer: **AI is the turd**, the proud, shiny, algorithmic loaf we’ve been laboring to squeeze out after decades of outsourcing, PowerPointing, and fucking ourselves blind in fake boardrooms reeking of gutka breath and Wi-Fi radiation. But it’s not just a turd. It’s a goddamn **boomerang turd**, coming back in high-def to fuck the nostrils of every chai-drenched coder who thought BPO was a stepping stone to CEO instead of a cul-de-sac to obsolescence.
 

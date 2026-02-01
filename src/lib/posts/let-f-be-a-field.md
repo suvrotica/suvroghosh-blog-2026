@@ -12,6 +12,8 @@ published: true
     // Pi is auto-imported by svelte.config.js
 </script>
 
+<TTS />
+
 The first time I remember seeing the sentence “Let $F$ be a field” I had the same feeling you get when you walk into an American kitchen and there’s already a tray of ice cubes sitting there like a small, polite miracle.
 
 Not because ice cubes are deep. Because they’re *assumed*. They’re infrastructure. They’re the silent background music of expectation: water is cold, toilets flush, there is paper, there is soap, there is a mechanism by which your body’s humiliations can be processed and forgotten.

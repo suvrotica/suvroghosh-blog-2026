@@ -14,6 +14,7 @@ color: "red"
  caption="Seven: the holy number that keeps showing up like a fart in an elevator."
 />
 
+<TTS />
 
 The first thing you notice about the number 7 is that it won’t stay in its lane, it doesn’t behave like a normal, respectable integer, it walks into your life like a cocksucker relative at a wedding—uninvited, loud, smelling faintly of stale paan and certainty—so there I am in South Calcutta, the great concrete hospice of ambition, sweating through my vest like a leaking water tank, stomach doing that slow, ominous churn that means either gas or disaster, and someone is on WhatsApp again with a forward, a fucking forward, with seven emojis and seven blessings and seven steps and seven planets and seven days and seven promises and seven sacred somethings, and I can *feel* my body getting angry before my mind even finishes reading, like my intestines are the first rationalists in the room.
 

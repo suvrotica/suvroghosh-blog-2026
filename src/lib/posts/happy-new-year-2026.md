@@ -13,6 +13,8 @@ published: true
     caption="The belt starts moving."
 />
 
+<TTS />
+
 At 11:58 p.m. I was watching the time on my smartphone—its clean, backlit digits pretending to be objective, like a bureaucrat in a freshly ironed shirt—when the whole house joined in anyway: the cold pressing in through the window seams, the distant cough of a scooter that refuses to die, the dry scrape of someone dragging a plastic chair across concrete, and, from somewhere in the neighborhood, the first premature cracker—because Bengalis cannot wait for anything, not trains, not revolutions, not enlightenment, not even midnight.
 
 Years on antipsychotic meds for bipolar have also done this quiet, untheatrical thing to my insides: they’ve sanded down the peaks and filled in the valleys until nights like this arrive and… nothing arrives with them. No lift, no warmth, no anticipatory shimmer—just the observation that other people seem to be extracting joy from these battered themes, the same annual script with different dates, while my bookish bipolar brain watches it the way you watch a street magician when you already know the mechanism: mildly curious, mostly tired, and aware that the real problems are still sitting in the corner like unpaid bills. The firecracker extravaganza, meanwhile, isn’t “celebration” so much as a public health experiment conducted by amateurs; it’s perfectly plausible that I—and many others—will start the new year with a wheezing cough, or worse, because nothing says auspicious beginnings quite like deliberately turning your own neighborhood into a short-term respiratory ward.

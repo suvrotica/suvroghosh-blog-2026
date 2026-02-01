@@ -13,6 +13,9 @@ published: true
     caption="Matrix multiplication is, at heart, composing transformations"
 />
 
+<TTS />
+
+
 The first time a matrix product really hit me in the gut—not the exam kind of hit, the existential kind—was not in school, or college, or even during those GRE years when I was pretending to be a serious man of numbers.
 
 It was in my late forties, at a cheap wooden table in a decaying North Calcutta room, under a ceiling fan that made a sound like a pensioned-off helicopter, when I realized that my entire life could be written as a very sad dot product.

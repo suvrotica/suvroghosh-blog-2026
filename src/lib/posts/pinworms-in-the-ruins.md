@@ -14,6 +14,8 @@ color: "orange"
  caption="Night falls, dignity follows, then something microscopic starts a protest march."
 />
 
+<TTS />
+
 
 At 2:17 a.m. my body makes a small, humiliating announcement, not with a trumpet but with an itch, a specific itch, the kind that has a street address, the kind that doesn’t politely knock on your shoulder but grabs you by the ass and says, wake up, baba, there’s a tiny white committee meeting happening at your anus and they have a full agenda. But no, it's not Trump and his white MAGA sycophantic stooges, these have much less avarice and won't fuck up the world order. 
 

@@ -15,6 +15,8 @@ src="IMG-20251207-WA0029.jpg"
 caption ="I sat up" 
 />
 
+<TTS />
+
 This morning my pillow looked like it had hosted a small, private blizzard—white flecks, grey grit, the occasional black comma of something that might be dandruff or might be the soot from yesterday’s city, which has learned to crawl indoors the way certain relatives do: without invitation, with entitlement, and with a long memory for corners you forgot existed.
 
 <Yt src="https://youtu.be/JLFIdQHQK4E?si=ldvH77jiDUh5DpWF" />

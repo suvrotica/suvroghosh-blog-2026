@@ -14,6 +14,8 @@ published: true
     caption="The mattress is on the floor because I have, for years now, been running an experiment in 'minimal viable dignity'"
 />
 
+<TTS />
+
 The mattress is on the floor because I have, for years now, been running an experiment in “minimal viable dignity,” and the results are in: dignity is not a thing you can bootstrap from dust and lint and a phone with a cracked screen.
 
 December in Kolkata arrives like an old clerk with a stamp—thunk, thunk, thunk—approving every pollutant, every bad decision, every damp wall, every lungful of brown air, every unacknowledged life. The city goes into its winter trance, the inversion cap settles like a greasy lid on a pot, and we all simmer gently in our own exhaust while pretending it’s “pleasant weather.” It is pleasant, yes, in the same way a sedative is pleasant—quieting, flattening, reducing you to one long resigned exhale.

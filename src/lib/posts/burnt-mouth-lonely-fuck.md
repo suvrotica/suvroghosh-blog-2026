@@ -10,6 +10,8 @@ color: "orange"
 
 <Pi src="IMG-20260116-WA0007.jpg" />
 
+<TTS />
+
 It starts with the tongue. That fat fucking traitor. 
 
 Not the poetic tongue, not the mother tongue, not even the "I bit my tongue so I don't offend that limp-dicked committee of yes-men" tongue. No. I mean the wet, hairy, always-slightly-furred-like-a-hamster's-backside bastard curled inside my mouth, tasting nothing these days except morning bitterness and a suspicious iron tang like licking an old AA battery that spent too long in your cousin’s TV remote during load-shedding in the ’90s.

@@ -16,6 +16,8 @@ published: true
 <Yc />
 <Yt src="https://youtu.be/Z1zgrgstVAw?si=gz19kVM8dgze4btY" />
 
+<TTS />
+
 The pigeonhole principle is one of those bits of mathematics that feels like it should be illegal: it’s so obvious you think it can’t possibly *do* anything… and then it strolls into a proof like a bored uncle at a wedding and solves the whole problem with one sentence.
 
 ## “What” it says (in plain human)

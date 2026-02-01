@@ -13,6 +13,9 @@ published: true
     caption="exhausted concentric commentary on my existence"
 />
 
+<TTS />
+
+
 The plastic chair outside the tea-stall has a hairline crack that opens like a tiny mouth whenever I shift my weight, as if the chair itself is doing a small, exhausted concentric commentary on my existence—*tsk, tsk, another middle-aged Bengali man applying pressure where he has no business applying pressure*—and the stall-owner, in a vest that used to be white in some earlier geological era, is stirring my tea with the devotion of a priest and the hygiene of an archaeologist. Beside his foot, an open drain performs its endless wet throat-clearing, a gurgle that isn’t quite water and isn’t quite air and is definitely not a metaphor but also, maddeningly, is nothing *but* metaphor if you have the curse of being the kind of person who sees symbols everywhere, even in sewage.
 
 This is South Calcutta’s boondocks, which is a phrase that should not exist—boondocks are supposed to be rural, and Calcutta is supposed to be a city, and yet here we are, an urban organism that keeps trying to grow new limbs while the old ones are infected, a metropolis that has learned to do *simultaneous arithmetic*: one part colonial boudoir, one part IT brochure, one part crumbling communist mural, one part religious loudspeaker, and eight parts “please don’t look closely at the plumbing,” like a family that bought a chandelier before paying the rent.

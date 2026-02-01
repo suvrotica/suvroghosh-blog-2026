@@ -10,6 +10,8 @@ color: "orange"
 
 <Pi src="IMG-20251212-WA0008.jpg" />  
 
+<TTS />
+
 There’s a special kind of betrayal that comes when your own ass doesn’t warn you. No sputter, no burble, no polite intestinal murmur like “Hey buddy, incoming.” Just—*pffffft*—a full-volume protest note from your asshole, unsigned, and you’re suddenly sitting in a dense mustardy fog, eyes watering, questioning every decision that led you to this point, which in my case was *eating fucking radish during Makar Sankranti*.  
 
 For the uninitiated, Makar Sankranti is one of those Indian harvest festivals that pretends it’s all about the Sun entering Capricorn and realigning your chakras or some such astrological cockbuttery, but it’s actually an excuse to make sweet things with jaggery, burn leftover furniture, and dump every cheap root vegetable into your already suffering gut in the name of "ritual purity." You eat sesame. You eat flattened rice. You eat sweets wrapped in sugar lies. And you fucking eat radish.  

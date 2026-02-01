@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20260112-WA0002.jpg" />
 
-
+<TTS />
 
 It started, as all good horror stories do, with my left testicle itching like it had developed its own nervous system and a grudge. I scratched, I confess, with the absentminded gusto of a man reading Thomas Hobbes and drinking leftover beer from the night before (warmed by room temperature and the comforting radiation of a broken fridge compressor), when I noticed something moving—not metaphorically, not emotionally, but *literally fucking crawling*—like a parasite with purpose, with a resume and a pension plan.
 

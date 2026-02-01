@@ -11,6 +11,9 @@ color: "orange"
 <Pi src="IMG-20251216-WA0018.jpg" />
 
 
+<TTS />
+
+
 
 The first thing I thought about when I read WR104 might go off and take us all out in a gamma-ray burst—was whether I’d be taking a shit when it hit.
 

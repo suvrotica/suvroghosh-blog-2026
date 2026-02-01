@@ -13,6 +13,9 @@ color: "black"
     caption="The ceiling fan wobbles like it’s trying to remember what “steady” used to mean."
 />
 
+<TTS />
+
+
 The ceiling fan is doing that tired, arthritic wobble again, like it’s trying to remember what “steady” used to mean back when it was young and believed in pensions, and below it my phone—its screen spiderwebbed in three places like a minor Greek tragedy—plays an 8K “foreigner walk” through some European old town where even the air looks lacquered.
 
 There are cobblestones. There are clean shadows. There are bakeries that smell, through the glass and pixels, like butter behaving itself. The camera glides as if the person holding it has never had to step over a puddle that is fifty percent rainwater and fifty percent the municipal government’s indifference. People in the video wear winter coats that seem stitched from optimism. Their streetlights are not so much lights as an ongoing public apology for darkness. My own streetlight outside is an intermittent religious experience: it works when it feels like it, which is also how our bureaucracy approaches basic services.

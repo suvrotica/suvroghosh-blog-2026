@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20251020-WA0068(1).jpg" caption="rust, piss, optimism" />
 
-
+<TTS />
 
 The smell hits first, always, a hot metallic piss tang with a note of wet cement and fried oil and something dead-but-not-committed-to-being-dead, the way a public stairwell smells at dawn when the city hasn’t decided yet whether it’s going to wake up or just lie there twitching, and I’m standing ankle-deep in a puddle that is neither rain nor sewage but some cuntish third thing invented by committee, watching a rebar skeleton poke through flaking concrete like bones through the ass of a starving cow, and my bladder does that traitorous clench where it wants to join the puddle out of solidarity, a worker’s strike in my own pelvis, because this is what solidarity looks like here: everyone leaks.
 

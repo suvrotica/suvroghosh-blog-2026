@@ -8,6 +8,9 @@ color: "blue"
 published: true
 ---
 
+<TTS />
+
+
 Somewhere between the loudspeaker bhajans, the WhatsApp forwards announcing that India invented Wi-Fi in the Mahabharata, and the commerce of selling “quantum healing” bracelets at South City Mall, there’s a skinny, half-forgotten man sitting cross-legged in the dust, quietly eating atoms.
 
 His name is Kaṇāda. Literally “atom-eater”. I am not making that up; *kana* is “particle, grain” and *ad* is “to eat”.

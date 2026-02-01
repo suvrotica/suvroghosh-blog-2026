@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251204-WA0002.jpg" />
 
-
+<TTS />
 
 The pigeon shat on my rice while I was still chewing.  
 I hadn’t even fucking started the second bite—lukewarm rice, cold dal, that tragic purgatory meal of a man who’s lost both money and meaning and yet persists in warming the fucking food like it’s not the third day of the same shit in the same aluminium bowl.  

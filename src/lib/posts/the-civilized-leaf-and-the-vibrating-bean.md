@@ -14,6 +14,9 @@ color: "orange"
     caption="Tea and Coffee"
 />
 
+<TTS />
+
+
 The terracotta *bhar* is sweating again, the way Kolkata sweats—earnestly, without shame, as if humidity were a civic virtue—and the chai seller has set it on a steel saucer that has survived more governments than I have, and more washing than is philosophically advisable. The cup is warm enough to forgive, rough enough to remind you that “authentic” once meant “made by someone with hands,” not “validated by a task force with letterhead.” I cradle it anyway, because this is what a city does to you: it makes you sentimental about objects that would, in a more hygienic universe, be politely retired.
 
 Across the road, a tram bell clinks like an old man clearing his throat before an opinion, and College Street is doing its daily business of selling secondhand certainty—textbooks with underlined sentences, political pamphlets with underfed conclusions, and the occasional earnest boy who thinks the universe is a solvable equation if he just buys the right guidebook. The tea is milky, aggressively sweet, designed not for subtlety but for survival. Somewhere in the steam is the whole infrastructure of Bengal: a beverage as a public utility, a cheap mood-stabilizer, a ritual handshake between strangers who do not trust their institutions but will, without thinking, trust boiling water and crushed leaf.

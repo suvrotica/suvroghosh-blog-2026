@@ -9,7 +9,7 @@ color: "orange"
 
 <Pi src="IMG-20251207-WA0011.jpg" />
 
-
+<TTS />
 
 My shit was floaty that day. Not the satisfying, firm-banana-type turd with its pride intact and a polite goodbye splash, but the bloated, cowardly floater that keeps skimming the surface like a shamed bureaucrat dodging indictment. 
 

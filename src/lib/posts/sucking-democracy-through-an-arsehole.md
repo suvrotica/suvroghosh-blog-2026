@@ -11,6 +11,9 @@ color: "orange"
 <Pi src="IMG-20260116-WA0003.jpg" />
 
 
+<TTS />
+
+
 
 It begins with me on the toilet, of course, where all democracy ends up anyway. A dry, constipated morning shit that refuses to come out like it’s negotiating a Rajya Sabha seat—bloated, theatrical, and stinking of dead promises. I’m hunched on the commode, bare-assed, boxer elastic digging into my thigh like the Indian Penal Code into free speech, sweating from the back of my neck like a brown bureaucrat’s taint on election day. My tea has gone cold. My intestines, however, have not. They’ve gone full Bhagat Singh: rebellious, noisy, and mostly misunderstood.
 

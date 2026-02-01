@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251221-WA0108.jpg" />
 
-
+<TTS />
 
 The first time I read about the Chinese Room, I was in my underwear—my threadbare, ball-cradling, perma-damp boxers, clinging like a desperate ex who won't accept the restraining order of a shower—and my ass was flat against the warm plastic of my fake-leather sofa (the kind that smells like betrayal if it gets too humid), a stubborn film of sweat forming a treaty with the fabric of my skin, a treaty that said *we're in this soggy motherfucker together* even if we both wish we weren’t.
 

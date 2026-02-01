@@ -14,6 +14,8 @@ published: true
     layout="block"
 />
 
+<TTS />
+
 The chalk in my hand is not romantic chalk, not the cinematic Cambridge chalk that arrives in little velvet-lined coffins like it’s a count who died in a duel; it’s the cheap, porous, slightly gritty Calcutta chalk that leaves a powdery corpse on your fingers and makes your dark T-shirt look like you’ve been hugged by a depressed ghost.
 
 The room is doing that winter thing it does here—closed windows, trapped breath, a faint smell of damp cement, and the low-grade melancholy of sunlight that can’t quite commit to being sunlight. On the table: a battered ruler with centimeter marks half-erased, a notebook with squares like a city grid designed by someone who hates joy, and a pen that writes only when it feels spiritually supported.

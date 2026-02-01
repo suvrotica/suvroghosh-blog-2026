@@ -10,6 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251021-WA0064(1).jpg" />
 
+<TTS />
 
 
 The first time I smelled a rotting human—probably human, might’ve been a goat, or one of those Calcutta dogs that looks like it gave up halfway through evolution and just decided to be both dead and alive until entropy sorted it out—was on the eastern bypass, not far from the flyover that’s always under construction like some ancient mythological punishment for believing in infrastructure.  

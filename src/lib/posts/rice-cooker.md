@@ -12,6 +12,9 @@ color: "black"
     caption="On top of a bullshit heap of miserable ruminations"
 />
 
+<TTS />
+
+
 The rice cooker clicks from cooking to warm with the calm finality of a judge who has seen too many cases and has stopped believing in anyone’s innocence, and in that tiny sound—plastic button, spring, little thermostat inside doing its obedient physics—I feel the day collapse into its usual shape: four walls, a ceiling that has the expression of someone who’s heard your excuses before, a floor that remembers every footstep like a resentful aunt, and me, thirty centimeters from a phone, pretending I’m “reading,” when really I’m grazing.
 
 Rice and dal and mustard oil, and tea. The holy trinity of not-dying. Not starving, not collapsing, not spontaneously combusting into a cautionary tale that would briefly entertain my neighbors before they returned to their serials and their God and their WhatsApp groups where everyone is a constitutional scholar, epidemiologist, and military strategist, all at once, all incorrect. The rice cooker is the closest thing this room has to a benevolent deity: it asks for nothing, it does its job, it doesn’t require me to abase myself in exchange for a miracle. I put in water, rice; it returns edible certainty. That’s the whole sacrament. No incense. No hypocrisy. No choir. Just starch.

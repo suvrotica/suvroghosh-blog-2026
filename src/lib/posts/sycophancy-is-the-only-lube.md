@@ -14,6 +14,9 @@ color: "red"
   />
 
 
+<TTS />
+
+
 
 The first thing I notice is the mouth, not my own—though mine is always involved—but the mouth in the drawing, puckered and obedient, the kind that says uff so holy to power or promise, the kind that leans forward with its tongue already wet, and my fingers smell of cheap tea and yesterday’s rice cooker steam as I stare at it in this fucking room with its peeling paint and fan that sounds like a dying mosquito, and I think yes, this is the country, this is the job market, this is the ladder, rung by rung made of lips and spit and a practiced nod that says sir sir sir as if saying sir enough times will turn piss into promotion.
 

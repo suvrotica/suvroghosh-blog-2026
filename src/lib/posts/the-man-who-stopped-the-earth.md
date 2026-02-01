@@ -15,6 +15,9 @@ published: true
     caption="Kolkata is accustomed to oddities"
 />
 
+<TTS />
+
+
 Kolkata is accustomed to oddities. The streets here are layered thick with the handbills of politicians, philosophers, and mystics, a papier-mâché geology of promises and revolutions. But perhaps no voice has been as persistently idiosyncratic as that of Kartick Chandra Paul.
 
 Paul is a graffitist less Banksy than Bruno, a man who turned the city's cracked walls into his personal blackboards for an eccentric cosmological declaration: the Earth stands still, and the Sun, contrarily, completes its yearly circumambulation around our world. To him, Galileo and Copernicus were not enlightened scientists but misguided navigators steering humanity away from cosmic truth.

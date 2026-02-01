@@ -14,6 +14,8 @@ published: true
     caption="Winged poems, once tweeting now stewing."
 />
 
+<TTS />
+
 Bengalis eat birds. Yes. Yes, my friend. Birds. Not *bird food*. Not sunflower seeds and safflower dreams and millet melancholia. Not peck-peck vegetarianism with beaky restraint. No. We eat birds, actual flappity-flaps, winged poems, once tweeting now stewing.
 
 Some cultures fly birds. Some cage them. Some revere them as messengers of God or metaphors in corporate PowerPoints. We marinate them in mustard, grind their bones into paste for *jhol*, and chew on cartilage with the same spiritual solemnity the Vatican reserves for wafers.

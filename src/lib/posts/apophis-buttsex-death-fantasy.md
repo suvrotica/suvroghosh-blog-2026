@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251027-WA0001(1).jpg" />
 
-
+<TTS />
 
 I was on the commode, shirtless, of course, and sweating from the nape like a goat in a pressure cooker, knees sharp as two guilted elbows folded upward and the bastard of a winter wind knocking on the broken glass in the bathroom's exhaust hole like a Stalinist typewriter above me, when I heard it again—Apophis.
 

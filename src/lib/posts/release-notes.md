@@ -13,6 +13,8 @@ published: true
     caption="Calcutta is getting into its Seasonal Hypocrisy Costume again"
 />
 
+<TTS />
+
 The new model announcement reaches me before the sunlight does.
 
 Not that there’s much sunlight left to reach this room; it arrives already tired, as if it has had to argue with the smog at every metre of its journey across Calcutta. I’m on the same dusty mattress on the same chipped mosaic floor, the same damp patch on the wall slowly evolving like a mold-based Rorschach test—except today my phone screen is filled with a grown man in a hoodie making an exaggerated surprised face, thumbnail text screaming:

@@ -15,6 +15,8 @@ color: "orange"
     caption="o amar moyna go"
 />
 
+<TTS />
+
 The first thing I misremembered this morning sitting inside a long power outage wasn’t birdsong or the municipal chorus of coughing scooters, but that low, steady bass-note you only get from large machines pretending to be calm—like a generator the size of a small apartment, humming behind a perimeter wall in New Town, the so-called cloud made audible as a vibration in my tea glass.
 
 Outside my own unfashionable fringe of South Calcutta, winter has that dry, bureaucratic light—pale, official, as if the sun has filed the proper forms in triplicate and will now shine in the approved wavelength band. I stood at the window with a steel tumbler warming my fingers, watching a thin line of smoke lean sideways over the rooftops, and my phone flashed an OTP like a tiny electronic sneeze. One-time password. One-time permission. One-time proof that I exist in the correct way, at the correct time, to the correct server.

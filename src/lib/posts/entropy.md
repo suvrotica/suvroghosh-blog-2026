@@ -13,6 +13,8 @@ color: "black"
     caption="I also wipe the Bengali book I am reading"
 />
 
+<TTS />
+
 The first thing I do some mornings—before tea, before the phone, before I allow the day to start selling me its bargains—is wipe the window ledge with an old cloth that used to be white and is now the color of resigned paperwork. I also wipe the Bengali book I am reading because it has accumulated a patina of soot even indoors, hermetically sealed. I finished the first story "chhobi" a muted Bengali romance (or maybe I misunderstood), I intend to read the next one. 
 
 The cloth comes away black. Not “a little dusty.” Not “needs cleaning.” Black as if I’ve been petting a chimney. And this isn’t a factory district, not some Dickensian montage with earnest men carrying sacks and coughing in solidarity; it’s just a lane in the south Calcutta boondocks where life is supposed to be ordinary, which is exactly the problem, because ordinary has become a slow intake of soot as a lifestyle, a daily sacrament administered by traffic, trash fires, diesel generators that cough like tubercular gods, and the general belief that the air is a free dumping ground because *it looks empty*.

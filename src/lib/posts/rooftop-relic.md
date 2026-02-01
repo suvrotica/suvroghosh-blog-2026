@@ -13,6 +13,9 @@ published: true
     caption="The thing is lying there like a failed idea."
 />
 
+<TTS />
+
+
 The thing is lying there like a failed idea.
 
 A length of bamboo—once proud, upright, useful, doing that honest blue-collar job of holding up other people’s dreams while they paint walls or pour concrete or erect yet another *miracle* of Indian real estate—now collapsed on my rooftop, split into long fibrous tongues, the skin flayed off, the guts exposed, the whole body turning into a small shit-brown confetti of rot. The sun hits it at a slant, which is the only glamour Kolkata ever grants anything: a brief chiaroscuro mercy before the next bus coughs its diesel prayer into your lungs.

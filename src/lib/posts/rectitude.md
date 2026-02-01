@@ -18,6 +18,8 @@ published: true
     layout="block"
 />
 
+<TTS />
+
 The bathroom is the smallest room in the house and, therefore, naturally, the most honest. It’s got that permanent, damp, lower-middle-class perfume: phenyl pretending to be cleanliness; rust pretending to be plumbing; an old plastic mug with its rim cracked like a tired smile; a tap that drips on its own schedule, like a government office with delusions of autonomy.
 
 There’s a thin window grille that looks out onto nothing in particular—some plaster, some moss, a bit of sky that has been filtered through other people’s dust—and in the early morning it throws a faint gray light onto the one true altar of the modern Bengali: the phone, balanced precariously on the edge of a bucket, glowing like a handheld prophecy machine, vomiting headlines into my retinas while my actual body is doing the oldest job on Earth.

@@ -13,7 +13,7 @@ color: "orange"
   caption="runs on ambition like a cheap generator" 
   />
 
-
+<TTS />
 
 I am sitting on the toilet at six in the morning, knees apart, belly hanging like a defeated sack of wet cement, waiting for the shit to decide whether it wants to be solid or philosophical, when it hits me—not the shit, the other thing—that there is absolutely nobody I want to tell this to, not the toilet part obviously, but the part where the body becomes the only audience left, the asshole its own confessional, the tiled bathroom a church with no god and excellent acoustics for farts.
 

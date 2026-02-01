@@ -13,6 +13,9 @@ color: "black"
     caption="The balcony rail is cold enough in December to feel like it has opinions."
 />
 
+<TTS />
+
+
 The balcony rail is cold enough in December to feel like it has opinions.
 
 Not grand opinions—nothing that would get a newspaper column—but small metallic judgments that seep into the skin when I lean my forearms on it and stare down at the little strip of South Calcutta street that pretends to be a road, the one where a cycle-van rattles past like a skeleton in a tin can, where the air smells like damp concrete, yesterday’s frying oil, and that peculiar winter Kolkata odor: smoke plus fog plus the sweet rot of leaves that never quite become soil because the city is too impatient to let anything finish its life properly.

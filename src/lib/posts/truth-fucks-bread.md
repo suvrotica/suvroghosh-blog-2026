@@ -10,6 +10,9 @@ color: "orange"
 <Yc/>
 <Pi src="IMG-20251212-WA0000.jpg" />
 
+<TTS />
+
+
 
 I was watching Sharad Sharma—ex-NDTV, one of the few still stupid-brave enough to point a camera at reality without licking anyone’s boots—reporting from Delhi where laborers were getting slowly ass-fucked by pollution, contracts evaporating, lungs turning into damp ashtrays, their stories spoken cleanly and then dropped straight through the cracks like coins through a torn pocket. And it wasn’t him I was thinking about—he’s fine, he’s hustling, he’s built himself a little life raft out of bandwidth and backbone—but about everyone else watching silently, the ones without the entrepreneurial reflex, the branding gene, the stomach for YouTube thumbnails and daily outrage. The people whose lives were shaped narrow and sharp by higher education and specialization, trained like instruments for a society that no longer needs the music—researchers, engineers, archivists, domain experts, the overeducated and underutilized—now fucked just as thoroughly as the daily-wage laborer, only quieter, cleaner, and therefore easier to ignore. In this kakistocracy, joblessness isn’t a phase, it’s rabid, and it doesn’t care whether you know quantum mechanics or just how to carry bricks; if your skill doesn’t convert directly into spectacle or scale, your story dissolves, undocumented, unmonetized, and un-mourned.
 

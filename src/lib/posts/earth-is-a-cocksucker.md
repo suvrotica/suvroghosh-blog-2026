@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251029-WA0011(1).jpg" />
 
-
+<TTS />
 
 There’s a kind of shit you take at 4:37 AM—the squelching, meteor-fart kind that’s neither diarrhea nor constipation but a strangely moral third category, a philosophical turd of alienation and unmoored guilt—just loose enough to suggest you’ve failed, but formed enough to remind you you’re still alive, for now—and it was precisely *while* I was extruding that shameful noodle of half-digested lentils and existential despair that I read, on the cracked greasy screen of my fingerprint-rubbed Android, that some aliens (yes, the real fucking extraterrestrials, not the BJP’s IT cell or Elon Musk on ketamine) had finally, after decades of our species ejaculating radio pulses into the galactic prostate, decided to *respond*, and what did they say?
 

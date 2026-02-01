@@ -8,6 +8,9 @@ color: "blue"
 published: true
 ---
 
+<TTS />
+
+
 Somewhere between my school diarrhea and my adult bipolar doomscrolling there was, of course, chemistry class, that noble enterprise where a bored teacher with halitosis pointed to a laminated blue-and-pink periodic table and told us, with all the gravitas of a government notification on onion prices, that Antoine Lavoisier was the “Father of Modern Chemistry.” What she did not tell us was that this particular father of chemistry was also a father of taxes, a part-owner of a delightful exploitative racket called the Ferme Générale, and that his head eventually parted ways with the rest of his person because the French revolutionaries were not very keen on nuanced performance reviews.
 
 Our textbook had the usual bullet point:

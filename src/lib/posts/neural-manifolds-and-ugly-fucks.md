@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251220-WA0028.jpg" />
 
-
+<TTS />
 
 
 Most of the people I’ve sketched on this blog—and I say this with the full knowledge that some of them might still be alive and capable of accessing WiFi—are, frankly, homely as fuck.  

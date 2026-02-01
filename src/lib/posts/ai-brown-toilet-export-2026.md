@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251023-WA0011(1).jpg" />
 
-
+<TTS />
 
 There’s a very specific type of smell that leaks from old AI labs—yes, *old*, they age fast, these fuckers—somewhere between coolant, sweaty jockstraps, and a mouse that died between the UPS batteries and decomposed into fur mush, and if you walk in just right on a mid-July afternoon in Calcutta, your nutsack sticking sideways to your thigh like two panic-stricken slugs trying to escape an oncoming PowerPoint, you’ll catch it in your nose, that scent, and know: *we are the janitors now, bitch*.
 

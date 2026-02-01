@@ -13,6 +13,9 @@ color : "orange"
 src ="IMG-20251220-WA0031.jpg" 
 caption ="The light on my phone" />
 
+<TTS />
+
+
 The light on my phone is the first thing to wake up, before I do. It lies there on the table like a small aquarium—blue, restless—full of manufactured currents. Next to it, my notebook is open to a page where I once tried to write a clean sentence and instead produced a tangle of arrows, half-words, and one sulky Bengali interjection—ধুর—that looks like a tiny animal curled up to die. 
 
 Outside, a scooter coughs awake. Someone drags a plastic chair across concrete—an ugly sound, but honest. The air smells of damp dust and reheated oil, and the day has that particular South Calcutta light: not sunshine so much as a pale administrative decision. I checked the last song I was listening to before I fell asleep; inappropriately, it was “raat akeli hai”—inappropriate, not because that’s what defines my thoughts, but because the night was far from empty. It was full of thoughts, and not the kind that you can masturbate with, but ones that drag in a miserable, questionable existence—mine. 

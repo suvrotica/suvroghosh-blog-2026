@@ -13,6 +13,9 @@ published: true
     caption="suck his fresh-from-the-urinal schlong like a lollipop."
 />
 
+<TTS />
+
+
 The fan in my room has developed a new sound. Not the old comfortable squeak that has been narrating my life since the Vajpayee years, but a kind of loose metallic chuckle, as if it has finally understood the cosmic joke and is now laughing at me, personally, while flinging stale winter air around this little room on the southern fringe of the city of joy. The TV in the corner, which is really an old Samsung S9 Ultra tablet with a cracked screen multipurposed for various uses, it's where all my sketches are drawn including the one used for this post, but now it's my TV and it's muted, the subtitles crawling across the bottom like a tapeworm of half-truths: MARKETS CHEER AI SURGE, TRUMP CAMPAIGN SAYS, JOBLESS CLAIMS, WAR, GROWTH, PATRIOTISM, “ATMANIRBHAR,” and whatever other talismanic syllables are required to keep the citizenry hypnotized between advertisements for fairness cream and low-interest EMIs.
 
 I am fifty, bipolar, unemployed, un-licked and un-licking, contemplating whether to get up and make tea or simply merge, molecule by molecule, with the mattress.

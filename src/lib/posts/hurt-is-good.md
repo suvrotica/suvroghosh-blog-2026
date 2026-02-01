@@ -15,6 +15,8 @@ published: true
     caption="Hurt is the last union worker still doing his job."
 />
 
+<TTS />
+
 The inverter does its little dying-goldfish beep and the tube light above my sink decides—after a ceremonial hesitation—to become a light. Not brightness, not cheer, just illumination, like a government form filled in correctly: yes, there will be photons, but don’t get sentimental about it.
 
 I’m standing there with my thumb pressed into the soft bruise of yesterday’s life—shin against the edge of a bed, knee against the corner of a table, ego against reality, take your pick—and the hurt blooms on schedule, punctual as a Bengali relative who has come to ask what I’m doing with my life. The body has this vulgar honesty. It doesn’t argue. It doesn’t negotiate. It doesn’t “contextualize.” It simply sends up a flare: *something is wrong here, boss.*

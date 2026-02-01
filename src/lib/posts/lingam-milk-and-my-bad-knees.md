@@ -13,6 +13,8 @@ color: "orange"
  caption="The white stream, the black stone, the old bargain: call it worship and nobody has to admit what they’re looking at."
 />
 
+<TTS />
+
 
 The milk hits the stone with a sound that isn’t a sound so much as a wet little agreement, a soft slap that says yes, yes, yes, this is what we came for, and the lingam sits there in its oiled black dignity—half polished by centuries of hands, half slick from yesterday’s leftovers—while the priest’s wrist performs the same circular motion my own life has been doing for fifty years: revolve, repeat, pretend it’s a new orbit.
 

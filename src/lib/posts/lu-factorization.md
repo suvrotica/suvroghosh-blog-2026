@@ -19,6 +19,8 @@ keywords: ["linear algebra", "matrices", "algorithms", "math"]
 
 <Yt src="https://youtu.be/QVKj3LADCnA?si=pFnGD1PHdrK5MbNj" />
 
+<TTS />
+
 ## What LU factorization is (the “what”)
 
 Take a square matrix $A$ (think: the coefficients in a pile of simultaneous linear equations) and rewrite it as a product of two triangular matrices:

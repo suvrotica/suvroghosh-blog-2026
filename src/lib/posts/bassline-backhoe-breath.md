@@ -18,6 +18,8 @@ color: "orange"
 
 <Yt src="https://youtu.be/7bGAwOogUfs?si=jywZEsEab3jzbC-s" />
 
+<TTS />
+
 The first thing you notice isn’t the sound, it’s the vibration—an invisible hand shaking the marrow of the building—followed by that particular Calcutta perfume of diesel breath and pulverized stone, as if someone is grinding a centuries-old courthouse into chutney right outside my door, and then the sound arrives properly, late to its own party, a hard metallic clank and the impatient stutter of a machine that does not understand the concept of “enough already.”
 
 They dug this road up before the pujas, made a big show of smoothing it, rolled it flat, gave it a ceremonial pat on the head, and now—because nothing here is allowed to remain finished for more than the lifespan of a mango—they’ve reopened it, peeled it back like a scab, exposed the tender underlayer of incompetence, and placed the broken asphalt in heaps that resemble black cake left out in the sun, the kind of cake you serve only to enemies or to committees.

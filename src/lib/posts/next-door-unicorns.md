@@ -10,6 +10,8 @@ color: "orange"
 
 <Pi src="IMG-20251030-WA0003(1).jpg" />  
 
+<TTS />
+
 The first time I pitched, really *pitched*, as in stood under a tubelight halo in a room that smelled like wet socks and stale Domino’s, sweating through my ass and shirt at the same time, I was showing off a working HIE prototype written in real code with real data from real clinics—not demo bullshit, not lorem ipsum dashboards, not some Harvard dropout’s fever dream about democratizing diagnostics via WhatsApp chatbots and goat farts.
 
 It was *real*. I had spent years in that shit—years. Wrestling with HL7 like it was a wounded street dog that kept biting back, trying to make sense of blood panel structures from Bihar, doctor notes written in SMS shorthand, prescription handwriting that looked like post-stroke Sanskrit. Built adapters, studied standards, wrote Python and SQL until my fingers cracked. I’d worked in the systems. I knew where the bodies were buried—digitally and literally. Half the EHRs in this country are duct tape over COBOL with a JPEG stapled to it.

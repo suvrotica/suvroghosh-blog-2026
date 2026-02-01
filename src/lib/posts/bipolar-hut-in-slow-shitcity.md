@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251212-WA0005.jpg" />
 
-
+<TTS />
 
 It begins with the sound of my own piss ricocheting off the rusted inner wall of the aluminum bucket I use because the goddamn flush doesn’t work, hasn’t worked in months, and every plumber I call looks at me with that Kolkata-smirk of condescension mixed with faint horror—because I’m a lone, angry, brown middle-aged fart-snorting man who speaks too precisely and always sounds like he’s going to punch someone for using the word “chakna”—and they disappear after the first inspection, probably assuming I molest cats or hoard biscuits or collect the fingernails of electricians.
 

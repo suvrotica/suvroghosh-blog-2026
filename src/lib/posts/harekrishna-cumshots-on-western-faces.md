@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20260112-WA0005.jpg" />
 
-
+<TTS />
 
 There’s a specific, oily type of rash you get when your boxer shorts are too tight, your balls are sweating through monsoon moisture, and you made the life-altering mistake of attending one of those Iskcon fuckfests on Park Street where the air smells like burnt cow shit and expired ghee smeared on the necks of poor German tourists who thought they were attending a mindfulness workshop but instead got spiritually face-fucked by a 300-pound Bengali fraud with two teeth, chanting “Govindaaaaa” while making eye contact that could sterilize mice.
 

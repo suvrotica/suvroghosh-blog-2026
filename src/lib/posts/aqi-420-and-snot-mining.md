@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20260106-WA0000.jpg" />
 
-
+<TTS />
 
 I woke up choking on a yellow booger so sharp it could’ve been a baby katana, lodged like a fucking ceramic dagger somewhere behind the uvula, which, in case you're not up on your bodily trivia, is that obscene little punching bag at the back of your throat designed specifically by some ancient god of humiliation to bob like a drunk pigeon every time you gag, dry-heave, or try to look dignified during a Covid swab.
 

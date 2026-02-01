@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251207-WA0006.jpg" />
 
-
+<TTS />
 
 There’s something uniquely fucking humiliating about sweat pooling in the folds between your sagging belly and your half-deflated balls, like a stale gravy of salt and despair fermenting quietly in the crease of the universe that no God has visited since the Cambrian explosion.
 

@@ -12,7 +12,7 @@ color: "orange"
 
 <Pi src="IMG-20251018-WA0012(1).jpg" />
 
-
+<TTS />
 
 The smell came first, always does, that warm iron-and-ammonia tang that rises from a Calcutta latrine at dawn, when the city is still half-asleep and the shit hasn’t yet been trampled into modernity by a million sandals, and I’m squatting there with my knees creaking like colonial furniture, anus hovering over a porcelain bowl that has seen more despair than any philosopher, phone in one hand, cock useless and dangling like a sad afterthought, and my brain—this treacherous sack of electrified tapioca—whispering its daily sermon: you do not matter, you have never mattered, you will never matter, now push.
 

@@ -10,6 +10,7 @@ published: true
 
 <Pi src="IMG-20251101-WA0003(1).jpg" caption="I contain 300 millilitres" /> 
 
+<TTS />
 
 I wake the way a submarine wakes to a sonar ping—no dream, no poetry, just a clean internal alarm: a complaint has been filed, stamped URGENT, and escalated directly to the dictator in charge (which is not, despite my many books and my long practice of overthinking, “the mind”; it is a wet, muscular sack with the diplomacy of a traffic horn).
 

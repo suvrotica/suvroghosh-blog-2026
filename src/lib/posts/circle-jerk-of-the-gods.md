@@ -16,6 +16,8 @@ color: "blue"
   caption ="Madhava" 
   />
 
+<TTS />
+
 There’s a leaky fucking faucet in my bathroom, a persistent cunt of a drip that lands like clockwork on the already peeling cheap vinyl floor mat I bought from a roadside stall near Gariahat—it’s now grown a small constellation of black moldy spores in the shape of what I swear to fuck looks like the Malayalam word for “sin,” or maybe “sine,” I wouldn’t know, my south Indian vocabulary consists mostly of food and porn subtitles.
 
 The bathroom stinks of male defeat, like half-assed detergent froth mixed with the piss of someone too tired to aim and too old to give a shit, and every time I squat to shit—a stubborn daily process that feels like reverse-engineering calculus using potatoes and regret—I stare at that drip, that slippery, uninvited metronome of entropy, and I think of Madhava of fucking Sangamagrama.

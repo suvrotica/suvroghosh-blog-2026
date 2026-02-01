@@ -15,6 +15,9 @@ published: true
     caption="Winter begins as a taste, a dry, metallic, pre-cough tang"
 />
 
+<TTS />
+
+
 The first thing winter does in my part of the city is not temperature, not poetry, not “season,” not any of that calendar-brochure nonsense where a sweater is an accessory and fog is a vibe. Winter begins as a taste. A dry, metallic, pre-cough tang on the tongue, like you licked a fan blade in a government office and got rewarded with tetanus and a brochure about national pride.
 
 I wake up before the light has fully made up its mind, and the room looks like a photograph that someone left in a basin of dishwater—everything softened, edges surrendering. The window grille is a black geometry lesson against a pale outside. Somewhere a kettle whistles like a tiny animal being politely murdered. There’s the faint smell of last night’s cooking oil—mustard, stubborn and sharp—and beneath it, the bigger smell, the civic smell, the *shared* smell, the smell we all pay for with our lungs: smoke without a source, burning without a flame, a communal incense offered to no god except the god of “chalta hai.”

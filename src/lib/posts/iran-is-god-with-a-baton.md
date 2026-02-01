@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20251215-WA0008.jpg" />
 
-
+<TTS />
 
 The first thing I notice is the **smell**, because humiliation always announces itself through the nose before the brain gets a vote, a warm ammoniac fog rising from my own boxers as I squat on a chipped ceramic throne that has seen more ideological regimes than Iran has had slogans, the fan above me clicking like an asthmatic metronome, my knees trembling not from age—though yes, age too—but from the simple animal dread that somewhere on the planet men with batons and beards and uniforms are beating the shit out of other men and women because God told them to, or the flag did, or the Constitution in drag, and here I am evacuating breakfast with the dignity of a dying goat, scrolling news with one hand, wiping with the other, trying not to smear history across my thigh.
 

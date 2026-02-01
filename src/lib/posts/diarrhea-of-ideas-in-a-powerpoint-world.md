@@ -13,6 +13,8 @@ color: "red"
   caption="soft ideas, hard floors" 
   />
 
+  <TTS />
+
 It starts the way everything honest starts, which is to say with my gut making threats it can absolutely carry out, a low wet mutter like a municipal pump failing at 3 a.m., that exact moment when you realize this isn’t a fart you can negotiate with, this is a full-blown hostile takeover, and I’m standing there with my phone in one hand, pants already halfway down like a defeated flag, reading another one of those chirpy AI optimism screeds while my asshole is drafting its own manifesto about leverage, urgency, and irreversible timelines.
 
 The shit comes fast, hot, opinionated, a real thought leader, splattering the bowl with the confidence of a TED speaker who’s just discovered metaphors, and in that precise moment—legs trembling, knees doing that cowardly knock—I think, yes, this is the correct bodily response to most things people say about the future: immediate evacuation.

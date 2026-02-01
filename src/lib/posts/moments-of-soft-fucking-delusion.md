@@ -13,7 +13,7 @@ color: "orange"
 <Pi src="IMG-20260104-WA0008.jpg" />
 
 
-
+<TTS />
 
 The day starts with my tea pan screaming like it’s being exorcised, metal on flame, water threatening to mutiny, while my head does that familiar pre-dawn thing where it inventories every mistake I’ve ever made and a few I haven’t gotten around to yet, and I’m standing there scratching the inside of my elbow like a nervous chimp, thinking not about sex or love or any of the usual pornographic lies we sell ourselves, but about whether the song I’m about to play will shut this fucking noise off for five minutes or just rearrange it into a more melodic form of suffering.
 

@@ -17,6 +17,7 @@ color: "blue"
   caption="Even my shits follow a syllabic rhythm—Laghu, Guru, Laghu, Guru, splat."
 />
 
+<TTS />
 
 It started with a fart.
 One of those high-pitched, suspiciously eloquent ones that sounds like it’s quoting Latin and accusing you of crimes at the same time—philosophical fart, not just a random butt burp but a prelude, a warning, a fucking Sanskrit overture. Laghu. Guru. Laghu. Prrrrt. Splat. Matrameru, motherfucker. The Mountain of Cadence, rising right out of my ass.

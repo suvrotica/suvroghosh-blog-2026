@@ -15,6 +15,8 @@ published: true
     caption="Marriage is a sort of mutual domestication"
 />
 
+<TTS />
+
 While marriages aren't made in heaven, the fact is that they are indeed made, or made up. That should be a consternation to anyone who can think, but happily, we live in a time where thinking is gladly unpopular.
 
 <Yt src="https://youtu.be/TEzVLLbwAdY?si=e-Rt-DxJkctj4X7T" />

@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20251216-WA0010.jpg" />
 
-
+<TTS />
 
 I once fished a half-alive mouse out of my electric oven with the long plastic handle of a toilet brush, the kind you’re not supposed to put in your ass unless it’s Tuesday and you’ve properly lubricated the ego first, and it twitched like a burnt vagina—smoking slightly, tail curled like a fat rice noodle dropped in a pan too early, eyeballs one last pleading twitch away from invoking the gods of fuck-you-this-isn't-fair, and what did I do? I screamed, flung it into a bucket half full of dishwater and turmeric-scabbed utensils, and slammed the lid shut like I was sealing some ancient Bengali curse.
 

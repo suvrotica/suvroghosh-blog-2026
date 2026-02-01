@@ -12,6 +12,8 @@ published: true
     caption="I’ll make america a fuck again"
 />
 
+<TTS />
+
 <Dl>
 
 As a hero, I kidnapped the moustachioed Maduro,

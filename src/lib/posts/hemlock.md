@@ -12,6 +12,8 @@ color: "black"
     caption="A democracy of hemlock"
 />
 
+<TTS />
+
 There is a particular kind of Calcutta evening when the air itself feels like a conspiracy. The ceiling fan above my bed is chopping it into hot, lazy slices, the television in the next room is having a coronary about “democracy in danger,” and somewhere in the lane outside, a scooter horn is being leaned on by someone who clearly believes sound pressure alone can reorganize traffic patterns and maybe the constitution while it’s at it. It smells faintly of frying fish, sweat, cheap incense, and the exhaust of a nation trying very hard not to think too much.
 
 On the screen, some anchor with hair like a plastic helmet is screaming about “the great rightward sweep of the nation,” about how this is either the golden age of Bharat or the end of the republic, depending on who has paid for the studio lights that month. The current incumbents are being described as if they were either Vishnu’s twelfth avatar or a gang of cartoon supervillains. I am lying on my bed in North Calcutta in my half-torn ganji, glancing between the TV and the damp patch on the wall that has grown, hydra-like, over the years, and thinking: this is all very theatrical for a game that is rigged by design.

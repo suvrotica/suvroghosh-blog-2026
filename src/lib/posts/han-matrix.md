@@ -13,6 +13,8 @@ published: true
     caption="A small grid of stubborn facts"
 />
 
+<TTS />
+
 The bamboo skewers came in a little brown paper packet that had already started to go translucent in the corners, the way Kolkata humidity insinuates itself into everything—paper, pride, your plans for the day—until it all looks a bit damply apologetic, like it’s been caught doing something minorly shameful.
 I tipped the skewers onto my table—my table being a long-suffering slab that has held laptops, unpaid bills, half-read books, a mug with the fossilized ring of a thousand teas, and more existential regret than any piece of furniture deserves—and they made that dry, papery clatter that bamboo makes when it’s pretending it’s not a plant. 
 

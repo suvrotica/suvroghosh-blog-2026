@@ -14,6 +14,8 @@ color: "orange"
     caption="The mirror me"
 />
 
+<TTS />
+
 The mirror in my bathroom has the matte patience of a government file. It’s not even properly a mirror anymore, more like a reflective rumor: the silver backing has blistered in constellations, the edges have gone sepia, and if I lean too close I can see my breath briefly cloud it like a small, private monsoon. The light is cruel in the way cheap tube-lights are cruel—flat, municipal, without the decency of shadow—so the face that arrives is not an event but a verdict: tired skin, hollowing under the eyes, the mouth set in that permanent Bengali skepticism that looks like annoyance even when it’s just… thinking.
 
 And yet the mind doing the looking—this is the problem, this is always the problem—shows up in the mirror wearing an old, overconfident shirt from the 1980s, sleeves rolled, hair still obedient, the whole internal posture of a boy who believes adulthood is a crisp suit you step into one fine day, like a Bollywood montage, and then you simply start earning respect and cholesterol. *Pollyanna*, yes—let’s call it that, because the word itself sounds like a plastic doll you could buy at New Market and regret by evening. The mind is still auditioning for the role of “bright young man,” while the face has been promoted without consent into “middle-aged uncle who has opinions about everything.”

@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20251221-WA0029.jpg" />
 
-
+<TTS />
 
 The first thing I felt was my spine grinding against the floor like an old toaster plugged into a dying Soviet outlet, crackling faintly, heating nothing. I was lying half-naked in nothing but torn boxers that smelled like regret and too many reheated egg curries, legs twitching like a bastard cockroach mid-exorcism, one testicle dangerously close to slipping out like a perverted escape artist, a juggler with no audience. There was piss in my bladder, sour and urgent, but the distance to the toilet felt like the fucking Silk Road and I was Marco Polo with a prolapsed disc.
 

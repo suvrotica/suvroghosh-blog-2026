@@ -14,6 +14,9 @@ src ="IMG-20251228-WA0079.jpg"
 caption = "AQI 420 nationwide" 
 />
 
+<TTS />
+
+
 # Delhi AQI
 
 I am watching Gul Saxena singing "Raat ke Humsafar" on YouTube not because she’s Lata Mangeshkar (though she sings well), but because she’s an eerily close look-alike of my ex-wife—who, the last time I can hold her face still in memory, looked like a young Runa Laila.

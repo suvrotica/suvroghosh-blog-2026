@@ -15,6 +15,8 @@ color: "orange"
     caption="People are more spooky, disembodied head in statistical shirts"
 />
 
+<TTS />
+
 The cup is chipped at the rim—an old, thick, black thing that once pretended to be elegant, back when my family still believed in “sets” (tea set, dinner set, moral set), when my mother would align crockery like soldiers and my father would align principles like bank ledgers, and now the cup lives in exile with me on this unfashionable southern edge of the city where the air smells of damp concrete, cheap phenyl, and the kind of ambitious garbage that arrives in plastic and never really leaves. This was in two cup set that my sister had gifted me many years ago, and this one survived death like me. 
 
 I run my thumb over the chip every morning, not because I’m sentimental, but because the body likes data: the brain takes one small roughness and says, here, a fact you can trust. The cup will cut you if you drink carelessly. The kettle will whistle when it’s ready. The newspaper will lie in predictable ways. These are solid. These are physics. These are not people.

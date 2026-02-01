@@ -11,6 +11,9 @@ color: "orange"
 <Pi src="IMG-20260115-WA0002.jpg" />
 
 
+<TTS />
+
+
 
 There was once this cockfaced municipal candidate, khadi-shirted, Gandhi-topi tilted like an erection after an accidental thigh brush, sweat rings under his armpits shaped like the map of Greater Bengal if you squinted and held in a fart, standing on a broken dais in front of a borrowed mic (which smelled like fermented curry spit and rusted dreams), pointing up to the sky with the same hand he had absolutely scratched his ass with, proclaiming: **"Vote for me, and I will give you that star."**
 
