@@ -13,6 +13,14 @@ color: "orange"
 
 <TTS />
 
+The joy of pixels is a kind of civic religion now. They carry their miracles in their palms—rectangles of glass holier than thou and definitely holier than me. They wear their earbuds like talismans, crouch at bus stops in that peculiar prayer posture—head bowed, neck bent like a wilted lotus stalk—witnessing Hanuman in HDR, flying across a CG sky with tail elongated like a Sanskrit footnote, smashing problems that entire departments of the CPWD, PWD, and a thousand acronyms of failure couldn’t untangle with decades of budget and bureaucratic constipation. All in Dolby Atmos. In traffic.
+
+Me, I stand outside this temple. Not out of pride. Just a quiet biological revulsion. Something about sacred monkey avatars doing helicopter dick moves through the air while a bass-boosted Bhajan remixed by DJ Chintu thuds through the city’s diesel-scented breeze makes me want to fart loudly and disappear into the next open drain.
+
+Because the trouble is, the same glass rectangles are also portals to madness. One moment they’re beaming an eight-armed god cleaving demons while riding a tiger through rainbow fire. The next, they’re live-streaming a mutton shop being mobbed because someone said the animal had the wrong kind of childhood. These aren’t movies, they’re mood swings. And the people consuming them aren’t just viewers. They’re combustible. You can’t tell if that glint in their eye is awe or rage. The same thumb that hit “Like” on a saffron meme about cow purity can punch your nose flat for ordering a steak at the wrong time of day.
+
+So I watch from a safe distance. Not because I’m above them. Because I’m scared of them. Because in this new pantheon of pixelated piety, even a sneeze in the wrong octave might be mistaken for a minority conspiracy. I don’t own an 8K screen. But I have 20/20 vision and a very healthy fear of mobs. So I mostly stay inside the safety of my own hideous hideout. 
+
 The first sound every day is the groan of my bowels impolitely screaming that it is time to release something ancestral, something curled and crusted in the pipes of my intestines like a small dark memory of colonial trauma, and the second sound—the one I like marginally better—is the pathetic rattle of my tea pan sputtering its alloy indignity on the old stain-ringed induction stove, which I press on, and then I wait, usually naked except for my hideously fraying boxers with elastic so tired it clings to me out of habit not hope, staring at the bubbles forming on the water’s edge like malignant hope, till it's ready for the dump of dust that is my overpriced, underpowered Darjeeling blend—a misnomer really, since what’s inside that plastic pouch smells less like hills and more like dead bureaucrats soaked in larceny, greed, tannin and shame.
 
 Two cups. Morning. Evening. Bookends to a life that never really got shelved.
