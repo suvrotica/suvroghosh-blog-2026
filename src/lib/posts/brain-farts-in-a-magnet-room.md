@@ -13,6 +13,20 @@ color: "orange"
 
 <TTS />
 
+People—and I include myself here with the accusatory precision of a constipated tax auditor poking through decades of unfiled receipts—get trapped in mindsets the way a low-IQ cockroach gets trapped in a greased-up Tupperware box: slowly, stupidly, and with legs still twitching like they’re auditioning for a remix of “Staying Alive.” These mindsets aren’t just the result of trauma or habit or childhood beatings meted out by emotionally constipated parents with sandal-shaped psyches—they’re, as Sapolsky now shouts with beard-fluffed certainty from his serotonin-stained mountain, *not even our fault*, because *free will is a fucking hallucination*, a cruel cosmic fart joke played by nature with a lopsided smile and a stopwatch.
+
+And yet, ironically, *because* there is no free will—because everything’s already been slotted, scheduled, pre-scripted in the gelatinous grey-goo machinery of our craniums—it feels even *more* like we’re in charge, like the armless crash test dummy feels like he’s piloting the Volvo, blissfully unaware he’s strapped in for a pre-ordained collision with fate and an insurance adjuster. This delusion of autonomy is why I beat myself up for *not* writing like a Nobel-winning bastard and instead ending up fishing, with all the dignity of a one-eyed sewer otter, in the muck-puddle of my mind for a thought, any thought, that’s "worthy" of publishing.
+
+Spoiler: most of them aren’t.
+
+In fact, what *does* float up from my inner swamp is so repetitive, so comically fecal, so defiantly bodily that I now suspect my corpus callosum is less a neuronal highway and more a toilet pipeline clogged with corn-speckled phrases and half-digested metaphors. Piss. Fart. Shit. Ass. Dick. Repeat. You'd think after years of reading every half-arsed philosophy book and groping my way through the turgid corridors of neuroscience I'd eventually graduate to something more refined—existential doubt perhaps, or colonial melancholy, or at least a half-decent rumination on love or death—but no, my thoughts, like a broken AI prompt with IBS, circle the same bowl. Over and over.
+
+Which is precisely what makes Sapolsky right. Because if I *could* choose, if I had even a spoonful of that mythical free will soup, I’d summon luminous revelations from the aether, I’d birth ideas with the precision of Gödel and the style of Bukowski—drunk and inconvenient—but instead all I get is another soggy fart of a thought, half-formed, smelling faintly of last night’s reheated chhola and dread. My inner generator isn’t intelligent, it’s probabilistic, biased, lazily sampling from its own prior output like an overfitted model trained on truck-stop graffiti.
+
+Even the randomness, I now believe, is rigged.
+
+Anyway—
+
 It starts, as it often does, with a fart—not a literal one this time, no glorious trumpet squeal from the hairy cusp of my reluctant arsehole, not the satisfying pelvic pop of a good sit-down release after misjudged street momo with a side of unrefrigerated chutney, no, not even the faint hissing coward fart of a man who's trying to ghost out his sins behind a whirring ceiling fan while squatting on a plastic chair in his underpants—but the mental equivalent, a moist, shapeless, undignified *thought-fart*, bubbling up from the sulphur pit of my skull where neurons spark like panicked rats chewing through electric wires in a godforsaken, underfunded Calcutta data center.
 
 And you want me to be *coherent*?
