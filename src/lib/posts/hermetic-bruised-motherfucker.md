@@ -50,6 +50,9 @@ There was this charming shitstain at a tea stall who, upon hearing me mention ph
 
 I stood there, stunned, holding my glass of overboiled sugary tannin piss, thinking, “This is why I stopped going outside.”
 
+And by the way plants do breathe in oxygen like us—that is, they fucking respire, not in the romantic moonlit way you might think, this isn’t some goth vampirism where chlorophyll becomes Nosferatu after sunset—no, respiration is a metabolic act of desperation they perform 24/7, like a sweaty accountant doing cost-benefit on a rotting balance sheet, it's just that it *shows* more at night because the other gig—photosynthesis, the one where they take in carbon dioxide and puke out sweet sweet oxygen—is entirely dependent on that glorious electromagnetic ejaculation from the sun, specifically in the blue and red wavelengths, because green (ha!) gets reflected like the plant’s way of saying “fuck this part of the spectrum” while the real work happens in chloroplasts with protein clusters like RuBisCO—yes, the single most prolific protein on the planet, also a world-class underperformer, a molecular shithead that’s bad at its job, confusing oxygen for CO₂ more often than a drunk uncle at a wedding grabbing the wrong tit—and all this means that when it’s dark, and the sun’s gone off to bleach the assholes of Australians, plants fall back on basic bitch respiration: sugar in, oxygen in, energy out, carbon dioxide farted like a biological backup generator running on banana peels and shame.
+
+
 My therapist—a woman who I suspect thinks Freud is a type of German yoghurt—told me I need to “reconnect with society.” Bitch, society *needs* a firmware update.
 
 I can’t be expected to keep interfacing with a civilization that genuinely believes cow piss can purify groundwater but somehow simultaneously thinks modern sanitation is a Western perversion.
@@ -105,8 +108,6 @@ Loneliness is a controlled lab experiment. Talking to people is like throwing yo
 You think I’m exaggerating?
 
 Try explaining the placebo effect to a man who believes that coriander water increases sperm count because his WhatsApp group “felt more vigorous” after drinking it.
-
-*
 
 In the end, I exist like a scratched CD in a world that’s all USB-C ports.
 
