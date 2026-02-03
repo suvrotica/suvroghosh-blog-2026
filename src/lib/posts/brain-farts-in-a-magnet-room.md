@@ -11,7 +11,7 @@ color: "orange"
 
 <Pi src="IMG-20260202-WA0006.jpg" />
 
-
+<TTS />
 
 It starts, as it often does, with a fart—not a literal one this time, no glorious trumpet squeal from the hairy cusp of my reluctant arsehole, not the satisfying pelvic pop of a good sit-down release after misjudged street momo with a side of unrefrigerated chutney, no, not even the faint hissing coward fart of a man who's trying to ghost out his sins behind a whirring ceiling fan while squatting on a plastic chair in his underpants—but the mental equivalent, a moist, shapeless, undignified *thought-fart*, bubbling up from the sulphur pit of my skull where neurons spark like panicked rats chewing through electric wires in a godforsaken, underfunded Calcutta data center.
 
