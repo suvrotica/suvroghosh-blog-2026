@@ -32,7 +32,7 @@ I don’t even believe in the meritocracy of art anymore. No merit exists. Only 
 
 I tried once—let me confess—to put color. A dab of red. Some ochre. I even googled “digital palettes that communicate melancholy”. Thirty seconds in, my entire colon rejected the attempt. My stylus slipped. The red bled. It looked like my tablet had its period. I took a screenshot and deleted it. I shit you not, I’ve had better color theory from maggi stains on my pillow.
 
-So black and white it is. Stark. Cheap. Forgiving. Like the moral spectrum of my relatives. Or the broadband package I steal from the neighbor who still thinks I’m a tuition teacher and not a sketch-addicted bipolar hermit making blog posts for an audience that doesn’t exist.
+So black and white it is. Stark. Cheap. Forgiving. Like the moral spectrum of my kith and kin, too proud to recognize a sketch-addicted bipolar hermit making blog posts for an audience that doesn’t exist, as one of their own. 
 
 And here’s the real kicker—some of my art isn’t half bad. Not genius. But not sewage either. A few squiggles look like pain. A few eyes look like longing. Some noses look like poorly rendered penises. But even that is honest. Unlike the curated nothingness of gallery babble, this is private shit. Like a well-formed turd—anonymous, smooth, uncelebrated—but undeniably real.
 
