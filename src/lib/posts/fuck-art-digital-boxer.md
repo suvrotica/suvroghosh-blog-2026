@@ -1,6 +1,6 @@
 ---
 title: "Fuck Art, I Have a Digital Tablet and Boxers"
-thumbnail: "/images/fuck-art-digital-boxer"
+thumbnail: "/images/IMG-20260204-WA0002.jpg"
 date: 2026-02-04
 description: "A rant about the commodification of art, old white oil painters, capitalist verbal diarrhoea, and why I sketch like a lonely bowel movement in black and white on a digital slab"
 category: 'personal'
@@ -8,9 +8,9 @@ published: true
 color: "orange"
 ---
 
-<Pi src="/images/fuck-art-digital-boxer" />
+<Pi src="IMG-20260204-WA0002.jpg" />
 
-
+<TTS />
 
 There's something inherently fishy—like two-day-old betki belly sitting warm on the marble counter—about big fucking art. Big canvas, big frame, big neck strain, big price tag. The kind of grotesquely sized oil monstrosities that require spinal surgery just to look at properly, usually loitering in rooms filled with artificially preserved humans pretending to be high on intellect but really just bloated with wine and invisible class farts. 
 
@@ -46,9 +46,4 @@ I post.
 
 I post like a man jerking off into the abyss. Hoping the void at least flinches.
 
-Today, I drew a man with a bird brain for a head. 
-
----
-
-2026-02-04
-```
+Today, I drew a man with a bird brain for a head. And because the air is so polluted I added a *biri* with an ashtray full of extinguished ones. This is what I call an early morning art fart. 
