@@ -86,6 +86,35 @@ When men god sing chants pooting in their pants,
 
 Female gods are forced to dance a divine twist. 
 
+---
+
+Girlie fatties carry the ungulate shit patties,
+
+Up the dick stiff ravines and hilly pass.
+
+The urinal of gods' the Ganges is there,
+
+Before it becomes men's gangrene and petty gas. 
+
+---
+
+It's pretty clean, it's pristine, sky-blue serene,
+
+A recipe for holy fatass chanting cheeky charm.
+
+Round and round, around this hippie-nipple mound,
+
+Traveling men trudge upward to promise rancor and harm.
+
+---
+
+"Oily and grease up your asshole me-lord please,
+
+Help us bring to fuck my neighbor this spring.
+
+In baskets of fruits Bhajan and belly-full,
+
+I'll vomit praises for you even when shitting." 
 
 
 </Dl>
