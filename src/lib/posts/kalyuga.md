@@ -76,5 +76,16 @@ Devotion to the job she worked nonstop,
 
 She fisted cows even though her sleep. 
 
+---
+
+Shiva only farts petty smelly global warming gas,
+
+Usually this is the crux of holy happening gist.
+
+When men god sing chants pooting in their pants,
+
+Female gods are forced to dance a divine twist. 
+
+
 
 </Dl>
