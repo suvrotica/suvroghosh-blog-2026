@@ -1,5 +1,5 @@
 ---
-title: "When someone squeezes your fucking balls"
+title: "When everyone squeezes your fucking balls"
 thumbnail: "/images/IMG-20260101-WA0015.jpg"
 date: 2026-02-06
 description: "An irritated, foul-mouthed meditation on agentic AI hype, collapsing white-collar dignity, and the unreliable plumbing of a human body that refuses to be automated."
