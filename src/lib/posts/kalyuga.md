@@ -72,9 +72,9 @@ With ten hands as Durga ten cow ass,
 
 She pulls hard turds from bovine rectums deep.
 
-Devotion to the job she worked nonstop,
+Devotion to the job she works nonstop,
 
-She fisted cows even though her sleep. 
+She fists cows even though her Ambien sleep. 
 
 ---
 
