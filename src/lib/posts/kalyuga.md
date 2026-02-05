@@ -16,29 +16,45 @@ published: true
 <Dl>
 
 Very prettily and whence I fart when tense,
+
 See me in the center—hangs a schlong.
+
 This, my dear, a Bengali feature lovely,
-Called tongue—is talkative and very long. 
+
+Called tongue—is talkative and very long.
+
 
 ---
 
 February is the month of change,
+
 In Sonagachhi, syphilis and gonorrhea bloom.
+
 Valentines and wilting dicks on the stage,
+
 With festivities, bootleg, ganjika and shroom.
+
 
 ---
 
 The Hindloo and Mostlame gods fight,
+
 All months of the year on Godi media heads.
+
 The government chucklefucks cheer prudely on—
+
 Surely insanity in a holy land needs many beds.
+
 
 ---
 
 It's so true, I tell you—Shiva’s testicles blue,
+
 From his high lair, AQI is unbreathable chewy air.
+
 Fartsy yogic chants, reunited venal underhands—
+
 I see in my shit stains the Kalyugic despair.
+
 
 </Dl>
