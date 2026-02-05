@@ -56,5 +56,14 @@ Fartsy yogic chants, reunited venal underhands—
 
 I see in my shit stains the Kalyugic despair.
 
+---
+
+Flabbergasted, hand shit crusted always Parvati,
+
+Was found fisting asshole for cowdung in hill cows.
+
+She had to cook for her many manly abdomens,
+
+It was a shitty pigsty her hillbilly silly house. 
 
 </Dl>
