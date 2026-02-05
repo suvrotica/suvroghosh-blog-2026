@@ -127,5 +127,24 @@ In baskets of fruits Bhajan and belly-full,
 
 I'll vomit praises for you even when shitting." 
 
+---
+
+Jingle bells none but dingleberries many,
+
+On the rancid pubis of the open god's arse.
+
+On goodly hindloo women's tits his semen,
+
+At the helm the steadfast fecund farce.
+
+---
+
+And by Shiva, why not like a mangy dog knot, 
+
+The penis of the god in lingam stone made. 
+
+Milk poured on penis daily to make more of the same silly, 
+
+Customs such make jealousy dazzle like jade. 
 
 </Dl>
