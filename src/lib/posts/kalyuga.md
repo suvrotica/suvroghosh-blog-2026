@@ -60,11 +60,11 @@ I see in my shit stains the Kalyugic despair.
 
 Flabbergasted, hand shit crusted always Parvati,
 
-Fisted asshole for cowdung of hill cows.
+Fists asshole for cowdung of Himalayan cows.
 
-She had to cook for her many manly abdomens,
+She has to cook for her many manly abdomens,
 
-It was a shitty pigsty her hillbilly silly house. 
+It is a shitty pigsty her hillbilly silly house. 
 
 ---
 
