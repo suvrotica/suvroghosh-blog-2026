@@ -14,8 +14,18 @@ published: true
 <TTS />
 
 <Dl>
+    
+With my pants down I wallow in shit brown, 
 
-Very prettily and whence I fart when tense,
+Truth in turds is what I truly goodly seek.
+
+But two balls deep age fifty and a creep,
+
+I am a bullshit blunt brown bengali freak.
+
+---
+
+Very prettily and whence, I fart when tense,
 
 See me in the center—hangs a schlong.
 
@@ -98,17 +108,17 @@ Before it becomes men's gangrene and petty gas.
 
 ---
 
-It's pretty clean, it's pristine, sky-blue serene,
+It's pretty pristine, sky-blue serene,
 
 A recipe for holy fatass chanting cheeky charm.
 
-Round and round, around this hippie-nipple mound,
+Round and round, around hippie-nipple mound,
 
-Traveling men trudge upward to promise rancor and harm.
+Mangy mindless men trudge upward to promise harm.
 
 ---
 
-"Oily and grease up your asshole me-lord please,
+"Ghee adulterated up your asshole me-lord please,
 
 Help us bring to fuck my neighbor this spring.
 
