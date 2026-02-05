@@ -10,7 +10,7 @@ color: "orange"
 
 <Pi src="IMG-20260101-WA0015.jpg" />
 
-
+<TTS />
 
 The first thing I notice in the morning isn’t the future arriving on schedule or the sun doing its colonial rounds over the concrete carcasses of South Calcutta, it’s the elastic of my boxers biting into my waist like a petty landlord, damp with last night’s sweat and a faint existential fart that smells like reheated rice and failure, and I’m standing there at the window scratching my armpit like a bored primate while WhatsApp vomits yet another forwarded prophecy about agentic AI birthing million-dollar SaaS companies in minutes, minutes, like instant noodles, just add hot water and a venture capitalist with dead eyes, and something in my gut—lower than the gut, more sewer than stomach—tightens, not with awe but with that old familiar irritation that feels like needing to shit during a traffic jam.
 
