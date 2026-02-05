@@ -70,7 +70,7 @@ It was a shitty pigsty her hillbilly silly house.
 
 With ten hands as Durga ten cow ass,
 
-She pulled turds from rectum deep.
+She pulls hard turds from bovine rectums deep.
 
 Devotion to the job she worked nonstop,
 
