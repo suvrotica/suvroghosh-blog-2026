@@ -39,7 +39,7 @@ With festivities, bootleg, ganjika and shroom.
 
 The Hindloo and Mostlame gods fight,
 
-All months of the year on Godi media heads.
+All months of the year in Godi media heads.
 
 The government chucklefucks cheer prudely on—
 
@@ -74,7 +74,7 @@ She pulls hard turds from bovine rectums deep.
 
 Devotion to the job she works nonstop,
 
-She fists cows even though her Ambien sleep. 
+She fists cows even through her Ambien sleep. 
 
 ---
 
