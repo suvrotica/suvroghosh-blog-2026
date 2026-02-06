@@ -53,3 +53,7 @@ I’ll say: yes, I was alive during the SaaSpocalypse. I was there when the ligh
 But mainly, I was waiting for my dick to fall off.
 
 Which, going by the tingling, may already be underway.
+
+And while we're here slathering our genitals with Vaseline-grade euphemisms about “innovation” and “partnerships,” let’s not pretend we don’t see the circular, self-sucking ouroboros of bullshit between OpenAI, Nvidia, Oracle, and Microsoft—a daisy chain of data-fueled duplicity where one sells the GPUs, the other rents the GPUs, the third hosts the GPUs, and the fourth writes press releases about GPT-powered fucking spreadsheet features while tickling each other’s taints with stock buybacks and SEC-friendly pillow talk, all while the rest of us get vaporized under the spatter of VC-cum and LinkedIn optimism. And this incestuous gangbang of staledom, mark my piss-dribbled words, is going to collapse not in the SaaSpocalypse—but in some newer, dumber, shinier Armageddon yet to be named, maybe the Promptocalypse or the CloudStroke or the Great Neural Nipple Twist of 2029—whatever it is, it’ll smell exactly like reheated tech conference lanyards and burst venture capitalist colon polyps.
+
+Anyways, I don't have a job, am a feckless fuck, I really don't give a shit anymore about anything. Fuck them all. In fact fuck them all in the ass, and make them all fuck Trump in the end,because he's an asshole. 
