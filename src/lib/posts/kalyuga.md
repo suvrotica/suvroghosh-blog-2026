@@ -26,7 +26,17 @@ I am a bullshit blunt brown bengali freak.
 
 ---
 
-Very prettily and whence, I fart when tense,
+Suited booted many of us, with scented anus,
+
+Pray to the capricious gods for goodly goods.
+
+But lately what's happening is a pus trickle,
+
+From an ignorant injured hemmereoid bruised.
+
+---
+
+Thus very prettily and whence, I fart when tense,
 
 See me in the center—hangs a schlong.
 
