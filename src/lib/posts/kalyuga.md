@@ -36,6 +36,16 @@ From an ignorant injured hemmereoid bruised.
 
 ---
 
+Bullshit and fart, holy gas full my heart,
+
+Bliss and blood in piss, no miss, no kiss.
+
+But turds still hard, slithery long, slide into,
+
+The Calcutta septic tank in a hecatomb hiss.
+
+---
+
 Thus very prettily and whence, I fart when tense,
 
 See me in the center—hangs a schlong.
