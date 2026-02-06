@@ -30,7 +30,7 @@ Meanwhile, here I am, watching my own irrelevance congeal around me like phlegm.
 
 People say change your perspective. Frame of reference. Like this is special relativity and all I have to do is hop on a moving train and voilà—I matter. But fuck that. I *don’t* matter. That’s the liberating truth. The most radical thing about the SaaSpocalypse isn’t the tech—it’s the quiet genocide of mediocre ambition. The cleansing of all those who confused productivity with presence.
 
-Even the way they talk about it now—LLMs eating code, eating business plans, eating markets—it’s all digestive, primal. Meanwhile I can’t even digest rajma without a gas explosion that knocks over my tea pan (again, not a kettle, never has been, don’t ask why).
+Even the way they talk about it now—LLMs eating code, eating business plans, eating markets—it’s all digestive, primal. Meanwhile I can’t even digest rajma without a gas explosion that knocks over my tea pan. 
 
 Everything that used to mean something—writing good documentation, understanding recursion, pretending to be an agile scrumlord—all gone, shredded like your dad’s porn mags during Diwali cleaning. SaaS was a packaging trick anyway. Wrapping bloated corporate toolchains in the illusion of sleekness, like slapping a condom on a turd and calling it dessert. Now even that illusion has been repossessed by GPU-drenched models trained on the tears of ghostwriters and interns.
 
