@@ -93,9 +93,11 @@ And yet, tenderness keeps arriving in embarrassing places.
 
 I pick up a book and feel a kind of gratitude that is almost humiliating: this object, too, is steadfast. The author is dead or far away. The text doesn’t demand I perform an identity. It doesn’t threaten to leave unless I become a better version of myself by Tuesday. It sits there, patient as sediment, waiting for me to bring my eyes to it.
 
-Even my old laptop—slow, battered, vaguely resentful—still opens a portal to thought. The screen flickers, the fan whines, the keys have that greasy shine of long use, and still: the machine cooperates. It does not judge my stalled ambitions. It does not bring up my failures in unrelated arguments.
+Even my old laptop—slow, battered, vaguely resentful—still opens a portal to thought. The screen flickers, the fan whines, the keys have that greasy shine of long use, and still: the machine cooperates. It does not judge my stalled ambitions. It does not bring up my failures in unrelated arguments. 
 
-Humans talk about “relationships” as if they are gardens to be tended, but many relationships are more like a pageant of administrative incontinence: everyone uses them, nobody cleans them, and then they blame you for noticing the smell of biological refuse.
+Humans talk about “relationships” as if they are gardens to be tended, but many relationships are more like a pageant of administrative incontinence: everyone uses them, nobody cleans them, and then they blame you for noticing the smell of biological refuse. In my particular, reduced state, even the ostensibly pleasant memories have been poisoned by the retrospective realization of my own inadequacy; the "pleasant" is a fossilized remains of a past that has either been legally dissolved or has summarily canceled me because I failed the requisite status tests of the South Calcutta gentry.
+
+I cannot wallow in nostalgia or "cherish" the ghosts of departed affection; for me, memories are not a sanctuary but a meristematic growth of thorns that I must actively, violently suppress to prevent them from tormenting my already fragile, bipolar-racked psyche. I am a man who must lobotomize his own history daily just to achieve the hollow peace of a rice cooker’s click. 
 
 So I depend on a water bottle and a rice cooker and a phone and a tablet and a pile of books, and that sounds like a defeat until you remember that dependence is universal; it’s just that some people depend on more expensive illusions.
 
