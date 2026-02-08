@@ -1,6 +1,7 @@
 // File: src/routes/blog/[category]/[slug]/+page.server.ts
 import { error } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
+import type { WithContext, Article, BreadcrumbList } from 'schema-dts';
 
 // Define the shape of your markdown metadata
 type PostMetadata = {
@@ -29,16 +30,16 @@ function slugify(text: string): string {
 
 export const load: PageServerLoad = async ({ params, url }) => {
 	try {
-        const { slug, category } = params;
+		const { slug, category } = params;
 
 		// 1. Import all posts via Glob (Metadata only)
 		const postModules = import.meta.glob('/src/lib/posts/*.md', { import: 'metadata' });
 
 		// 2. Find the file that matches the slug (Case insensitive lookup)
-        const matchingPath = Object.keys(postModules).find((path) => {
-            const fileName = path.split('/').pop()?.replace('.md', '').toLowerCase();
-            return fileName === slug.toLowerCase();
-        });
+		const matchingPath = Object.keys(postModules).find((path) => {
+			const fileName = path.split('/').pop()?.replace('.md', '').toLowerCase();
+			return fileName === slug.toLowerCase();
+		});
 
 		if (!matchingPath) {
 			error(404, { message: `Could not find post: ${slug}` });
@@ -70,10 +71,10 @@ export const load: PageServerLoad = async ({ params, url }) => {
 		}
 
 		// 6. Construct SEO Data
-        // Updated branding to SuvroGhosh.In
+		// Updated branding to SuvroGhosh.In
 		const canonicalUrl = `${url.origin}/blog/${category}/${slug}`;
 		const seo = {
-			title: `${post.title} | SuvroGhosh.In`, 
+			title: `${post.title} | SuvroGhosh.In`,
 			description: post.description,
 			canonicalUrl: canonicalUrl,
 			ogImageUrl: post.thumbnail
@@ -85,8 +86,41 @@ export const load: PageServerLoad = async ({ params, url }) => {
 
 		// 7. Schema.org Data
 		const datePublished = post.date ? new Date(post.date).toISOString() : new Date().toISOString();
-		
-        const schema = {
+
+		// 7a. Breadcrumb Schema (New for Phase 0)
+		const breadcrumbSchema: WithContext<BreadcrumbList> = {
+			'@context': 'https://schema.org',
+			'@type': 'BreadcrumbList',
+			itemListElement: [
+				{
+					'@type': 'ListItem',
+					position: 1,
+					name: 'Home',
+					item: url.origin
+				},
+				{
+					'@type': 'ListItem',
+					position: 2,
+					name: 'Blog',
+					item: `${url.origin}/blog`
+				},
+				{
+					'@type': 'ListItem',
+					position: 3,
+					name: category.charAt(0).toUpperCase() + category.slice(1),
+					item: `${url.origin}/blog/${category}`
+				},
+				{
+					'@type': 'ListItem',
+					position: 4,
+					name: post.title,
+					item: canonicalUrl
+				}
+			]
+		};
+
+		// 7b. Article Schema
+		const articleSchema: WithContext<Article> = {
 			'@context': 'https://schema.org',
 			'@type': 'Article',
 			headline: post.title,
@@ -100,7 +134,7 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			},
 			publisher: {
 				'@type': 'Organization',
-				name: 'SuvroGhosh.In', 
+				name: 'SuvroGhosh.In',
 				logo: {
 					'@type': 'ImageObject',
 					url: `${url.origin}/favicon.svg`
@@ -117,10 +151,10 @@ export const load: PageServerLoad = async ({ params, url }) => {
 			metadata: post,
 			headings,
 			seo,
-			schema,
-            resolvedPath: matchingPath 
+			// Return array of schemas (updated for Phase 0)
+			schema: [breadcrumbSchema, articleSchema],
+			resolvedPath: matchingPath
 		};
-
 	} catch (e: any) {
 		console.error(e);
 		if (e?.status === 404) throw e;
