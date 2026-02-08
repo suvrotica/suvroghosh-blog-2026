@@ -9,8 +9,6 @@ color: "orange"
 
 <Yc />
 
-<Yt src="https://youtu.be/SnUfixeP02A?si=twivvmteGOHnqIzK" />
-
 <Pi
     src="IMG-20251202-WA0009.jpg" 
     caption="boring brick and mortar self-similar repeating blocks"
@@ -22,7 +20,6 @@ color: "orange"
 
 Like many, I remember school through a veil of years of indifference to childhood memories that grownups, at a certain point, must admit to, and I do unhesitatingly, but mine are a complicated palimpsest of ambition, triumph, misadventures, romance, then—shame, regrets—most now like old luggage tags, expired or useless to recount, like the memory of city Calcutta as boring brick and mortar self-similar repeating blocks, defecating ungulates on my way to school or spherical, sweaty, hirsute flabby school-females with phallic water-bottles in depressingly longish skirts. I confess, as useless as perhaps the utility for, or the importance of, the places and characters and several linked trivia that I sometimes wake up to, wade, and wallow in, now that I am fifty. The school I went to after I graduated from next-door nursery had a smell of respiratory illness to it, but no, Kashipur/Cossipore isn’t named after coughing Bengalis, even if the air quality now rather encourages that interpretation. The *kashi* as cough thing is just a Bengali homonym, not the origin of the place-name. Cossipore the name comes from Mulakchand Dewan Kashinath-ji, its one-time owner; he was gifted Cossipore by Lord Clive. So from Kashinath allegedly came Kashipur, which was anglicized, or rather butchered I should say, as the English were fond to do at the time, to Cossipore. But "kashi" was a big part at the time for me, I almost kicked the bucket with whooping cough or pertussis in my childhood, from which I recovered with muscular doses of antibiotics prescribed by Dr. Bhaskar Mani, but have enfeebled lungs that are unable to control their emotions at the current particulate matter pollution levels we Indians pride ourselves on. Back then, because it was English medium, we had to practice through our sphincter if need be to pronounce the more anglicized "Cossipore," which was trained to come out as a low-decibel poot with a higher-decibel "English School" after it. Because my stool was always loose, I nearly defecated every time. There was also a Women's Welfare Association, WWA, prepended to the name, but I never saw any women wrestlers, or welfare in anyone's name at the time, but most of our female teachers were appropriately podgy and gargantuan, especially given my pertussis-suffering skeletal lightness at the time; only one teacher, Ira Paul, our English teacher, was svelte and had feminine features. ICSE was 1992. 
 
-<Yt src="https://youtu.be/6lwoDkCJMFo?si=DaZ8Bo69AeLE46lw" />
 
 Calcutta is another butchered example in the Shakti Peeth myth, where Shiva’s then lover Sati’s body is cut into pieces by Vishnu’s Sudarshan chakra; different parts fall in different places. At Kalighat, the toes of her right foot are said to have fallen. For some reason Sati is also Kali, because when you are pulling stuff out of thin flatulent sulphurous air, stories get bollywood fancy, so the “cut-up body of Kali” story is a mythic overlay that is popularized by Geoffrey Moorhouse and emphasized as a lovely piece of folk etymology by devotees, a nuanced version of which is saying it’s from Kalikshetra / Kalikkhetra – “field/area of Kali” – tying it to the Kali tradition and Kalighat, or the name could be grounded in khal + kata (“dug canal”), or kali chun + kata (lime + burnt shell), or from a word for “flat land.”
  
@@ -35,25 +32,11 @@ Calcutta is another butchered example in the Shakti Peeth myth, where Shiva’s 
 
 My past is ancient and present is a mystery speeding past; I live now mostly to *live*, really—to barely escape frequent and routine annihilation, survive to remember and recollect the person I am, I was, I once wanted to be—inadvertently became, on the way to be—a leery litany of metamorphosis of a self that mostly started and remained unchanged at the core—which was a fledgling when I became a schoolboy to begin with and started to think, first feel, of course—mainly, in my case, *see* through thick myopia-correcting glasses—a visual person, and in my particular case, overthink the still-uncorrected blurry—cerebrally—the world through the senses, through the then immature prefrontal and amygdalian theaters of rehearsed endorsements. It happened in a shockingly short span, then weirdly in a longish sort of lifetime after—that I’m *only now* able to reconstruct into the surreal solipsist absurdity I have managed to bungle myself into being. And although the seeds of this blog are repressively buried in my depressive, ruminative reading and manic book purchases at several *Half-Price Books*, *Barnes and Noble* or *Borders* in San Antonio and Austin where I justified my existential merit *only* as an obsessed bibliomanic and tsundoku, I want to start with what ordinarily is the start—my first memories of growing up in Calcutta. I have an embarrassing memory of a very early male size comparison shame, while playing with my sprinkler on the nursery kindergarten back drain wall—the competition was a boy who was quite a bit big-boned and larger than the other, several, jiggling animated adipose-puffed protuberance exhibits, the usual nursery nuisances that litter such playful pigsties. But what had caught my attention and had stayed to this day was—his sprinkler was not only endowed with *bigger* plumbing with ginormous dark velvety spheres, the resulting stream from the hydrology that came out unthrottled was thicker, more unbidden, forceful, and painted the wall with such yellow ferocity that the reflected spray made me notice his assets with awe. I have no way of going back and sifting through that particular memory’s soaked sodden soil, a kid’s private memory *this*—I didn’t share with even my mother—who at the time was my only confidante. But toilet, or rather the anathema of an always overflowing unkempt school loo, forced me to teach myself to hold my bowels. On two occasions I couldn’t, and I defecated in my school half-pants, unable to hold it, as far as I can recollect, trying to keep composure on a waddling dilapidated hand-pulled rickshaw over a city full of potholes each the size of a mini Grand Canyon—these my mother can submit affidavits if required. Poor woman, this is back in the day when the washing machine wasn’t even in the impoverished imagination of the North Calcutta middle class, and we weren’t that affluent to have maids to do any cleaning up after us.
 
-<Pi
-    src="IMG-20251203-WA0002.jpg" 
-    layout="iR"
-    caption="city full of potholes each the size of a mini Grand Canyon"
-/>
 
 <Pi
     src="IMG-20251203-WA0000.jpg" 
     layout="iL"
     caption="the surreal solipsist absurdity I have managed to bungle myself into being"
-/>
-
-
-
-<Pi
-    src="IMG-20251204-WA0001.jpg" 
-    layout="iR"
-    caption="shanty loos not equipped to flush fresh fetid feces"
-    size={0.5}
 />
 
 There was one more occasion, I'm waxing more nostalgia through my rear here, when it could have ended well, except it didn’t—that a City of Joy rarely has its College Street English bookstores’ makeshift shanty loos equipped to flush fresh fetid feces—aggravating a nervous and nerve-racked boy without a way to clean his gentle bottom. When I reported this inadequacy of the establishment to the ungrateful shop clerk, he demanded I lug a heavy, leaky balti, descriptive of poverty, half across the street in my English medium school dress, so I fled as fast as my unwashed bottom would allow. I went as part of a group of kids who, although were all my age (Section B), did not seem to have the same digestive or excretory system that, from time to time, in my case, asserted that matter came in three states, and all the states were in fact coming out of some portion of my rear, all the time! So that’s what sort of started me—startled with the disequilibrium with looks, size, shape, velocity, and power in the gossipy, everyday, ordinary of this, what I eventually understood to be an extraordinary world, and this inconvenient discovery has stuck as I found out I am, in man’s limited prowess over the middling distances, an extremely Lilliputian man in every way, shape, and form, and to this day—especially as a redundant and reduced Bengali, that is where I am. 
@@ -64,26 +47,8 @@ It’s neither an avowal of guilt nor of defeat—there are no adversaries to sp
 
 <Yt src="https://youtu.be/Pq755MHIddo?si=sOIHRx5t6kCw96CZ" />
 
-So this compensatory curriculum I started very early. My mother started me at age two—first, I gather, by reading the books to me, which service was quickly unnecessary as my neurons were quick to pick up the linguistic abilities. As far as I can tell, from very early on, I was thinking—a skill till today not at all a human requirement of any importance—and given to asking and not giving up if the answers didn’t satisfy me—I was irritatingly insistent. 
+So this compensatory curriculum I started very early. My mother started me at age two—first, I gather, by reading the books to me, which service was quickly unnecessary as my neurons were quick to pick up the linguistic abilities. As far as I can tell, from very early on, I was thinking—a skill till today not at all a human requirement of any importance—and given to asking and not giving up if the answers didn’t satisfy me—I was irritatingly insistent. I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is* because now the sessile noodle is limp and ninny, unwankably mushy and hides, in its glen, ostracized, sulking and terrified. 
 
-<Pi
-    src="IMG-20251203-WA0003.jpg" 
-    caption="especially here, in Calcutta, infested with Hare Krishna"
-/>
-
-<Pi
-    src="IMG-20251204-WA0003.jpg" 
-    layout="iR"
-    caption="I was a wanker, and it was also a metaphor"
-/>
-
-I was a wanker, and it was *also* a metaphor. And *was*, by the way, and not *is* because now the sessile noodle is limp and ninny, unwankably mushy and hides, in its glen, ostracized, sulking and terrified. 
-
-<Pi
-    src="IMG-20251202-WA0003.jpg" 
-    layout="iL"
-    caption="accompanying smell—good and bad—and specific rooms in which these activities were encouraged"
-/>
 I wouldn’t call my perusals either curiosity or pursuit of excellence, as at that age I had no clear scientific intimation of, say, which side was in and which was out, except that there was a pattern of in and out and accompanying smell—good and bad—and specific rooms in which these activities were encouraged. This is how, as a child, I slowly started to grasp reality, and occasionally, by accosting grown-ups obtrusively and arrogantly through inquisitive chains of *whys* which adults find irksome, I tried to dredge the benthic dregs lying neglected. They therefore avoided me and my inconvenient questions at all costs. I was given the terrace and a room in the attic. This garret is where I spent most of my time. It wasn’t impossible to notice, even with a meristematic brain system, that cognitive ability of the deficient and dud subtypes were everywhere at play and I was expected to rote learn this systemic and constitutional anemic insufficiency to please the prevailing dogmatic adult supervisory overlords.
 
 # Student 
@@ -113,11 +78,6 @@ Thus our ability to get muddled works hand in hand with a corrupted framework of
 
 
 I had also noticed adults insisted on covering up inconsistencies in their fictions with weaker tapestries of lies, and the separation of the ruling and the ruled was inherent in being party to this willed obfuscation or willing obeisance. This was fractally how society was structured at various levels—a distributed system of arranged or imposed parents and willing or subjugated children, at whatever level of fictional abstraction I looked: parent–child, of course, country leaders–citizen, company corporate vs. workers, religious elite priests and worshippers or the faithful, extending all the way to authors, artists, sportspersons and their consumers, teachers and students. The game was mainly lying and manipulation, with manicured gaslighting tweaked as per the needs of the specialty.
-<Pi
-    src="IMG-20251204-WA0002.jpg" 
-    layout="iR"
-    caption="The prevalence of mythology—emphasized and encouraged bias"
-/>
 
 The prevalence of mythology—emphasized and encouraged bias, or the absence of nuanced understanding of the operating models versus the indoctrinated and forced fictions—I saw created a hierarchy of flimflammery, superstitious jibber-jabber, pseudoscience, and an inflated sense of supercilious religious affirmation in Bengali society, which at that time was partly Marxist in Calcutta and wanted to hold on to atheism. And in spite of their efforts, most had too little reading in them to make up their mind and societal dialectics stood on the shoulders of glib non-sequiturs, ugly shrunken dwarfish ghouls that have multiplied since that time—a misunderstood disinformation of history, mythology, and fibs that my people feel foolishly obligated to be hypothecated to and fritter their lives away wallowing in the tragic smelly feces of what isn’t true, which is sad because atheism in India has as ancient a root as the Greeks. 
 
@@ -126,10 +86,7 @@ The prevalence of mythology—emphasized and encouraged bias, or the absence of 
 Speak unspeakable lies always, write equivocally with a thick, unprincipled, put-on cataract, and abandon your principles at the earliest convenient chance like a wound up toy; these are the most welcome features of the Indian paid press of today, fostered by the political kakistocratic kleptocracy either at the center or regionally a departure from the expectations from the early Doordarshan. Especially when I watch the pestilent kitsch presented by the messianic *Godi* anchors on YouTube, I can never understand *what* it takes to sell your spine to act so ludicrously enamored with the virulent sensibilities of chosen and false ideological banter, or even the illogical nostalgia for an unseen, pristine, superior Indian past unmoored from reality—marinated in the garam masala of useless local aphorisms, idioms, idiosyncrasies, and militant jingoism. 
 
 As far as priority in science syllabus is concerned, I remember Darwin’s evolution was an optional chapter in my higher secondary biology contending with a subject as trivial as pisciculture—cosmology never entered the lexicon, and astronomy was synonymous with horoscopes, palmistry, and astrology. The Bengal I grew up in was in the eighties still really pre-Victorian, and now India, under the new religious right, has slid a few centuries back into an equivalent dark middle age—so much for moving forward. It’s all atavistic growth; appearances of gentrification, or any sophisticated sheen, is patina, imported from outside the country, but inside it's a snare, a pit full of vacuous but venomous vipers.
-<Pi
-    src="IMG-20251202-WA0005.jpg" 
-    caption="but inside it's a snare, a pit full of vacuous but venomous vipers"
-/>
+
 
 # Rebirth
 
