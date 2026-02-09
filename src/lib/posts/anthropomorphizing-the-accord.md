@@ -15,7 +15,7 @@ published: true
 
 <TTS />
 
-<Wb />
+
 
 
 The water bottle gives a small, hollow knock when I set it down on the floor—plastic on tile, a sound so ordinary it’s practically invisible, like a footnote in the diary of a man who has reduced his dependencies to a few stubborn objects and the remaining minutes on a Samsung screen.
