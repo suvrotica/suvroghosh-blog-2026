@@ -16,7 +16,7 @@ color: "orange"
 
 <TTS />
 
-<Wb />
+
 
 # School
 
