@@ -1,7 +1,7 @@
 ---
 title: "SaaSocalypse"
 date: 2026-02-06
-thumbnail :"/images/IMG-20260209-WA0001.jpg" 
+thumbnail : "/images/IMG-20260209-WA0001.jpg" 
 description: "A meditation on the catastrophic incontinence of the current AI hype cycle, viewed through the lens of a redundant man in South Calcutta."
 category: 'AI'
 published: true
