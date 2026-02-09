@@ -1,7 +1,16 @@
 ---
-title : "Filtered lifestyle" 
-
+title: "Filtered"
+date: 2026-02-10
+description: "Filters..."
+category: 'Calcutta'
+published: true
+color: "blue"
 ---
+
+<TTS />
+
+<Wb />
+
 I was sitting in my study, or what passes for one in this humid armpit of South Calcutta, watching a single, dejected wall gecko negotiate the peeling plaster of my ceiling. I am currently clad only in my boxers—white, naturally, though "white" in Calcutta is less a color and more a historical suggestion of what once was before the atmosphere decided to intervene.
 
 I was contemplating the concept of the "crorepati," that peculiar Bengali subspecies that believes a bank balance is a functional substitute for a gas mask. My neighbor, a man whose abdominal girth suggests he has swallowed several smaller, more productive citizens, recently boasted about his new air purifier. It is a sleek, silver monolith that hums with the unearned confidence of a mediocrity. He believes he is "hermetically sealed."
