@@ -15,6 +15,9 @@ published: true
 
 <TTS />
 
+<Wb />
+
+
 The water bottle gives a small, hollow knock when I set it down on the floor—plastic on tile, a sound so ordinary it’s practically invisible, like a footnote in the diary of a man who has reduced his dependencies to a few stubborn objects and the remaining minutes on a Samsung screen.
 
 The mattress is right there, not apologizing, not pretending. A thin domestic continent. Beside it: the bottle, the rice cooker (the little priest of starch, punctual and untheatrical), a pot that has boiled more tea than I have had coherent conversations in the last decade, the phone, the tablet with its glassy smugness, an old laptop that wheezes awake like an asthmatic kinsman called upon to lift something heavy, and books—yes, books—stacked and leaning in the peculiar way books do when they’ve given up expecting furniture.
