@@ -14,6 +14,7 @@ import Yc from '$lib/components/blog/YtCredit.svelte';
 import Dl from '$lib/components/blog/Doggerel.svelte';
 import Cp from '$lib/components/viz/ComplexPlane.svelte'; 
 import TTS from '$lib/components/blog/TTS.svelte';
+import Wb from '$lib/components/viz/WordBubble.svelte';
 `;
 
 /**
