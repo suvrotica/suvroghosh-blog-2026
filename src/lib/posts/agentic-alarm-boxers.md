@@ -12,6 +12,8 @@ color: "orange"
 
 <TTS />
 
+<Wb />
+
 # The Great Digital Sphincter
 
 It’s as if the entirety of the global zeitgeist, everywhere and all at once, has taken a firm, joyless grip on my droopy scrotum—not with the fire of lustful intent, nor the finality of a murderous squeeze, but with the tireless, repetitive wrist strength of a middle-management functionary—exactly at the moment I register, dimly through my morning eyes, that the very architectural structure I inhabit is currently undergoing a vigorous, unbidden combustion. The first sensation of the day, in this humid enclave of South Calcutta, isn't the future swaggering in on schedule like a triumphant conqueror, nor is it the sun performing its weary colonial inspection over the concrete carcasses of our streets; rather, it is the elastic of my boxers sawing into my adipose-puffed waist like a petty, narrow-souled kith-and-kin collecting rent in installments. I am left damp with last night’s nocturnal secretions and a shy intestinal protest that carries the olfactory signature of reheated rice and profound personal decline.
