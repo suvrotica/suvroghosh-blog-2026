@@ -11,6 +11,8 @@ color: "blue"
 
 <TTS />
 
+<Wb />
+
 There’s a dry yellow pustule right at the inner crease of my thigh—not quite groin, not quite leg, exactly where your sweaty fold meets the gluteal-tang airlock—and I discovered it while self-directed neuromuscular consolation during a particularly intellectually stunted YouTube video on "Why India Was Once the Most Advanced Civilization." Yes, I know, my algorithm is a sadist with a sense of irony.
 
 Anyway, the boil’s probably a clogged hair shaft or karmic punishment for being born with a cerebral cortex and a gonadal urgency in this country, where we invented zero and then promptly started subtracting IQ points with every successive century, until now we’ve got engineering graduates who need to Google “how to boil an egg” and politicians who think bovine urinary dissent is a grand-scale broadband solution.
