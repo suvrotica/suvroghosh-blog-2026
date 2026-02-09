@@ -11,7 +11,7 @@ color: "blue"
 
 <TTS />
 
-<Wb />
+
 
 There’s a dry yellow pustule right at the inner crease of my thigh—not quite groin, not quite leg, exactly where your sweaty fold meets the gluteal-tang airlock—and I discovered it while self-directed neuromuscular consolation during a particularly intellectually stunted YouTube video on "Why India Was Once the Most Advanced Civilization." Yes, I know, my algorithm is a sadist with a sense of irony.
 
