@@ -1,8 +1,11 @@
 ---
-title : "Crowds and Claustrophobia" 
-category :"personal" 
-color :"black" 
-===
+title: "Crowds and Claustrophobia"
+date: 2026-02-09
+description: "Crowds and Claustrophobia" 
+category: 'personal'
+published: true
+color: "blue"
+---
 
 <TTS />
 
