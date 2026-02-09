@@ -9,6 +9,8 @@ color: "blue"
 
 <TTS />
 
+<Wb />
+
 To contemplate the "reinvention" of an organism at the half-century mark—an age where the biological chassis is less a sleek vehicle and more a rusted, wheezing palimpsest of historical insults—is to indulge in a particularly cruel brand of metaphysical fiction. I sit here in South Calcutta, my eyes straining against the luminescent glare of the monitor, while inside my cranium, the once-meristematic neurons have undergone a catastrophic atrophy, shriveling like neglected raisins in the sweltering humid basement of my skull. They tell you "life begins at fifty," but they neglect to mention it begins with a pageant of administrative incontinence and the slow, rhythmic percussion of one's own mortality.
 
 I find myself in the trough of a bipolar sinusoid, a subterranean depressive funk where the mere act of verticality feels like an affront to the laws of physics. For a few fleeting, hypomanic hours, I might delude myself into thinking I can acquire some new intellectual accouterment—perhaps a fresh programming language or a deeper dive into the kakistocratic rot of our local politics—but then the inevitable crash occurs. I am reduced to a heap of biological refuse, a shivering collection of adipose and regret, descending into a destructive delirium where the clouds aren't just dark; they are the color of a bruised liver, heavy with the scent of impending rain and societal decay.
