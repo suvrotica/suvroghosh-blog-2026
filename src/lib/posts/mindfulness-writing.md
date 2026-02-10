@@ -1,6 +1,6 @@
 ---
 title: "Mindfulness? "
-date: 2026-02-10
+date: 2026-02-11
 description: "Mindfulness..."
 category: 'Calcutta'
 published: true
@@ -14,4 +14,7 @@ When people talk about mindful meditation, or mindfulness in general, I think of
 And it’s whatever irritates me inside that I can sort of sift through in words, or at least try to. Most of the time I fail, but at least that’s what I do, like now. I can’t focus. I can’t sketch. I’m irritated, I’m angry, I’m depressed—I’m all these things all at once. And although I can try to focus on my breathing, and it calms me down to a certain extent, the things in the iceberg of the subconscious are far too huge to be handled so easily. I am not trying to make light of mindfulness meditation; it has its place in the attenuation of the default mode network, but when the underlying pathology is severe, that alone may not alleviate the disease. It may reduce the symptoms temporarily, is what I am saying.
 
 And I don’t like the cottage industry of lewd larceny, bogosity, and religiosity mixed in with meditation. You really don’t need to pay to listen to the halitosis caked claptrap of an Indian guru or a Tibetan bald thinks-he-knows-it-all or any other pretentious prick these days. The whole exercise is pretty darn simple even if you are stupid: just focus on your breath, and when your mind wanders, bring it back to your breath again. And because breathing is an autonomic process and internal to the brain, the switching is natural. It is also one of the most boring things to focus on, so your mind will want to wander, which is why, once you get a little practice in this, you can even catch yourself focusing on listening in on bizarrely boring business meetings that would previously have sent you off snoring. I, of course, don’t have to bother with human interaction much. I try to stay away from homo sapiens; they trigger my bipolarity. My place is with Calcutta cats, dogs, wall geckos, roaches, and spiders—that’s my safety net. I only look at people from a distance now, or through a smartphone. Hideously dangerous apes, I tell you.
+
+Attaching a cheery, superfluous, condiment-filled complement that most bloggers feel obliged to add is another itch I want to scratch now that I am writing on it, as you may have noticed by my being feral and outcast I don’t have any of the usual indoctrinated obligations that subservient, muttering minions to society seem to have. Meditation, by and large, like exercise, is an unnatural way to tame an already synthetic lifestyle that’s far beyond the caveman algorithm; nothing we do in our day-to-day lives is what our bodies and minds are built to do, and also perversely and quite ironically the mitigation strategies that we adopt as compensatory mechanisms aren’t natural either. Anyway, already this post is long and my tea is getting cold, and I’m sure I’ve made many reading this promise they’ll never read my posts again. But anyway, it’s 4 a.m., it’s sort of still dark, I just came back after defecating a log, made some tea, don’t know what else to do now. Maybe I’ll stop writing now.
+
 
