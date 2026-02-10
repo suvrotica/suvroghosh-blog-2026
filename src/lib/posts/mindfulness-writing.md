@@ -1,4 +1,13 @@
+---
+title: "Mindfulness? "
+date: 2026-02-10
+description: "Mindfulness..."
+category: 'Calcutta'
+published: true
+color: "black"
+---
 
+<TTS />
 
 There is a specific, breathy cadence adopted by the purveyors of "mindfulness"—usually women named after weather phenomena or men who wear linen pants that cost more than my monthly electricity bill. They urge you to sit in a lotus position, close your eyes, and observe your thoughts like "clouds passing in the sky."
 
