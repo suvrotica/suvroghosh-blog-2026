@@ -1,58 +1,54 @@
-import { parse } from 'path';
-
 export type SearchPost = {
-	title: string;
-	slug: string;
-	description: string;
-	date: string;
-	category: string;
-	searchTerms: string;
+    title: string;
+    slug: string;
+    description: string;
+    date: string;
+    category: string;
+    searchTerms: string;
 };
 
-// 1. Get Metadata (Module)
-// We keep this to get the parsed Frontmatter objects safely
-const metaFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true });
+// 1. Define the glob pattern ONCE to ensure keys match exactly
+const GLOB_PATTERN = '/src/lib/posts/*.md';
 
-// 2. Get Raw Content (String)
-// We load the raw string content to index the body text
+// 2. Fetch Metadata and Raw Content using the exact same pattern
+const metaFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true });
 const contentFiles = import.meta.glob('/src/lib/posts/*.md', { eager: true, query: '?raw', import: 'default' });
 
-/**
- * Helper to remove the --- metadata block --- from the top of markdown
- */
 function stripFrontmatter(markdown: string): string {
-	// Matches the first block starting with --- and ending with ---
-	return markdown.replace(/^---[\s\S]*?---/, '').trim();
+    // Remove the --- block at the top
+    return markdown.replace(/^---[\s\S]*?---/, '').trim();
 }
 
 export const getPosts = (): SearchPost[] => {
-	const posts = Object.entries(metaFiles).map(([path, resolver]: any) => {
-		const metadata = resolver.metadata;
-		const slug = path.split('/').pop()?.replace('.md', '').toLowerCase();
+    return Object.entries(metaFiles).map(([path, resolver]: any) => {
+        const metadata = resolver.metadata;
+        
+        // Skip if invalid or unpublished
+        if (!metadata || metadata.published === false) return null;
 
-		if (!metadata || metadata.published === false) return null;
+        const slug = path.split('/').pop()?.replace('.md', '').toLowerCase();
+        const category = (metadata.category || 'uncategorized').toLowerCase();
 
-		// Get the raw content for this specific file path
-		const rawContent = (contentFiles[path] as string) || '';
-		
-		// Clean it up: Remove frontmatter and extra whitespace to keep JSON size smaller
-		const cleanBody = stripFrontmatter(rawContent)
-            .replace(/\s+/g, ' '); // Replace multiple spaces/newlines with single space
+        // 3. Get the raw text content using the SAME path key
+        // We cast to string because we used query: '?raw'
+        const rawContent = (contentFiles[path] as string) || '';
+        
+        // 4. Create the search corpus
+        const cleanBody = stripFrontmatter(rawContent)
+            .replace(/\s+/g, ' ') // Flatten whitespace
+            .toLowerCase();       // Lowercase for easy searching
 
-		const category = (metadata.category || 'uncategorized').toLowerCase();
+        const searchTerms = `${metadata.title} ${metadata.description || ''} ${category} ${cleanBody}`.toLowerCase();
 
-		return {
-			title: metadata.title,
-			slug: `/blog/${category}/${slug}`,
-			description: metadata.description || '',
-			date: metadata.date,
-			category: category,
-			// NOW INCLUDES BODY TEXT:
-			searchTerms: `${metadata.title} ${metadata.description || ''} ${category} ${cleanBody}`.toLowerCase()
-		};
-	});
-
-	return posts
-		.filter((post): post is SearchPost => post !== null)
-		.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+        return {
+            title: metadata.title,
+            slug: `/blog/${category}/${slug}`,
+            description: metadata.description || '',
+            date: metadata.date,
+            category: category,
+            searchTerms
+        };
+    })
+    .filter((post): post is SearchPost => post !== null)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 };
