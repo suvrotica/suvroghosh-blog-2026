@@ -1,17 +1,23 @@
 <script lang="ts">
+	import Search from '$lib/components/blog/Search.svelte'; // Import the new component
+
 	let { isMenuOpen, toggleMenu } = $props<{ 
         isMenuOpen: boolean;
         toggleMenu: () => void 
     }>();
 </script>
 
-<header class="border-b border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 transition-colors duration-300">
-	<div class="container mx-auto flex items-center justify-between p-4">
-        <a href="/" class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 hover:text-gold transition-colors">
+<header class="border-b border-neutral-300 dark:border-neutral-700 bg-neutral-100 dark:bg-neutral-900 transition-colors duration-300 sticky top-0 z-30">
+	<div class="container mx-auto flex items-center justify-between p-4 gap-4">
+        <a href="/" class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 hover:text-gold transition-colors shrink-0">
 			SuvroGhosh.In
 		</a>
 
-		<div class="hidden md:flex items-center space-x-6">
+        <div class="flex-1 max-w-md mx-4 hidden sm:block">
+            <Search />
+        </div>
+
+        <div class="hidden md:flex items-center space-x-6 shrink-0">
 			<a href="/blog" class="text-sm font-medium text-neutral-700 dark:text-neutral-300 hover:text-gold transition-colors">
 				Blog
 			</a>
@@ -20,7 +26,7 @@
 			</a>
 		</div>
 
-		<button
+        <button
 			class="lg:hidden p-2 rounded-md hover:bg-neutral-200 dark:hover:bg-neutral-800 cursor-pointer"
 			onclick={toggleMenu}
 			aria-label="Toggle menu"
@@ -34,4 +40,8 @@
 			</svg>
 		</button>
 	</div>
+    
+    <div class="sm:hidden px-4 pb-4 border-b border-neutral-200 dark:border-neutral-800">
+        <Search />
+    </div>
 </header>
