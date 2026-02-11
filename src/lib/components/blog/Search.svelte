@@ -19,15 +19,17 @@
 
 	// Fetch index only on client-side mount
 	onMount(async () => {
-		try {
-			const res = await fetch('/api/search');
-			if (res.ok) {
-				allPosts = await res.json();
-			}
-		} catch (error) {
-			console.error('Failed to load search index:', error);
-		}
-	});
+        try {
+            // ADDED: ?t={Date.now()} to force the browser to ignore any previous cache
+            const res = await fetch(`/api/search?t=${Date.now()}`);
+            if (res.ok) {
+                allPosts = await res.json();
+                console.log(`Loaded ${allPosts.length} posts into search index.`);
+            }
+        } catch (error) {
+            console.error('Failed to load search index:', error);
+        }
+    });
 
 	function handleKeydown(e: KeyboardEvent) {
 		if (e.key === 'Escape') {
