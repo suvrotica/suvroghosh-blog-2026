@@ -56,13 +56,6 @@ Now, let's grant this lonely point a single freedom: the ability to move. But th
 
 <VectorViz space="r1" vec={[2.5]} />
 
-## $\mathbb{R}^2$: The Flatland
-
-Life gets infinitely more interesting when you add a second freedom. Now, imagine you are an ant on a table. You aren't stuck on a rail anymore; you can crawl forward and backward, but you can also scoot left and right. By combining these two movements, you can go anywhere on the flat surface. This is $\mathbb{R}^2$, the 2D plane. To describe your position, I now need *two* numbers (components): one for how far you went "East" ($x$) and one for how far you went "North" ($y$).
-
-<VectorViz space="r2" vec={[3, 2]} />
-
-
 ### The King of Lineland
 
 In 1884, the schoolmaster Edwin Abbott wrote a satire called *Flatland*. In one chapter, the protagonist visits a world called **Lineland**.
@@ -72,6 +65,15 @@ The King of Lineland lives on this single straight line. Because he is stuck on 
 To the King, the universe is not a vast space; it is a queue. He can scream at the person in front of him, but he can never walk around them. When the visitor tries to explain the concept of "stepping sideways," the King calls him a madman and tries to execute him.
 
 It serves as a humbling reminder: Dimensions don't just define where we can move; they define what we are capable of imagining. In , "sideways" isn't just impossible—it's heresy.
+
+## $\mathbb{R}^2$: The Flatland
+
+Life gets infinitely more interesting when you add a second freedom. Now, imagine you are an ant on a table. You aren't stuck on a rail anymore; you can crawl forward and backward, but you can also scoot left and right. By combining these two movements, you can go anywhere on the flat surface. This is $\mathbb{R}^2$, the 2D plane. To describe your position, I now need *two* numbers (components): one for how far you went "East" ($x$) and one for how far you went "North" ($y$).
+
+<VectorViz space="r2" vec={[3, 2]} />
+
+
+
 
 ## $\mathbb{R}^3$: The World We Breathe In
 
