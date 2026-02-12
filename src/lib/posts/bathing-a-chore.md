@@ -1,8 +1,14 @@
 ---
 title : "The Aromatics of Stagnation" 
+date: 2026-02-12
+category: 'Calcutta'
+published: true
+color: "black"
 ---
 
-I have been staring at a bar of Mysore Sandal Soap for three days. It sits there in the porcelain dish, an oval of fragrant ambition, mocking me with its promise of olfactory neutrality. I, meanwhile, am currently curating a personal scent profile that sits somewhere between "damp library book" and "forgotten onions."
+<TTS />
+
+I have been staring at lemon scented liquid soap for days. It sits there in the wooden soap shampoo rack, a relic of fragrant ambition, mocking me with its promise of olfactory neutrality. I, meanwhile, am currently curating a personal scent profile that sits somewhere between "damp library book" and "forgotten onions."
 
 This is the glamour of the maintenance phase. The mood stabilizers are technically performing their contractual duties—they have placed a heavy, wool blanket over the screaming match in my amygdala—but they have done nothing for my motivation to engage in basic aquatic activities. My brain, that gelatinous saboteur, has decided that the walk from the bedroom to the bathroom is a logistical pageant of insurmountable complexity.
 
