@@ -32,9 +32,7 @@ Because I unwisely moved back to India and lost all my contacts and ways back to
 
 Calcutta is, in fact, a wonderful place if you can cocoon yourself from the filthy air and water in a quiet environment in your own room, and that's what I do when I write these posts. I don't know if anyone will read them or not, but if they do, they'll be sharing the same thought space with me for a little while, and I am indebted for that.
 
-# No-Build Visualizations
 
-Instead of compiling complex code, we can just use these little interactive windows to see what I'm talking about.
 
 ## $\mathbb{R}^0$: The Point of Singularity
 
