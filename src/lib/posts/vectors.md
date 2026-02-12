@@ -14,6 +14,14 @@ color: "green"
 
 <Pi src="IMG-20251228-WA0129.jpg" />
 
+<Pl href="/blog/maths/mathematical-fomo">
+  Cartesian Product: The Fear of Missing Out (FOMO) Space
+</Pl>
+
+<Pl href="/blog/maths/blackboard-runes">
+  Capital Letters: Blackboard Bold
+</Pl>
+
 I was always fascinated with vectors as a child, to be honest with anyone reading this, and that fascination is something I can finally express here when I am not extremely depressed. It will be less mathematical and more a common man's view of the vector, but of course, because both the common man and the mathematician use some language and symbols, I won't stray away from them. I will use LaTeX here, which makes it easy to type mathematical equations and such things in blog posts.
 
 Again, I am not an expert, but I worked extensively as a machine learning engineer and a statistician in the US when AI was so unpopular that you were advised not to use words like "neural networks" or "AI" in your paper or your curriculum vitae. Of course, now the world has changed, but I want to tell the story that AI is still mostly just mathematics—in fact, a large part of it is vectors, or linear algebra. And so this is what many of these small posts will introduce.

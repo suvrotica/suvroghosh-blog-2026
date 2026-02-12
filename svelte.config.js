@@ -15,6 +15,8 @@ import Dl from '$lib/components/blog/Doggerel.svelte';
 import Cp from '$lib/components/viz/ComplexPlane.svelte'; 
 import TTS from '$lib/components/blog/TTS.svelte';
 import Wb from '$lib/components/viz/WordBubble.svelte';
+import Pl from '$lib/components/blog/PostLink.svelte';  
+
 `;
 
 /**
