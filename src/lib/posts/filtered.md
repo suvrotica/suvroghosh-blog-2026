@@ -1,8 +1,8 @@
 ---
 title: "Filtered"
 date: 2026-02-10
-description: "Filters..."
-category: 'Calcutta'
+
+category: 'Notes'
 published: true
 color: "blue"
 ---
@@ -10,14 +10,6 @@ color: "blue"
 <TTS />
 
 # HEPA 
-
-I was sitting in my study, or what passes for one in this humid armpit of South Calcutta, watching a single, dejected wall gecko negotiate the peeling plaster of my ceiling. I am currently clad only in my boxers—brown, naturally, though "brown" in Calcutta is less a color and more a suggestion of what always is the atmospheric distemper if you happen to look down from a plane, which in my ghastly past I have done several times and alway wondered why this color. You of course know the reason, so I won't elaborate. 
-
-I was contemplating the concept of the "crorepati," that peculiar Bengali subspecies that believes a bank balance is a functional substitute for a gas mask. My neighbor, a man whose abdominal girth suggests he has swallowed several smaller, more productive citizens, recently boasted about his new air purifier. It is a sleek, silver monolith that hums with the unearned confidence of a mediocrity. He believes he is "hermetically sealed."
-
-It is a charming fiction.
-
-We live in a land where "authenticity" is a flexible, decorative concept. He looks at his HEPA filter with the reverence a priest accords an idol, never pausing to consider that the very fibers meant to save his lungs might have been lovingly recycled in the slum next door, washed in the Adi Ganga, and repackaged by a man whose understanding of "micron levels" is roughly equivalent to my understanding of joy. We are talking about the nano-scale here, a dimension far too small for the blunt instruments of our local bureaucracy to comprehend.
 
 The HEPA filter begins, improbably, not with brown Calcutta air, American allergies or tidy European living rooms but with plutonium dust and the sober fear that a single invisible speck might poison a physicist.
 
@@ -57,9 +49,7 @@ A technology born from nuclear paranoia now hums quietly in bedrooms, doing the 
 
 # RO
 
-Even if one remains static, a human wall gecko huddled under the artificial breeze, there is the matter of the "reverse osmosis" system. We trust these plastic boxes implicitly. We listen to their gurgle, convinced that some high-science alchemy is occurring within. In reality, for all we know, the internal mechanism is merely a tangled knot of jute and neighborhood mud, performing a logistical pageant of filtration while delivering a steady stream of liquid regret directly to our kidneys like karma. 
-
-But RO (Reverse osmosis) begins not as a gadget but as a quiet insult to nature.
+RO (Reverse osmosis) begins not as a gadget but as a quiet insult to nature.
 
 Osmosis, known since the 18th century, is water’s habit of moving the “wrong” way—slipping through a semi-permeable membrane from dilute to concentrated solutions, driven by entropy’s lazy preference for leveling things out. For a long time this was observed, measured, admired, and left alone. Reversing it sounded like trying to make smoke go back into a cigarette.
 
@@ -107,14 +97,4 @@ This is why pressure is essential. Osmosis is entropy doing what entropy likes. 
 
 The deep irony is that RO works because water is both ordinary and strange. Ordinary enough to be everywhere. Strange enough, at the molecular scale, to slip through a dense plastic film while salt and metal stand outside, baffled, overdressed, and permanently uninvited.
 
-
-# Entropy 
-
-I find a certain, dry amusement in the statistical inevitability of it all. Whether you are a "shanty slum boxer dweller" or a bungalow-owning tycoon with daughters the size of hippopotamuses and a fleet of cars, the biological conclusion remains remarkably democratic. Your liver does not care about your bougainvillea. Your lungs do not recognize your social standing; they only recognize the spectacular, aggressive biological friction of particulate matter that has more in common with a construction site than oxygen.
-
-And what of the servants? Poor runner Ram, cook Mohammad, and your driver Jeeshu. They are the frontline infantry in this war of attrition, breathing the raw, uncurated air while they polish the silver and serve the "filtered" water. We treat their inevitable respiratory collapse as a breach of contract, a fictional accounting of the truth regarding their stamina.
-
-In the end, I looked at my own glass of water—a transparent liquid that I can only hope isn't a human cul-de-sac of heavy metals—and realized the absurdity of my own fastidiousness. I had spent twenty minutes worrying about the integrity of a filter while the very air in my room tasted faintly of burnt rubber and ancient grievances. I am by dint of my current circumstances certainly not a survivor, but an easier victim to entropy than the fatty next door; I am merely a poor man waiting for a gastrointestinal or respiratory betrayal in a higher linguistic register. 
-
-I took a sip, felt the grit against my teeth, and accepted that in Calcutta, even one's slow-motion demise is a poorly managed administrative pratfall. 
 
