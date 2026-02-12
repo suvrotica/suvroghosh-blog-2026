@@ -75,6 +75,18 @@ Life gets infinitely more interesting when you add a second freedom. Now, imagin
 
 
 
+
+### The Taxicab in Manhattan
+
+In the 19th century, a mathematician named Hermann Minkowski looked at the 2D plane and asked a strange question: *"What if you can't walk diagonally?"*
+
+In standard Euclidean geometry (the kind we learn in school), the shortest distance between two points is a straight line. If you are a bird, you fly straight across. But if you are a taxi driver in Manhattan, you can't drive through buildings. To get from 1st Avenue & 1st Street to 4th Avenue & 5th Street, you have to drive *across* the avenues and *up* the streets.
+
+This created a whole new kind of mathematics called **Taxicab Geometry** (or the Manhattan Distance). In this world, a "circle" (all points equidistant from the center) looks like a square turned 45 degrees.
+
+It reminds us that even on a flat table, the rules of movement define the shape of the world. Vectors are just instructions, but the "cost" of following them depends on the map you're driving on.
+
+
 ## $\mathbb{R}^3$: The World We Breathe In
 
 Finally, we arrive at the space we actually inhabit. We aren't flat ants; we can jump. We have length, width, and *height*. This third dimension lifts us off the page. In $\mathbb{R}^3$, a vector is an arrow floating in the air. To find the tip of that arrow, you need three numbers: $x$ (forward), $y$ (sideways), and $z$ (up). This is the space where birds fly and where reality happens, projected here onto your 2D screen so you can try to perceive the depth.
