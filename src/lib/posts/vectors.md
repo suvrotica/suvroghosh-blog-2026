@@ -28,7 +28,7 @@ Again, I am not an expert, but I worked extensively as a machine learning engine
 
 It will take quite some time for me to organize my thoughts, write these posts, and create the visualizations that I think will help people understand the underlying issues of why we ascribe intelligence to machines when it is only mathematics under the hood, and why not understanding that—or understanding why this currently prevalent, at least apparently, superficially successful mathematics is different from the wet biological mathematics in animal brains—may lead to designing more explainable, deterministic synthetic intelligence that may one day be safely merged with our own brains.
 
-The problem that I faced in India with technology growing up and before I moved to the US, and that I still see now, is that people don’t know what they don’t know because they are driven by schooling and by the syllabus into thinking in certain ways; they don’t ask questions, or, strangely, it never even comes up to ask those questions. This is the sort of deficiency that gets worse if you work in a place where you are not allowed to think independently, or when, by habit, as now with social media, we destroy our inner curiosity with fluffed-up lies or substitute facts that cannot hold up if you knew how to ask hard questions. That’s why religious fundamentalism and cults are still possible, and why inane people like Trump and Modi are leaders. Because I unwisely moved back to India and lost all my contacts and ways back to where any real work is being done, I can, at the very least, catch up on what is happening out there in the real world while I slowly rot and die in the proverbial frog's we'll back in Bengal. In any case, at my age, and given my mental disability, I am ill-suited for a fast life of pressured achievement, and I don't believe that artificial pressure—academic or industry—can make advances. The true advances happen in quiet moments when thinkers are not rushed, and that can happen anywhere. 
+The problem that I faced in India with technology growing up and before I moved to the US, and that I still see now, is that people don’t know what they don’t know because they are driven by schooling and by the syllabus into thinking in certain ways; they don’t ask questions, or, strangely, it never even comes up to ask those questions. This is the sort of deficiency that gets worse if you work in a place where you are not allowed to think independently, or when, by habit, as now with social media, we destroy our inner curiosity with fluffed-up lies or substitute facts that cannot hold up if you knew how to ask hard questions. That’s why religious fundamentalism and cults are still possible, and why inane people like Trump and Modi are leaders. Because I unwisely moved back to India and lost all my contacts and credibility to go back to where any real work is being done, I can, at the very least, catch up on what is happening out there in the real world while I slowly rot and die in the proverbial frog's well back in good old sultry Bengal. In any case, at my age, and given my mental disability, I am ill-suited for a fast life of pressured achievement, and I don't believe that artificial pressure—academic or industry—can make advances. The true advances happen in quiet moments when thinkers are not rushed, and that can happen anywhere. 
 
 And Calcutta still is, in fact, a wonderful place if you can cocoon yourself from the filthy air and water in a quiet environment in your own room, and that's what I do when I write these posts. I don't know if anyone will read them or not, but if they do, they'll be sharing the same thought space with me for a little while, and I am indebted for that.
 
@@ -36,7 +36,7 @@ And Calcutta still is, in fact, a wonderful place if you can cocoon yourself fro
 
 ## $\mathbb{R}^0$: The Point of Singularity
 
-Let’s start with absolutely nothing. Well, not *nothing* nothing, but a location with no room to move. Imagine you are stuck in a single moment, frozen. You cannot move forward or backward, left or right, up or down. You just *are*. In mathematics, we call this a zero-dimensional space, or $\mathbb{R}^0$. It is the lonely singularity, the starting point of all things, but contains no direction itself. It is just a dot, existing in the void. It's really me, if you think about it, I am that dot, in this south Calcutta boondock with my degrees of freedom down to zero, and just enough volition left to scribble posts that no one in their right mind will ever read. There's nothing cinematically philosophical about it, except what I am about to say next. 
+Let’s start with absolutely nothing. Well, not *nothing* nothing, but a location with no room to move. Imagine you are stuck in a single moment, frozen. You cannot move forward or backward, left or right, up or down. You just *are*. In mathematics, we call this a zero-dimensional space, or $\mathbb{R}^0$. It is the lonely singularity, the starting point of all things, but contains no direction itself. It is just a dot, existing in the void. It's really me, if you think about it, I am that dot, in this south Calcutta boondock with my degrees of freedom and possibilities whittled down to zero, and just enough volition left to scribble posts that no one in their right mind will ever read. There's nothing cinematically philosophical about this, except what I am about to say next, but as you can expect it has nothing whatsoever to do with me. 
 
 <VectorViz space="r0" />
 
@@ -64,7 +64,7 @@ The King of Lineland lives on this single straight line. Because he is stuck on 
 
 To the King, the universe is not a vast space; it is a queue. He can scream at the person in front of him, but he can never walk around them. When the visitor tries to explain the concept of "stepping sideways," the King calls him a madman and tries to execute him.
 
-It serves as a humbling reminder: Dimensions don't just define where we can move; they define what we are capable of imagining. In , "sideways" isn't just impossible—it's heresy.
+It serves as a humbling reminder: Dimensions don't just define where we can move; they define what we are capable of imagining. In , "sideways" isn't just impossible—it's heresy. For example take my situation here, because I'm an atheist on the line of living to the non-living I'm you can say almost there and in fact looking forward to it. Had I been a religious fellow that line could have extended in my imagination through several reincarnations, what an appalling thought, but whatever it may have been at least the geometry would still have stayed on a line. 
 
 ## $\mathbb{R}^2$: The Flatland
 
@@ -84,7 +84,7 @@ In standard Euclidean geometry (the kind we learn in school), the shortest dista
 
 This created a whole new kind of mathematics called **Taxicab Geometry** (or the Manhattan Distance). In this world, a "circle" (all points equidistant from the center) looks like a square turned 45 degrees.
 
-It reminds us that even on a flat table, the rules of movement define the shape of the world. Vectors are just instructions, but the "cost" of following them depends on the map you're driving on.
+It reminds us that even on a flat table, the rules of movement define the shape of the world. Vectors are just instructions, but the "cost" of following them depends on the map you're driving on. I don't own a vehicle in Calcutta, the only two dimensions of movement daily for me is from the mattress to the loo and back. Really that's all the exercise I can convince myself to get out of bed for, and that too because I can't urinate or defecate horizontally, I haven't regressed to that level yet. 
 
 
 ## $\mathbb{R}^3$: The World We Breathe In
@@ -103,7 +103,7 @@ He was a sickly child and spent most of his mornings in bed (something I deeply 
 
 Before that moment, geometry was just shapes on paper (Euclid). But Descartes realized that *space itself* could be turned into algebra. By assigning three numbers——he could freeze the fly in time. He turned the chaotic, buzzing reality of a room into a rigid grid of numbers.
 
-So whenever you see a 3D coordinate system, remember: it started with a lazy genius watching a bug because he didn't want to get up.
+So whenever you see a 3D coordinate system, remember: it started with a lazy genius watching a bug because he didn't want to get up. I rarely get up too, as I said, that three dimensions is rare, but sometimes I do take the stairs to the terrace to chat with my cat Taklu Babu. He's the only person in the neighborhood who'd be concerned when I'm dead. 
 
 ## The etymology and Hamilton
 
