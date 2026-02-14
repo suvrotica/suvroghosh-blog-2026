@@ -1,11 +1,14 @@
 ---
-title: "Mindfulness? "
+title: "Mindfulness?"
+thumbnail: "/images/IMG-20260215-WA0002.jpg"
 date: 2026-02-11
 description: "Mindfulness..."
 category: 'Calcutta'
 published: true
 color: "black"
 ---
+
+<Pi src="IMG-20260215-WA0002.jpg" />
 
 <TTS />
 
