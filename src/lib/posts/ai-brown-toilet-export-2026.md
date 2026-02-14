@@ -9,7 +9,7 @@ color: "black"
 
 <TTS />
 
-Here is a rewrite of the post, stripped of the profanity and biological functions, but keeping the specific topic, the wit, and the introspective melancholy, channeled through a Sedaris-esque lens.
+
 
 There is a very specific aroma that wafts from aging AI laboratories—and yes, they age terribly fast, like bread left out in a monsoon. It’s a scent somewhere between ozone, warm plastic, and a mouse that passed away quietly behind the UPS battery backup. If you walk in at just the right moment on a mid-July afternoon in Calcutta, when the humidity hugs you like an overly affectionate aunt wearing a wool coat, you catch that scent in your nose and you realize with sudden, crystal clarity: *we are the help now.*
 
