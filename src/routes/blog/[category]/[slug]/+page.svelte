@@ -2,8 +2,8 @@
 	import SEO from '$lib/components/seo/SEO.svelte';
 	import type { PageData } from './$types';
 
-	let { data }: { data: PageData } = $props();
-	
+    let { data }: { data: PageData } = $props();
+
     // derived values for cleaner template
     let Content = $derived(data.content);
     let meta = $derived(data.metadata);
@@ -17,9 +17,6 @@
         orange: 'bg-orange-600 text-white border-orange-800'   // General / Other
     };
 
-    // FIX: Ensure the key is always a string. 
-    // If meta.color is undefined, it defaults to '' which looks up undefined in the map,
-    // falling back to the 'orange' style on the right side.
     let headerClass = $derived(
         colorStyles[(meta.color ?? '').toLowerCase()] ?? colorStyles['orange']
     );
@@ -37,8 +34,6 @@
         
         <div class="flex justify-center items-center gap-4 text-sm font-medium opacity-90 uppercase tracking-widest">
             <span>{meta.category}</span>
-            <span>•</span>
-            <span>{new Date(meta.date || new Date()).toLocaleDateString()}</span>
         </div>
     </header>
 
